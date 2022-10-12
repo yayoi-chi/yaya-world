@@ -1,0 +1,11 @@
+#+TITLE: Guides
+#+DATE: 2022-10-09T20:34:13-07:00
+#+DRAFT: false
+#+DESCRIPTION: Welcome to the Fiesta Online guides!
+#+TAGS[]: guides
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Welcome to my guides to Fiesta Online.
+
+Welcome to my guides to Fiesta Online. I mostly just wrote these for me and my friends, but hopefully you find them useful 😅. I'm going to be trying to update them as I learn and discover new things about the game from playing it myself or from friends, particularly the [[{{% ref builds.org %}}][build guide]]. So, check back, and if you have any suggestions let me know. You can leave your suggestions in the [[http://forums.onigirionegai.info/viewforum.php?f=3][Forums]].

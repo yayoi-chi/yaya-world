@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>gear on Yaya&#39;s World</title>
+    <link>https://lexi-manjaro.local/~yayoi/world/tags/gear/</link>
+    <description>Recent content in gear on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 20:54:48 -0700</lastBuildDate>
+    
+        <atom:link href="https://lexi-manjaro.local/~yayoi/world/tags/gear/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Enhancement Guide</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/enhancement/</link>
+        <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/enhancement/</guid>
+        <description>Before we begin, it is important to understand that everything in Fiesta is divided into tiers, this includes weapons, armor, and jewlery. Since Gamingo likes to make money bundles and stones used to enhance weapons, armor, and jewlery need to match their tier. So, say you have a tier 2 bow and you want to make it +1, you will need a tier 2 elrue. A tier 5 shield will need tier 5 stones.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>gear</category>
+            
+          
+            
+              <category>weapons</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

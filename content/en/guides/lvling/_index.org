@@ -1,0 +1,13 @@
+#+TITLE: Leveling
+#+DATE: 2022-10-09T20:41:39-07:00
+#+DRAFT: false
+#+DESCRIPTION: This will guide you through how to level the easy, but not necessarily fastest, way!
+#+TAGS[]: guides leveling quests
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main [[file:../][guide]] index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest. I also don't mention KQs which often give a lot of experience and other rewards, but can only be done at certain times. Anyway, if you wanna level easily follow this guide, otherwise, why not just quest? Check out the [[http://fiesta-wiki.com][Fiesta Wiki]] for more information!
+
+In keeping with the nature of Fiesta, I am dividing your adventurer into tiers. We start as babies (levels 1-40), then become newblets (at 41-80), then move on to fledgling adventurers (81-120), bone-fide adventurers (121-135), and finally god-like adventurers (136-140).

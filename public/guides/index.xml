@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Guides on Yaya&#39;s World</title>
+    <link>https://lexi-manjaro.local/~yayoi/world/guides/</link>
+    <description>Recent content in Guides on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 20:34:13 -0700</lastBuildDate>
+    
+        <atom:link href="https://lexi-manjaro.local/~yayoi/world/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Enhancement Guide</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/enhancement/</link>
+        <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/enhancement/</guid>
+        <description>Before we begin, it is important to understand that everything in Fiesta is divided into tiers, this includes weapons, armor, and jewlery. Since Gamingo likes to make money bundles and stones used to enhance weapons, armor, and jewlery need to match their tier. So, say you have a tier 2 bow and you want to make it +1, you will need a tier 2 elrue. A tier 5 shield will need tier 5 stones.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>gear</category>
+            
+          
+            
+              <category>weapons</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Lucky House</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/luckyhouse/</link>
+        <pubDate>Sun, 09 Oct 2022 20:53:12 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:53:12 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/luckyhouse/</guid>
+        <description>The Lucky House can be entered by speaking to the Lucky House Guide in the following towns:
+Elderine Uruga Alberstroll Ruins Note: Your character must be at least level 40 to enter the Lucky House.
+The Lucky House is a place where you can exchange in-game gems, gold, etc for coins that can be used for a variety of gambling games. These games are pretty entertaining for a bit and, like all gambling, are a way to win more coins to exchange for gems.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Daily Quests</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/dailies/</link>
+        <pubDate>Sun, 09 Oct 2022 20:49:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:49:16 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/dailies/</guid>
+        <description>At level 95 you can begin doing daily quests. Daily quests reset every day at 00:00 in-game time, meaning once you turn them in they are done, but you can pick em up again the next day. From levels 90-125 you can pick up quests by purchasing a mission scroll from the mission board in Elderine. Talk to Verylo (who is standing next to the board) to actually pick up the quest.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Builds</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/builds/</link>
+        <pubDate>Sun, 09 Oct 2022 20:43:55 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:43:55 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/builds/</guid>
+        <description>We go over some builds like All SPR, all STR, and more with their pros, cons, and best classes</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Leveling</title>
+        <link>https://lexi-manjaro.local/~yayoi/world/guides/lvling/</link>
+        <pubDate>Sun, 09 Oct 2022 20:41:39 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:41:39 -0700</atom:modified>
+        <guid>https://lexi-manjaro.local/~yayoi/world/guides/lvling/</guid>
+        <description>Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main guide index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

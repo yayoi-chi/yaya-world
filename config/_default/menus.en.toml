@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "adventures"
+  name = "Adventures"
+  url = "adventures"
+  weight = 1
+
+[[main]]
+  identifier = "guides"
+  name = "Guides"
+  url = "guides"
+  weight = 1
