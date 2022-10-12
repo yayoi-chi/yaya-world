@@ -2,7 +2,9 @@
 USER=yayoi
 HOST=onigirionegai.info
 DIR=public_html
+DATE=date -Idate
 
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+git commit -am "Build: ${DATE}"
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR} && git push
 
 exit 0

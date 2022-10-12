@@ -1,0 +1,27 @@
+#+TITLE: A New Platform a New Look!
+#+DATE: 2022-10-12T10:51:53-07:00
+#+DRAFT: true
+#+DESCRIPTION: This site is being moved to a new platform in hopes that I won't forget about updating it anymore ( ^ ~ ^ ;;
+#+TAGS[]: site news
+#+TYPE: post
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Hello everypeep!
+
+If any of you have visited this site before, you may have noticed a few changes. Even if you haven't ever visited this site, and its quite possible since I have not done much to spread awareness of this site, I still wanted to do this little post. Its mostly for me, and a bit for testing how things will work going forward. Anyway, the important bit is that the site is now running on a different platform, or more specifically, it is now being built on another platform. First, I guess I little background information is in order.
+* Yaya's World and how it was built before
+If you have visted the site and had a look at your address bar you may have noticed that page was a static HTML page. Every page had the same navigation bar, the same top bar, and the same header. Some /might/ think this was done using Dreamweaver, and it was, at first. Recently though every page was actually written in a simple markup language, then it was built into HTML with all the standard stuff added in by a my editor of choice and that the result was then uploaded to a server. This allowed me to write and edit everything in a pretty distraction free way but still have navigation and everything working on each page on the site. Unfortunately, it became a bit of a chore to build the site and maintain all those template parts (the header and footer). So I just kinda stopped doing it ( ^ ~ ^ ;;
+* How I am trying to build the site now
+I recently came across an interesting [[https://www.youtube.com/watch?v=xMv10E561WQ][YouTube video]] by someone named Chris Titus. He was showing off how he managed to keep is site up-to-date and do all the other things he does on a daily basis. I found this kinda of interesting and an answer to my problem of keeping my own site up-to-date. Now I am using [[https://gohugo.io][Hugo]] with a theme he recommends to work on my site.
+** What is Hugo?
+I don't know if Hugo makes building websites fun again per se, but it certain makes things easier. Simply put Hugo is a framework for building websites. Its a program that I have installed on my MacBook that takes my rabblings written in Markdown or a similar markup language and builds HTML webpages with from them using a theme that provides some of the things my old site has. This can then be deployed to a my webserver, but this is almost exactly how things worked before only there is less gobbly goop that I have to maintain myself. However, Hugo does a bit more than just build the website.
+** How does Hugo help me?
+Aside from managing a theme and template for me where I use simple configurations to add and remove things that then apply to all pages and building a static site, Hugo provides a little webserver that allows me to see changes in realtime as I edit them. So I just type in my editor using a simple markup language than save those changes and then go to a browser that is already open to my local webserver and those changes are already applied, no need to hit refresh. This happens whether I'm changing a webpage, editing a theme configuration, or adding something new. I can literally see how it will look on the site /before/ I deploy to the site all without having to hit refresh or anything but just looking at a browser window. Its really helpful. Also I was able to set up a little script I can run that will build and deploy the site with one command, so that's also cool.
+** A regression
+Everything isn't quite peachy though. Many of the image-heavy pages, like the ADVENTURES gallery are not up anymore. This is a limitation of how I have Hugo set up currently. I'll be looking into fixing this has I move forward, however, so hopefully all those memories will be back soon.
+* Plans for the future
+So now I'm hoping to use this platform to expand the site beyond Fiesta Online. I've played many other games and, though I still spend most of my time playing MMOs in Fiesta Online, I would like to expand this site to include some of the other things that I end up playing, even things that might not be MMOs ( ^ . ~ ). I hope anyone who might be reading this will stick around and see how this site evolves in the coming months!
+
+-Yayoi
