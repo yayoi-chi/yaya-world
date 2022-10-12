@@ -90,12 +90,11 @@ busuanziPagePV = true # post view count
 
 # comment
 enableComment = true
-disqus_shortname = "" 
 commento = false
 
 [utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
+  owner = "jjon-saxton"              # Your GitHub ID
+  repo = "yaya-world"               # The repo to store comments
   message = ""      # Optional
   link = ""         # Optional
 
@@ -147,11 +146,6 @@ commento = false
   copyrightLinkText = ""
 
 # possible share name: "facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "whatsapp", "telegram"
-[[share]]
-  name = "facebook"
-[[share]]
-  name = "twitter"
-  username = ""
 
 [[footerLinks]]
   name = ""
