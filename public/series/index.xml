@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Yaya&#39;s World</title>
-    <link>https://lexi-manjaro.local/~yayoi/world/series/</link>
+    <link>https://onigirionegai.info/~yayoi/series/</link>
     <description>Recent content in Series on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://lexi-manjaro.local/~yayoi/world/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
