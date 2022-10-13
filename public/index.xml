@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 21:56:20 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 10:51:53 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,59 @@
 
       
       <item>
+        <title>Introduction</title>
+        <link>https://onigirionegai.info/~yayoi/introduction/</link>
+        <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 21:44:28 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/introduction/</guid>
+        <description>Hi hi 👋 You can call me Yayoi, all of my friends do. I am 38 years old and I live on the west coast in the USA. Just over a year ago I discovered, or rather, re-discovered the MMO Fiesta Online with friends. I am now completely addicted 🤪 If being honest, Fiesta Online isn&amp;#39;t exactly the best game in the world. Its grindy and it can be hard to solo, but I&amp;#39;ve made friends and just can&amp;#39;t seem to leave them.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>A New Platform a New Look!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2022-10-12/</link>
+        <pubDate>Wed, 12 Oct 2022 10:51:53 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Wed, 12 Oct 2022 10:51:53 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2022-10-12/</guid>
+        <description>Hello everypeep!
+If any of you have visited this site before, you may have noticed a few changes. Even if you haven&amp;#39;t ever visited this site, and its quite possible since I have not done much to spread awareness of this site, I still wanted to do this little post. Its mostly for me, and a bit for testing how things will work going forward. Anyway, the important bit is that the site is now running on a different platform, or more specifically, it is now being built on another platform.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Chapter 1: Where&#39;s My Baby!?</title>
         <link>https://onigirionegai.info/~yayoi/adventures/stories/ch1/</link>
         <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
@@ -66,30 +119,6 @@
           
             
               <category>friends</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Introduction</title>
-        <link>https://onigirionegai.info/~yayoi/introduction/</link>
-        <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Oct 2022 21:44:28 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/introduction/</guid>
-        <description>Hi hi 👋 You can call me Yayoi, all of my friends do. I am 38 years old and I live on the west coast in the USA. Just over a year ago I discovered, or rather, re-discovered the MMO Fiesta Online with friends. I am now completely addicted 🤪 If being honest, Fiesta Online isn&amp;#39;t exactly the best game in the world. Its grindy and it can be hard to solo, but I&amp;#39;ve made friends and just can&amp;#39;t seem to leave them.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>about</category>
             
           
         
