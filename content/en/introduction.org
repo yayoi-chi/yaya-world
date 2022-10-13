@@ -3,7 +3,7 @@
 #+DRAFT: false
 #+DESCRIPTION:
 #+TAGS[]: about
-#+TYPE: pinned
+#+WEIGHT: 100
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
