@@ -1,6 +1,6 @@
 #+TITLE: {{ replace .Name "-" " " | title }}
 #+DATE: {{ .Date }}
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+TAGS[]:
 #+KEYWORDS[]:
