@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "adventures"
+  name = "ADVENTURES"
+  url = "adventures"
+  weight = 1
+
+[[main]]
+  identifier = "guides"
+  name = "FiestaNAのガイド"
+  url = "fiesta"
+  weight = 1
