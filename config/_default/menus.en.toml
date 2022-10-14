@@ -6,6 +6,6 @@
 
 [[main]]
   identifier = "guides"
-  name = "Guides"
-  url = "guides"
+  name = "Fiesta Guides"
+  url = "fiesta"
   weight = 1
