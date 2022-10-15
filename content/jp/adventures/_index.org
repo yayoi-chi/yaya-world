@@ -1,0 +1,11 @@
+#+TITLE: ADVENTURES
+#+DATE: 2022-10-09T21:49:45-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+TYPE: story
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+このセクションは私のストリです。ただしこれもまだ翻訳してではありません。

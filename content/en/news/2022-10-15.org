@@ -1,0 +1,22 @@
+#+TITLE: Japanese Translation
+#+DATE: 2022-10-15T15:38:00-07:00
+#+DRAFT: false
+#+DESCRIPTION: Since I'm learning Japanese, I've decided to put it into practice, by translating this site!
+#+TAGS[]: site news help
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Hi hi everypeep 👋🏻
+
+During my undergraduate studies I have decided to take a few extra courses to fill out some credit requirements. I took a couple of language courses including two years of Japanese. I've always liked Japan and thought studying Japanese would give me a brief introduction to the "real" Japan and not the one seen in anime and manga. It did do that and I thought that was awesome, but I haven' really spent much time practicing Japanese over the years, despite having actually written an entire essay in the language for my second year final project. Fast-forward to today! I've begun practicing again by essentially relearning it 😅 I haven't really gotten super far into my studies, but, I am remembering I a lot from before and I have decided to translate the pages of this site into Japanese to help me further hone my skills. But I think I can use some help.
+* Google Translate...NO!
+So umm, the [[{{% ref introduction.org %}}][Introduction]] has been written in Japanese. Other section home pages are not translated and really just say that, but the introduction page is translated. Here's the problem. I failed to find some words in my old Japanese vocabulary and don't have my old English to Japanese dictionary. Google Translate to the rescue, right!? Well kind of. Where has Google Translate can be a good English to Japanese, Japanese to English, or Any Language to Any Other Language dictionary, it isn't so good at translating full sentences accurately, this is really more art the science. Sure, I'm 98% sure whatever its outputting can be /understood/ by Japanese speakers, I'm not sure it maintains my tone and stuff. I'm also not sure if what it outputs is something Japanese speakers would really expect to hear, kinda hard to explain, but machine translation can sound too technical and or robotic and nothing like human speech even if it is /technically/ correct.
+
+Of course, I know all this so I don't use Google Translate like that, right? Well not exactly. Its easy to just throw a sentence in there see that the output makes since at least and then call it good enough. I try to avoid that, mostly by breaking down what I'm trying to say into something close to what I know how to say, but it happens. So I'm calling on anyone who knows both Japanese and English to help me!
+* You can help!
+At the bottom of each page is a comment box. I would really like these to be for general comments, but, in the case of the *Japanese* versions of each page I'd also like these to be used to help me with my Japanese and, more specifically, the translation of that page. You see, those comment boxes generate a GitHub issue I can look at, tag, and then implement, so, if you happen to have a GitHub account (or don't mind making one 😉) and know both Japanese and English near fluently than fill free to suggest corrections to the *Japanese* pages using the comment boxes. Please to provide detailed explanations as to why your version make more since so I can learn. You can, of course, start with the [[{{% ref introduction.org %}}][introduction page]]. Just go there, click the language icon at the bottom-left, switch to Japanese (日本語), and comment, that easy!
+
+Thanks!
+
+-Yayoi

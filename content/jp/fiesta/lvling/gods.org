@@ -1,0 +1,33 @@
+#+TITLE: God-like Adventurers
+#+DATE: 2022-10-09T20:59:14-07:00
+#+DRAFT: false
+#+DESCRIPTION: The current cap is 140, these are adventurers that are a stone's throw from that (135-140) so yeah, pretty god-like!
+#+TAGS[]: guide leveling quests
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+When I first wrote my last [[{{% ref guides %}}][guide]] the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it's time for an update to the guide 😉. Sadly progress is slow and you know longer have any KQs to help you out. So, mayhap, you really don't want to try, but in case you think capping might be cool, here's some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is only 133, so I have /not/ tried any of these suggestions. If you would do try them let me know in the [[http://forums.onigirionegai.info/viewforum.php?f=3][forums]] if they work for you, or let me know if you have other suggestions!
+** Dailies, Dailies, Dailies, and more Dailies
+:PROPERTIES:
+:CUSTOM_ID: dailies-dailies-dailies-and-more-dailies
+:END:
+Your best bet for a while at least is to continue to do the [[{{% ref dailies.org %}}][dailies]] you've been doing up until this point. As I said above, there are no KQs for passed 135 that offer any significant amount of exp, however, many of the hidden dailies and other daily quests you got when you got to 132 are still viable passed 135 and offer some exp. A member of one a guild I am in has broken down the amount of exp, in percentage, that you receive for various levels passed 135. Please note: this is the percentage if you complete all available dailies quests, not the percentage per quest!
++ 135 - 16.70%
++ 136 - 13.22%
++ 137 - 11.02%
++ 138 - 9.07%
++ 139 - 4.60%
+** New Reps!
+:PROPERTIES:
+:CUSTOM_ID: new-reps
+:END:
+There are new reps for you to complete as well. Well a couple anyway.
++ Yuna 3 (135-136)
++ Soul Rep (136-138)
++ Bug Rep (138-139)
+** Questing
+The [[http://fiesta-wiki.com/quests/13][fiesta wiki]] offers a few options for quests for this level range. It has been recommended to relay on dailies and reps until at least 139. This will allow you to save your quests for when normal quests are suuuper in-effective, and hopefully make that last level just a little faster.
+** Suggestions
+This guide is currently rather incomplete 😅. This is why I have [[http://forums.onigirionegai.info/viewforum.php?f=3][forums]]! Please submit any other suggestions you have or ways you can think to expand this guide. I will also be expanding it has I try these suggestions. As I said, my max level is 133, but I'm slowly making progress and I'm working with someone who is already above level 135 so it won't be too long. Hopefully this guide still helps in the meantime.
