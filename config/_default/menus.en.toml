@@ -2,7 +2,13 @@
   identifier = "adventures"
   name = "Adventures"
   url = "adventures"
-  weight = 1
+  weight = 3
+
+[[main]]
+  identifier = "gallery"
+  name = "Peektures"
+  url = "gallery"
+  weight = 2
 
 [[main]]
   identifier = "guides"
