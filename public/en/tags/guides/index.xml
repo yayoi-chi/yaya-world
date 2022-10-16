@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>guides on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/en/tags/guides/</link>
+    <description>Recent content in guides on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 20:41:39 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/en/tags/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Leveling</title>
+        <link>https://onigirionegai.info/~yayoi/en/fiesta/lvling/</link>
+        <pubDate>Sun, 09 Oct 2022 20:41:39 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:41:39 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/en/fiesta/lvling/</guid>
+        <description>Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main guide index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Guides</title>
+        <link>https://onigirionegai.info/~yayoi/en/fiesta/</link>
+        <pubDate>Sun, 09 Oct 2022 20:34:13 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:34:13 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/en/fiesta/</guid>
+        <description>Welcome to my guides to Fiesta Online.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

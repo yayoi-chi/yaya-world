@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ADVENTURES on やよいのWORLD</title>
+    <link>https://onigirionegai.info/~yayoi/jp/adventures/</link>
+    <description>Recent content in ADVENTURES on やよいのWORLD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 21:49:45 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/jp/adventures/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+
+    
+  </channel>
+</rss>
