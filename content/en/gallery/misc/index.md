@@ -1,5 +1,5 @@
 ---
-title: "Fiesta Peektures"
+title: "Wall o' ADVENTURE"
 date: 2022-10-15T22:34:31-07:00
 description: 
 type: gallery
@@ -32,4 +32,4 @@ images: # when mode is one-by-one, images front matter works
     caption: Crazy fun GM event
 ---
 
-Welcome to my general “wall o’ ADVENTURE”! This is where I will post some of my special screenshots from my various trips, quest, and other ADVENTUREs around Isya, the world of [Fiesta Online](http://fiesta.gamingo.com).
+This is my Wall o' ADVENTURE! Currently its a bunch of random screenshots from [Fiesta Online](http://fiesta.gamingo.com). In the future I plan on putting other screenshots from other games that don't fit with a particular theme or story here. I think I'll have more specific galleries for screenshots and peektures that have some kind of theme, but these are all I have at the moment.
