@@ -10,7 +10,11 @@
 So I wasn't /entirely/ wrong! I did say that before you read the [[{{% ref 2022-10-20.org %}}][last article]] that I would be proven wrong and that Gamigo would droup the halloween update. I even said I would be happy if they did. Well, so, they did just that! You heard me right we have all the halloween vibes we could ever want in most of the towns of Isya!
 * Maze of Madness
 Like last year, there is far more going on than just a makeover for most of the cities and towns in Fiesta. There are also events! Now, you can read the full list on [[https://fiesta.gamigo.com/us/news/patch_notes-173][gamigo's news page]], but my favorite is the frustratingly fun Maze of Madness. This is where you have to navigate your way through a maze while avoiding a certain monster, if they hit you, your out and you have to start the maze all over again. As I said, it can be very frustrating, but it can also be very fun! Last year I loved to run through the maze with friends. Unfortunately they've mostly moved on to other games, but a few still run around with me, and that's great.
+#+ATTR_HTML: :alt pumpkin chasers
+#+ATTR_HTML: :title Stay away from these guys!
+[[/~yayoi/images/InTheMaze.png]]
+
 * A new guide?
-The maze can be a bit tricky to navigate, but a friend made a good graphic to help so I'm thinking of putting together a guide on how to get through the maze as well as a few other tips and tricks to maximize rewards and maybe even how to get titles. Of course I don't remember everything from last year, and I believe my characters all got the titles already, but I'll do my best. When I get the guide made I'll link it here for you.
+The maze can be a bit tricky to navigate, but a friend made a good graphic to help so I've put together a [[{{% ref events.org %}}][guide]] that shows how to get through the maze as well as a few other tips and tricks. Of course I don't remember everything from last year, and I believe my characters all got the titles already, but I'll do my best. When I get the guide made I'll link it here for you.
 * Glad I'm wrong!
 In this guess I'm really happy I was wrong. I was very worried that I wouldn't get Halloween content this year, but I did and that's awesome! There is still one problem....the problem of time. Since I began working I have, naturally, less time for playing games. I managed to squeeze in a little this week, but I'm not sure it will be enough for all the rewards. I suppose I can only hope that I'll have just as much fun this year as I did last!

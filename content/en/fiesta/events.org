@@ -1,0 +1,29 @@
+#+TITLE: Special Events
+#+DATE: 2022-10-29T14:39:45-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: quests guide
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: short guides for special events in Fiesta!
+
+I've decided to create a guide for some of the special events in Fiesta. Currently I'm hoping to keep this to one page and just have a few helpful tricks and hints to completing the events. This will be far from a complete guide to everything about the event, but should be enough for you to have looots of good fun!
+* Maze of Madness
+#+ATTR_HTML: :alt image showing the maze routes
+#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :align left
+#+ATTR_HTML: :title Maze routes!
+[[/~yayoi/images/MazeGuide.png]]
+
+First up is the frustratingly fun Maze of Madness! The Maze of Madness comes about around Halloween time each year. Halloween is celebrated in the US on the 31 of October every year and is all about spooky things! It also happens to be one of my favorite holidays because there is nothing quite as fun as spooky shenanigans. Fortunately the maze is pretty spooky, though kind of more in a juvenile since, but I degrees.
+
+During this event, your goal is to pick up little Halloween tickets. These tickets can be used to purchase all sorts of goodies including permanent outfits! Of course, the maze itself is only one way to earn these tickets, but you can get up to three each time you complete the maze. One ticket for completing it and then two for helping to beat the boss that you can get to by talking to an NPC at the maze's center.
+
+Pictured are the various routes you can take to reach the center of the maze. To get to the Maze you must travel through a portal by the fountain in Elderine (Sir Gourd van Pumpkin also stands near this portal, you can exchange your tickets with him for items!). This will take you to the Maze of Madness world where you will then have to head for another portal directly in front of where you spawn to enter the maze proper. You will spawn in one of three locations, these are numbered on the map. Also pictured are the spawn locations as they appear in the in-game map.
+** Other Quests
+/Before/ heading into the maze, however, it's a good idea to look around at the small town-like area you spawn into. There are two NPCs here. These NPCs have quests and each quest can help you get even more tickets. Some of these quests are repeatable and some are daily. Unlike most quests the [[http://fiesta-wiki.com][Fiesta Wiki]] does not list these quests, but they are usually pretty straightforward. Most of them just require you to gather items from either tombstones or pumpkins from patches outside the maze and return them to the NPCs. There is one, however, that I would like to single out.
+** Pop goes the Pumpkin
+This is a daily quest that you can acquire from JackO Pumpkin Jr., the NPC nearest the maze sign. This requires you to beat the maze and the boss you can fight after speaking to the NPC at its center, Pumpkin Bill. I single it out both because it is different and because it awards 10 tickets per day! To beat the boss, gather from pumpkins in the area around Bill. These pumpkins allow drop grenades and warheads. Equip these to your skill bar for ease. You *cannot* damage Bill with your regular attacks and your skills are locked in this world, so you must throw these items at the boss until he falls. It takes about 100 grenades to take him down, if you're lucky, however, you won't be alone. Return to the NPC after you kill him to get a body back in your inventory, open this for some goodies and your 10 tickets!
+** Other Things to Note
+There are titles for completing the maze under a certain time or certain conditions. One condition I remember was running it in under two minutes as a pinky (the candies you acquire from body bags and other rewards will randomly transform you into mobs) and completing the maze in under two minutes normally. I'll update this section as more things come to mind!
