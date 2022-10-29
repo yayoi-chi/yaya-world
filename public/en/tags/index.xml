@@ -14,16 +14,52 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 20 Oct 2022 21:06:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Oct 2022 14:39:45 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>guide</title>
+        <link>https://onigirionegai.info/~yayoi/en/tags/guide/</link>
+        <pubDate>Sat, 29 Oct 2022 14:39:45 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/en/tags/guide/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>quests</title>
+        <link>https://onigirionegai.info/~yayoi/en/tags/quests/</link>
+        <pubDate>Sat, 29 Oct 2022 14:39:45 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/en/tags/quests/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>fiesta</title>
         <link>https://onigirionegai.info/~yayoi/en/tags/fiesta/</link>
-        <pubDate>Thu, 20 Oct 2022 21:06:01 -0700</pubDate>
+        <pubDate>Tue, 25 Oct 2022 20:54:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/en/tags/fiesta/</guid>
@@ -41,7 +77,7 @@
       <item>
         <title>news</title>
         <link>https://onigirionegai.info/~yayoi/en/tags/news/</link>
-        <pubDate>Thu, 20 Oct 2022 21:06:01 -0700</pubDate>
+        <pubDate>Tue, 25 Oct 2022 20:54:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/en/tags/news/</guid>
@@ -165,48 +201,12 @@
       </item>
       
       <item>
-        <title>guide</title>
-        <link>https://onigirionegai.info/~yayoi/en/tags/guide/</link>
-        <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/en/tags/guide/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>leveling</title>
         <link>https://onigirionegai.info/~yayoi/en/tags/leveling/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/en/tags/leveling/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>quests</title>
-        <link>https://onigirionegai.info/~yayoi/en/tags/quests/</link>
-        <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/en/tags/quests/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

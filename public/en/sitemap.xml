@@ -15,17 +15,17 @@
                 href="https://onigirionegai.info/~yayoi/en/introduction/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/tags/fiesta/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/en/tags/guide/</loc>
+    <lastmod>2022-10-29T14:39:45-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/tags/news/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/en/tags/quests/</loc>
+    <lastmod>2022-10-29T14:39:45-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/news/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/en/fiesta/events/</loc>
+    <lastmod>2022-10-29T14:39:45-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/en/tags/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
+    <lastmod>2022-10-29T14:39:45-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -37,11 +37,8 @@
                 href="https://onigirionegai.info/~yayoi/en/tags/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/news/2022-10-20/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/en/</loc>
-    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
+    <lastmod>2022-10-29T14:39:45-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -52,6 +49,21 @@
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/en/"
                 />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/en/tags/fiesta/</loc>
+    <lastmod>2022-10-25T20:54:07-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/en/tags/news/</loc>
+    <lastmod>2022-10-25T20:54:07-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/en/news/</loc>
+    <lastmod>2022-10-25T20:54:07-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/en/news/2022-10-27/</loc>
+    <lastmod>2022-10-25T20:54:07-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/en/news/2022-10-20/</loc>
+    <lastmod>2022-10-20T21:06:01-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/en/gallery/</loc>
     <lastmod>2022-10-17T20:13:26-07:00</lastmod>
@@ -112,13 +124,7 @@
     <loc>https://onigirionegai.info/~yayoi/en/fiesta/lvling/babies/</loc>
     <lastmod>2022-10-09T21:00:25-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/tags/guide/</loc>
-    <lastmod>2022-10-09T21:00:25-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/en/tags/leveling/</loc>
-    <lastmod>2022-10-09T21:00:25-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/en/tags/quests/</loc>
     <lastmod>2022-10-09T21:00:25-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/en/fiesta/lvling/newblets/</loc>
