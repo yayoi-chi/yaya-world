@@ -30,6 +30,8 @@ images: # when mode is one-by-one, images front matter works
     caption: What happened!? Why am I? Is this heaven?
   - image: OMFG.png
     caption: Crazy fun GM event
+  - image: ThatsALotofRed.png
+    caption: Sooo much red in one spot!
 ---
 
 This is my Wall o' ADVENTURE! Currently its a bunch of random screenshots from [Fiesta Online](http://fiesta.gamingo.com). In the future I plan on putting other screenshots from other games that don't fit with a particular theme or story here. I think I'll have more specific galleries for screenshots and peektures that have some kind of theme, but these are all I have at the moment.
