@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>me on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/en/tags/me/</link>
+    <description>Recent content in me on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 08 Nov 2022 10:35:31 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/en/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Yaya&#39;s Creations</title>
+        <link>https://onigirionegai.info/~yayoi/en/gallery/creations/</link>
+        <pubDate>Tue, 08 Nov 2022 10:35:31 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Tue, 08 Nov 2022 10:35:31 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/en/gallery/creations/</guid>
+        <description>I draw too! That&amp;rsquo;s right I don&amp;rsquo;t just play games, but I also like to draw. I don&amp;rsquo;t get much time to draw, but I&amp;rsquo;m hoping to make some more time soon. I have ideas I want to do! Anyway, below are just a couple of things that I have drawn!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>fun</category>
+            
+          
+            
+              <category>me</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
