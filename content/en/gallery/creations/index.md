@@ -19,7 +19,7 @@ images: # when mode is one-by-one, images front matter works
   - image: Wallpaper-Hope.png
     caption: This a wallpaper from my favorite anime ( ^ w ^ )
   - image: Wallpaper-LostHope.png
-    -caption: A darker version of the other wallpaper
+    caption: A darker version of the other wallpaper
 ---
 
 I draw too! That's right I don't just play games, but I also like to draw. I don't get much time to draw, but I'm hoping to make some more time soon. I have ideas I want to do! Anyway, below are just a couple of things that I have drawn!
