@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>help on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/help/</link>
+    <description>Recent content in help on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Oct 2022 15:38:00 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/help/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Japanese Translation</title>
+        <link>https://onigirionegai.info/~yayoi/news/2022-10-15/</link>
+        <pubDate>Sat, 15 Oct 2022 15:38:00 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sat, 15 Oct 2022 15:38:00 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2022-10-15/</guid>
+        <description>Hi hi everypeep 👋🏻 During my undergraduate studies I have decided to take a few extra courses to fill out some credit requirements. I took a couple of language courses including two years of Japanese. I&amp;#39;ve always liked Japan and thought studying Japanese would give me a brief introduction to the &amp;#34;real&amp;#34; Japan and not the one seen in anime and manga. It did do that and I thought</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>help</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
