@@ -1,0 +1,13 @@
+#+TITLE: Guides
+#+DATE: 2022-12-06T14:46:35-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: guides
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I write some rpg and game guides and walkthroughs!
+
+Welcome 😄!
+
+Here is a collection of guides and walkthroughs for various games. Well, at the moment its just a collection of guides from Fiesta Online, but I do plan on expanding them. I play a /lot/ of MMOs and JRPGs and I'm hoping to place some useful walkthroughs and guides here for your reference as well as mine 😜

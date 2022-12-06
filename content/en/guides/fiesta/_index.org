@@ -1,4 +1,4 @@
-#+TITLE: Guides
+#+TITLE: Fiesta Guides
 #+DATE: 2022-10-09T20:34:13-07:00
 #+DRAFT: false
 #+DESCRIPTION: Welcome to the Fiesta Online guides!
