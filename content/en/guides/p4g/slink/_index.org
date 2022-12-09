@@ -1,0 +1,13 @@
+#+TITLE: Social Links (aka SLinks)
+#+DATE: 2022-12-08T21:06:30-08:00
+#+DRAFT: false
+#+DESCRIPTION: Guides to social links.
+#+TYPE: guide
+#+TAGS[]: guide leveling wip p4g
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Guides to social links to help maximize your personas!
+
+Hello 👋🏻,
+
+A big part of the Persona series is creating, managing, and leveling various personas. In many of the games you can gain experience boosts for newly created personas using buffs from social links. These are relationships you gain and work at through the story. By working through these "side quests" or stories, you can leveling up the buff and gain more experience when creating or leveling certain personas. These guides will help you maximize these "side quests" through dialog selections and tips on when to work on these social links.

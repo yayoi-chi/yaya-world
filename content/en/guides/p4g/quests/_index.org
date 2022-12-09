@@ -1,0 +1,11 @@
+#+TITLE: Quests
+#+DATE: 2022-12-08T21:08:03-08:00
+#+DRAFT: false
+#+DESCRIPTION: A guide to unlocks, skill boosts, and other quests
+#+TYPE: guide
+#+TAGS[]: guide skills quests wip p4g
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This guides will help you with unlocks, skill boosts, and other quests you encounter throughout the story of the game. All of these are outside of dungeons
+
+A guide to unlocks, skill boosts, and other quests you encounter outside of the dungeons and by just living the life of a high schooler in a small town. Skills can help you in dungeons and when building your [[{{% ref "guides/p4g/slink" %}}][social links]]. There are many other unlocks as well that will help you get the most of the story and play.

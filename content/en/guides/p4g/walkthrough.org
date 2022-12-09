@@ -2,7 +2,7 @@
 #+DATE: 2022-12-06T21:38:37-08:00
 #+DRAFT: false
 #+DESCRIPTION: A walkthrough for Persona 4: Golden
-#+TAGS[]: guide walkthrough p4g persona
+#+TAGS[]: guide walkthrough p4g persona wip
 #+TYPE: guide
 #+KEYWORDS[]:
 #+SLUG:
@@ -15,4 +15,12 @@ This is designed to help you figure out what to do on each day of Persona 4: Gol
 I'm currently working through my playthrough, and, I've started this kind of in the middle of that playthrough. So I don't have each day laid out just yet. For now I'll be pulling from things I've read and my own memory, but hope to have a better, more organized, walkthrough up in the future. For now, I'll be picking up at the second dungeon. The good news is, the first dungeon and the story to that point, is pretty straightforward. Nevertheless I will be covering that when I can.
 
 * The hot and steamy bathhouse!
-There is something just a little odd and unexpected about Kanji Tatsumi. On the third day after rescuing Yukiko, Kanji appears on the Midnight Channel. The first time the party sees this they aren't entirely sure who it is, but it becomes clear after the second viewing. Sadly, they cannot confront Kanji before he is kidnapped. He appears once more in a steamy bathhouse, only he seems a little different.
+There is something just a little odd and unexpected about Kanji Tatsumi. On the third day after rescuing Yukiko, Kanji appears on the Midnight Channel. The first time the party sees this they aren't entirely sure who it is, but it becomes clear after the second viewing. Sadly, they cannot confront Kanji before he is kidnaped. He appears once more in a steamy bathhouse, only he seems a little different.
+** 5/20 - 5/24
+Kanji disappears around the 20th of May (5/20). The 20th is a Thursday. Even before he disappears, Dojima-san tells you to keep an eye out for Adachi in Junes. Believe it or not this is a clue, though its not really Adachi your looking for, but I digress.
+
+You see, when Kanji disappears, you will head over to the TV world where your shocked to find that Teddy is having difficulty locating Kanji. To help him out, you need to learn more about the delinquent. To do so you need to find the young man you saw him speaking to just before he was kidnaped. Remember how I said Junes was a clue, well this young man can actually be found in Junes, but not every day. In fact, he is only there Tues., Thurs., and Sat. You need to find him, speak with him, then find Kanji's mom and speak to her, but there's a bit of a trick to this. She will only appear /after/ you speak to the young man, and never on the same day you speak to him. So you have to time it right.
+
+After speaking to the young man, go about your day, maybe go to work or do whatever you want that day, keep in mind that your friends, and a few others won't be available yet. On the next day, go to the textile shop. Kanji's mom should be right outside, if she isn't, go about your day as you normally would, if she is, speak to her first. Finally, on the next Tues., Thurs., or Sat. Find the young man and speak with him again. He'll give you the clue you need to hand over to Teddy. You can hop into the TV right away to hand over the clue and gain access to the bathhouse, or wait until it is most convenient. You should have access to your friends and other social links once you have the clue, but I shared it with Teddy right away, so I'm not sure.
+** 5/25 - 6/3
+If you do the above quickly you may have a bit more time. If your slower you may not have as much time. This is the date I started and should be a good amount of time to get this dungeon done and dusted. I'm still on this date. This walkthrough is still a work in progress and I will update it as I go.
