@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>rpg on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/rpg/</link>
+    <description>Recent content in rpg on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 06 Dec 2022 21:17:47 -0800</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Persona 4: Golden</title>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
+        <pubDate>Tue, 06 Dec 2022 21:17:47 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Tue, 06 Dec 2022 21:17:47 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/</guid>
+        <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 4 (Persona 4: Golden). Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>rpg</category>
+            
+          
+            
+              <category>jrpg</category>
+            
+          
+            
+              <category>walkthrough</category>
+            
+          
+            
+              <category>p4g</category>
+            
+          
+            
+              <category>persona</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

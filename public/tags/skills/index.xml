@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>skills on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/skills/</link>
+    <description>Recent content in skills on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 08 Dec 2022 21:08:03 -0800</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Quests</title>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
+        <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 08 Dec 2022 21:08:03 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/quests/</guid>
+        <description>This guides will help you with unlocks, skill boosts, and other quests you encounter throughout the story of the game. All of these are outside of dungeons</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>skills</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+            
+              <category>wip</category>
+            
+          
+            
+              <category>p4g</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
