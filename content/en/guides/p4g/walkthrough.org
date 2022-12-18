@@ -16,11 +16,27 @@ I'm currently working through my playthrough, and, I've started this kind of in 
 
 * The hot and steamy bathhouse!
 There is something just a little odd and unexpected about Kanji Tatsumi. On the third day after rescuing Yukiko, Kanji appears on the Midnight Channel. The first time the party sees this they aren't entirely sure who it is, but it becomes clear after the second viewing. Sadly, they cannot confront Kanji before he is kidnaped. He appears once more in a steamy bathhouse, only he seems a little different.
-** 5/20 - 5/24
+** 5/20 - 5/23
 Kanji disappears around the 20th of May (5/20). The 20th is a Thursday. Even before he disappears, Dojima-san tells you to keep an eye out for Adachi in Junes. Believe it or not this is a clue, though its not really Adachi your looking for, but I digress.
 
 You see, when Kanji disappears, you will head over to the TV world where your shocked to find that Teddy is having difficulty locating Kanji. To help him out, you need to learn more about the delinquent. To do so you need to find the young man you saw him speaking to just before he was kidnaped. Remember how I said Junes was a clue, well this young man can actually be found in Junes, but not every day. In fact, he is only there Tues., Thurs., and Sat. You need to find him, speak with him, then find Kanji's mom and speak to her, but there's a bit of a trick to this. She will only appear /after/ you speak to the young man, and never on the same day you speak to him. So you have to time it right.
 
 After speaking to the young man, go about your day, maybe go to work or do whatever you want that day, keep in mind that your friends, and a few others won't be available yet. On the next day, go to the textile shop. Kanji's mom should be right outside, if she isn't, go about your day as you normally would, if she is, speak to her first. Finally, on the next Tues., Thurs., or Sat. Find the young man and speak with him again. He'll give you the clue you need to hand over to Teddy. You can hop into the TV right away to hand over the clue and gain access to the bathhouse, or wait until it is most convenient. You should have access to your friends and other social links once you have the clue, but I shared it with Teddy right away, so I'm not sure.
-** 5/25 - 6/3
-If you do the above quickly you may have a bit more time. If your slower you may not have as much time. This is the date I started and should be a good amount of time to get this dungeon done and dusted. I'm still on this date. This walkthrough is still a work in progress and I will update it as I go.
+** 5/24 - 6/3
+If you do the above quickly you may have a bit more time. If your slower you may not have as much time. This is the date I started and should be a good amount of time to get this dungeon done and dusted. I'm still on this date.
+
+The first two floors are fairly easy. Keep in mind that each floor is generated randomly by the game, just like with the previous dungeon. There will be chests to open and some fairly easy shadows to beat. There is a cutscene where the party gets their first glimpse of Kanji's shadow, but this all that is of note. On my playthrough on easy I was easily able to reach this floor in one afternoon. As with all dungeons, mind your time and watch your party.
+
+After a few days I came back and got up to floor seven. On this floor you will encounter a sub boss. He isn't too difficult. I does appear to have an instant kill skill, and my use it against your female party members. Best to have some revival beads on you. He does nullify light-based skills, and I was not able to find a weakness, though darkness wasn't tested. I'll put the output of his analysis below
+
+| Name         | Lvl    | Archon   | Full HP | Full SP | Fire | Ice | Lightning | Light | Dark |
+|--------------+--------+----------+---------+---------+------+-----+-----------+-------+------|
+| Daring Gigas | 24 | Strength |     928 |     100 |      |     |           | Nul   | ?    |
+*** 5/25
+On this date you will get a cutscene before school introducing you to a new job, the Tutor job. This is a job that you can go to at night, tues., thurs., and sat. it pays very well (10,000 yen per day), but requires high *understanding*.
+
+Marie is also available to go out this day.
+*** 5/26
+There is a quiz in class today. This is a fairly easy question as long as you are paying attention. If you want to skip the dialog, however, the answer is, "attendance logs".
+*** 5/28
+The mail order show starts. You can order things from the TV in your room. Watch for deals on Sun., Mon., and Tues.

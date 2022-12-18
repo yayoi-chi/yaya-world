@@ -1,0 +1,32 @@
+#+TITLE: Make my website grow!
+#+DATE: 2022-12-17T20:45:28-08:00
+#+DRAFT: false
+#+DESCRIPTION: I'm building new guides and making the website bigger
+#+TAGS[]: site news fiesta
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: New guides, new shtuff, all sorts of fun things coming just in time for Christmas!
+
+First thing is first! Marry Christmas everyone! This week, Christmas came to [[https://fiesta.gamigo.com/us/news/christmas_patch_notes___december_13_2022-514][Fiesta]]. Like the Halloween update, this is kind of a major thing that happens every year. I don't look forward to it quite as much, but it is nice seeing everything in a more winter-like wonderland. There are some new events and stuff and I'll see about adding them to my [[{{% ref events.org %}}][event guide]], but, for now I have more news to share!
+
+* Buggy Bug!
+First I need to make a quick announcement! Everyone, please update your bookmarks! The URL of this site may have changed /slightly/. Please use the [[https://onigirionegai.info/~yayoi/]] URL for the main site. For some reason the old URL breaks the root navigation link in the navigation bar. This doesn't appear to affect the Japanese version, but does effect the English version if your using an older URL that has "en/" in it.
+
+* A guide not for Fiesta appears!
+Lately I've been playing some games that aren't Fiesta. I know, shocking, isn't it 😝. I mean I did say there were other games that I play and I /did/ get something new to play games on (I'll talk more about that in a bit), so why not play through some of my Steam backlog? While playing through that I started playing a certain JRPG that I just recently got on Steam after only having it for PS2 before.
+
+The fun thing about JRPGs is they, like many RPGs actually, are very complicated and it can be challenging to get through everything without a guide. I like this challenge, but I like writing down things I discover along the way too. So I created a guide for [[{{% ref "guides/p4g/" %}}][Persona 4 Golden]].
+
+I have split the guides up into sections, but, at the moment, many of these are just placeholders waiting for me to fill them up. You'll have to bare with me a bit while I go about completing the story, writing my walkthrough, and working on the other sections. Normally I try to avoid the "under construction" signs and stuff that plagued sites in the 90's, but this time I want you to see how the guides evolve so its not "under construction" its a "work in progress" 😆
+
+* Steamy Deck is steamy
+I had a friend wanting to see my gaming setup, but, you know what, it really wasn't much to look at. I don't really like flashy RGB and I don't have like a nice keyboard or even a monitor. Instead I had a very simple box connected to a TV. In fact, I was a console gamer pretending to be a part of the PC master race, really. You know what though, valve made a machine for people like me.
+#+ATTR_HTML: :alt my Steam Deck!
+#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :align left
+#+ATTR_HTML: :title How I game using a server and a Steam Deck!
+[[/~yayoi/images/GamingSetup.png]]
+
+Yep its the Steam Deck! That's it right there sitting on top of a PS4 slim 😆. It is still connected to a TV, not pictured, but it also rests on a shelf above the box that used to serve as my gaming PC looong ago. Still helps me run some old Windows games, like Fiesta 😉, but its mostly just a media and file server now.
+
+I like the Steam Deck so far, but I've only played it a little bit. It is very portable and a big lighter feeling than I was expecting when I first pulled it out. It is much larger than my Switch though. Oh, I have played it handheld a few times and it is really nice. The thing is like if a PC was thrown into a room with a Switch and they had a baby, especially with the dock. It is a Bring You Own Controller affair, but it is nice. Also, as you can tell, I'm not wanting for controllers at the moment. Actually, the two in the peekture are just two in a set of three PS4 controllers I have, and the JoyCon, Nintendo Switch Pro Wired Controller, XBox One Controller, Steam Controller, and SF30 Pro aren't even shown. Yeah, I have a lot 😅
