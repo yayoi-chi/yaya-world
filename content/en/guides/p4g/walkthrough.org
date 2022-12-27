@@ -40,3 +40,18 @@ Marie is also available to go out this day.
 There is a quiz in class today. This is a fairly easy question as long as you are paying attention. If you want to skip the dialog, however, the answer is, "attendance logs".
 *** 5/28
 The mail order show starts. You can order things from the TV in your room. Watch for deals on Sun., Mon., and Tues.
+*** 5/30
+There is another lecture on this day, but there is no quiz and it does not affect what is available for you to do this day.
+*** 6/1
+Rain sets in today. This is the game's warning that you will need to hurry and save Kanji. Marie is available this day as well. Also, it is good to remember that /some/ part-time jobs and clubs cannot be done on rainy days.
+*** 6/4
+This is it! This is your last day to save Kanji. You have not made much progress in his dungeon by this point it will be a fairly difficult fight. My strategy, however, was to get to the last floor by 6/3 that allowed me to take on these boss's with full HP/SP. The results of the analysis are below. Keep in mind that these guys appear to target female party members more, have opposing weaknesses, and can block each other's weaknesses. This makes for a challenging fight even on lower difficulties. The fight is far from impossible especially for a fully rested party.
+| Names        | Lvl | Archon  | Full HP | Full SP | Fire | Ice  | Lightning | Wind | Light | Dark |
+|--------------+-----+---------+---------+---------+------+------+-----------+------+-------+------|
+| Shadow Kanji | ?   | Emperor | ?       | ?       | -    | -    | Dr        | -    | Null  | Null |
+| Tough Guy    | ?   | Emperor | ?       | ?       | Wk   | Null | -         | Str  | Null  | Null |
+| Nice Guy     | ?   | Emperor | ?       | ?       | Null | Wk   | -         | Str  | Null  | Null |
+
+One final note: These bosses can cast poison and rage on the whole party. In my playthrough rage seemed to effect the female party members while males were less effected. Poison appeared to work the opposite. I'll update this when I have a chance to test it in other playthroughs
+*** 6/5
+Kanji returns! You will now have a few cutscenes to go through where the party will welcome Kanji to their group and discuss the case thus far. Congratulations on finishing the bathhouse!

@@ -1,7 +1,7 @@
-#+TITLE: Persona 4: Golden
+#+TITLE: Persona 4 Golden
 #+DATE: 2022-12-06T21:17:47-08:00
 #+DRAFT: false
-#+DESCRIPTION: Social Link guides, dugeon guides, and general walkthroughs for Persona 4: Golden.
+#+DESCRIPTION: Social Link guides, dugeon guides, and general walkthroughs for Persona 4 Golden.
 #+TAGS[]: guide rpg jrpg walkthrough p4g persona
 #+TYPE: guide
 #+KEYWORDS[]:
@@ -10,4 +10,4 @@
 
 Hello everypeep 😄!
 
-This is my first collection of guides for a game other than [[{{% ref "guides/fiesta" %}}][Fiesta Online]]. For this collection I also decided not to do a guide for an MMO, but, instead, create a guide for a more traditional game. This was originally a PS2 game, and was also JRPG. It wasn't the first of the genre that I played, but it is certainly a favorite of mine. Of course, I don't own the original version, so the content of this guide is actually based off a remake that was done called [[https://en.wikipedia.org/wiki/Persona_4#Persona_4_Golden][Persona 4: Golden]]. I have the [[https://store.steampowered.com/app/1113000/Persona_4_Golden/][Steam version]], but this should be applicable to other versions as long as they are the remake and not the original, though I'm betting a lot of this will still be applicable there, I have no way of testing that for sure.
+This is my first collection of guides for a game other than [[{{% ref "guides/fiesta" %}}][Fiesta Online]]. For this collection I also decided not to do a guide for an MMO, but, instead, create a guide for a more traditional game. This was originally a PS2 game, and was also JRPG. It wasn't the first of the genre that I played, but it is certainly a favorite of mine. Of course, I don't own the original version, so the content of this guide is actually based off a remake that was done called [[https://en.wikipedia.org/wiki/Persona_4#Persona_4_Golden][Persona 4 Golden]]. I have the [[https://store.steampowered.com/app/1113000/Persona_4_Golden/][Steam version]], but this should be applicable to other versions as long as they are the remake and not the original, though I'm betting a lot of this will still be applicable there, I have no way of testing that for sure.
