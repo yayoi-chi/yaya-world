@@ -1,0 +1,13 @@
+#+TITLE: Persona 3 Portable
+#+DATE: 2023-01-21T21:40:18-08:00
+#+DRAFT: false
+#+DESCRIPTION: Social Link guides, dugeon guides, and general walkthroughs for Persona 4 Golden.
+#+TAGS[]: guide rpg jrpg walkthrough p3g persona
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Portable. Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed
+
+Hello Everypeep!
+
+Well, it finally happened, the third game in the [[https://en.wikipedia.org/wiki/Persona_(series)][Persona series]] has made it to [[https://store.steampowered.com/app/1809700/Persona_3_Portable/][steam]]. Persona 3 was always a super interesting game and kind of one of the darkest in the series. I really look forward to finally finishing it, and on my Steam Deck too! Like with [[{{%ref "/guides/p4g" %}}][Person 4 Golden]] I will be creating guides as I play through. I haven't quite started yet, since I'm still working through that game, but I figured I'd get things going here just in case I decide to play them at the same time 😉.

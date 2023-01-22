@@ -1,0 +1,19 @@
+#+TITLE: Ready for a New Game!
+#+DATE: 2023-01-21T21:53:33-08:00
+#+DRAFT: false
+#+DESCRIPTION: I'm still building new guides and making the website bigger
+#+TAGS[]: site news persona ffxiv
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: New game means a new set of guides is coming!
+
+Its been over a month since my last news article and a /lot/ has happened. Christmas has come and gone, along with all the winter-y shenanigans that game with it for Fiesta. I got a new lap desk for my computer setup, I went back to school after my winter break and...well some other life shtuff that we don't need to talk about here ( > . > )
+
+* New Game!
+One good thing that happened this last month was the release of a remake of [[{{% ref "/guides/p3p" %}}][Persona 3 Portable]] on steam. I had started playing Persona 3 on PlayStation 2 a long time ago, I was really impressed with it, but never got to finish it. I'm looking forward to finishing it now. I will be writing guides for it has a play, just like I'm doing with [[{{% ref "/guides/p4g" %}}][Persona 4 Golden]]. Right now there is just an index up, since I'm still playing Persona 4, but I'll get things going as soon as a start Persona 3.
+
+* Returning to Eorzea
+One of my Christmas presents from a good friend, was the complete collection for Final Fantasy XIV. I really enjoyed playing this game when I first got the base game. It has a really good story, but I got stopped playing, even though I wasn't finished with Havensward, when I hit max level because I didn't want to get too far behind. Now that I have the expansions I've started playing again.
+
+* FFXIV Guides? When?
+All that said I have a confession to make. Originally I wanted this site to focus on guides for MMOs because those could be a bit hard to find. So I started my [[{{% ref "/guides/fiesta" %}}][fiesta guides]]. I was playing FFXIV for the first time as I wrote these and my plan was to write guides for that game next. Here's the problem, I'm not sure what I can contribute here. There are plenty of guides already available online for FFXIV as it is a very popular game. For the time being, I won't be writing guides for FFXIV. This could change in the future, if I can find a way to contribute. in the meantime, enjoy my other [[{{% ref "guides" %}}][guides]]!
