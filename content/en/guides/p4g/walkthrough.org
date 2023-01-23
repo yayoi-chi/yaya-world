@@ -32,17 +32,17 @@ After a few days I came back and got up to floor seven. On this floor you will e
 | Name         | Lvl    | Archon   | Full HP | Full SP | Fire | Ice | Lightning | Light | Dark |
 |--------------+--------+----------+---------+---------+------+-----+-----------+-------+------|
 | Daring Gigas | 24 | Strength |     928 |     100 |      |     |           | Nul   | ?    |
-*** 5/25
+** 5/25
 On this date you will get a cutscene before school introducing you to a new job, the Tutor job. This is a job that you can go to at night, tues., thurs., and sat. it pays very well (10,000 yen per day), but requires high *understanding*.
 
 Marie is also available to go out this day.
-*** 5/26
+** 5/26
 There is a quiz in class today. This is a fairly easy question as long as you are paying attention. If you want to skip the dialog, however, the answer is, "attendance logs".
-*** 5/28
+** 5/28
 The mail order show starts. You can order things from the TV in your room. Watch for deals on Sun., Mon., and Tues.
-*** 5/30
+** 5/30
 There is another lecture on this day, but there is no quiz and it does not affect what is available for you to do this day.
-*** 6/1
+** 6/1
 Rain sets in today. This is the game's warning that you will need to hurry and save Kanji. Marie is available this day as well. Also, it is good to remember that /some/ part-time jobs and clubs cannot be done on rainy days.
 *** 6/4
 This is it! This is your last day to save Kanji. You have not made much progress in his dungeon by this point it will be a fairly difficult fight. My strategy, however, was to get to the last floor by 6/3 that allowed me to take on these boss's with full HP/SP. The results of the analysis are below. Keep in mind that these guys appear to target female party members more, have opposing weaknesses, and can block each other's weaknesses. This makes for a challenging fight even on lower difficulties. The fight is far from impossible especially for a fully rested party.
@@ -53,21 +53,32 @@ This is it! This is your last day to save Kanji. You have not made much progress
 | Nice Guy     | ?   | Emperor | ?       | ?       | Null | Wk   | -         | Str  | Null  | Null |
 
 One final note: These bosses can cast poison and rage on the whole party. In my playthrough rage seemed to effect the female party members while males were less effected. Poison appeared to work the opposite. I'll update this when I have a chance to test it in other playthroughs
-*** 6/5
+** 6/5
 Kanji returns! You will now have a few cutscenes to go through where the party will welcome Kanji to their group and discuss the case thus far. Congratulations on finishing the bathhouse!
-*** 6/6
+** 6/6
 A lot is about to happen and yet hardly anything happens. Here's what I mean. Over the next several days nothing happens on the midnight channel and nothing new happens in the TV world, however, a lot of events and story notes will take place. At the moment the party will just discuss changes to the killer's MO and other notes about the case to this date.
-*** 6/8
+** 6/8
 There is a lecture today. There will be a question, the answer to which is "balance beam". After the lecture you will begin discussing getting a motorcycle license.
-*** 6/9
+** 6/9
 You'll get your license today and you are gifted a scooter. You can practice riding it and unlock other areas to travel from doing so.
-*** 6/13
+** 6/13
 This is the first day of summer, yay?
-*** 6/15
+** 6/15
 There is a quiz this day too, the answer is "cheerfulness in a group". You will have a pick up (as in pickup a girl) contest after school today.
-*** 6/16
-The girls go shopping to prepare for the school campout.
-*** 6/17 - 6/18
-Campout day one, it should be noted /none/ of your usual ways of spending time will be available, its all story at cutscenes, just sit back and let the game hold your hands for a bit
-*** 6/20
-Rise makes a TV announcement. The party suspects she might be the next victim. There is a quiz this day to, the answer is "Meiji"
+** 6/16
+The girls go shopping to prepare for the school camp out.
+** 6/17 - 6/18
+Camp out day one, it should be noted /none/ of your usual ways of spending time will be available, its all story at cutscenes, just sit back and let the game hold your hands for a bit
+** 6/20
+Rise makes a TV announcement. The party suspects she might be the next victim. There is a quiz this day to, the answer is "Meiji". There is a special boss in the bathhouse. Things are about to shift, so this may be your last chance to take care of it.
+| Names              | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|--------------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| Intolerant Officer | ?   | Emperor | ?       | ?       | -    | -   | Wk        | ?    | Null  | Null |
+* Marukyu Striptease
+Rise Kujikawa is an idol from the small town of Inaba, where the story is taking place. As an idol, Rise has to conform to a certain personality archetype, but is actually quite different from how she appears on TV. As a result, she is struggling with her true self and the "manufactured personality" she has as an idol.
+** 6/21 - 6/23
+After the party begin to suspect that Rise may be the next target, she begins to appear on the Midnight Channel. Unlike before, they will immediately identify her. Like before, they will not be able to save her, so it will be off to the TV for you.
+** 6/24
+Like with Kanji, Teddy has difficulty pinpointing Rise in the TV world even after her program begins on the Midnight Channel. He asks you to go get more information about her. You need to ask around town to find out more about Rise. You can start with either the tofu shop she works at where the old lady tells you about the paparazzo hanging around or you can start at the school where you can speak to a chubby man at Practice Building 2F who tells you a bit more about Rise and also advises you to speak with someone in the media. Either way you will eventually have to speak to /both/ of them. Once you do, you will be advise to look for paparazzi at the flood plain. You won't find any yet, but the "kind man" there will advise you to look tomorrow.
+** 6/25
+Now you can head back to the flood plain and find the "photographer" (if you don't want to/can't do this today, note that the "photographer" is only there Tues., Thurs., and Sat.). Give the man two pieces of info about Rise, basically all options except that she is in town. With this, he gives you enough information that Teddy should be able to pinpoint Rise. Take this information back to the TV to unlock the dungeon.
