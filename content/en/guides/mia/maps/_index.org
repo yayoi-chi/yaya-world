@@ -1,0 +1,13 @@
+#+TITLE: Maps of The Abyss
+#+DATE: 2023-03-12T19:02:53-07:00
+#+DRAFT: false
+#+DESCRIPTION: Cave raiding is not an easy profession and there are certainly a few things you'll need to remember, including know where you've been and where you're going
+#+TAGS[]: guide rpg jrpg survival tips mia
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Some tips to help you survive your next cave raid!
+
+Hello Cave Raiders!
+
+In addition to my [[{{% ref "/guides/mia/tips.org" %}}][cave raiding notes]] I am putting together a few maps of The Abyss so you can, as I suggest, know where you're going and where you've been. I'll give you the names of each "gate" on the map so you will know where each one goes. At some future time I plan on jotting down the cost to go through each "gate" but I want to do this according to which ever whistle happens to be more present in those layers so I'll have to really look back! For now, I'm hoping these maps will be helpful. I'll also try and give some directions on how to find some of the more difficult "gates". My hope is that no one who sees my maps will ever get lost!

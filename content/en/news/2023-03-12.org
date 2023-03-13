@@ -1,0 +1,10 @@
+#+TITLE: Hard Game is HARD!
+#+DATE: 2023-03-12T20:15:20-07:00
+#+DRAFT: false
+#+DESCRIPTION: Another new guide
+#+TAGS[]: site news mia
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Another new game another new guide!
+
+I just have a very quick update as I have not done much with the site lately. You see I was working on playing [[{{% ref "/guides/p4g/" %}}][Persona 4 Golden]] and completing guides for that game kept me updating the site fairly regularly. Unfortunately, my focused unexpectedly shifted to another game. I hadn't originally wanted to do a guide on this game, but I found that it was taking a lot of my time and some of that is because I am ending up having to restart section and back track a lot. The game I'm referring too is [[{{% ref "/guides/mia/" %}}][Made in Abyss: Binary Star Falling into Darkness]] and it is definitely not easy. I like it, but it offers quite a challenge. After getting lost a few times and, as I mentioned, a lot of back tracking and reloading, I decided to start a guide and some maps for the game to make things a little easier. This has led to this new update for the site! I don't really have anything else to report on, but thought I small update was better than none 😅

@@ -1,0 +1,54 @@
+#+TITLE: The First Layer
+#+DATE: 2023-03-12T19:19:05-07:00
+#+DRAFT: false
+#+DESCRIPTION: Know all you can about the First Layer!
+#+TAGS[]: guide rpg jrpg survival tips mia
+#+TYPE: guide
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Maps of the first layer of The Abyss
+
+The first layer starts at the Netherworld Gate is fairly small and pretty easy to traverse! Perfect for red whistles.
+#+ATTR_HTML: :alt Map of Netherworld Gate
+#+ATTR_HTML: :title Netherworld Gate
+[[/~yayoi/images/MadeinAbyss-NetherworldGate.png]]
+
+Getting to Waterfall Gondola is very easy as following a path will pretty much get you there and you won't need any supplies. Getting to the Twin Falls gate is a little more tricky, but, if you have two ropes, it can be done fairly easily.
+
+#+ATTR_HTML: :alt Map of Waterfall Gondola
+#+ATTR_HTML: :title Waterfall Gondola
+[[/~yayoi/images/MadeinAbyss-WaterfallGondola.png]]
+
+
+#+ATTR_HTML: :alt Map of Tree/Fossil Abode
+#+ATTR_HTML: :title Tree/Fossil Abode
+[[/~yayoi/images/MadeinAbyss-TreeFossilAbode.png]]
+
+#+ATTR_HTML: :alt Map of Grand Bridge Way
+#+ATTR_HTML: :title Grand Bridge Way
+[[/~yayoi/images/MadeinAbyss-GrandBridgeWay.png]]
+
+
+#+ATTR_HTML: :alt Map of Twin Falls
+#+ATTR_HTML: :title Twin Falls
+[[/~yayoi/images/MadeinAbyss-TwinFalls.png]]
+
+
+#+ATTR_HTML: :alt Map of Stone Ark
+#+ATTR_HTML: :title Stone Ark
+[[/~yayoi/images/MadeinAbyss-StoneArk.png]]
+
+
+#+ATTR_HTML: :alt Map of Jumping Rock
+#+ATTR_HTML: :title Jumping Rock
+[[/~yayoi/images/MadeinAbyss-JumpingRock.png]]
+
+
+#+ATTR_HTML: :alt Map of Wind-Riding Windmill
+#+ATTR_HTML: :title Wind-Riding Windmill
+[[/~yayoi/images/MadeinAbyss-WindRidingWindmill.png]]
+
+
+#+ATTR_HTML: :alt Map of Multilayer Hill
+#+ATTR_HTML: :title Multilayer Hill
+[[/~yayoi/images/MadeinAbyss-MultilayerHill.png]]
