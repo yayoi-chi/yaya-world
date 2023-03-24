@@ -14,19 +14,19 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Jan 2023 21:53:33 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2023 20:15:20 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>ffxiv</title>
-        <link>https://onigirionegai.info/~yayoi/tags/ffxiv/</link>
-        <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
+        <title>mia</title>
+        <link>https://onigirionegai.info/~yayoi/tags/mia/</link>
+        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/ffxiv/</guid>
+        <guid>https://onigirionegai.info/~yayoi/tags/mia/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -41,10 +41,136 @@
       <item>
         <title>news</title>
         <link>https://onigirionegai.info/~yayoi/tags/news/</link>
-        <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
+        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>site</title>
+        <link>https://onigirionegai.info/~yayoi/tags/site/</link>
+        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>guide</title>
+        <link>https://onigirionegai.info/~yayoi/tags/guide/</link>
+        <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/guide/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>jrpg</title>
+        <link>https://onigirionegai.info/~yayoi/tags/jrpg/</link>
+        <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/jrpg/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rpg</title>
+        <link>https://onigirionegai.info/~yayoi/tags/rpg/</link>
+        <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/rpg/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>survival</title>
+        <link>https://onigirionegai.info/~yayoi/tags/survival/</link>
+        <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/survival/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tips</title>
+        <link>https://onigirionegai.info/~yayoi/tags/tips/</link>
+        <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/tips/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ffxiv</title>
+        <link>https://onigirionegai.info/~yayoi/tags/ffxiv/</link>
+        <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/ffxiv/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -75,84 +201,12 @@
       </item>
       
       <item>
-        <title>site</title>
-        <link>https://onigirionegai.info/~yayoi/tags/site/</link>
-        <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>guide</title>
-        <link>https://onigirionegai.info/~yayoi/tags/guide/</link>
-        <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/guide/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>jrpg</title>
-        <link>https://onigirionegai.info/~yayoi/tags/jrpg/</link>
-        <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/jrpg/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>p3g</title>
         <link>https://onigirionegai.info/~yayoi/tags/p3g/</link>
         <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/p3g/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rpg</title>
-        <link>https://onigirionegai.info/~yayoi/tags/rpg/</link>
-        <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/rpg/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
