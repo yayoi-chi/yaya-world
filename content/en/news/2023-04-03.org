@@ -1,0 +1,21 @@
+#+TITLE: New Gallery!
+#+DATE: 2023-04-03T16:14:52-07:00
+#+DRAFT: false
+#+DESCRIPTION: I added a wallpaper gallery!
+#+TAGS[]: site news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Enjoy the new gallery! Also, I talk about art 😅
+
+First I did want to kind of get this out of the way! I've been playing a lot of games on my Steam Deck and I love it. Its a great thing to have when waiting in my car between appointments and shtuff! So far this has only really served to get in the way of finishing /both/ my [[{{% ref "/guides/mia/" %}}][Made in Abyss]] and [[{{% ref "/guides/p4g/" %}}][Persona 4 Golden]] guides because I have been basically hoping all over the place, including some older games 😉 Hopefully I'll at least get back to Made in Abyss soon. As for what's actually new, well... not much.
+
+* Yaya, where the heck are the updates?
+Well, the short of it is I'm busy and bad at time management 😅 I've been doing a little better and I've cut some hours at work, actually been having a lot of cancellations, which is actually why I'm writing this now. Aside from that I've been scheduling things and tracking time better. Hopefully I'll be able to squeeze more time in to maintaining this site and maybe finish playing /something/ so I can finish a guide other than my [[{{% ref "/guides/fiesta/" %}}][Fiesta guide]].
+
+* So, I heard there's a new gallery!
+There is! I've been doing these season-based wallpapers ever since I ran the [[https://draculatheme.com][Dracula theme]] on all of my devices last autumn. I decided I'd gather those and share them on my website. Now I've tried to attribute where I could, but I don't remember where I got these wallpapers, and I did not make them. My e-mail is linked on all pages and you can also write a comment on the page and let me know if you'd rather me not link these images or if you know who to attribute them too. Please understand I did not steal these and do not claim they are mine. If you ask for them to be removed please provide proof of ownership and give me time to remove them. Otherwise enjoy the images!
+
+* How about so more art?
+Speaking of images, I am very aware that my [[{{% ref "/gallery/creations" %}}][Creations Gallery]] is looking pretty sparse. Amongst the various things I have not had time to do, drawing is just one of them. I'm hoping, with some of the extra time I have this week, that I will be able to add at least one more item to that gallery soon. Problem is... I have no idea what to draw. I literally have no ideas, but maybe inspiration will spark soon. I'd really like to have some new shtuff to show you!
+
+Any way, not really a good update, but I hope its good enough. I also hope I will have better updates soon!
