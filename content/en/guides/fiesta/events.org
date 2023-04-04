@@ -27,3 +27,26 @@ Pictured are the various routes you can take to reach the center of the maze. To
 This is a daily quest that you can acquire from JackO Pumpkin Jr., the NPC nearest the maze sign. This requires you to beat the maze and the boss you can fight after speaking to the NPC at its center, Pumpkin Bill. I single it out both because it is different and because it awards 10 tickets per day! To beat the boss, gather from pumpkins in the area around Bill. These pumpkins allow drop grenades and warheads. Equip these to your skill bar for ease. You *cannot* damage Bill with your regular attacks and your skills are locked in this world, so you must throw these items at the boss until he falls. It takes about 100 grenades to take him down, if you're lucky, however, you won't be alone. Return to the NPC after you kill him to get a body back in your inventory, open this for some goodies and your 10 tickets!
 ** Other Things to Note
 There are titles for completing the maze under a certain time or certain conditions. One condition I remember was running it in under two minutes as a pinky (the candies you acquire from body bags and other rewards will randomly transform you into mobs) and completing the maze in under two minutes normally. I'll update this section as more things come to mind!
+* Terry! (Easter egg event)
+This is a list of where Terry can appear. Terry drops easter eggs!
+- Sand Beach
+- Forest of Tides
+- Sea of Greed
+- Moonlight Tomb
+- Vine Tomb
+- Goblin Camp
+- Scaffold Execution ground
+- Dark Passage II
+- Uruga
+- Ancient Elven Woods
+- Forest of Slumber
+- Burning Rock
+- Swamp of Dawn
+- Alberstol Ruins
+- Dark Land
+- Kahal Plain
+- Kahal Snow Fields
+- Kahal Canyon
+- Island of Eya
+- Pagel's Battlefield
+- Crystal Cave
