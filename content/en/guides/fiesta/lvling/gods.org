@@ -8,7 +8,7 @@
 #+SLUG:
 #+SUMMARY:
 
-When I first wrote my last [[{{% ref guides %}}][guide]] the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it's time for an update to the guide 😉. Sadly progress is slow and you know longer have any KQs to help you out. So, mayhap, you really don't want to try, but in case you think capping might be cool, here's some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is only 133, so I have /not/ tried any of these suggestions. If you would do try them let me know in the [[http://forums.onigirionegai.info/viewforum.php?f=3][forums]] if they work for you, or let me know if you have other suggestions!
+When I first wrote my last [[{{% ref guides %}}][guide]] the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it's time for an update to the guide 😉. So, here's some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have /not/ tried some of these suggestions alone. If you have better suggestions, though, let me know, you can comment on this page with a GitHub account, or send me an e-mail!
 ** Dailies, Dailies, Dailies, and more Dailies
 :PROPERTIES:
 :CUSTOM_ID: dailies-dailies-dailies-and-more-dailies
@@ -29,5 +29,3 @@ There are new reps for you to complete as well. Well a couple anyway.
 + Bug Rep (138-139)
 ** Questing
 The [[http://fiesta-wiki.com/quests/13][fiesta wiki]] offers a few options for quests for this level range. It has been recommended to relay on dailies and reps until at least 139. This will allow you to save your quests for when normal quests are suuuper in-effective, and hopefully make that last level just a little faster.
-** Suggestions
-This guide is currently rather incomplete 😅. This is why I have [[http://forums.onigirionegai.info/viewforum.php?f=3][forums]]! Please submit any other suggestions you have or ways you can think to expand this guide. I will also be expanding it has I try these suggestions. As I said, my max level is 133, but I'm slowly making progress and I'm working with someone who is already above level 135 so it won't be too long. Hopefully this guide still helps in the meantime.

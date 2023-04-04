@@ -53,7 +53,7 @@ for some reason:
 5. Level 86-89 - Jewel Tree Rep - "Tree of Jewels"
 6. Level 89-90 - Lava Gargoyle Rep - "Attack of the Lava Gargoyles"
 
-*** Level 90-105
+*** Level 90-101
     :PROPERTIES:
     :CUSTOM_ID: level-90-105
     :END:
@@ -84,10 +84,12 @@ for some reason:
    easy mini-boss, may even be able to solo him, but a higher level
    killer is faster.
 4. Level 98 - do all the 9x quests to get you to 99, if you're having difficulty reaching 99 even with [[{{% ref dailies.org %}}][daily quest]] and these normal quests, there is also the Ping Pig Horn rep - "Food Thief", but this is a drop quest and can be difficult to in a party, so it is /not/ recommended.
-5. Level 99-101 - Slugs rep - "Personal Revenge"
-6. Level 101-104 - Mad slugs rep - "Suspicious Big Mudmen">"Fire on
-   Hands and Feet">"Unextinguishable Fire"
-7. Level 102-106 - BB rep - "Black Bear Beatdown"
+*** Level 99-101
+Whether you did or LN or not the next quest is "Personal Revenge", which is known as the "Slugs Rep" and should /not/ be confused with the "Mad slugs rep"!
+*** Level 101
+The "Mad Slugs Rep" mentioned above is a good way to pass level 101, it isn't very good after that level, but it does remain available. You will have to unlock it though by completing a chain of quests starting with "Suspicious Big Mudmen". This will unlock "Fire on Hands and Feet" which will finally unlock "Unextinguishable Fire", which is this rep.
+*** Level 102-106
+Next repeatable question is "Black Bear Beatdown" or just BBs. It has been determined that this is now faster than Mad Slugs, though that is still available for you.
 
 *** Level 105
     :PROPERTIES:
@@ -116,7 +118,7 @@ do the 9x quests than this will be very quick. Otherwise, the quests in
 OLT are here and they are also fairly quick with any other quests you
 saved up. OLT is best tackled with a party though.
 
-*** Level 110-111
+*** Level 110-116
     :PROPERTIES:
     :CUSTOM_ID: level-110-111
     :END:
@@ -128,9 +130,9 @@ not, there is nothing to collect for this rep, just killing.
     :PROPERTIES:
     :CUSTOM_ID: level-112-116
     :END:
-Either Mean Leipoons ("Threats for Temporary Settlement 1") or Shellas
+If you can, stay on Neps! There are two additional repeatables avaialble though. Either Mean Leipoons ("Threats for Temporary Settlement 1") or Shellas
 rep ("Threats for Temporary Settlement 2"). It is important to note that
-you will have to completely The Mean Leipoons rep a few times before the
+you will have to completely The Mean Leipoons rep a twice times before the
 Shellas rep shows up. Its weird, but true.
 
 *** Level 116-118
@@ -144,7 +146,7 @@ of prequests, but here they are: "Milly's Healthy Wonder Medicine
 version of "Special Wrenches". It should also be noted that you can make
 a ton of money by doing "The Workshop Master is making a weapon"
 (available at 117) while you are doing the wrenches rep, not to mention
-this boosts your exp too.
+this boosts your exp too. It should be mentioned that "Noisy Animals 2" is also a repeatable quest and can be done the same time as wrenches.
 
 *** Level 118-121
     :PROPERTIES:
