@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 12 Mar 2023 20:15:20 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 16:14:52 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -58,6 +58,34 @@
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>New Gallery!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-04-03/</link>
+        <pubDate>Mon, 03 Apr 2023 16:14:52 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 03 Apr 2023 16:14:52 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-04-03/</guid>
+        <description>Enjoy the new gallery! Also, I talk about art 😅</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -609,7 +637,7 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:14 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/gods/</guid>
-        <description>When I first wrote my last guide the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. Sadly progress is slow and you know longer have any KQs to help you out. So, mayhap, you really don&amp;#39;t want to try, but in case you think capping might be cool, here&amp;#39;s some ideas of what you can do.</description>
+        <description>When I first wrote my last guide the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. So, here&amp;#39;s some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have not tried some of these suggestions alone.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         

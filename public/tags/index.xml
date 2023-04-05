@@ -14,34 +14,16 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 12 Mar 2023 20:15:20 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 16:14:52 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>mia</title>
-        <link>https://onigirionegai.info/~yayoi/tags/mia/</link>
-        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/mia/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>news</title>
         <link>https://onigirionegai.info/~yayoi/tags/news/</link>
-        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
+        <pubDate>Mon, 03 Apr 2023 16:14:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
@@ -59,10 +41,100 @@
       <item>
         <title>site</title>
         <link>https://onigirionegai.info/~yayoi/tags/site/</link>
-        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
+        <pubDate>Mon, 03 Apr 2023 16:14:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>computers</title>
+        <link>https://onigirionegai.info/~yayoi/tags/computers/</link>
+        <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/computers/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>desktop</title>
+        <link>https://onigirionegai.info/~yayoi/tags/desktop/</link>
+        <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/desktop/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>fun</title>
+        <link>https://onigirionegai.info/~yayoi/tags/fun/</link>
+        <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/fun/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>wallpaper</title>
+        <link>https://onigirionegai.info/~yayoi/tags/wallpaper/</link>
+        <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/wallpaper/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mia</title>
+        <link>https://onigirionegai.info/~yayoi/tags/mia/</link>
+        <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/mia/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -351,24 +423,6 @@
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/guides/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>fun</title>
-        <link>https://onigirionegai.info/~yayoi/tags/fun/</link>
-        <pubDate>Tue, 08 Nov 2022 10:35:31 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/fun/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
