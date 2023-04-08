@@ -13,4 +13,4 @@ Welcome to my leveling guides to Fiesta Online. This is just a parsed down versi
 In keeping with the nature of Fiesta, I am dividing your adventurer into tiers. We start as babies (levels 1-40), then become newblets (at 41-80), then move on to fledgling adventurers (81-120), bone-fide adventurers (121-135), and finally god-like adventurers (136-140).
 
 ** If you have suggestions
-This guide is currently somewhat incomplete 😅. Each page has a comment box. If you have suggestions, please put them there (a GitHub account is required). This helps me know what page(s) I needed to edit. If you would like to make overall suggestions or don't want to sign up for GitHub, you can send me e-mail. An link e-mail is at the bottom of each page.
+This guide is currently somewhat incomplete 😅. Each page has a comment box. If you have suggestions, please put them there (a GitHub account is required). This helps me know what page(s) I needed to edit. If you would like to make overall suggestions or don't want to sign up for GitHub, you can send me an e-mail, or message me on Mastodon or Matrix. The links are at the bottom of every page!

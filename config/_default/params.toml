@@ -119,12 +119,12 @@ commento = false
   douban = ""
   csdn = ""
   gitlab = ""
-  mastodon = ""
+  mastodon = "https://mastodon.world/@yaya"
   jianshu = ""
   zhihu = ""
   signal = ""
   whatsapp = ""
-  matrix = ""
+  matrix = "https://matrix.to/#/@yayoichi:matrix.org"
   xmpp = ""
   dev-to = ""
   gitea = ""
@@ -148,8 +148,8 @@ commento = false
 # possible share name: "facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "whatsapp", "telegram"
 
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "Forums"
+  link = "https://forums.onigirionegai.info/viewforum.php?f=4"
 [[footerLinks]]
   name = ""
   link = ""
