@@ -1,0 +1,21 @@
+#+TITLE: Birthday!
+#+DATE: 2023-04-09T12:24:15-07:00
+#+DRAFT: false
+#+DESCRIPTION: I had a birthday!
+#+TAGS[]: site news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I had a birthday so I updated the site!
+
+After pushing some updates to my [[{{% ref "/guides/fiesta" %}}][Fiesta Guides]] a little early, I am back with a few small changes that I was not able to quite get done before having to push those updates! The big thing is I had to change my age in my introduction. Yep, it went up by one because yesterday was my birthday!
+
+* Birthday Stuff!
+I'll get this out of the way real quick because there are other things I still need to get in this post. I had a great birthday yesterday. I went out for some Italian food with family and otherwise enjoyed the day. I didn't get much time to play, which is what I would've liked to do on my birthday, but I did have plenty of fun. At 39, birthdays mean something totally different than they did at 10 or 12. I may not have got any presents or had a ton of friends over, but I had a good time. That's all that really matters. Speaking of friends, well, I don't really have many. Let's see if we can change that 😉
+* New addition to the bottom matter of the site!
+Since I originally deployed this version of the site I was aware I could put icons and links to my social media profiles on the bottom of the site near the footer in the template that I am using. Other than potentially putting my steam profile down there though, I didn't really see much point in them, so I just put my e-mail in and that was that. Well I changed it!
+
+Recently, I joined Matrix and I had switched from Twitter to Mastodon a while ago, both of these sites are supported by the template so I figured, why not just put those in there, and why not have my Steam profile in too. So I added those! I am on Matrix most, but any of these options are good if you want to connect with me. We can talk about the site, MMO's and JRPGS, or whatever. I would like to know people actually read these 😆
+* Finally updated my introduction
+The [[{{% ref "introduction.org" %}}][introduction]] page was out of date in more than one way. Not only was my age out of date, but all the levels of my Fiesta characters also needed updating. I've since fixed that. There have also been small updates throughout the site including adding a link in the footer to my forums. Hey! That's one other way you can reach me!
+* Looking forward
+As I mentioned, I am busy pursuing a PhD and working. I'm hoping that the next year will not only see some progress on this front but also progress with gaming and the site. Also I'd like to draw more. So let's hope it all comes together in the next year!
