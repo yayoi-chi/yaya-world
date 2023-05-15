@@ -1,7 +1,7 @@
 #+TITLE: Newblets
 #+DATE: 2022-10-09T21:00:07-07:00
 #+DRAFT: False
-#+DESCRIPTION: Newblets are still figuring things out, but they ain't babies no more. These are characters leveling 41-80 and probably having fun getting ready for, or currently playing KKP KQ.
+#+DESCRIPTION: Newblets are still figuring things out, but they ain't babies no more. These are characters leveling 41-80.
 #+TAGS[]: guide leveling quests
 #+TYPE: guide
 #+KEYWORDS[]:
@@ -36,12 +36,12 @@ if your guild has a guide and feel free to experiment.
     :END:
 
 1. Complete the quest "A bet with Marty 1" This will require you to 8
-   Gobling Swordman and pick up 3 Goblin Swords that they drop.
+   Goblin Swordman and pick up 3 Goblin Swords that they drop.
 2. Once you turn in "A bet with Marty 1" you will unlock the quest "A
    Bet with Marty 2". This requires you to pick up 5 Goblin Swords from
    Goblin Swordsman and kill 10 of those mobs. This is a repeatable to
-   quests. After a few turn ins you should be level 44 easy. Gobling
-   Swordman are fairly easy mobs and can be solo'd by characters at this
+   quests. After a few turn ins you should be level 44 easy. Goblin
+   Swordman are fairly easy mobs and can be soloed by characters at this
    level. For clerics, however, I *highly* recommend you gather them
    while a friend kills em. Don't forget to heal your friend if they
    need it.
@@ -56,15 +56,15 @@ access to two more repeatable quests at level 44, "Fantastic Items" and
 can be used at the same time. "Fantastic Items" requires you to get 15
 Warebear's Claws from Ware Bears while "Best Broomsticks 3", available
 after completing the first two "Best Broomstick" quests requires 15
-Warebear Armbit Hairs. Ware Bears are a bit tougher, but can probably
-still be solo'd by all classes accept clerics.
+Warebear Arm bit Hairs. Ware Bears are a bit tougher, but can probably
+still be soloed by all classes accept clerics.
 
 *** Level 49-52
     :PROPERTIES:
     :CUSTOM_ID: level-49-52
     :END:
 At level 49, you can head to Scaffold Execution Ground through the
-Collapsed Prision portal. Right at this portal is a mob called Mini
+Collapsed Prison portal. Right at this portal is a mob called Mini
 Lips. These will drop "Mini Lips' Lips" if you have the quest "Mannequin
 Lips". Pick up 10 of these and turn in. Repeat until you reach level 52.
 
@@ -72,7 +72,7 @@ Lips". Pick up 10 of these and turn in. Repeat until you reach level 52.
     :PROPERTIES:
     :CUSTOM_ID: level-52-55
     :END:
-Scaffold Execition Grounds also has a rather large pack of King Colls.
+Scaffold Execution Grounds also has a rather large pack of King Colls.
 These will drop "King Donkey Teeth" when you have the quest "The
 Unbreakable Chisel". You can pick up this quest from the quest list at
 level 52. This is a fairly easy and quick (especially with a killer) way
@@ -82,11 +82,11 @@ to get to level 55.
     :PROPERTIES:
     :CUSTOM_ID: level-55-60
     :END:
-Both Collapsed Prision and Scaffold Execution Grounds have prisioners,
-there are more of them in large groups in Collapsed prision. As part of
-the Level 55 quest "Escape from Concealed Prision 1" you need to kill
+Both Collapsed Prison and Scaffold Execution Grounds have prisoners,
+there are more of them in large groups in Collapsed prison. As part of
+the Level 55 quest "Escape from Concealed Prison 1" you need to kill
 ten of them. Once you turn this quest in, you can pick up "Escape from
-Concealed Prison 2". You now need to kill 20 prisioners for a turn in,
+Concealed Prison 2". You now need to kill 20 prisoners for a turn in,
 but this is a repeatable and a fairly easy way to reach level 60.
 
 *** Level 60
@@ -150,16 +150,13 @@ The repeatable quest "Nina's Revenge" becomes available at level 74. This is oft
 :PROPERTIES:
 :CUSTOM_ID: level-75-76
 :END:
-Another repeatable quest that overlaps the one above a bit is "Goodbye, Nightmare!" This is referred to as the "Blue Archon rep" and you'll be killing those. This is fairly quick and easy. If you like to take a break for Nox, you can switch betweent the two 😉
+Another repeatable quest that overlaps the one above a bit is "Goodbye, Nightmare!" This is referred to as the "Blue Archon rep" and you'll be killing those. This is fairly quick and easy. If you like to take a break for Nox, you can switch between the two 😉
 
 *** Level 77-79
     :PROPERTIES:
     :CUSTOM_ID: level-77-79
     :END:
-Okay, well, hopefully, you've managed to pick up some friends by now, or
-you're part of a guild academy, or your really outgoing, or I'm free.
-You /can/ continue to do KKP all the way to 80, if, you want, but its
-going to be getting slow by now. My suggestion is the Lizard Knight rep.
+Not going to lie, I used to advocate for KKP from 70-80, but that is far from the best way to level especially after 76. My new suggestion is the Lizard Knight rep.
 Its best to have a party with this one though. Your party should have a
 killer (a mage or archer that can kill groups of Lizardman Knights at
 once), a mob herder (someone to run around on a +1 or better mount and
