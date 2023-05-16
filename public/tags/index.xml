@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 09 Apr 2023 12:24:15 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 20:04:39 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,10 +23,28 @@
       <item>
         <title>news</title>
         <link>https://onigirionegai.info/~yayoi/tags/news/</link>
-        <pubDate>Sun, 09 Apr 2023 12:24:15 -0700</pubDate>
+        <pubDate>Mon, 15 May 2023 20:04:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>personal</title>
+        <link>https://onigirionegai.info/~yayoi/tags/personal/</link>
+        <pubDate>Mon, 15 May 2023 20:04:39 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/personal/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
