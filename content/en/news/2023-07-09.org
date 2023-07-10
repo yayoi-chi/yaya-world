@@ -1,0 +1,38 @@
+#+TITLE: More time!
+#+DATE: 2023-07-09T20:15:32-07:00
+#+DRAFT: false
+#+DESCRIPTION: You can't make more time, you can only make the most of the time you have!
+#+TAGS[]: news personal site
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Some changes are coming and those changes may leave me with more time to do fun things!
+
+Over the past year I have been working as a behavior technician. This has been a fun and rewarding opportunity for me, but it has also be very taxing. I have worked long days and then I worked normal days but was also taking classes full time while working on a PhD. This left me with very little time for anything fun. Well, learning was fun, but not the right kind of fun. I was feeling burnt out and the stresses of managing my cases, dealing with things like tantrums, and all the hours worked were starting to get to me in an unhealthy way. Last month I made the decision to leave.
+
+* Too many spinning plates
+It was certainly not easy to decide to leave my job. I did like the kiddos I was working with, well most of them, and the work was enjoyable, for the most part. I probably would have kept going too if it wasn't for my grades last term. Reviewing all of my assignments I knew I wasn't going to get the kinds of grades I wanted. I could spot everything I was doing wrong, but, whether it was lack of focus after an assignment or during the readings, I just couldn't find a way to fix the mistakes I knew I was making. I had said that, if I went back to school, then that would take priority and nothing should harm that.
+
+In fact, I came up with this little analogy. It was like I had two plates spinning on toothpicks. Both started out spinning just fine, but than they started to wobble and I couldn't fix them without dropping at least one. I could try my hardest to get them both going again, but, at the end of the day, I needed to let one go so the other could spin right. I chose my work. It has fallen, but now I can have the time and energy to get the school plate spinning up right again!
+
+* Hobbies and mental health
+In truth there were probably more than the two plates. Perhaps one for this site, one for my other art and web projects, and maybe even one for video games. Hobbies, and other things that distract us from the grind of work, are required, I think, in maintaining our mental health. We can't be all about work and school, or work and family, or even work, family, and school. We need to balance those things with "me" time. Time to just do what you really like to do with or without other people involved. This is where our hobbies come in. They provide unstructured time for us to just be us. I think I lost track of that over the last year, and that may be one reason things didn't go so well at either work or school.
+
+* Maybe not more time, but more quality time
+In the summary I said, we can't make more time. This comes from an interaction between a parent and their child (my client). The child does not speak, but is learning sign language. They often make the sign for more followed by the sign for time. This is interpreted as a request for more time with something, a toy or activity. However, sometimes they would make these signs with no context and the parent would be left wondering what the child was requesting. This was a simple lexical error, but it led to the following interaction:
+
+#+begin_quote
+child /signs more and time/
+
+parent: More time? More time with what?
+
+child /repeats signs/
+
+parent: More time? I can't make more time! Time is a finite thing.
+#+end_quote
+
+Its true, time is a finite resource, we're only given so much of it and we can't just make more. What we can do though is make better use of the time we have. In other words, we can make more quality time or make our time better. This is what I intend to do now!
+
+* Lesson learned!
+So now I will be a bit picky with how I'm spending my time, I will be balancing it better not just between work (if I find another job) and school, but also between hobbies, family, and entertainment. All of these are important! Any future place of employment that would like me to work weekends or evenings will have to understand that is not something I will be doing, I won't mind if it was something I occasionally had to do, but I will decide when and how often that is, it will not be decided for me. I am done with that part of my life now.
+
+As for what the means for this site! Well, I'm hoping I'll update it more often and add different guides and maybe new art more frequently. I hope you'll look forward to that!
