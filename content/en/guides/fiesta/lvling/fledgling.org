@@ -89,7 +89,7 @@ Whether you did or LN or not the next quest is "Personal Revenge", which is know
 *** Level 101
 The "Mad Slugs Rep" mentioned above is a good way to pass level 101, it isn't very good after that level, but it does remain available. You will have to unlock it though by completing a chain of quests starting with "Suspicious Big Mudmen". This will unlock "Fire on Hands and Feet" which will finally unlock "Unextinguishable Fire", which is this rep.
 *** Level 102-106
-Next repeatable question is "Black Bear Beatdown" or just BBs. It has been determined that this is now faster than Mad Slugs, though that is still available for you.
+Next repeatable quest is "Black Bear Beatdown" or just BBs. It has been determined that this is now faster than Mad Slugs, though that is still available for you.
 
 *** Level 105
     :PROPERTIES:
