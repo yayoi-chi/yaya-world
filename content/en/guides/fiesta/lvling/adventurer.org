@@ -61,17 +61,13 @@ prequests: "Ancient Scriptures (1-5)>"Oh Captain, My Captain!
 that, you'll gain two reps "Their Health Is In Danger" and "Nighttime
 disurbance". In the right spot, both reps can be done together.
 
-*** Level 126
+*** Level 126-128
     :PROPERTIES:
     :CUSTOM_ID:  level-126
     :END:
 You can do the maru rep for this level though the previous rep is available if you want to stick to it. The maru rep is known as "Protecting the Camp"
 
-*** Levels 127-128
-    :PROPERTIES:
-    :CUSTOM_ID: levels-127-128
-    :END:
-Mushies rep. This rep takes 6-8 hours with a full party of droppers (be
+You can also start the mushies rep. This rep takes 6-8 hours with a full party of droppers (be
 nice and save the quest so you can be a dropper for others). To get this
 rep you only need to complete the "Mushrooms for Ursula" prequest. *Note
 (because no one told me this)*: You will need one basket from the item
