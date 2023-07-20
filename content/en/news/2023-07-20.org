@@ -1,0 +1,17 @@
+#+TITLE: A few site notes
+#+DATE: 2023-07-20T07:17:32-07:00
+#+DRAFT: false
+#+DESCRIPTION: Just a few notes on directions for the site and recent changes
+#+TAGS[]: site news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I made a few changes subtilely and think its time to explain them, also have some ideas for new things to add to the site, but thing is added yet
+
+Hello everypeep!
+
+How is your summer? Is it hot enough for chu all yet? It is certainly hot enough for me, or at least it has been. Now, if your from like Arizona or Texas you /might/ be thinking, why is this girl complaining about 94 degree weather, to which I say...That...is...still...hot 😝 Just you tend to get hotter and so it doesn't seem as bad. Anyway, this is just a quick update for you all. I've made a few changes to parts of the site and have some plans I want to outline, mostly for myself. Let's get started!
+
+* What changed!?
+Honestly, not much, but the original version of this site was written a few years ago when I was...ahem...too invested in [[{{% ref "guides/fiesta/" %}}][a certain]] MMORPG. While I still play it, its not nearly as much a part of my life as it was when I first wrote many of the pages of this site, including the [[{{%ref introduction.org %}}][introduction]]. So I changed them. Mostly just made minor adjustments, but the introduction page no longer shows my characters or there levels from Fiesta. If you want to find me in that game just start by locating Yayoi_chi or hit me up in the socials linked at the bottom of each page! Other than that I have made effort to highlight some of the other games I play and not solely call out Fiesta.
+* So about that new stuff...
+With the focus now more on all the games I'm playing, or have played, I am planning to flesh out the guides and may even and a place for reviews and/or stories from the games I am playing, but that isn't the big news! I am also thinking, just thinking, about adding a section for short stories. You already get to see some of my [[{{%ref "gallery/creations" %}}][drawings]], but drawing is not my only creative outlet. Now, writing fiction usually takes me a long time and it is harder for me to release my writing than to show off my drawings, so you'll have to be patient, and I /might/ not even release this section, but I /will/ keep you up to date.
