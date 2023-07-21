@@ -14,11 +14,39 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 09 Jul 2023 20:15:32 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 07:17:32 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/site/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>A few site notes</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-07-20/</link>
+        <pubDate>Thu, 20 Jul 2023 07:17:32 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 20 Jul 2023 07:17:32 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-07-20/</guid>
+        <description>I made a few changes subtilely and think its time to explain them, also have some ideas for new things to add to the site, but thing is added yet</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>More time!</title>
