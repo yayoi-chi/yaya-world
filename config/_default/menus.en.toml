@@ -15,3 +15,9 @@
   name = "Guides"
   url = "guides"
   weight = 1
+
+[[main]]
+  identifier = "reviews"
+  name = "Reviews"
+  url ="reviews"
+  weight = 4

@@ -1,0 +1,11 @@
+#+TITLE: Non-gaming Adventures (General Fiction)
+#+DATE: 2023-07-24T16:36:49-07:00
+#+DRAFT: false
+#+DESCRIPTION: A collection of other stories not related to games
+#+TYPE: story
+#+TAGS[]: stories adventures
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I write things that are more original just like my art
+
+As you know I sometimes like to write little write-ups of [[{{% ref "/adventures/" %}}][adventures]] I have in games, but I also like to write other stories and adventures. This is the place for those kinds of stories since they don't really fit in the main adventures sections. Right now, I don't have any, but I'll be trying to add some soon!
