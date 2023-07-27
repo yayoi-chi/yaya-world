@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>game on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/game/</link>
+    <description>Recent content in game on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 24 Jul 2023 18:21:01 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Stray [2.5/5]</title>
+        <link>https://onigirionegai.info/~yayoi/reviews/stray/</link>
+        <pubDate>Mon, 24 Jul 2023 18:21:01 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 24 Jul 2023 18:21:01 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/reviews/stray/</guid>
+        <description>Stray is a very cute game where you play as a cat, but it isn&amp;#39;t exactly long and my not be exactly what you&amp;#39;re expecting</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>review</category>
+            
+          
+            
+              <category>game</category>
+            
+          
+            
+              <category>cat</category>
+            
+          
+            
+              <category>cute</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
