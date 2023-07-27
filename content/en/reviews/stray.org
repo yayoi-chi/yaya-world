@@ -9,7 +9,7 @@
 #+SUMMARY: Stray is a very cute game where you play as a cat, but it isn't exactly long and my not be exactly what you're expecting
 
 #+BEGIN_EXPORT html
-<a id="forums" href="https://forums.onigirionegai.info/viewforum.php?f=4" target="_new">
+<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=20" target="_new">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-half.png" align="left" alt="half star">
