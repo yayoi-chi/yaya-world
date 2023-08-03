@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 25 Jul 2023 15:48:36 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2023 14:11:07 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -58,6 +58,75 @@
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>A Commission! A Friend&#39;s ADVENTURE!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-08-03/</link>
+        <pubDate>Thu, 03 Aug 2023 14:11:07 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 03 Aug 2023 14:11:07 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-08-03/</guid>
+        <description>Hello and welcome to another update!
+I like that I have time now to do more frequent updates to the site. This update is going to be a pretty small one. I have more time for sure, but not so much time that I can do big updates every time. I am trying to focus on good updates, so more frequent, but quality updates is what I&amp;#39;m trying to achieve.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>friends</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>The Ultimate Yolk</title>
+        <link>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</link>
+        <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 31 Jul 2023 21:16:45 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</guid>
+        <description>The year is 2021, the month is November, and the setting is the game we all know and love: Fiesta Online. An idea hatched to create a character by the name of _Egg.</description>
+        
+        <dc:creator>michelle.bsparkx</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>story</category>
+            
+          
+            
+              <category>adventure</category>
+            
+          
+            
+              <category>friend</category>
+            
+          
+            
+              <category>_egg</category>
             
           
         

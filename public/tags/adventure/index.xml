@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>adventure on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/adventure/</link>
+    <description>Recent content in adventure on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 31 Jul 2023 21:16:45 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/adventure/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>The Ultimate Yolk</title>
+        <link>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</link>
+        <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 31 Jul 2023 21:16:45 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</guid>
+        <description>The year is 2021, the month is November, and the setting is the game we all know and love: Fiesta Online. An idea hatched to create a character by the name of _Egg.</description>
+        
+        <dc:creator>michelle.bsparkx</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>story</category>
+            
+          
+            
+              <category>adventure</category>
+            
+          
+            
+              <category>friend</category>
+            
+          
+            
+              <category>_egg</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
