@@ -1,14 +1,15 @@
 #+TITLE: The Ultimate Yolk
 #+DATE: 2023-07-31T21:16:45-07:00
+#+AUTHOR: michelle.bsparkx
 #+DRAFT: false
 #+DESCRIPTION: Yaya's Friend _Egg goes on a little adventure and gets a nice present
 #+TYPE: story
-#+TAGS[]: story adventure friend _egg @michelle.bsparkx
+#+TAGS[]: story adventure friend _egg
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY: The year is 2021, the month is November, and the setting is the game we all know and love: Fiesta Online. An idea hatched to create a character by the name of _Egg.
 
-By: [[https://www.instagram.com/michelle.bsparkx/][@michelle.bsparkx]]
+Thank you: [[https://www.instagram.com/michelle.bsparkx/][@michelle.bsparkx]]
 
 The year is 2021, the month is November, and the setting is the game we all know and love: Fiesta Online. An idea hatched to create a character by the name of _Egg.
 
