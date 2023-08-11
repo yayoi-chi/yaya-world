@@ -9,7 +9,7 @@
 #+SUMMARY: In Little Witch Nobeta you play as a little witch who lost her memory. She goes on a journey to the one place she remembers, a throne in a giant castle, in hopes of finding her memory. Along the way she meets a cat who is very insistent that she makes it to the throne!
 
 #+BEGIN_EXPORT html
-<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=20" target="_new">
+<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=22" target="_new">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
