@@ -30,6 +30,14 @@ images: # when mode is one-by-one, images front matter works
     caption: "Cuz it can't just be Goddoka! By: slezzy7_dbdk110"
   - image: kaname_madoka_reflections.jpg
     caption: "Last Madoka, I promise!"
+  - image: gura_ocean.jpg
+    caption: Now for some Gawr Gura, cuz she my favorite vTuber, so there!
+  - image: gura_slushie.jpg
+    caption: Gura offers slushie for chu when it hot out!
+  - image: gawr_gura_halloween.png
+    caption: Gura looks cute on halloween!
+  - image: BSOD-Windows8.png
+    caption: "I'm more of a macOS girl, and not a fan of Windows even if I still have to use it...so this is my Windows wallpaper XD"
 ---
 
 This is a collection of some of my favorite wallpapers. I like vector art and I like wallpapers that aren't too busy. If you like those things too, then maybe you should download *some* of these...or not...up to you 😜.

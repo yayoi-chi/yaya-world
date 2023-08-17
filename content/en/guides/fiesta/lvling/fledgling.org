@@ -29,7 +29,6 @@ still level, but it'll be slower.
     :PROPERTIES:
     :CUSTOM_ID: level-80-90
     :END:
-
 1. There is a repeatable for gathering armor pieces in DT. You can have
    a higher level friend or a DT runner and a few droppers run through
    DT with you. Make sure you inventory is nearly empty and just fill it
@@ -46,9 +45,9 @@ still level, but it'll be slower.
 Here are the reps you can do to help you get to 90 if you can't do DT
 for some reason:
 
-1. Level 81-86 - Miner Mole Rep - "I Despise Moles"
-2. Level 82-87 - Another Mole Rep - "It's Them Again (Repeatable Quest)"
-3. Level 84-88 - Kidmon Rep - "Hans in Love"
+1. Level 81-84 - Miner Mole Rep - "I Despise Moles"
+2. Level 82-84 - Another Mole Rep - "It's Them Again (Repeatable Quest)"
+3. Level 84-86 - Kidmon Rep - "Hans in Love"
 4. Level 85-88 - Toy Spade Rep - "Kidmon The Menance"
 5. Level 86-89 - Jewel Tree Rep - "Tree of Jewels"
 6. Level 89-90 - Lava Gargoyle Rep - "Attack of the Lava Gargoyles"
