@@ -1,0 +1,16 @@
+#+TITLE: A little week
+#+DATE: 2023-08-17T18:40:58-07:00
+#+DRAFT: false
+#+DESCRIPTION: Not much happened this week, but I did do a thing!
+#+TAGS[]: site news friends
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+This week was a small week. I did play a new game, but I'm not to a point where I'd feel comfortable reviewing it or writing a guide for it. This week wasn't completely dead though. I have been spending some more time in Fiesta and that means some updates to the [[{{% ref "guides/fiesta" %}}][fiesta guide]].
+* Minor corrections
+So, I've been leveling one of my characters in Fiesta. This gives me a good opprotunity to make sure my guide is still up-to-date as I often don't remember somethings and I have to have the guide up anyway while I play. I noticed some minor corrections needed to be made specfically in the [[{{%ref "guides/fiesta/lvling/fledgling.org" %}}][fledgling adventurer]] leveling guide. So, the only real site update this week was fixing that guide. It is still important though!
+* Commission Accomplished!
+This week I also finished my commisssion! I'm really excited and today I even got to see it in action on the client's site. Oh, also I guess there was a couple other little updates! First I placed the commission in my [[{{% ref "gallery/creations" %}}][creations gallery]] check it out there, please! I also added some [[{{% ref "gallery/wallpapers" %}}][new wallpapers]]!
+* Check out Twitch!
+My commisssion was for a vTuber we are calling Jade! This vTuber streams over on Twitch. They mostly play retro games, but [[https://www.twitch.tv/jadeeyeddemoness][check it out]] when you can. I'm actually watching them play FFX as I write this!
