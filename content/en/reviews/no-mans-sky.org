@@ -1,0 +1,35 @@
+#+TITLE: No Man's Sky (First Impressions)
+#+DATE: 2023-08-23T16:31:53-07:00
+#+DRAFT: false
+#+DESCRIPTION: No Man's Sky is a surprisingly deep journey of exploration. It is far more than I expected!
+#+TAGS[]: review game exploration sci-fi
+#+TYPE: review
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: First No Man's Sky actually has a story! I know this came as a bit of a surprise to me too. Basically you are a Traveller and you wake up on a planet with no memory of how you got there, just your exosuit and your starship. You will go through and explore the world, build a base, and try to learn what happened to you. It is this last part that provides us with a surprisingly deep story that I was really not prepared for, but am pleasantly surprised is there!
+
+#+BEGIN_EXPORT html
+<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=20" target="_new">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-half.png" align="left" alt="half star">
+</a>
+<div style="display:block;width:40px;height:40px;margin:auto">
+&nbsp;
+</div>
+#+END_EXPORT
+
+First No Man's Sky actually has a story! I know this came as a bit of a surprise to me too. Basically you are a Traveller and you wake up on a planet with no memory of how you got there, just your exosuit and your starship. You will go through and explore the world, build a base, and try to learn what happened to you. It is this last part that provides us with a surprisingly deep story that I was really not prepared for, but am pleasantly surprised is there!
+
+I'm going to start this off with a bit of a disclaimer. This page represents my first impressions of No Man's Sky. I am, by no means, finished with the story. I wanted to get ahead of things though and give some first thoughts /because/ of just how impressed I am with what I have played so far. There may be another page (one that will have the rating in the title like my other reviews) in the future that is more of a standard review, but on to my first impressions!
+
+* Overall
+I am very impressed with the game so far. The visuals and art direction is great. The planets feel alive, if not a bit underwhelming in terms of diversity, and the gameplay is great! You are free to follow the story or just explore, or generally do whatever you want. You are hour own master and its pretty great. It reminds me of an MMO in this fashion. Which is probably why I like it so much. Of course being set in space and being able to explore all these new worlds is a real big bonus too even if the worlds to seem awfully close together.
+* Content
+I can't speak to the overall length of the game just yet and that might not matter. What I can say is that there does seem to be plenty of content available. There are tons of quests and side quests (or missions or whatever they like to call them here) and you pick up quite a few of the naturally just as you progress through the game. It can make it hard to prioritize things, but it also ensure you won't be bored for quite a long time. I'm ten hours in already and can see I still have *lots* to do!.
+* Art and Graphics
+This is both No Man's Sky's biggest strength and its weakness. The graphics and art direction are great. All the ships look good and look like they could actually exist, the stations are all kinda just spheres and the life forms are pretty interesting, but many planets seem to have only a couple of unique fauna, and that is a bummer. I understand that it may have been done to make exploring a bit less daunting, and may even be different for less "relaxed" players, but I do find myself wishing there were more types of animals as well as animals with fur, which I have yet to encounter. Also the seamless way you can change between space and planetary exploration is great, but also probably contributes to the overall small size of each star system. Still, its not terrible and at least I can understand why things were done the way they were.
+* Story
+As I aluded to, this is where I was most impressed. Having heard about this game a long time ago, around when it was first announced, I figured it was just an open-ended exploration sandbox and, if it had a story, its story would be a low priority. I'll say, this /might/ have been the case back then, but it is *not* the case now. So far the story is very good and keeps me playing for....mayhap too long...each play session. I have said before, I play games for the story. I quickly abandon things, like Slime Rancher, if the story is short, or boring. No Man's Sky is none of those so I keep on going!
