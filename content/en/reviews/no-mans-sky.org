@@ -9,7 +9,7 @@
 #+SUMMARY: First No Man's Sky actually has a story! I know this came as a bit of a surprise to me too. Basically you are a Traveller and you wake up on a planet with no memory of how you got there, just your exosuit and your starship. You will go through and explore the world, build a base, and try to learn what happened to you. It is this last part that provides us with a surprisingly deep story that I was really not prepared for, but am pleasantly surprised is there!
 
 #+BEGIN_EXPORT html
-<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=20" target="_new">
+<a id="forums" href="https://forums.onigirionegai.info/viewtopic.php?t=25" target="_new">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
 <img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
