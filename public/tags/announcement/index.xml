@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>announcement on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/announcement/</link>
+    <description>Recent content in announcement on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 24 Aug 2023 15:00:57 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Commissions are OPEN!!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-08-24/</link>
+        <pubDate>Thu, 24 Aug 2023 15:00:57 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 24 Aug 2023 15:00:57 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-08-24/</guid>
+        <description>This week was not as small as last week, but the updates are still few. One thing is that I&amp;#39;ve been doing a lot of thinking and I have decided to open up commissions! Other than that, and, as far as this site goes, I have also decided not to wait until I have completed No Man&amp;#39;s Sky to write about it. You can consider this my first impressions of the game. As I said, I am planning on writing a full review once I have completed the main story missions, but I didn&amp;#39;t want to wait that long because I really like the game!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>announcement</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
