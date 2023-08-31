@@ -1,0 +1,34 @@
+#+TITLE: About Commissions
+#+DATE: 2023-08-31T15:20:40-07:00
+#+DRAFT: false
+#+DESCRIPTION: This page lays out what I can do for you as well as basic expectations I have if you want to commission me to draw for you.
+#+TAGS[]: about
+#+WEIGHT: 110
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I realized that, though there is a forum post too, a news article that just barely mentioned commissions was probably not enough to lay out all the information one /might/ need to know to get started if they wanted to commission me. This page will rectify that. I will lay out what I am willing to draw, what I am /not/ willing to draw, and how you can contact me if you are interested. I will also go over how I expect to be paid.
+
+I realized that, though there is a [[https://forums.onigirionegai.info/viewtopic.php?t=24][forum post]] too, a news article that just barely mentioned commissions was probably not enough to lay out all the information one /might/ need to know to get started if they wanted to commission me. This page will rectify that. I will lay out what I am willing to draw, what I am /not/ willing to draw, and how you can contact me if you are interested. I will also go over how I expect to be paid.
+
+* What I am willing to draw
+First, I don't mind expending my skills, so this is not an extensive list of *everything* I will draw. You can think of this more like a list of things I feel comfortable drawing. I'll draw pretty much anything so long as its not in the list of things I won't draw, but I am particularly good a few things things and those things are:
++ Cute girls! Yep I like drawing cute girls, if they are cute enough I /might/ even draw fan-art. By the way, fan-art is legally questionable, I will not handle getting permission to draw other people's characters, that's up to you, and you must let me know you have permissions /before/ I start!
++ Character designs. Similar to the above I can design new characters for you. I will do my very best if that character is a guy, but I am very good with cute girls. If you don't want cute though...probably should look elsewhere to be honest 😅.
++ Still profile pictures. I can even make profile pictures, just don't expect animations.
++ Wallpapers, we'll talk about that, but I am willing to try.
++ Other backgrounds, and "cards", these can be great for streamers. If you need a background to use while you stream, or if you need like a stand-by card, start card, or end card when you stream, [[#headline-3][contact me]], I'll do my best!
+
+Don't forget that you can *always* [[#headline-3][reach out]] and let me know you are interested, and I'll decide if I think I can do a good job and we'll discuss things further, as long as your idea doesn't fall into the categories of things I am not willing to draw below!
+* What I am not willing to draw
+This is a bit more straightforward and there isn't much negotiating on anything here. Sure, you can always talk about it, but there isn't much chance I will work on a commissions on any of these topics!
++ Violence, I am against my characters getting hurt and will likely not wish this on any other characters. Still, violence can happen and mild violence is usually okay, but anything too extreme and I won't draw it, that's that!
++ Gore. Yep not touching that at all. Anything too gory and that's a complete no-go. If I even get a whiff of it then I'll stop you right there!
++ Sexual content. Yeah I don't draw Hentai, no exceptions. Also if it involves a certain male body part at all, then...yeah not going to happen. /Light/ romance and some questionable things may make it if you ask nicely
++ Anything that targets or marginalizes any group of people regardless of how large or small that groups is. This includes anything that targets racial stereotypes, stereotypes involving one's sexual orientation or gender identity, or any hate toward anyone!
++ Political party logos or anything that could be interpreted as my endorsement of any political group. Sorry just not going there!
+* How to contact me if you are interested in a commission
+The best bet is to contact me via the [[https://forums.onigirionegai.info/viewtopic.php?t=24][forums post]] I have set up for this exact purpose, however, the forum does require registration and I understand that there may be some who do not want yet another account they have to remember. For that reason I have several other methods you can use. For example, if you have a GitHub account already, you can use the Utterance box below to single your interest in a commission. I'll try to keep things going through GitHub, but may need another e-mail. You can skip that by just [[mailto:yayoi_chi@icloud.com?subject=Commission!][e-mailing]] me directly. Finally, if none of these suit you, check out my Steam, Mastodon, or Matrix accounts at the bottom of these and every page. We'll discuss things over the DMs there! Whatever is most comfortable for you.
+* How will you pay me?
+At this time all pricing will be discussed before I start your commission. Once we have decided on a price you are willing to pay, I will send you a payment link for $50 dollars. This is a deposit and it is not refundable. Once you pay that, I will begin work. Depending on how we establish payments you may receive other payment links or one final link for the full price after work is completed. You will be expected to pay that link before the final commission is delivered to you.
+
+All payment is processed through Stripe. Stripe is a third-party payment processor. This is done to ensure protection for both you, as the client, and myself, as the artist. If you have any further questions on payment, we can discuss them, but no other payment processor will be accepted and I do not accept cash, check, or money order.
