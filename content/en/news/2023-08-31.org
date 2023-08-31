@@ -1,0 +1,21 @@
+#+TITLE: Added a few things
+#+DATE: 2023-08-31T16:20:15-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+This was originally going to be called, "More about commission", but I didn't want to confuse anyone especially since the site ordered this right below the actual [[{{% ref "/commissions.org" %}}][about commissions]] page. This is this week's news article not just another section talking about commissions. I mean that was one thing I added though this week though!
+
+* I want commissions!
+Yeah, so commissions are actually kind of fun for me. They give me an excuse to draw /and/ I get paid so win-win maybe. Anyway, I know I mentioned them a little bit in the last news article, but I felt that I didn't really give them enough attention, so I added a dedicated page that talks about them in a bit more detail. This includes things I feel I'm good at and am more than willing to draw for you as well as things I absolutely won't draw. I also go into more detail on how to get a hold of me and how payments are likely to work. This was only one addition though.
+* New gallery section!
+I decided that it would be best to showcase commissions that I have permission to showcase sperately from other art work of mine. For that reason, I created a new [[{{% ref "/gallery/commissions" %}}][gallery section]] for commissions specifically. I know that's a *LOT* of commisssion-related things, but I really like doing them!
+* More Fiesta stuff
+I've been playing a lot more Fiesta Online. I haven't discovered /anything/ odd about my guide since the last time, but I'm keeping my eyes opened. So far it hasn't really inspired any new ADVENTURES either. Mostly I've just be leveling BabyYayo, my younger character. That gets a bit reptitive, but I'm hoping to have some ADVENTURES with her soon. I'll keep you all posted.
+* I have a fleet!
+Also I've been playing "No Man's Sky" still. I'm actually surprpised. I mean I go over a lot of my surprises about the game itself it my [[{{% ref "/reviews/no-mans-sky.org" %}}][firt impressions]], but I'm also surprised that I'm playing two games at once still. I tend to drop old games whenever I start something new. As I mentioned though I have a fleet now and am really enjoying that aspect of the game. I'll write more about that when I put together a full review later.
+* The streak continues
+Honestly, I wasn't sure what I would say or do for the site this week until last night. I was worried I'd break my streak, but, as you can see, I have not. Hopefully I keep this site alive! Any suggestions you have though, feel free to let me know using the links at the bottom or the text box below this page!
