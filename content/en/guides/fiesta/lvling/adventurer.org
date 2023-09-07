@@ -3,6 +3,7 @@
 #+DRAFT: false
 #+DESCRIPTION: Bone-fide adventurers are characters leveling from 121-135, these are their stories
 #+TAGS[]: guide leveling quests
+#+WEIGHT: 4
 #+TYPE: guide
 #+KEYWORDS[]:
 #+SLUG:
@@ -17,7 +18,7 @@ lot of good friends. Trust me, this really helps 😜 Regardless, there are
 still a few levels left and loooots of repeatable quests to get through
 so onward to ADVENTURE.
 
-** How Best to Exploit repeatables from 121 to cap, according to Yayoi
+* How Best to Exploit repeatables from 121 to cap, according to Yayoi
    :PROPERTIES:
    :CUSTOM_ID: how-best-to-exploit-repeatables-from-121-to-cap-according-to-yayoi
    :END:
@@ -26,7 +27,7 @@ a looooooooot of prequests, but they are pretty much essential for
 leveling now, so there isn't much you can do about it, sadly. Just
 hunker down, grab some friends, and grind, grind, grind.
 
-*** Levels 121-123
+** Levels 121-123
     :PROPERTIES:
     :CUSTOM_ID: levels-121-123
     :END:
@@ -40,7 +41,7 @@ Lie">"Suspicious Basilone". That is seriously a lot 😵‍💫, but it will
 unlock "Continues Suspicion", a fairly good rep, and give you quite a
 lot of exp to boot, so it isn't all bad.
 
-*** Levels 124-126
+** Levels 124-126
     :PROPERTIES:
     :CUSTOM_ID: levels-124-125
     :END:
@@ -50,7 +51,7 @@ If you want to unlock the two repeatables each on has a bit of a quest chain:
 1. "The Henneath Alliance power is needed." > "Basilone's decision" > "Vale Megantereon's threat"
 2.  "The Henneath Alliance power is needed." > "Basilone's decision" > "Nicolas's decision" > "Jey's decision" > "Vale Snowy Wolf's threat"
 
-*** Level 125
+** Level 125
     :PROPERTIES:
     :CUSTOM_ID: levels-125-126
     :END:
@@ -61,7 +62,7 @@ prequests: "Ancient Scriptures (1-5)>"Oh Captain, My Captain!
 that, you'll gain two reps "Their Health Is In Danger" and "Nighttime
 disurbance". In the right spot, both reps can be done together.
 
-*** Level 126-128
+** Level 126-128
     :PROPERTIES:
     :CUSTOM_ID:  level-126
     :END:
@@ -75,7 +76,7 @@ merchant in Isle of Eya for the prequest and then a /second/ one for the
 rep. Just make sure to keep the basket in your inventory until your
 done.
 
-*** Levels 128-130
+** Levels 128-130
     :PROPERTIES:
     :CUSTOM_ID: levels-128-130
     :END:
@@ -84,7 +85,7 @@ better with a full party of droppers. Just look for "Serben and His
 Woods". The first will be a non-repeatable, turn it back into to Serben
 to get the repeatable version.
 
-*** Levels 130-135
+** Levels 130-135
     :PROPERTIES:
     :CUSTOM_ID: levels-130-135
     :END:

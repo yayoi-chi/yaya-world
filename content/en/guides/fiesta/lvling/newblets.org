@@ -4,6 +4,7 @@
 #+DESCRIPTION: Newblets are still figuring things out, but they ain't babies no more. These are characters leveling 41-80.
 #+TAGS[]: guide leveling quests
 #+TYPE: guide
+#+WEIGHT: 2
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
@@ -20,7 +21,7 @@ right quests. For now though, it is best to exploit Tower of Iyzel to
 get you to 41 or 42 than you should run around completing various 40-42
 level quests until you reach level 43.
 
-** How best to exploit repeatables from level 43-80, in Yayoi's opinion
+* How best to exploit repeatables from level 43-80, in Yayoi's opinion
    :PROPERTIES:
    :CUSTOM_ID: how-best-to-exploit-repeatables-from-level-43-80-in-yayois-opinion
    :END:
@@ -30,7 +31,7 @@ the best way to level a character. This is simply how I like to do
 things. If you are in a guild academy and managed a discord invite, see
 if your guild has a guide and feel free to experiment.
 
-*** Level 43-44
+** Level 43-44
     :PROPERTIES:
     :CUSTOM_ID: level-43-44
     :END:
@@ -46,7 +47,7 @@ if your guild has a guide and feel free to experiment.
    while a friend kills em. Don't forget to heal your friend if they
    need it.
 
-*** Level 45-49
+** Level 45-49
     :PROPERTIES:
     :CUSTOM_ID: level-45-49
     :END:
@@ -59,7 +60,7 @@ after completing the first two "Best Broomstick" quests requires 15
 Warebear Arm bit Hairs. Ware Bears are a bit tougher, but can probably
 still be soloed by all classes accept clerics.
 
-*** Level 49-52
+** Level 49-52
     :PROPERTIES:
     :CUSTOM_ID: level-49-52
     :END:
@@ -68,7 +69,7 @@ Collapsed Prison portal. Right at this portal is a mob called Mini
 Lips. These will drop "Mini Lips' Lips" if you have the quest "Mannequin
 Lips". Pick up 10 of these and turn in. Repeat until you reach level 52.
 
-*** Level 52-55
+** Level 52-55
     :PROPERTIES:
     :CUSTOM_ID: level-52-55
     :END:
@@ -78,7 +79,7 @@ Unbreakable Chisel". You can pick up this quest from the quest list at
 level 52. This is a fairly easy and quick (especially with a killer) way
 to get to level 55.
 
-*** Level 55-60
+** Level 55-60
     :PROPERTIES:
     :CUSTOM_ID: level-55-60
     :END:
@@ -89,7 +90,7 @@ ten of them. Once you turn this quest in, you can pick up "Escape from
 Concealed Prison 2". You now need to kill 20 prisoners for a turn in,
 but this is a repeatable and a fairly easy way to reach level 60.
 
-*** Level 60
+** Level 60
     :PROPERTIES:
     :CUSTOM_ID: level-60
     :END:
@@ -97,7 +98,7 @@ Unfortunately, many of the above quests have expired or simply don't
 provide enough experience to help you get to level 61, so now you can do
 all the other quests you've neglected up until now. Have fun 😝!
 
-*** Level 61-70
+** Level 61-70
     :PROPERTIES:
     :CUSTOM_ID: level-61-64
     :END:
@@ -110,7 +111,7 @@ require a party. I should have a CC runner to help you though.
 3. What I do?
 4. Reward for Dark Crystal 3 (this is the repeatable)
 
-*** Level 65-67
+** Level 65-67
     :PROPERTIES:
     :CUSTOM_ID: level-65-67
     :END:
@@ -118,7 +119,7 @@ Greenkies repeat is the easiest way to clear this two levels. Do get you
 need to clear "Dreadful Forest Elf 1". The repeatable is "Dreadful
 Forest Elf 2". Crystal Cave is, however, still available!
 
-*** Level 69-70
+** Level 69-70
     :PROPERTIES:
     :CUSTOM_ID: level-69
     :END:
@@ -128,7 +129,7 @@ many guides still omit it. Truthfully, I would only use it if I need a
 few more exp to get to 70, but its always there if you need it. It is
 called "Hair Remover" and is available at level 68, no prequests needed.
 
-*** Level 71-74
+** Level 71-74
     :PROPERTIES:
     :CUSTOM_ID: level-71-74
     :END:
@@ -140,19 +141,19 @@ that regular quests can no longer be turned in at the quest list as of
 level 60, personally, I hate that). Once you've done that you can pick
 up "Navar Mercenaries 2" from Marty and only count the kills.
 
-*** Level 74-75
+** Level 74-75
     :PROPERTIES:
     :CUSTOM_ID: level-74-76
     :END:
 The repeatable quest "Nina's Revenge" becomes available at level 74. This is often referred to as the "Nox Rep". It is a fairly quick rep, but I have not run it myself for a while.
 
-*** Level 74-76
+** Level 74-76
 :PROPERTIES:
 :CUSTOM_ID: level-75-76
 :END:
 Another repeatable quest that overlaps the one above a bit is "Goodbye, Nightmare!" This is referred to as the "Blue Archon rep" and you'll be killing those. This is fairly quick and easy. If you like to take a break for Nox, you can switch between the two 😉
 
-*** Level 77-79
+** Level 77-79
     :PROPERTIES:
     :CUSTOM_ID: level-77-79
     :END:
@@ -166,7 +167,7 @@ quest. In the right conditions you can get to 79 vary quickly. The
 repeatable is "Monster Collector 2", and its available once you have
 turned in "Master Collector 1"
 
-*** Level 79
+** Level 79
     :PROPERTIES:
     :CUSTOM_ID: level-79
     :END:
@@ -175,7 +176,7 @@ Nix". Fire Nixes can be killed by a character at this level with some
 ease, but, as always, gathering them and having someone kill them with
 an AOE is much faster.
 
-** More Information
+* More Information
    :PROPERTIES:
    :CUSTOM_ID: more-information
    :END:

@@ -4,6 +4,7 @@
 #+DESCRIPTION: Babies are levels 1-40
 #+TAGS[]: guide leveling quests
 #+TYPE: guide
+#+WEIGHT: 1
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
@@ -28,7 +29,7 @@ level especially if you have a friend or two to level babies with. Below
 are a few repeatables you can do together to make things faster,
 especially after level 30, if you want 😉
 
-** Repeatable Quests (level 1-39)
+* Repeatable Quests (level 1-39)
    :PROPERTIES:
    :CUSTOM_ID: repeatable-quests-level-1-39
    :END:
@@ -58,7 +59,7 @@ especially after level 30, if you want 😉
 - Bone Imp Bags 3 - Bone Imp Bags from Bone Imps - Level 39 - Available
   after completing Bone Imp bags 2
 
-** What to do at level 40?
+* What to do at level 40?
    :PROPERTIES:
    :CUSTOM_ID: what-to-do-at-level-40
    :END:

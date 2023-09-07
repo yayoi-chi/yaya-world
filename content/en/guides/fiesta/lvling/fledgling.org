@@ -4,6 +4,7 @@
 #+DESCRIPTION: Fledging Adventurers are characters from level 81-120, not their yet, but almost.
 #+TAGS[]: guide leveling quests
 #+TYPE: guide
+#+WEIGHT: 3
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
@@ -14,7 +15,7 @@ leveled. Things will start to go really fast or depressingly slow
 depending on the guild you are in, the money you have amassed, or the
 friends you have. This is kinda just how it is in Fiesta, unfortunately.
 
-** How best to exploit repeatable from level 81-120, according to Yayoi
+* How best to exploit repeatable from level 81-120, according to Yayoi
    :PROPERTIES:
    :CUSTOM_ID: how-best-to-exploit-repeatable-from-level-81-120-according-to-yayoi
    :END:
@@ -25,7 +26,7 @@ and money they'll help you level really quickly, if you don't than you
 can still solo, or work with a group of close friends your level, and
 still level, but it'll be slower.
 
-*** Level 80-90
+** Level 80-90
     :PROPERTIES:
     :CUSTOM_ID: level-80-90
     :END:
@@ -38,7 +39,7 @@ still level, but it'll be slower.
 2. Alternatively, you can just do all the level 7x quests. There are a
    few somewhat boring reps mixed in there to help you get to 90.
 
-**** The slow way
+*** The slow way
      :PROPERTIES:
      :CUSTOM_ID: the-slow-way
      :END:
@@ -50,9 +51,9 @@ for some reason:
 3. Level 84-86 - Kidmon Rep - "Hans in Love"
 4. Level 85-88 - Toy Spade Rep - "Kidmon The Menance"
 5. Level 86-89 - Jewel Tree Rep - "Tree of Jewels"
-6. Level 89-90 - Lava Gargoyle Rep - "Attack of the Lava Gargoyles"
+6. Level 89-91 - Lava Gargoyle Rep - "Attack of the Lava Gargoyles"
 
-*** Level 90-101
+** Level 90-101
     :PROPERTIES:
     :CUSTOM_ID: level-90-105
     :END:
@@ -68,36 +69,34 @@ for some reason:
    a bit slower, but more than doable.
 3. Also, at this point you may begin to do [[{{% ref dailies.org %}}][daily quests]] from the Hunter's Union. These will allow you to earn tokens to exchange for items /and/ give you a bit of exp every day!
 
-**** The slow way
+*** The slow way
      :PROPERTIES:
      :CUSTOM_ID: the-slow-way-1
      :END:
 
 1. Level 90-94 - RS Rep - Complete the following: "Burning
    Cave">"Burning Cave 2" to unlock "My hunches never proves wrong" -
-   Rock Stone is also hard to kill for someone at this level, but I love
-   killing RS so just get [[https://forums.onigirionegai.info/viewforum.php?f=3][in-touch with me]], or you can have another high
-   level guildie or friend kill it for you while you turn in the rep.
+   Rock Stone is also hard to kill for someone at this level, but I love killing RS so just get [[https://forums.onigirionegai.info/viewforum.php?f=3][in-touch with me]], or you can have another high level guildie or friend kill it for you while you turn in the rep. Also, the spot in burning cave has a few gargoyles so it is possible to do both quests at once, at least for one level.
 2. Level 94-95 - Mandrake Rep - "Outlaw of the Swamp (Repeatable)" - 15 Kill per turn in now! Much better than doing all the other quests, but you /could/ still do those if you want.
 3. Level 96-97 - King Rhino Rep - "The Threats of King Rhinoce" - Pretty
    easy mini-boss, may even be able to solo him, but a higher level
    killer is faster.
 4. Level 98 - do all the 9x quests to get you to 99, if you're having difficulty reaching 99 even with [[{{% ref dailies.org %}}][daily quest]] and these normal quests, there is also the Ping Pig Horn rep - "Food Thief", but this is a drop quest and can be difficult to in a party, so it is /not/ recommended.
-*** Level 99-101
+** Level 99-101
 Whether you did or LN or not the next quest is "Personal Revenge", which is known as the "Slugs Rep" and should /not/ be confused with the "Mad slugs rep"!
-*** Level 101
+** Level 101
 The "Mad Slugs Rep" mentioned above is a good way to pass level 101, it isn't very good after that level, but it does remain available. You will have to unlock it though by completing a chain of quests starting with "Suspicious Big Mudmen". This will unlock "Fire on Hands and Feet" which will finally unlock "Unextinguishable Fire", which is this rep.
-*** Level 102-106
+** Level 102-106
 Next repeatable quest is "Black Bear Beatdown" or just BBs. It has been determined that this is now faster than Mad Slugs, though that is still available for you.
 
-*** Level 105
+** Level 105
     :PROPERTIES:
     :CUSTOM_ID: level-105
     :END:
 If you did LN above, then just do the BB rep mentioned in the slow way
 to get you to 106.
 
-*** Level 106-108
+** Level 106-108
     :PROPERTIES:
     :CUSTOM_ID: level-106-108
     :END:
@@ -108,7 +107,7 @@ you can join a party with a dedicated killer and this will go much
 faster. For these levels, you have the Fire Shellas rep ("Playing with
 Fire").
 
-*** Level 109
+** Level 109
     :PROPERTIES:
     :CUSTOM_ID: level-109
     :END:
@@ -117,7 +116,7 @@ do the 9x quests than this will be very quick. Otherwise, the quests in
 OLT are here and they are also fairly quick with any other quests you
 saved up. OLT is best tackled with a party though.
 
-*** Level 110-116
+** Level 110-116
     :PROPERTIES:
     :CUSTOM_ID: level-110-111
     :END:
@@ -125,7 +124,7 @@ Nepu Nepu Neeeeep! Its time for the Nep rep. Complete "Collecting
 Twister Crystals" before getting the repeatable version. Believe it or
 not, there is nothing to collect for this rep, just killing.
 
-*** Level 112-116
+** Level 112-116
     :PROPERTIES:
     :CUSTOM_ID: level-112-116
     :END:
@@ -134,7 +133,7 @@ rep ("Threats for Temporary Settlement 2"). It is important to note that
 you will have to completely The Mean Leipoons rep a twice times before the
 Shellas rep shows up. Its weird, but true.
 
-*** Level 116-118
+** Level 116-118
     :PROPERTIES:
     :CUSTOM_ID: level-116-118
     :END:
@@ -147,7 +146,7 @@ a ton of money by doing "The Workshop Master is making a weapon"
 (available at 117) while you are doing the wrenches rep, not to mention
 this boosts your exp too. It should be mentioned that "Noisy Animals 2" is also a repeatable quest and can be done the same time as wrenches.
 
-*** Level 118-121
+** Level 118-121
     :PROPERTIES:
     :CUSTOM_ID: level-118-121
     :END:
@@ -163,7 +162,7 @@ of Valiere and Hilda 3". After /aaall/ these quests, you'll finally get
 
 I've learned something just recently. There are a quite a few quests that you can do during this level, including a ton of repeatables. Junks is, by far, the fastest way, but it can be dangerous because of all the Astan's nearby. For this reason I recommend having a good party with someone tanky to pull and a good killer that could, if needed, one-shot the Astans if they get close. Bonus, a party should be able to tell you exactly where to stand, sit on your mount, or rest during the rep to minimize your likelihood of dying, however, if you don't have a lot of friends, there are easier, but slower reps. As I mentioned, a *TON* of them. Just don't get discouraged by how slow you gain exp. Also, if your in a guild that likes to do Siren's Castle raids and has a few good runners, ask if you can tag along for quests. This will be a good way to gain looots of exp at once, but be sure they are okay with you joining and it would probably good to spend some money on scrolls, tevas and charms, don't forget to grab all the dungeon quests, they should have a sword icon!
 
-** Congrats
+* Congrats
    :PROPERTIES:
    :CUSTOM_ID: congrats
    :END:

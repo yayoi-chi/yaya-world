@@ -9,7 +9,7 @@
 #+SUMMARY:
 
 When I first wrote my last [[{{% ref guides %}}][guide]] the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it's time for an update to the guide 😉. So, here's some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have /not/ tried some of these suggestions alone. If you have better suggestions, though, let me know, you can comment on this page with a GitHub account, or send me an e-mail!
-** Dailies, Dailies, Dailies, and more Dailies
+* Dailies, Dailies, Dailies, and more Dailies
 :PROPERTIES:
 :CUSTOM_ID: dailies-dailies-dailies-and-more-dailies
 :END:
@@ -19,7 +19,7 @@ Your best bet for a while at least is to continue to do the [[{{% ref dailies.or
 + 137 - 11.02%
 + 138 - 9.07%
 + 139 - 4.60%
-** New Reps!
+* New Reps!
 :PROPERTIES:
 :CUSTOM_ID: new-reps
 :END:
@@ -27,5 +27,5 @@ There are new reps for you to complete as well. Well a couple anyway.
 + Yuna 3 (135-136)
 + Soul Rep (136-138)
 + Bug Rep (138-139)
-** Questing
+* Questing
 The [[http://fiesta-wiki.com/quests/13][fiesta wiki]] offers a few options for quests for this level range. It has been recommended to relay on dailies and reps until at least 139. This will allow you to save your quests for when normal quests are suuuper in-effective, and hopefully make that last level just a little faster.
