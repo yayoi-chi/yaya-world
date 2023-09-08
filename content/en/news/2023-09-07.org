@@ -1,0 +1,18 @@
+#+TITLE: I wrote a thing!
+#+DATE: 2023-09-07T17:46:55-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Well, as of writing this I am still technically /writing/ a thing. I started it thought so, yeah...😆 Anyway, aside from writing a new [[{{% ref "adventures/baby-back2school.org" %}}][ADVENTURE]], I also made a few more adjustments to my [[{{% ref "guides/fiesta/lvling/" %}}][fiesta leveling guide]]. This week though it is mostly about writing!
+* About the adjustments
+After racking my brain for a bit and looking at some Hugo documentation and found a way to re-order the list for the individual leveling guides. It seemed like all the guides were kind of just in whatever order they were created or something and that made it a bit difficult for me to find the write guide. They should all be in the right order though. Babies on top all the way to God-like Adventurer's at the bottom. Of course the level range for each guide is still available in its description so you'll know which guide to open based on what level your characters are.
+
+Once a guide is open you can use the list on the side to find your level and find what rep or set of quests to do. Speaking of this, back when I wrote the guides in Markdown, I started all the headers at a second level so the title of the page could be the first. This is not needed anymore because the Hugo template handles that. I finally went through and adjusted all the headers so they are correct now.
+
+Finally, I made a noted on the [[{{% ref "guides/fiesta/lvling/fledgling.org" %}}][fledgling adventure]] guide that you can still do gargoyles up until 91 and even gave a strategy on doing both RS and gargoyles at the same time, if you want. Personally I found it difficult, but that was probably because I was juggling the quest *and* killing at the same time. If you have a friend to keel for you, it will probably work out better.
+* New ADVENTURE
+Technically, as of right now, I am still writing this, but I wanted to go ahead and talk about it now. It should be available the same time this news articles goes up anyway. I was inspired by my friends and the changing of the seasons so I wrote (or am writing) a little short story about BabyYayo, one of my Fiesta characters. She going back to school. I hope you like it. If you have a GitHub account, don't hesitate to comment on it! If you don't have a GitHub account you can still let me know through my socials linked at the bottom of this page! Now I am going to head over and finished hat story! Gotta make sure it goes up with this article after all 😄

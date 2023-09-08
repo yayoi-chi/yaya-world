@@ -1,6 +1,6 @@
 #+TITLE: Baby's Goes Back 2 School
 #+DATE: 2023-09-06T21:19:06-07:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+TYPE: story
 #+TAGS[]:
@@ -90,4 +90,30 @@ BabyYayo didn't mind being dragged over to Ruby. She had learned a lot thanks to
 
 "A and R," Baby explained, "A is Abestol and R is Ruins!"
 
-"What I smart sister I have!" Yayoi_chi exclaimed. She set their destination for Abestol Ruins and soon they were in the small village. "But don't think this means you get to skip school!" the girl added.
+"What a smart sister I have!" Yayoi_chi exclaimed. She set their destination for Abestol Ruins and soon they were in the small village. "But don't think this means you get to skip school!" the girl added. Baby sighed, it seemed that even her adventuring wouldn't save her from school. Of course, she knew all to well just how stubborn her sister could be.
+#+ATTR_HTML: :alt Yayoi_chi has a surprise for BabyYayo :width 20% :align right :title what now?
+[[/~yayoi/images/babyback2school-surprise2.png]]
+
+After asking around for a bit, the pair finally found where to pick up a uniform and school supplies. Baby was feeling very encumbered as she carried all of the new supplies in the few bags she had. As she tried to juggle have everything, her sister took her by the shoulder. "I have a surprise," she said with a wink. /What now?/ Baby wondered.
+
+Yayoi_chi stopped by the storage keeper. She let go of her sister's hands. "Wait here," she said with another wink. Baby let out a sigh and watched as her sister chatted with the storage keeper for a few minutes. Fortunately, she was gone too long. "All set," the older sister said, "let's get you into your uniform."
+
+"What!?" BabyYayo complained, "Now!?" Yayoi nodded while she pushed her sister off into one of the nearby buildings. She found a quiet room and handed her younger sister the uniform they just purchased.
+* Did you think I'd make you go alone?
+#+ATTR_HTML: :alt Yayou_chi reveals the true master plan :width 20% :align left :title surprise!
+[[/~yayoi/images/babyback2school-together.png]]
+
+BabyYayo put on the uniform and stepped out of the private room her sister had found. She expected to see her sister, but Yayoi_chi was no where to be seen. "Did she leave me here?" the girl asked. She plopped herself on a nearby bench, only to stand right back up at the slightest sound of a door opening. It was her sister and she was also wearing a school uniform. "Oneechan!" Baby called.
+
+"I never said you'd be going to school alone," Yayoi_chi stated.
+
+"Oneechan," Baby said with a smile.
+
+"Now we can be partners in school ADVENTURES!" Yayoi_chi proclaimed.
+
+"Onee~~chan!!" Baby shouted!
+
+-Fin-
+
+#+ATTR_HTML: :alt BabyYayo is now ready for school! :width 40% :title uniform!
+[[/~yayoi/images/babyback2school-fin.png]]
