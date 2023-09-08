@@ -1,4 +1,4 @@
-#+TITLE: Baby's Goes Back 2 School
+#+TITLE: Baby Goes Back 2 School
 #+DATE: 2023-09-06T21:19:06-07:00
 #+DRAFT: false
 #+DESCRIPTION:
