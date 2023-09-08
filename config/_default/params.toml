@@ -93,7 +93,7 @@ enableComment = true
 commento = false
 
 [utterances]       # https://utteranc.es/
-  owner = "jjon-saxton"              # Your GitHub ID
+  owner = "yayoi-chi"              # Your GitHub ID
   repo = "yaya-world"               # The repo to store comments
   message = ""      # Optional
   link = ""         # Optional
