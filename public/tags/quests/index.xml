@@ -21,74 +21,6 @@
 
       
       <item>
-        <title>Quests</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
-        <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 08 Dec 2022 21:08:03 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/quests/</guid>
-        <description>This guides will help you with unlocks, skill boosts, and other quests you encounter throughout the story of the game. All of these are outside of dungeons</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
-            
-          
-            
-              <category>skills</category>
-            
-          
-            
-              <category>quests</category>
-            
-          
-            
-              <category>wip</category>
-            
-          
-            
-              <category>p4g</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Special Events</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/events/</link>
-        <pubDate>Sat, 29 Oct 2022 14:39:45 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sat, 29 Oct 2022 14:39:45 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/events/</guid>
-        <description>short guides for special events in Fiesta!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>quests</category>
-            
-          
-            
-              <category>guide</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Babies</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
@@ -211,6 +143,74 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
           
             
               <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Quests</title>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
+        <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 08 Dec 2022 21:08:03 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/quests/</guid>
+        <description>This guides will help you with unlocks, skill boosts, and other quests you encounter throughout the story of the game. All of these are outside of dungeons</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>skills</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+            
+              <category>wip</category>
+            
+          
+            
+              <category>p4g</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Special Events</title>
+        <link>https://onigirionegai.info/~yayoi/guides/fiesta/events/</link>
+        <pubDate>Sat, 29 Oct 2022 14:39:45 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sat, 29 Oct 2022 14:39:45 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/events/</guid>
+        <description>short guides for special events in Fiesta!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>quests</category>
+            
+          
+            
+              <category>guide</category>
             
           
         

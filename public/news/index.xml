@@ -14,11 +14,30 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 31 Aug 2023 16:20:15 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 17:46:55 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>I wrote a thing!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-09-07/</link>
+        <pubDate>Thu, 07 Sep 2023 17:46:55 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 07 Sep 2023 17:46:55 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-09-07/</guid>
+        <description>Well, as of writing this I am still technically writing a thing. I started it thought so, yeah…😆 Anyway, aside from writing a new ADVENTURE, I also made a few more adjustments to my fiesta leveling guide. This week though it is mostly about writing!
+About the adjustments After racking my brain for a bit and looking at some Hugo documentation and found a way to re-order the list for the individual leveling guides.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Added a few things</title>
