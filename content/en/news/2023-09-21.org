@@ -1,0 +1,23 @@
+#+TITLE: New ADVENTURE Series!
+#+DATE: 2023-09-21T15:25:32-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+During my break I decided to do some productive things instead of just playing video games. I mean I do that too, but not /just/ that 😝 One of those new things is getting back in to creative writing. While this week's update likely won't feature it, I have started a new series of short stories. Of course I'm also now about halfway through [[{{% ref "guides/p4g/" %}}][Persona 4 Golden]] so I've been updating my guide for that finally!
+
+* More progress means beeger walkthrough!
+First, I /have/ made more progress in Persona 4 Golden. I've gotten through July and the beginning of August. I believe this will put me around the halfway mark as I believe the game goes through one full calendar year. Now I am not really focusing on quests at the moment, so that part of the guide is still not there, I am also only focusing on some club activities and jobs, so the social link guides will also come later. Okay, if I'm honest, right now, all that I have been working on is the general [[{{% ref "guides/p4g/walkthrough.org" %}}][walkthrough]]. I am working on Nanako's Social Link as well, but have reached a bit of a snag due to early game laziness. Once I'm able to progress, I think I'll write a bit on that so that people can avoid the mistakes I made and, I'll hopefully get more information up on other social links and clubs and jobs and how to combine the two. For now though, enjoy the walkthrough. I'll probably have to break it up at some point as it is getting to be pretty long, but I'll worry about that later 😅
+* New ADVENTURE!
+I am actually using Hugo's draft capabilities! Normally, I just leave the draft variable set to false because I write and proofread new guide additions, peektures, and news articles within the week. This means that /most/ new additions are finished /before/ the next update. This doesn't seem to be the case for my stories though. They'll take a little longer, so I have set the first one to draft and it won't show up just yet. I'll give you a bit of a sneakpeek though.
+** RE[BASE]
+The new ADVENTURE is called RE[BASE] and will follow the cute adventures of a thirteen year-old girl named Allana who is an avid gamer. For reasons that will be explained in the story, Allana now spends most of her time at home with her sister, Trista, playing MMO's and chatting to friends on Discord. Occasionally her friends come over to hang out and antics ensue. It's meant to be a kind of "slice of life" or "cute girls doing cute things" kind of story that takes my quarantine experience from when I had COVID as well as the experience of what it was like when COVID first started and blows it up.
+** RE[BASE]/Format
+While there is an overarching story, and some potential pitfalls and plot twists. Each episode will be designed as a short story with self-contained plots. I'm doing this because I noticed that I tend to give up pretty early in my stories, so I'm hoping a series of short stories would be more manageable, plus, if I don't get to certain parts, it'll be okay because you could just enjoy the individual little stories.
+** RE[BASE]/Pictures
+Though I will be changing draft to false as soon as a story is completed, ensuring availability as soon as I publish the next week's updates, I plan on illustrating parts of the story. These illustrations will be added as they are completed. I don't want to hold back a story because I'm waiting to finish a drawing. Please keep checking back, and checking my galleries, so you don't miss the illustrations!
+* Break
+I have completed my first residency and am currently on break! 🥳 I've been using my time for writing, playing video games, and watching anime. Its been nice to have the time to work on hobbies. Hopefully I'll throw some drawing in there too before break is over. Not looking forward to my next class, but I'm hoping to do well. Look forward to new art, new stories, and more updates to guides over the next couple of weeks!

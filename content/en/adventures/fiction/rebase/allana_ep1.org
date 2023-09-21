@@ -1,0 +1,22 @@
+#+TITLE: RE[BASE] Allana: Hello World!
+#+DATE: 2023-09-20T10:41:34-07:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+TYPE: story
+#+TAGS[]: original adventure allana rebase
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+#+attr_html: :style font-family: monospace; font-size: 0.9em
+This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
+
+
+* About Me
++Hello everyone+! I was in Discord not too long ago with a friend of mine. He's a programmer and said he worked on one of my favorite massively multiplayer online role-playing games, oh god, spelling all that out is rough, no wonder we usually just say MMORPG, any way, he said the first thing he learns how to do when he learns a new programming language is print "Hello World" somehow. He said it is different and sometimes it isn't even something you print to a user's screen, not even sure how it would work when learning to build a video game, but I like it! So instead of "Hello everyone!" I'll change it to /Hello world/!
+
+Hello world! My name is Allana, I am thirteen years old and I used to spend time outside of school just playing video games. I know, so weird for a girl, right? I mean what self-respecting teenage girl would just go to school, barely talk to anyone, then come home and spend the rest of her day playing video games? Like no one right?
+
+Well, I do! I guess I should explain a few things about me before we continue. I mean, you're going to be getting to know a /lot/ about me, I think. I mean that's the plan. Its the whole reason I'm writing this. So here, we go! I am, how did Trishta put it, adorably shy. I don't like to talk to anyone except my sister, that's Trishta, and /maybe/ a couple of people in class, Momo is kind of nice and very understanding and cute and I should probably move on before this whole thing ends up all about Momo. Anyway, when I am called on, I shuffle in my seat awkwardly and try to talk until the teacher calls on someone else. I'm not stupid, and it isn't just Momo and Trishta that say that, I just can't handle other people. Because I'm like that, anyone who approaches me to talk, even if they are just asking how my weekend was, ends up with the same mumbling mess the teacher gets and usually Momo steps in. To be honest, I'm not really sure how I ended up friends with Momo. I do remember when we first met. It was back in elementary school.
+
+* Hello Momo!
