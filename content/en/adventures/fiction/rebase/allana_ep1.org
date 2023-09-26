@@ -1,34 +1,34 @@
 #+TITLE: RE[BASE] Allana: Hello World!
 #+DATE: 2023-09-20T10:41:34-07:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+TYPE: story
-#+TAGS[]: original adventure allana rebase
+#+TAGS[]: original adventure allana rebase momo
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: This is an original story which introduces a set of new characters having ADVENTURES. In this installment you will meet Momo, a girl who adores her shy classmate, but may have a bit of an attitude...not to mention, a mouth.
 
 #+attr_html: :style font-family: monospace; font-size: 0.9em
 This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
 
 
 * About Me
-+Hello everyone+! I was in Discord not too long ago with a friend of mine. He's a programmer and said he worked on one of my favorite massively multiplayer online role-playing games, oh god, spelling all that out is rough, no wonder we usually just say MMORPG, any way, he said the first thing he learns how to do when he learns a new programming language is print "Hello World" somehow. He said it is different and sometimes it isn't even something you print to a user's screen, not even sure how it would work when learning to build a video game, but I like it! So instead of "Hello everyone!" I'll change it to /Hello world/!
++Hello everyone+! I was in Discord not too long ago with a friend of mine. He's a programmer and said he worked on one of my favorite massively multiplayer online role-playing games, oh god, spelling all that out is rough, no wonder we usually just say MMORPG, anyway, he said the first thing he learns how to do when he learns a new programming language is print "Hello World". He said it is different and sometimes it isn't even something you print to a user's screen, not even sure how it would work when learning to build a video game, but I like it! So instead of "Hello everyone!" I'll change it to /Hello world/!
 
 Hello world! My name is Allana, I am thirteen years old and I used to spend time outside of school just playing video games. I know, so weird for a girl, right? I mean what self-respecting teenage girl would just go to school, barely talk to anyone, then come home and spend the rest of her day playing video games? Like no one right?
 
-Well, I do! I guess I should explain a few things about me before we continue. I mean, you're going to be getting to know a /lot/ about me, I think. I mean that's the plan. Its the whole reason I'm writing this. So here, we go! I am, how did Trista put it, adorably shy. I don't like to talk to anyone except my sister, that's Trista, and /maybe/ a couple of people in class, Momo is kind of nice and very understanding and cute and I should probably move on before this whole thing ends up all about Momo. Anyway, when I am called on, I shuffle in my seat awkwardly and try to talk until the teacher calls on someone else. I'm not stupid, and it isn't just Momo and Trista that say that, I just can't handle other people. Because I'm like that, anyone who approaches me to talk, even if they are just asking how my weekend was, ends up with the same mumbling mess the teacher gets and usually Momo steps in. To be honest, I'm not really sure how I ended up friends with Momo. I do remember when we first met. It was back in elementary school.
+Well, I do! I guess I should explain a few things about me before we go on. I mean, you're going to be getting to know a /lot/ about me, I think. I mean that's the plan. Its the whole reason I'm writing this. So here, we go! I am, how did Trista put it, adorably shy. I don't like to talk to anyone except my sister, that's Trista, and /maybe/ a couple of people in class, Momo is kind of nice and very understanding and cute and I should probably move on before this whole thing ends up all about Momo. Anyway, when I am called on, I shuffle in my seat awkwardly and try to talk until the teacher calls on someone else. I'm not stupid, and it isn't just Momo and Trista that say that, I just can't handle other people. Because I'm like that, anyone who approaches me to talk, even if they are just asking how my weekend was, ends up with the same mumbling mess the teacher gets and usually Momo steps in. To be honest, I'm not really sure how I ended up friends with Momo. I do remember when we first met. It was back in elementary school...
 
 * Hello Momo!
 There I was that one fateful day at the beginning of fall quarter. I had just entered the fourth grade and was gearing up for another year of stammering and stumbling and awkwardly trying to make it through each day. Little did I know, this would be a far more awkward day then I have ever experienced.
 
-First, when I sat down I just about slid right out of my chair. I manged to catch myself before my bum hit the floor, but not before my brand new skirt caught the edge of the chair and was just about yanked straight up. I stood quickly and straightened by skirt, but now everyone was staring at me. I blushed and sat down almost as quickly as I stood up. I put my had between my arms, on my desk, and closed my eyes hoping I would soon no longer feel the burning gaze of my classmates on my back.
+First, when I sat down I just about slid right out of my chair. I manged to catch myself before my bum hit the floor, but not before my brand new skirt caught the edge of the chair and was just about yanked straight up. I stood quickly and straightened by skirt, but now everyone was staring at me. I blushed and sat down almost as quickly as I stood up. I put my head between my arms, on my desk, and closed my eyes hoping I would soon no longer feel the burning gaze of my classmates on my back.
 
-Just as I was beginning to feel comfortable, I heard something. "Allana," it was faint but familiar, "Allana!" Was someone saying my name? "ALLANA!!" My had shot up. The teacher had been calling me. He shook his head. "Come to the board and solve this problem!" It was probably my worst nightmare. In third grade me and my teacher had an understanding, if they don't call on me during class, I would stay late each day and help her clean up. Actually, I liked my third grade teacher, she was very nice, and would even let me help her grade quizzes and look over lesson plans. Of course, I was in fourth grade now, and had a completely different teacher. I think this was even his first year at this school.
+Just as I was beginning to feel comfortable, I heard something. "Allana," it was faint but familiar, "Allana!" Was someone saying my name? "ALLANA!!" My head shot up. The teacher had been calling me. He shook his head. "Come to the board and solve this problem!" It was probably my worst nightmare. In third grade me and my teacher had an understanding, if she didn't call on me during class, I would stay late each day and help her clean up. Actually, I liked my third grade teacher, she was very nice, and would even let me help her grade quizzes and look over lesson plans. Of course, I was in fourth grade now, and had a completely different teacher. I think this was even his first year at this school.
 
-I slowly stood up. With shaking legs and tried to make my way to the front of the class. I kept my head down so I wouldn't see the faces of my classmates. If I couldn't see them then maybe, just maybe they would all disappear and this would be easier. Of course, that isn't how things worked and my heart just kept racing faster and faster until I got to the board. My eyes couldn't even focus on what was written. "Teach!" someone called.
+I slowly stood up, with shaking legs, and tried to make my way to the front of the class. I kept my head down so I wouldn't see the faces of my classmates. If I couldn't see them then maybe, just maybe, they would all disappear and this would be easier. Of course, that isn't how things worked and my heart just kept racing faster and faster until I got to the board. My eyes couldn't even focus on what was written. "Teach!" someone called.
 
-"No one help her!" the teacher, obviously angry, probably thought I was sleeping, shouted.
+"No one help her!" the teacher, obviously angry, he probably thought I was sleeping, shouted.
 
 "Dude, you stupid something?" the voice continued. At first I thought it was talking about me and I was just about ready to cry, but something really unexpected happened.
 
@@ -38,7 +38,7 @@ I slowly stood up. With shaking legs and tried to make my way to the front of th
 
 The voice was probably referring to another time I was called up at the end of second grade. I had collapsed and woke up in the nurse's office. Guess they were worried that would happen again. Maybe they even thought that's why I was never up in third grade. "Listen!" The teacher shouted "I don't appreciate my /students/ telling me how to teach. You will *ALL* sit quietly and wait for her to finish the problem!"
 
-"Hell, its your funeral, but won't you look like just the worst teacher if she does pass out. You think we'll have respect you then?"
+"Hell, its your funeral, but won't you look like just the /worst/ teacher if she /does/ pass out. You think we'll have /any/ respect left you then?"
 
 "First, watch you language! Second, if you're so worried, why don't you come up and solve it for her then!?"
 
@@ -46,15 +46,15 @@ The voice was probably referring to another time I was called up at the end of s
 
 "That's utterly wrong," the teacher said. "I'll see *both* of you after class." The girl dropped the chalk and stomped back to her seat.
 
-I tried to sneak away after class, but the girl game right up to my desk just before I stood up. "Where do you think your going?" she questioned.
+I tried to sneak away after class, but the girl came right up to my desk just before I stood up. "Where do you think your going?" she questioned.
 
 "I-I-" I started.
 
-"Relax, I'm just playing with you." The girl said. "I'm Momo."
+"Relax, I'm just messing with you." The girl said. "I'm Momo."
 
 "A-A-" I tried to tell her my name, but it kept getting stuck.
 
-"Allana," I know. "I transferred in last year. Heard a bit about you. Some people think your the most stuck up bitch in class, oh oops. Sorry my mom is always threatening to wash my mouth out. Umm.. anyway I didn't believe them. You seem very sweet, if not a little shy."
+"Allana," I know. "I transferred in last year. Heard a bit about you. Some people think your the most stuck up bitch in class, oh oops. Sorry my mom is always threatening to wash my mouth out." The girl place her hand on the back of her head and tried to look embarrassed, "Umm.. anyway I didn't believe them. You seem very sweet, if not a little shy."
 
 "Are you two delinquents finished introducing yourselves?" someone asked.
 
@@ -62,11 +62,11 @@ I tried to sneak away after class, but the girl game right up to my desk just be
 
 "You're ten, you better learn how to respect your elders."
 
-"Yeah, yeah," said Momo, "I heard that before. You can let Allana go home or what?"
+"Yeah, yeah," said Momo, "I heard that before. You going to let Allana go home or what?"
 
 "Allana!" the man began. "Were you sleeping in class?"
 
-"Dude, what is your deal!?" Momo asked. "Just let it go, she wasn't sleeping in class."
+"Dude, what /is/ your deal!?" Momo asked. "Just let it go, she wasn't sleeping in class."
 
 "I'm sure she can speak for herself!" the teacher exclaimed.
 
@@ -78,8 +78,10 @@ I tried to sneak away after class, but the girl game right up to my desk just be
 
 "Fine! Allana, you can go home." I wasn't sure what exactly Momo was implying when she said that or how it got him to change his attitude so quickly, but I was glad it was all over.
 
-Just before we parted ways I did something I never thought I'd do to anyone but Trista. I threw my arms around Momo, "Thank you," I whispered in her ear as clearly as I'm writing this now. It was the first time I said anything without stumbling that wasn't directed at my sister.
+Just before we parted ways, I did something I never thought I'd do to anyone but Trista. I threw my arms around Momo, "Thank you," I whispered in her ear as clearly as I'm writing this now. It was the first time I said anything without stumbling that wasn't directed at my sister.
 
-"Hey," Momo said, "any time." I think I held on a bit too long, because she soon started squirming. I let go and we have been inseparable sense.
+"Hey," Momo said, "any time." I think I held on a bit too long, because she soon started squirming. I let go but we've been nearly inseparable sense.
 
 I don't if Momo had said something to that teacher or to the principle about him, or what happened after that day. All I know, is I was never called on again that entire year.
+
+Sorry, I know I said this wasn't going to be all about Momo. Guess I was wrong. Momo and I are just very close, so I can't help but write about her a lot.
