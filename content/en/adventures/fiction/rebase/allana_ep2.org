@@ -1,0 +1,50 @@
+#+TITLE: RE[BASE] Allana: First Quest
+#+DATE: 2023-09-26T11:04:38-07:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+TYPE: story
+#+TAGS[]: allana trista original adventure rebase
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Allana's sisters launches a hairbrained scheme to get her sister to learn social skills in hopes of helping her break free from her adorably shy nature. It has somewhat mixed results, but Trista absolutely won't give up on her cute sister!
+
+#+attr_html: :style font-family: monospace; font-size: 0.9em
+This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
+
+* Origin of Quest
+Okay, so now you are all very familiar with my interesting classmate and best friend, Momo, but I didn't really explain too much about myself or my sister. You probably have one big question in particular. Well maybe I can answer that one first. I'm shy right, you should've got that from [[{{% ref "allana_ep1.org" %}}][the other post]], but I like MMORPGs which are massively multiplayer, meaning lots of people, so how exactly does that work? Well, I'm not exactly sure, but I can tell you how I started playing those kinds of games.
+
+First I should probably mention, MMORPGs aren't the only games I play. In fact, they are far from the first games I played. That title goes to FantasyQuest, the original one, before they were even numbered and way before Fantasy Quest Online. In fact, I always loved the stories JRPGs told and the characters and the boss rights and strategy and just everything about them. I'm pretty sure my sister used that against me, to be honest. Not that I mind now, but this is how she introduced me to MMORPGs.
+
+It was two years ago. I came home after my fairly usual school day. It wasn't a particularly good day, or a really bad day, it was just a day. I got out of my school clothes and into something more comfortable. By this time I was re-gifted our old SFC console and one of the old living room TVs, both had been set up across from my bed. How I play games is a little different now, but back then I would just sit, cross-legged, on the edge of my bed, controller in hand a the TV remove right next to me.
+
+So, I was just sitting there, completely sucked into the world of FantasyQuest III (the last one released for the SFC and the latest one I could play). I heard my door open as I was in the middle of a boss fight, and someone sat on my bed behind me, but I was too focused on the boss to pay much attention. To her credit, my sister waited through two failed attempts to beat the boss, before I defeated it before she tapped my shoulder. I paused the game and looked behind me. She wasn't just sitting on my bed, she was also holding something. It was her laptop. "I wanted to show you something," she said.
+
+* Quest Start
+I had no idea what to expect. My sister and I had played a few casual games together. In fact, we stilled played Drive City Revolution and Cart Racer Xtreme on the newer Play Box in the living room from time-to-time, but I didn't really see her as much of a gamer. To be honest, I thought she was only playing those games as an excuse to hang out with me seeing as I was usually not far from a game of some kind. I'm still not sure I was entirely wrong, but soon I heard a familiar song playing. If fact, it was a song I just heard only with a full orchestra. "FantasyQuest!?" I questioned.
+
+My sister turned her laptop screen toward me. I saw a familiar logo along with the much fuller and richer opening theme song, and awesome fully 3D background and a couple of boxes that replaced the typical ~press 'start' to begin your quest~ that always appeared below the logo even on the demo copy of FantasyQuest X I saw in stores. In fact, there was also something written under the FantasyQuest logo, which was styled eerily similar to the original logo. "FantasyQuest Online," my sister corrected just as I read the new word.
+
+It hadn't donned on me that this was a FantasyQuest game that was running on a laptop and not a console until after Trista said that. "Wait? FantasyQuest on PC?" I asked.
+
+"Yep, it's an MMO," my sister explained as if that made a difference. Oh, my poor sister, even the original DreamStation had a modem, but I guess we never owned that console or that addon so I suppose I could let that go.
+
+"MMO?" I asked, up until this point I was fairly familiar with games, but not the online scene or really even the internet, so those letters didn't mean anything to me yet.
+
+"Well, MMORPG, it means a massively multiplayer online role-playing game," Trista added.
+
+"That sounds," I began. At first it sounded cool, a new FantasyQuest with new quests and I could do them with people. Then those last two words stuck around in my head and I was suddenly feeling anxious. "Scary."
+
+"No," Trista replied, "its fun. I already started a character and I really enjoy it. I'm level 30 already and I just got the game last night. Plus I bet we could even run it on the living room PC the requirements seem kind of low."
+
+"But, what about all the people?" I questioned.
+
+"I told you, I'm level 30, I can just carry you for a bit. You won't even need a party. We'll just play together, just the two of us," My sister assured, "but, if you're up for it, I have made a few friends. I could introduce you. All the talking is over text chats so you don't have to worry about stumbling. No one even pays attention if you reply super late."
+
+"I don't know," I said.
+
+"Tell you what, we'll just get a character set up for you tonight. If you play you play, if you don't, that's fine, you can go back to FantasyQuest III."
+
+"Okay," I agreed. Didn't seem like it would hurt much. Spoiler, my FantasyQuest III game stayed paused well passed dinner.
+
+* Quest Complete!
