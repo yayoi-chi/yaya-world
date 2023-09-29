@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>rebase on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/rebase/</link>
+    <description>Recent content in rebase on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Sep 2023 19:31:16 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/rebase/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>RE[BASE] is Up!</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-09-28/</link>
+        <pubDate>Thu, 28 Sep 2023 19:31:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 28 Sep 2023 19:31:16 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-09-28/</guid>
+        <description>Hello everypeep,
+It&amp;#39;s been another week and with another week another update. This time I am pleased to announce that I am releasing the first episode of a multi-part series of short stories that I am calling RE[BASE]. I&amp;#39;ve been spending most of my time working on this story and some art relating to it. Mostly trying to get character designs done. I&amp;#39;m also working on a secret project, shh, don&amp;#39;t tell anyone.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>rebase</category>
+            
+          
+            
+              <category>allana</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>RE[BASE] Allana: Hello World!</title>
+        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
+        <pubDate>Wed, 20 Sep 2023 10:41:34 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Wed, 20 Sep 2023 10:41:34 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
+        <description>This is an original story which introduces a set of new characters having ADVENTURES. In this installment you will meet Momo, a girl who adores her shy classmate, but may have a bit of an attitude…not to mention, a mouth.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>original</category>
+            
+          
+            
+              <category>adventure</category>
+            
+          
+            
+              <category>allana</category>
+            
+          
+            
+              <category>rebase</category>
+            
+          
+            
+              <category>momo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
