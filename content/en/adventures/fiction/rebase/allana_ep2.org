@@ -3,7 +3,7 @@
 #+DRAFT: true
 #+DESCRIPTION:
 #+TYPE: story
-#+TAGS[]: allana trista original adventure rebase
+#+TAGS[]: allana tabitha original adventure rebase
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY: Allana's sisters launches a hairbrained scheme to get her sister to learn social skills in hopes of helping her break free from her adorably shy nature. It has somewhat mixed results, but Tabitha absolutely won't give up on her cute sister!
@@ -48,3 +48,25 @@ It hadn't donned on me that this was a FantasyQuest game that was running on a l
 "Okay," I agreed. Didn't seem like it would hurt much. Spoiler, my FantasyQuest III game stayed paused well passed dinner.
 
 * Quest Complete!
+#+attr_html: :style font-family: fantasy,serif
+Welcome, adventurer, to the world of Gaia. A world of magical. A world of might. A world of wonder. In the fifth age men, elves, and fairies band together to protect the World Crystal, I giant mineral structure said to be the origin of all life, however, there are those that desire only destruction.
+
+After Tabitha opened a browser and walked me through the process of creating an account. I used it to log into the game where I was greeted by the introductory scene ripped straight from FantasyQuest and FantasyQuest II. There was only one difference. At the end of those two scenes, the player is taken straight to an inn and introduced to the main character. In this game, it said ~and so our story begins...~ and brought me to an entirely unfamiliar screen. "This is where you pick a class," my sister explained.
+
+I had remembered the classes from the website. Each class were based off staples from past FatasyQuest games. I spent more than a few minutes trying to decide between two ranged classes, gunner and archer. My sister wasn't much help either. She said that both were ranged DPS, as if that meant something to me, and played very similarly. She said archer dealt more damage over time while gunners had higher critical rates, which was something I sort of understood from the other games. In the end I picked a gunner. I made her female, called her Artemis and probably spent way too long trying to create the cutest gunner fairy anyone had ever seen. "A fairy?" Tabitha asked.
+
+"Why not?" I retorted.
+
+"Well, in this game, your race decides your build," Tabitha said. I'm pretty sure she was quoting a friend or the website, but I listened any way. "You see you only picked your starting class, you can have more jobs and more classes as you progress through the game all they do is decide what skills, armor, and weapons you use. Of course, armor and weapons can effect your stats while you wear them, but your base stats are decided by your race so they have more to do with your base build than your class. Fairies are more mystical in nature so they make good mages and priestesses. Gunner is a physical ranged DPS, so the well-rounded human is probably the best race for that class."
+
+"Humans are ugly," I said.
+
+"True," Tabitha laughed. "Well, I'm sure you can make a fairy work."
+
+Before she had even assured me that my choice could work I had already clicked ~start adventure~. My sister guided me as we both set on my bed, her laptop in my lap. We went through a few starter quests and I gained five levels mostly from talking. We were working on a particularly difficult quest when my sister got a text message. "You got this!" she said before leaving the room. I don't know how many times I had come close to dying, but I managed to kill all the groups of monsters, which I soon learned were called mobs, that I needed.
+
+It was about that time that I got a random friend request from a character named TabbyKat. I felt so anxious and was just about to decline it when I got a text from my sister. /It me/, it said /accept my friend request/. So, I clicked ~accept~, and soon a message popped up in chat. "/I'm here to help/," it was from TabbyKat, "/but I may have told a friend about the adorable fairy gunner my sister made, and they kind of want to see you. Is that okay? You don't have to talk./"
+
+My anxiety returned, but I didn't want to say no. My sister had been very helpful and I was really enjoying the game, so I took a deep breath and typed a reply. "/Sure,/" I said, "/if I don't have to talk, its fine./"
+
+That was not only when my love of MMOs started, but also when I learned that typing in a chat box was a lot easier than talking in a classroom. There were a lot of people in the game I didn't know, but it wasn't too bad. Most of them seemed pretty nice and everyone I met adored my character and seemed to even adore me. Finally I found a place where I felt comfortable talking and interacting with others. It was all thanks to my sister. I never found out how she had heard about FantasyQuest Online, but I was very glad she had.
