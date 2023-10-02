@@ -3,6 +3,7 @@
 #+DRAFT: true
 #+DESCRIPTION:
 #+TYPE: story
+#+WEIGHT: 2
 #+TAGS[]: allana tabitha original adventure rebase
 #+KEYWORDS[]:
 #+SLUG:

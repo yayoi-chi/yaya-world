@@ -2,6 +2,7 @@
 #+DATE: 2023-09-20T10:41:34-07:00
 #+DRAFT: false
 #+DESCRIPTION:
+#+WEIGHT: 1
 #+TYPE: story
 #+TAGS[]: original adventure allana rebase momo
 #+KEYWORDS[]:

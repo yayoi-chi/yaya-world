@@ -1,0 +1,50 @@
+#+TITLE: RE[BASE] Allana: Foreach Friend as Adventurer
+#+DATE: 2023-10-01T20:10:53-07:00
+#+DRAFT: true
+#+DESCRIPTION:
+#+WEIGHT: 3
+#+TYPE: story
+#+TAGS[]: allana tabitha momo rebase original adventure
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Allana convinces Momo to help her and Tabitha with a vital quest in FantasyQuest Online...
+
+#+attr_html: :style font-family: monospace; font-size: 0.9em
+This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
+
+* Its Dangerous to go Alone
+By now you met Momo and discovered how I, one of the most adorably shy people in the world, managed to fall in love with MMOs, but did you know those two things combined? I didn't think so. I'm getting a bit ahead of myself though. Let me first start with some things that happened more recently.
+
+Just last quarter, I was a normal middle school girl, okay, I was still a very shy middle school girl, but I was attending normal classes, but I passed out during second period. Not long after I was diagnosed with severe anemia. Fearing my safety at school, Tabitha begged for me to be allowed to stay home. She volunteered to help me get assignments and supervise me during the day. My doctor agreed with keeping me at home in bed, but not so much with Tabitha missing her own classes. Instead, I would stay home and Tabitha's only job was to make sure that she collected any homework assignments I had and give them to me at the end of the day. The doctors all thought that, with some medication, and supplements, I would be back in school in a few weeks. It has now been months. My teachers have all about given up on me. Most of them just say I've missed so much class that I would probably have to make up the grade anyway so that stopped sending homework home with my sister.
+
+Now I just lay around in bed most of the day. I play games on a handheld, but, when I feel up to it, I'll get up and log into FantasyQuest Online on my laptop. Oh, yeah! When I started FantasyQuest Online I was playing on my sister's laptop and she would log in downstairs on a family computer, but that quickly changed when she got a part time job and a new laptop. She gave me her old one and we played together with each of us in her room. She would play at her desk, and I would sit on the bed. We still did that sometimes, when she was back from school, even though I had my own desk now.
+
+On this day, I was sitting on the edge of my bed, I just grabbed my laptop (I usually kept it on my nightstand unless it needed to be charged or I was well enough to sit at the desk). I contemplated opening it and logging into FantasyQuest Online. Tabitha would be home soon, but I usually didn't play without her. Only, we were at a particularly difficult part and I wanted to grind a bit so I could get more levels and farm better gear to help out more. I thought it couldn't hurt to log in without her if I was planning on doing something so boring, so I opened the lid of the laptop. That's when Discord went off. I unlocked the screen. There was a message from Momo, "/Hey!/" it started. "/I haven't seen you at school. You okay?/"
+
+"/Been super tired lately/," I answered, "/doctors want me to stay home./"
+
+"/Bummer/," Momo responded, "/I really miss you. School isn't the same without the most adorable girl./"
+
+"/Awww/ 😊" I said, "/Thanks, I miss you too./"
+
+"/What have you been doing?/"
+
+"/Playing FantasyQuest Online and Dragon Ember./"
+
+"/Just playing games? Lucky./"
+
+"/I dunno about lucky,/" I said. "/Actually, do you want to play with me?/"
+
+"/I'm still in class, silly,/" Momo responded.
+
+"/I mean, when you get home,/" I added. "/Tabitha and I can help you start a character if you don't have one already./"
+
+"/Sure./" Momo agreed. "/That'll be helpful./"
+
+"/Okay. I'll talk to you after class?/"
+
+"/Sure./"
+
+With new purpose I logged into FantasyQuest Online and opened the character information window. Since I started this character, she was now level 60 is several jobs and classes. Of course, gunner was her highest class because I worked on it the most, but I wasn't sure how helpful my level 90 gunner would be to a new player. I had a level 60 white mage and a healer might just help Momo's new character a lot more than a damage dealer, but I also had a level 20 priestess, which also had a few healing spells, but also had buffs and a summon, plus the closer a party's levels are to one another the more evenly exp is distributed among the party. You see, when doing quests or killing mobs in FantasyQuest Online, players earn exp, these experience points help level your classes (and jobs, but exp is earned differently for jobs). When a player is in a party, experience from quests and mobs are shared by the party. The player who has the quest earns 50-90% of its experience depending on the level of the other party members, and they gain 5%-95% of exp from mobs. If the other party members are really high they'll gain much more experience than the lower level characters. A lot of player say this is to discourage power leveling, which is when a high level character carries a lower level character. If that is the reason I think it works really well.
+
+"Allana," I heard as I was still debating which class would be most helpful for Momo. "I'm home!" it was Tabitha, "and I'm not alone!"
