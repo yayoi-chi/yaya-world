@@ -1,6 +1,6 @@
 #+TITLE: RE[BASE] Allana: First Quest
 #+DATE: 2023-09-26T11:04:38-07:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+TYPE: story
 #+WEIGHT: 2
@@ -13,30 +13,30 @@
 This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
 
 * Origin of Quest
-Okay, so now you are all very familiar with my interesting classmate and best friend, Momo, but I didn't really explain too much about myself or my sister. You probably have one big question in particular. Well maybe I can answer that one first. I'm shy right, you should've got that from [[{{% ref "allana_ep1.org" %}}][the other post]], but I like MMORPGs which are massively multiplayer, meaning lots of people, so how exactly does that work? Well, I'm not exactly sure, but I can tell you how I started playing those kinds of games.
+Okay, so now you are all very familiar with my interesting classmate and best friend, Momo, but I didn't really explain too much about myself or my sister. You probably have one big question in particular. Well, maybe I can answer that one first. I'm shy right, you should've got that from [[{{% ref "allana_ep1.org" %}}][the other post]], but I like MMORPGs which are massively multiplayer, meaning lots of people, so how exactly does that work? Well, I'm not exactly sure, but I can tell you how I started playing those kinds of games.
 
-First I should probably mention, MMORPGs aren't the only games I play. In fact, they are far from the first games I played. That title goes to FantasyQuest, the original one, before they were even numbered and way before Fantasy Quest Online. In fact, I always loved the stories JRPGs told and the characters and the boss rights and strategy and just everything about them. I'm pretty sure my sister used that against me, to be honest. Not that I mind now, but this is how she introduced me to MMORPGs.
+First I should probably mention, MMORPGs aren't the only games I play. In fact, they are far from the first games I played. That would be FantasyQuest, the original one, before they were even numbered and way before FantasyQuest Online. In fact, I always loved the stories JRPGs told and the characters and the boss fights and strategy and just everything about them. I'm pretty sure my sister used that against me, to be honest. Not that I mind now, but this is how she introduced me to MMORPGs.
 
-It was two years ago. I came home after my fairly usual school day. It wasn't a particularly good day, or a really bad day, it was just a day. I got out of my school clothes and into something more comfortable. By this time I was re-gifted our old SFC console and one of the old living room TVs, both had been set up across from my bed. How I play games is a little different now, but back then I would just sit, cross-legged, on the edge of my bed, controller in hand a the TV remove right next to me.
+It was two years ago. I came home after my fairly usual school day. It wasn't a particularly good day, or a really bad day, it was just a day. I got out of my school clothes and into something more comfortable. By this time I was re-gifted our old Super Fairchild console and one of the old living room TVs, both had been set up across from my bed. How I play games is a little different now, but back then I would just sit, cross-legged, on the edge of my bed, controller in hand and the TV remove right next to me.
 
-So, I was just sitting there, completely sucked into the world of FantasyQuest III (the last one released for the SFC and the latest one I could play). I heard my door open as I was in the middle of a boss fight, and someone sat on my bed behind me, but I was too focused on the boss to pay much attention. To her credit, my sister waited through two failed attempts to beat the boss, before I defeated it before she tapped my shoulder. I paused the game and looked behind me. She wasn't just sitting on my bed, she was also holding something. It was her laptop. "I wanted to show you something," she said.
+So, I was just sitting there, completely sucked into the world of FantasyQuest III (the last one released for the SFC and the latest one I could play). I heard my door open as I was in the middle of a boss fight. Someone sat on my bed behind me, but I was too focused on the boss to pay much attention. To her credit, my sister waited through two failed attempts to beat the boss, before she tapped my shoulder. As I had just won the difficult boss, I paused the game for her and looked behind me. She wasn't just sitting on my bed, she was also holding something. It was her laptop. "I wanted to show you something," she said.
 
 * Quest Start
-I had no idea what to expect. My sister and I had played a few casual games together. In fact, we stilled played Drive City Revolution and Cart Racer Xtreme on the newer Play Box in the living room from time-to-time, but I didn't really see her as much of a gamer. To be honest, I thought she was only playing those games as an excuse to hang out with me seeing as I was usually not far from a game of some kind. I'm still not sure I was entirely wrong, but soon I heard a familiar song playing. If fact, it was a song I just heard only with a full orchestra. "FantasyQuest!?" I questioned.
+I had no idea what to expect. My sister and I had played a few casual games together. In fact, we stilled played Drive City Revolution and Cart Racer Xtreme on the newer Play Box in the living room from time-to-time, but I didn't really see her as much of a gamer. To be honest, I thought she was only playing those games as an excuse to hang out with me because I was usually not far from a game of some kind. I'm still not sure I was entirely wrong, but soon I heard a familiar song playing. If fact, it was a song I just heard only with a full orchestra. "FantasyQuest!?" I questioned.
 
 My sister turned her laptop screen toward me. I saw a familiar logo along with the much fuller and richer opening theme song, and awesome fully 3D background and a couple of boxes that replaced the typical ~press 'start' to begin your quest~ that always appeared below the logo even on the demo copy of FantasyQuest X I saw in stores. In fact, there was also something written under the FantasyQuest logo, which was styled eerily similar to the original logo. "FantasyQuest Online," my sister corrected just as I read the new word.
 
 It hadn't donned on me that this was a FantasyQuest game that was running on a laptop and not a console until after Tabitha said that. "Wait? FantasyQuest on PC?" I asked.
 
-"Yep, it's an MMO," my sister explained as if that made a difference. Oh, my poor sister, even the original DreamStation had a modem, but I guess we never owned that console or that addon so I suppose I could let that go.
+"Yep, it's an MMO," my sister explained as if that made a difference. Oh, my poor sister, even the original Dream Station had a modem, but I guess we never owned that console or that addon so I suppose I could let that go.
 
-"MMO?" I asked, up until this point I was fairly familiar with games, but not the online scene or really even the internet, so those letters didn't mean anything to me yet.
+"MMO?" I asked. Up until this point I was fairly familiar with games, but not the online scene or really even the internet, so those letters didn't mean anything to me yet.
 
 "Well, MMORPG, it means a massively multiplayer online role-playing game," Tabitha added.
 
 "That sounds," I began. At first it sounded cool, a new FantasyQuest with new quests and I could do them with people. Then those last two words stuck around in my head and I was suddenly feeling anxious. "Scary."
 
-"No," Tabitha replied, "its fun. I already started a character and I really enjoy it. I'm level 30 already and I just got the game last night. Plus I bet we could even run it on the living room PC the requirements seem kind of low."
+"No," Tabitha replied, "its fun. I already started a character and I really enjoy it. I'm level 30 already and I just got the game last night. Plus I bet we could even run it on the living room PC. The requirements seem kind of low."
 
 "But, what about all the people?" I questioned.
 
@@ -50,7 +50,7 @@ It hadn't donned on me that this was a FantasyQuest game that was running on a l
 
 * Quest Complete!
 #+attr_html: :style font-family: fantasy,serif
-Welcome, adventurer, to the world of Gaia. A world of magical. A world of might. A world of wonder. In the fifth age men, elves, and fairies band together to protect the World Crystal, I giant mineral structure said to be the origin of all life, however, there are those that desire only destruction.
+Welcome, adventurer, to the world of Gaia. A world of magic. A world of might. A world of wonder. In the fifth age men, elves, and fairies band together to protect the World Crystal, I giant mineral structure said to be the origin of all life, however, there are those that desire only destruction.
 
 After Tabitha opened a browser and walked me through the process of creating an account. I used it to log into the game where I was greeted by the introductory scene ripped straight from FantasyQuest and FantasyQuest II. There was only one difference. At the end of those two scenes, the player is taken straight to an inn and introduced to the main character. In this game, it said ~and so our story begins...~ and brought me to an entirely unfamiliar screen. "This is where you pick a class," my sister explained.
 
@@ -66,7 +66,7 @@ I had remembered the classes from the website. Each class were based off staples
 
 Before she had even assured me that my choice could work I had already clicked ~start adventure~. My sister guided me as we both set on my bed, her laptop in my lap. We went through a few starter quests and I gained five levels mostly from talking. We were working on a particularly difficult quest when my sister got a text message. "You got this!" she said before leaving the room. I don't know how many times I had come close to dying, but I managed to kill all the groups of monsters, which I soon learned were called mobs, that I needed.
 
-It was about that time that I got a random friend request from a character named TabbyKat. I felt so anxious and was just about to decline it when I got a text from my sister. /It me/, it said /accept my friend request/. So, I clicked ~accept~, and soon a message popped up in chat. "/I'm here to help/," it was from TabbyKat, "/but I may have told a friend about the adorable fairy gunner my sister made, and they kind of want to see you. Is that okay? You don't have to talk./"
+It was about that time that I got a random friend request from a character named TabbyKat. I felt so anxious and was just about to decline it when I got a text from my sister. /It's me/, it said, /accept my friend request/. So, I clicked ~accept~, and soon a message popped up in chat. "/I'm here to help/," it was from TabbyKat, "/but I may have told a friend about the adorable fairy gunner my sister made, and they kind of want to see you. Is that okay? You don't have to talk./"
 
 My anxiety returned, but I didn't want to say no. My sister had been very helpful and I was really enjoying the game, so I took a deep breath and typed a reply. "/Sure,/" I said, "/if I don't have to talk, its fine./"
 
