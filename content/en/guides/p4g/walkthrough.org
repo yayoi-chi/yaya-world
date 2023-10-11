@@ -29,9 +29,19 @@ The first two floors are fairly easy. Keep in mind that each floor is generated 
 
 After a few days I came back and got up to floor seven. On this floor you will encounter a sub boss. He isn't too difficult. I does appear to have an instant kill skill, and my use it against your female party members. Best to have some revival beads on you. He does nullify light-based skills, and I was not able to find a weakness, though darkness wasn't tested. I'll put the output of his analysis below
 
-| Name         | Lvl    | Archon   | Full HP | Full SP | Fire | Ice | Lightning | Light | Dark |
-|--------------+--------+----------+---------+---------+------+-----+-----------+-------+------|
-| Daring Gigas | 24 | Strength |     928 |     100 |      |     |           | Nul   | ?    |
+| Name         | Lvl | Archon   | Full HP | Full SP | Fire | Ice | Lightning | Light | Dark |
+|--------------+-----+----------+---------+---------+------+-----+-----------+-------+------|
+| Daring Gigas |  24 | Strength |     928 |     100 |      |     |           | Nul   | ?    |
+
+After reaching the 10th floor you will encounter Kanji and his shadow. Prepare for a fight! My strategy, however, was to get to the last floor by 6/3 that allowed me to take on these boss's with full HP/SP. The results of the analysis are below. Keep in mind that these guys appear to target female party members more, have opposing weaknesses, and can block each other's weaknesses. This makes for a challenging fight even on lower difficulties. The fight is far from impossible especially for a fully rested party.
+| Names        | Lvl | Archon  | Full HP | Full SP | Fire | Ice  | Lightning | Wind | Light | Dark |
+|--------------+-----+---------+---------+---------+------+------+-----------+------+-------+------|
+| Shadow Kanji | ?   | Emperor | ?       | ?       | -    | -    | Dr        | -    | Null  | Null |
+| Tough Guy    | ?   | Emperor | ?       | ?       | Wk   | Null | -         | Str  | Null  | Null |
+| Nice Guy     | ?   | Emperor | ?       | ?       | Null | Wk   | -         | Str  | Null  | Null |
+
+One final note: These bosses can cast poison and rage on the whole party. In my playthrough rage seemed to effect the female party members while males were less effected. Poison appeared to work the opposite. I'll update this when I have a chance to test it in other playthroughs
+
 ** 5/25
 On this date you will get a cutscene before school introducing you to a new job, the Tutor job. This is a job that you can go to at night, tues., thurs., and sat. it pays very well (10,000 yen per day), but requires high *understanding*.
 
@@ -45,14 +55,7 @@ There is another lecture on this day, but there is no quiz and it does not affec
 ** 6/1
 Rain sets in today. This is the game's warning that you will need to hurry and save Kanji. Marie is available this day as well. Also, it is good to remember that /some/ part-time jobs and clubs cannot be done on rainy days.
 ** 6/4
-This is it! This is your last day to save Kanji. You have not made much progress in his dungeon by this point it will be a fairly difficult fight. My strategy, however, was to get to the last floor by 6/3 that allowed me to take on these boss's with full HP/SP. The results of the analysis are below. Keep in mind that these guys appear to target female party members more, have opposing weaknesses, and can block each other's weaknesses. This makes for a challenging fight even on lower difficulties. The fight is far from impossible especially for a fully rested party.
-| Names        | Lvl | Archon  | Full HP | Full SP | Fire | Ice  | Lightning | Wind | Light | Dark |
-|--------------+-----+---------+---------+---------+------+------+-----------+------+-------+------|
-| Shadow Kanji | ?   | Emperor | ?       | ?       | -    | -    | Dr        | -    | Null  | Null |
-| Tough Guy    | ?   | Emperor | ?       | ?       | Wk   | Null | -         | Str  | Null  | Null |
-| Nice Guy     | ?   | Emperor | ?       | ?       | Null | Wk   | -         | Str  | Null  | Null |
-
-One final note: These bosses can cast poison and rage on the whole party. In my playthrough rage seemed to effect the female party members while males were less effected. Poison appeared to work the opposite. I'll update this when I have a chance to test it in other playthroughs
+This is it! This is your last day to save Kanji.
 ** 6/5
 Kanji returns! You will now have a few cutscenes to go through where the party will welcome Kanji to their group and discuss the case thus far. Congratulations on finishing the bathhouse!
 ** 6/6
@@ -93,7 +96,7 @@ After this fight the floor mazes will start to get a bit more complicated, and y
 | Names       | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
 |-------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
 | Shadow Rise | ?   | Lovers | ?       | ?       | -    | -   | -         | -    | Null  | Null |
-Shadow Rise has no weaknesses, but is more than capable of taking advantage of your weaknesses. She is able to use any basic elemental attack. I did not see evidence of light or dark attacks. At a certain point in the fight she will begin to analyze you (yeah I didn't see this coming at all). When this happens you will be unable to hit her. Just keep guarding for a few more turns to trigger dialog and a suprise twist.
+Shadow Rise has no weaknesses, but is more than capable of taking advantage of your weaknesses. She is able to use any basic elemental attack. I did not see evidence of light or dark attacks. At a certain point in the fight she will begin to analyze you (yeah I didn't see this coming at all). When this happens you will be unable to hit her. Just keep guarding for a few more turns to trigger dialog and a surprise twist.
 | Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
 |---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
 | Shadow Teddie | ?   | Moon   | ?       | ?       | -    | Dr  | -         | -    | Null  | Null |
@@ -103,10 +106,10 @@ It is after the twist that the real fight begins. Shadow Rise, was pretty easy a
 There is a lecture and a pop quiz today. The answer to the question is "Pascal"
 
 ** 7/7
-Another lecture and quiz this day. The answer to the question is "The Decleration of Independence"
+Another lecture and quiz this day. The answer to the question is "The Deceleration of Independence"
 
 ** 7/10
-So Teddie joins the party in a new capacity and new form (yeah that was also surprising) and our super cute idol Rise will join the party. She replaces Teddie as your analysist, however, so don't expect her to be fighting alongside you. Your homeroom teacher was murdered last night and his story appears today on the news.
+So Teddie joins the party in a new capacity and new form (yeah that was also surprising) and our super cute idol Rise will join the party. She replaces Teddie as your analyst, however, so don't expect her to be fighting alongside you. Your homeroom teacher was murdered last night and his story appears today on the news.
 
 ** 7/11
 You get a new homeroom teacher. Brace yourself for that, by the way, she isn't exactly any better than your last. Also, brace yourself for a barrage of cutscenes as everyone discusses the case so far.
@@ -143,12 +146,37 @@ You will get your test results today. How did you do? I gave you all the answers
 Time for a new midnight TV, nothing else happens. Just sit back and enjoy the story. In fact you can sit back for two days! You will meet the next day to try and figure out who the boy is. Actually you probably should sit around the second day. You /should/ go talk to Kanji real quick on the second day you'll need to do this if you want to open the next dungeon quickly.
 
 * Void Quest
-Have you found the culprit at last? Only one way to find out! Back into the TV with you! Keep in mind that summer vacation offically started 7/28, sorry I forgot to tell you. This means you will not have to worry about school or club activities. It also means those social links are blocked from progression at this time.
+Have you found the culprit at last? Only one way to find out! Back into the TV with you! Keep in mind that summer vacation officially started 7/28, sorry I forgot to tell you. This means you will not have to worry about school or club activities. It also means those social links are blocked from progression at this time.
 
 ** 7/28 - 7/29
-If you couldn't or didn't talk to Kanji, you should be able to do so now, also take his suggestion and talk to Doujima, though it doesn't seem helpful, you can actually use this to get some info out of Adachi, but not on the first day as he is probably not available. Better wait until the second, you'll learn from Adachi that the boy was a part-timer at one of the shops. In fact, it was Souzai Daigaku in the north section of the shopping district (the steak place). Once you talk to the owner there, you should see a boy with blonde hair and a school bag hanging around the tofu shop. You'll get a yearbook photo of the culprit from him. This will be all Risa needs to track him down. If, for some reason, he does not appear, the boy will appear again on 8/1, make sure you have completed all the steps above, before that time. I don't know when he'll show up again, but he does not show up on every day.
+If you couldn't or didn't talk to Kanji, you should be able to do so now, also take his suggestion and talk to Doujima, though it doesn't seem helpful, you can actually use this to get some info out of Adachi, but not on the first day as he is probably not available. Better wait until the second, you'll learn from Adachi that the boy was a part-timer at one of the shops. In fact, it was Souzai Daigaku in the north section of the shopping district (the steak place). Once you talk to the owner there, you should see a boy with blonde hair and a school bag hanging around the tofu shop. You'll get a yearbook photo of the culprit from him. This will be all Rise needs to track him down. If, for some reason, he does not appear, the boy will appear again on 8/1, make sure you have completed all the steps above, before that time. I don't know when he'll show up again, but he does not show up on every day.
 
 ** 7/29 - 8/12
-This dungeon is modeled after an old point-and-click-adventure game, or maybe an 8-bit RPG brought into a 3-D world, one of those two. If you have been leveling diligently, the shadows here will probably be pretty easy. Just, as always, watch your HP and SP and pace yourself. You have about two weeks to complete this dungeon. Chapter 3 and Chapter 7 will probably confuse you. Chapter three looks like a dead end, but you will be teleported around if you get close to some of the walls. Just be mindful of where you've been and how you got there to avoid backtracking and you should make it to the stairs. Chapter 7 will try to confuse you by moving your move direction and camera around on you. Just gotta power through that one, eventually you'll get to the stairs.
+This dungeon is modeled after an old point-and-click-adventure game, or maybe an 8-bit RPG brought into a 3-D world, one of those two. If you have been leveling diligently, the shadows here will probably be pretty easy. Just, as always, watch your HP and SP and pace yourself. You have about two weeks to complete this dungeon. Chapter 3 and Chapter 7 will probably confuse you. Chapter three looks like a dead end, but you will be teleported around if you get close to some of the walls. Just be mindful of where you've been and how you got there to avoid backtracking and you should make it to the stairs. Chapter 7 will try to confuse you by moving your move direction and camera around on you. Just gotta power through that one, eventually you'll get to the stairs. There are no sub-bosses in this dungeon, but there /is/ a fairly interesting, and tricky boss fight!
+| Names           | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|-----------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Mitsuo the Hero | ?   | ?      | ???     | ???     | -    | -   | -         | -    | Null  | Null |
+| Shadow Mitsuo   | ?   | ?      | ???     | ???     | -    | -   | -         | -    | Null  | Null |
+
+This dungeon is fashioned after an old-school RPG. At the beginning of this fight, Mitsuo will start by building his character. This creates the boxy shell known as Mitsuo the Hero. Mitsuo the Hero uses powerful attacks straight out of an RPG, including an old-style UI for you to enjoy. You must destroy this shell before you can hurt Shadow Mitsuo himself. Keep in mind Shadow Mitsuo a wall during the fight and will attack with the Ma-spell that matches it. Be mindful of your party's weaknesses and try to counter when you can. He will also attempt to rebuild his character, but you will have some warning when this is about to happen. Aside from being mindful of your weaknesses, there isn't much to this fight and you should not have too much difficulty winning.
+
 ** 8/3
 Marie will be available for you to have a good time with 😜
+
+** 8/7
+Marie is now available again. Keep in mind that you are on summer break now. You normal activities will not be available, but you will have much more free time for some of your other S-Links, including Marie.
+
+** 8/12
+This is your last change to confront Mitsuo. If you haven't reached chapter 10 in the dungeon by now, you must do so now, at all costs!
+
+** 8/13
+Marie is also available today. Your evening, however, will be spent with a lively "victory" dinner with Doujima, Nanako, and Adachi.
+
+** 8/15-8/19
+You will be given the opportunity to work at Junes to help Yosuke out. This will earn you 40,000 yen (by the way you'll also get 40,000 for Doujima if you talk to him at the right moment before this day). It will also net you some S-Link points for Chie and Yosuke. However, this all does come with a price. That is you will skip the entire week, so you won't be able to do anything else. It is a good way to fast track some boring days though. Its up to you if its worth it or not.
+
+** 8/20
+This is a story telling day. You'll attend the first day of the summer festival with friends. Enjoy the cutscenes!
+
+** 8/21
+You can choose to spend your evening with another summer festival day, this time with your favorite girl! This will skip the whole day though.
