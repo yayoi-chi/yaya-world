@@ -1,0 +1,22 @@
+#+TITLE: New Term, New Opportunities
+#+DATE: 2023-10-11T18:08:31-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Breaks always seem to go by way too fast. I mean I get three weeks between terms, but those same three weeks always seem to go by faster and faster. Fortunately, the first couple weeks of a new term are always fairly light so I don't have to worry so much right away. This week has been light enough that I've been able to do a lot of extra things. I haven't quite put together a full character sheet for Allana yet, so I don't really want to show her off, but I have made a lot of progress on her third episode, it should be ready by the time this goes up and I've made some more progress in Persona 4, there will be more in the walkthrough when this goes up too!
+
+* Writing a little early
+Right now I'm watching a friend streaming on Twitch. Seeing as its pretty calm and I don't have much homework to do, I figured I'd get a jump on this news article. You'll note the date is one day before it is going up! Remember, site updates are always up on Thursdays, so the dates don't always match when new content is available. This is especially important with my ADVENTURES since I usually start those at least a week before they are released. In fact, I have a friend who watches my RSS feeds (if you have an RSS feed aggregator, please subscribe to my feeds for immediate updates) and he got a little confused when the stories were released because his aggregator displays them by the date reported and unread pages, mostly the stories, would come up below things he knew he read. So now everyone gets a warning. This will happen, especially with the stories! The dates on pages is their creation date, that's the date I first started writing them. Keep that in mind!
+
+* More writing!
+As I mentioned episode three of [[{{% ref "adventures/fiction/rebase/allana_ep3.org" %}}][RE[BASE]]] should be out by the time this is released. I hope, by writing this a day before, I don't end up making a liar out of myself :sweatdrop: I've been having a lot of fun writing these little stories. Now that it is almost the middle of October, I don't know if I'll make the progress I wanted to on them, but I have plans if I can't. I'm not really holding myself to any particular release schedule. I've so far managed one episode a week, but I'm not sure if that'll keep up. So far I haven't suffered from any writer's block, just a mild case of lack of motivation, which I managed to overcome pretty quickly. Well, if I'm not a liar, than you'll have another episode to read! This one is looking to be a little longer than the other two, but it'll hopefully be just as entertaining if not more so!
+
+* More playing!
+I've mostly been watching my friend's livestreams, but I do managed to play video games some times. I'm not nearly up to where I was before my last term, but I am playing Persona 4 Golden again. I'm currently trying to get to the next part in the game. I've managed to get the [[{{% ref "guides/p4g" %}}][guide]] caught up though. By the time this goes up I should be about done with the summer break activities and almost to the next part. I'm thinking of splitting the walkthrough though. As it is now it is pretty hard to navigate even with the navigation tree on the right of the page (that is getting so long you have to scroll it independent of the page). So I'm thinking either of putting each dungeon into its own chapter, or splitting it by break. As you know I don't yet have the first part of the walkthrough since I kind of started it late. So it will be the pre-spring break part that will go up later, maybe during a second playthrough, then the spring to summer break sections and then the summer break to winter break sections. Right now, it'll all stay in one place though. I'll think about splitting it /after/ I start the first section again.
+
+* Less laziness!
+I'm proud of my progress this week. I think I battle my laziness and won! At least I did this week. I've been trying to get up and get everything ready at least an hour before school work and making sure I'm not in bed too early or too late. I think this has helped me stay focused and alert so far. I'll use these little news articles to keep you posted on my progress!
