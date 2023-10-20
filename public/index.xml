@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 11 Oct 2023 18:08:31 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 19:03:09 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -338,6 +338,24 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
               <category>about</category>
             
           
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>A Little Too Much Gaming?</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023-10-18/</link>
+        <pubDate>Wed, 18 Oct 2023 19:03:09 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Wed, 18 Oct 2023 19:03:09 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023-10-18/</guid>
+        <description>I guess I&amp;#39;ll start with a confession. There will be no episode of RE[BASE] this week. I&amp;#39;d like to point out that I said that I won&amp;#39;t necessarily be trying to maintain the once-a-week pace for episode releases. I also mentioned that releasing the first three episodes on that schedule was more because I was on break and had a lot of time. So, I would like to say its because I started back in classes so I don&amp;#39;t have the time I did when I was on break, but that&amp;#39;s not really true 😅</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
         
         
         
@@ -1164,11 +1182,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</link>
         <pubDate>Tue, 06 Dec 2022 21:38:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:38:37 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</guid>
         <description>This will walk you through everything you need to do in Persona 4: Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
