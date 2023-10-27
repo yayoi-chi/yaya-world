@@ -209,3 +209,39 @@ You will have after school on 9/7 to yourself, but your evening will be taken up
 
 ** 9/12
 A special report will be shown on TV. This report talks about the case and, most importantly, about Naoto. It will take away your evening though, so plan accordingly.
+
+** 9/14
+The rain lasts well into the night today. You will use this opportunity to watch the midnight channel. If you were paying real close attention you /might/ not be surprised when a faint image appears on the TV. After all even Naoto wasn't entirely convinced that the real killer was caught.
+
+** 9/15
+Time to discuss what everyone saw on the Midnight Channel after school. You'll also get the game's first back-to-back midnight channels and discovered that Naoto has gotten themselves thrown into the TV.
+
+* Secret Laboratory
+** 9/16
+Time to talk about the more clear transmission everyone got to see. Even though you and everyone else is aware of who is in the other world, Rise still has a bit of trouble discovering where they are. You'll have to look for clues. Fortunately I'll tell you the steps you need to take to find the clues you need. First you will need to head back to school. There is someone on the first floor, between classes 1-1 and 1-2 that heard a rumor about another student which had something of Naoto's. That student was spotted near the science labs, and, fortunately, is still there. This girl will tell you that she heard Naoto yelling and a police officer. Looks like you'll have to talk to one. Now there is currently one in the north end of the shopping district, but he won't talk to you. You need a reason for him to listen. Chie will give you an idea. Now I didn't know about this step on this day, so I talked to her on 9/17, but you should be able to talk to her today and then the first officer will give you your first clue, but I'll give you the events as I did them. You will also learn that another officer appears on the south end of the shopping district Tues, Thurs, and Sat, if you speak to the right NPC in the north end. They're near the police officer.
+
+** 9/17
+There's a quiz today. The answer is 40 minutes. Once school is out, head over to the flood plains (if you didn't/couldn't talk to Chie yesterday) and find Chie. She tells you what to say when you talk to the polices officers. Now you can find the officer in the south end of the shopping district. If you were able to talk to Chie already you can head directly to this officer and get your second clue. If you were not able to talk to her this is only your first clue. You need two clues to present to Rise before you can go looking for Naoto.
+
+** 9/18
+I'm going to put what you need to do to get into the next dungeon here, just note it seems its possible to do this in a different order and maybe get in a day earlier. If you only have one clue, find the other officer in the north end of the shopping district again and talk to him to get the second clue. Now head back to Junes and report to Rise. Tell her that Naoto is tired of being treated like a child and obsessed with this case. That'll be enough for you to start your exploration of the Secret Lab!
+
+** 9/17-?/??
+This dungeon is not as straightforward as the others, but doesn't present the same kind of challenge as the Void Quest. When you get to around B4F, yes in this dungeon your go downstairs instead of up, but that's not the real twist, you will come across a locked door. unfortunately something you need is behind that door. You'll have to go down a few more floors before you find a chest with an ID Card. Likely, this floor will also have a locked door but this ID Card doesn't unlock that door. You'll have to go back to the first locked door and use this item to open it to get access to a sub-boss which will have the key you need to open the second door. Yeah it's really that confusing.
+
+| Names              | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|--------------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| Dominating Machine |  53 | Justice |    3070 |     300 | -    | -   | -         | -    | Null  | Null |
+
+This is not a particularly difficult fight. It will buff its attack, this is usually an indicator that he will perform Herculean Strike, which is a power physical attack. I was able to freeze it up by debuffing attack after its buff. Do this a few times and follow up with your most powerful attacks and the fight should be over with out you taking much damage.
+
+Once you have the second key and take it to the second door you'll be able to proceed again. You'll find Naoto on B9F. Enjoy learned a bit more about them before you fight their shadow.
+
+| Names        | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|--------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| Shadow Naoto |  ?? | Justice |    ???? |     ??? | -    | -   | -         | -    | Null  | Null |
+
+Naoto doesn't really fight fair. As seems to be the norm with boss fights now, they have no weakness to speak of, but will nullify your party's resistances as well. Furthermore, while they also don't seem to have any light/dark skills, they do still have one instant kill skill. You'll want to make sure some of your party are able to survive a death blow (usually acquired at high enough S-Rank). When their HP gets low, they will start using Mute Ray which casts silence and steals both HP and SP from a single target. This is a difficult fight, but, if you focus on your strongest party and keep everyone's HP high you should be able to win. Also watch when everyone is buffed/debuffed and plan you attacks just right for the best damage possible.
+
+** 9/20 - 9/28
+Not much happens during this time. Its the perfect chance to work on S-Links and explore the Secret Lab. 9/20 does have a quiz in PE, the answer is: nonagenarian. There is a lecture on 9/24. but no quiz. 9/28 also has a lecture and quiz, the answer is: Throat.

@@ -1,6 +1,6 @@
 #+TITLE: RE[BASE] Allana: Party is Null
 #+DATE: 2023-10-22T11:47:55-07:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION:
 #+WEIGHT: 4
 #+TYPE: story
@@ -19,7 +19,7 @@ On one day in particular, I was lounging around the house by myself. I had gotte
 
 I was about two hours into the new story when I sat up and glanced around. I don't know what exactly I was looking for and I don't know exactly what got me to sit up, but I heard myself say, "I'm bored." Of course, I was the only one around to hear it. Maybe the new VN was not as interesting as some of the others I played, or maybe I was just tired of lying there pressing one or two buttons over-and-over again. Either way I saved the game and closed the handheld. I looked over at the clock on the wall above the living room TV. "It's a little too early for lunch," I said. Of course, I hadn't even had breakfast, but I usually didn't these days. I still didn't want to eat too early. "Why did I even bother getting up so early?"
 
-I paced for a bit then went into my room. I sat the handheld down and grabbed my laptop from the drawer in my nightstand. I set it up at my desk and stared at my wallpaper. I don't know what I was thinking. There wasn't much I could do on my laptop except watch videos on a larger screen or play FantasyQuest Online. I mentioned this before, but I usually waited until Tabatha got home before I played FantasyQuest. Of course, because of the time we spent playing with Momo, there were still some grinding that I wanted to do on my main class. I could just do that.
+I paced for a bit then went into my room. I sat the handheld down and grabbed my laptop from the drawer in my nightstand. I set it up at my desk and stared at my wallpaper. I don't know what I was thinking. There wasn't much I could do on my laptop except watch videos on a larger screen or play FantasyQuest Online. I mentioned this before, but I usually waited until Tabatha got home before I played FantasyQuest. Of course, because of the time we spent playing with Momo, there was still some grinding that I wanted to do on my main class. I could just do that.
 
 I opened the FantasyQuest Online launcher and just stared at it for a bit again, not sure if this is really what I wanted to do. Without my sister I'd be soloing, and I wasn't sure if that would be all that fun or if someone in our guild would make fun of me for being on so early or try to party me and get me to help them. I didn't mind helping out, when my sister was with me, but I wasn't sure I could handle it on my own.
 
@@ -42,15 +42,15 @@ A notification went off on my desktop as I stared at the launcher window, breaki
 "/Have fun too,/" the man sent. We exchanged a couple more smiley faces as the game loaded and that was the end of that conversation.
 
 * Soloing is not fun!
-Donning a simple farmer's frock with a blue striped bandanna, Artemis, set out from the city of Purinas, a wicker basket in hand. For the first time the lone fairy would be questing on her own. Tabitha and Momoko were both too busy. Artemis, of course, had too much time on her hand so she decided to take up the job herbalist. Her first task was to gather a fairly common herb, parsley. She was told exactly where to go to get it, but was also reminded that it grew pretty much all over the fields to the north and west of Purinas. She had used a transport stone to get her to the city and now set out in search of the herb.
+Donning a simple farmer's frock with a blue striped bandanna, Artemis, set out from the city of Purinas, a wicker basket in hand. For the first time the lone fairy would be questing on her own. Tabby and Momoko were both too busy. Artemis, of course, had too much time on her hand so she decided to take up the job herbalist. Her first task was to gather a fairly common herb, parsley. She was told exactly where to go to get it, but was also reminded that it grew pretty much all over the fields to the north and west of Purinas. She had used a transport stone to get her to the city and now set out in search of the herb.
 
 The fields to the north of the small city were not far off from the beach. Artemis could almost taste the salt water from the nearby ocean as she looked over the hills looking for parsley. There were plenty of herbs mixed in with the grasses and moss that covered the field just south of the small beach, but few seemed to be parsley and even fewer seemed to be ready to pick. "This is going to take forever," she muttered to herself as she finally located some parsley and started to gather it into her basket. The fairy looked over a slip of paper she was given when she joined the herbalist's guild. "I need 20 bundles!" she sighed.
 
 It was little wonder why Artemis, despite her small size, choose the life of adventurer. Beings a tradeswoman was hard work! Adventuring was mostly pretty easy. Sure, she had to fight sometimes and even had to take on some pretty dangerous monsters, but her firearms were usually enough to fell most beasts with relative ease. Gathering, on the hand, that required a lot of time and effort. Effort that her tiny body wasn't really prepared for.
 
-"19!" Artemis counted, "20!" she added. It seemed to take hours, in fact, the sun, which was high in the sky when she started, was now beginning to set. She was so tired that walking was becoming difficult. She flapped her beautiful, iridescent wings just long enough for them to carry her to a nearby tree. "Parsly, even fresh, won't spoil too quickly, right?" she asked herself. Naturally she wasn't about to actually wait for answer. Artemis sat her basket down next to the tree and placed her own weary body right against its trunk.
+"19!" Artemis counted, "20!" she added. It seemed to take hours, in fact, the sun, which was high in the sky when she started, was now beginning to set. She was so tired that walking was becoming difficult. She flapped her beautiful, iridescent wings just long enough for them to carry her to a nearby tree. "Parsly, even fresh, won't spoil too quickly, right?" she asked herself. Naturally she wasn't about to actually wait for the answer. Artemis sat her basket down next to the tree and placed her own weary body right against its trunk.
 
-Just as her eyes began to slide closed a noisy jolted her awake. It was her hearing stone. "/Artemis!/" someone called through the stone. She pulled the stone out, it was purple, someone was trying to get a hold of her directly.
+Just as her eyes began to slide closed a noise jolted her awake. It was her hearing stone. "/Artemis!/" someone called through the stone. She pulled the stone out, it was purple, someone was trying to get a hold of her directly.
 
 "Hello?" she replied.
 
@@ -88,12 +88,47 @@ Just as her eyes began to slide closed a noisy jolted her awake. It was her hear
 
 "/For sure! Hey, do you want to meet up? I have some herbs I can give you./"
 
-"Umm, that's okay, I just started. In fact, I'm just about to go turn in my first ever commision as a herblist." In truth, the thought of meeting up with one of Tabby's friends without her just felt kind of wrong and she was more than a little nervous.
+"Umm, that's okay, I just started. In fact, I'm just about to go turn in my first ever commission as a herblist." In truth, the thought of meeting up with one of Tabby's friends without her just felt kind of wrong and she was more than a little nervous.
 
 "/Trust me, it'll save you quite a lot of work later./"
 
 Artemis got up and dusted off her frock. "I'm going to turn in my quest in Ordin. You can meet me by the herblist's guild leader." She wanted to just leave or ignore his request, but the more she thought about it the more she felt like that would be rude. Besides, she couldn't say no to less work gathering later on.
 
-"/Works for me/," David agreed. Artemis gathered her basket, and the placed her small hands together. One simple chant later and she had disappeared from the peaceful field north of Purinas.
+"/Works for me/," David agreed. Artemis gathered her basket, and placed her small hands together. One simple chant later and she had disappeared from the peaceful field north of Purinas.
 
 * Is sister's friend my friend too?
+I didn't hear Tabatha come home after school. I didn't even hear her come in to my room. "Having fun without me?" She asked.
+
+"What!?" I questioned. I quickly sent a /BRB/ message to David in our party chat, and turned to face my sister, who had just plopped her school bag by my door and herself on my bed. "I-I was just...umm...I started a job and..."
+
+"Relax," Tabitha said. "I'm kidding. Actually, I'm happy to see you're on by yourself. Who are you in a party with?"
+
+"Oh," I said. "Um, its you're friend David, he was looking for you, but decided to help me work on my herblist."
+
+"Oh?"
+
+"Yeah. I started it because I was too bored for my VNs today."
+
+"Too bored for a VN, really?"
+
+"Yeah. I did some grinding to get ready for that epic quest we're doing, but then I decided to try a job."
+
+"That's great! You picked herblist, huh? That'll be good for your new priestess and fairies have a natural affinity for plants."
+
+"David said so too."
+
+"Well he is pretty good at the game, so I'm not surprised. I'll let you two get back to questing."
+
+"You sure you don't want to join us?"
+
+"I guess I could hop on, he /did/ say he was looking for me, right?" Tabitha said.
+
+"He did," I responded.
+
+"I'll get on then, maybe we can finish that epic quest before bed."
+
+"I'll ask David if he can help with that while you get set up," I suggested. Tabitha left my room and I sent a message in party chat to tell David that I was back. We finished up the commission I was on and then I told him about the quest Tabitha and I were on. He agreed to help and we headed to the right dungeon together, after inviting Tabitha to our party.
+
+It felt really good to make another friend. Sure, I had people, including David on my friend list, but they were all people who knew my sister and I rarely talked to them. For the first time ever I not only talked to one of my friends without my sister present, but even gathered some herbs and finished a few commissions together. What started as a kind of sad and lonely day ended with a fun party in a big dungeon and an epic boss fight with just three players. It was a long fight, but we won.
+
+Of course the entire dungeon and the boss fight took almost three hours and, by the time we were done it was time for a very quick dinner with some left overs from my sister's lunch and a bath. I decided I would go to bed at the same time as my sister today, but I had thought about staying up and seeing if I could maybe make another friend. One new friend a day was enough though, and I was tired after spending most of my day on FantasyQuest Online.
