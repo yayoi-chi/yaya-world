@@ -7,7 +7,7 @@
 #+TAGS[]: allana tabitha momo rebase original adventure
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Allana convinces Momo to help her and Tabitha with a vital quest in FantasyQuest Online...
+#+SUMMARY: Today we will answer the all-important question, is soloing in an MMORPG fun!? Allana tries to play FantasyQuest Online without her sister. It may go different than you'd expect!
 
 #+attr_html: :style font-family: monospace; font-size: 0.9em
 This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
