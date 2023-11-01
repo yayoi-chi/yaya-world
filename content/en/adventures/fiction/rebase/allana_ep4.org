@@ -4,7 +4,7 @@
 #+DESCRIPTION:
 #+WEIGHT: 4
 #+TYPE: story
-#+TAGS[]: allana tabitha momo rebase original adventure
+#+TAGS[]: allana tabitha rebase original adventure
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY: Today we will answer the all-important question, is soloing in an MMORPG fun!? Allana tries to play FantasyQuest Online without her sister. It may go different than you'd expect!
