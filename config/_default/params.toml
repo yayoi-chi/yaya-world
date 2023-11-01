@@ -148,8 +148,8 @@ commento = false
 # possible share name: "facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "whatsapp", "telegram"
 
 [[footerLinks]]
-  name = "Forums"
-  link = "https://forums.onigirionegai.info/viewforum.php?f=3"
+  name = "Discussions"
+  link = "https://github.com/yayoi-chi/yaya-world/discussions"
 [[footerLinks]]
   name = ""
   link = ""
