@@ -226,7 +226,7 @@ There's a quiz today. The answer is 40 minutes. Once school is out, head over to
 ** 9/18
 I'm going to put what you need to do to get into the next dungeon here, just note it seems its possible to do this in a different order and maybe get in a day earlier. If you only have one clue, find the other officer in the north end of the shopping district again and talk to him to get the second clue. Now head back to Junes and report to Rise. Tell her that Naoto is tired of being treated like a child and obsessed with this case. That'll be enough for you to start your exploration of the Secret Lab!
 
-** 9/17-?/??
+** 9/17-10/05
 This dungeon is not as straightforward as the others, but doesn't present the same kind of challenge as the Void Quest. When you get to around B4F, yes in this dungeon your go downstairs instead of up, but that's not the real twist, you will come across a locked door. unfortunately something you need is behind that door. You'll have to go down a few more floors before you find a chest with an ID Card. Likely, this floor will also have a locked door but this ID Card doesn't unlock that door. You'll have to go back to the first locked door and use this item to open it to get access to a sub-boss which will have the key you need to open the second door. Yeah it's really that confusing.
 
 | Names              | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
@@ -245,3 +245,12 @@ Naoto doesn't really fight fair. As seems to be the norm with boss fights now, t
 
 ** 9/20 - 9/28
 Not much happens during this time. Its the perfect chance to work on S-Links and explore the Secret Lab. 9/20 does have a quiz in PE, the answer is: nonagenarian. There is a lecture on 9/24. but no quiz. 9/28 also has a lecture and quiz, the answer is: Throat.
+
+** 10/02
+You can choose to hang out with the girls today. You don't have to, but you do get a few fun scenes while you are out shopping with them. Kanji even joins you, though Yosuke seems to have been smart enough not to show. If you do choose this, you will gain S-Link for all the girls and Kanji. Might help you with the S-Rank.
+
+** 10/03 - 10/05
+Other than 10/05 being the last day to save Naoto, not much happens during these three days. There are quizzes though. Here are the answers in order, starting with 10/04 as 10/03 is just a lecture: tug-of-war, and right edge.
+
+* Congrats!
+You have made it through the first half of the year and also about the first half of the game. There is a lot more to do though, but this walkthrough is getting long enough so I'm splitting it up. See you in part 2 (when its ready 😜).
