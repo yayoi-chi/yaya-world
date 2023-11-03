@@ -1,0 +1,23 @@
+#+TITLE: Spooky Month is Over 😢
+#+DATE: 2023-11-02T16:59:02-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+The month of October, also known as Spooky Month, is over. Halloween was one of my favorite holidays, but I, sadly, didn't do much this year. I am still sad to see the month go and, I was also reminded, there are only two months left in the year 😲. 2023 has gone by fast, huh?
+
+* Obligatory RE[BASE] update
+For reasons I'll get into a bit later, you will /not/ be seeing a new episode of RE[BASE] this week. Episode 5 will actually be a spooky day episode, but, no worries its not scary and not too late for a spooky day episode. I'm just said I didn't have the idea until spooky day and I've been busy since so I didn't have much time to write. Now the episode will be about a week late, sorry for that. It'll be worth the wait though, I hope.
+
+* New Responsibilities
+As well as being a full time student working on a PhD in Psychology, I had been working as an ABA therapist. I had quit that job at the start of my residency last quarter and was focusing on my studies. While I loved my clients, it was getting to be too much for me. However, I started a new job this week that I hope will help me gain the type of experience I can use in my future career. This is a new job as a graduate assistant supporting the learners at my university! I'm a bit nervous because, part of the job means conducting one-on-one and group tutoring sessions. I'm also excited though!
+
+However, the new responsibilities of this job have left me with a bit less time. In fact my mother's birthday and a meeting is the reason I didn't make as much progress as I wanted to on episode 5 of RE[BASE], which I /did/ start on Halloween. I'm excited for the new change though.
+
+* Speaking of New Changes...
+My host as run a forum using phpBB for awhile now, but no one really joins and we mostly just use the private messages to talk to each other. The forums that were linked on this site went there, but I decided that we can use GitHub discussions instead and have begun switching it up. I think I have caught most of the links, but let me know if I missed any. You have always needed a GitHub account to comment on the pages, but will now also need one for discussions. I think this is better than requiring one account for the forums and then *another* account for comments. They can all be done with one account now!
+
+This week I also finished part one of my [[{{% ref "guides/p4g/walkpt1.org" %}}][P4G Walkthrough]]. I just finished it so you won't see part two up yet. Soon though, part two will be there so don't be surprised. Also, I'm keeping the title as is until the second part is up, but you will be able to tell part one from two when the second part goes up!
