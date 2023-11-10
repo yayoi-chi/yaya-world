@@ -7,7 +7,7 @@
 #+SLUG:
 #+SUMMARY:
 
-So I wasn't /entirely/ wrong! I did say that before you read the [[{{% ref 2022-10-20.org %}}][last article]] that I would be proven wrong and that Gamigo would droup the halloween update. I even said I would be happy if they did. Well, so, they did just that! You heard me right we have all the halloween vibes we could ever want in most of the towns of Isya!
+So I wasn't /entirely/ wrong! I did say that before you read the [[{{% ref where-are-the-halloween-towns.org %}}][last article]] that I would be proven wrong and that Gamigo would droup the halloween update. I even said I would be happy if they did. Well, so, they did just that! You heard me right we have all the halloween vibes we could ever want in most of the towns of Isya!
 * Maze of Madness
 Like last year, there is far more going on than just a makeover for most of the cities and towns in Fiesta. There are also events! Now, you can read the full list on [[https://fiesta.gamigo.com/us/news/patch_notes-173][gamigo's news page]], but my favorite is the frustratingly fun Maze of Madness. This is where you have to navigate your way through a maze while avoiding a certain monster, if they hit you, your out and you have to start the maze all over again. As I said, it can be very frustrating, but it can also be very fun! Last year I loved to run through the maze with friends. Unfortunately they've mostly moved on to other games, but a few still run around with me, and that's great.
 #+ATTR_HTML: :alt pumpkin chasers

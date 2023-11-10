@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 22 Oct 2023 11:47:55 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 21:31:06 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>adventure</title>
         <link>https://onigirionegai.info/~yayoi/tags/adventure/</link>
-        <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/adventure/</guid>
@@ -41,7 +41,7 @@
       <item>
         <title>allana</title>
         <link>https://onigirionegai.info/~yayoi/tags/allana/</link>
-        <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/allana/</guid>
@@ -57,9 +57,27 @@
       </item>
       
       <item>
+        <title>momo</title>
+        <link>https://onigirionegai.info/~yayoi/tags/momo/</link>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/momo/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>original</title>
         <link>https://onigirionegai.info/~yayoi/tags/original/</link>
-        <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/original/</guid>
@@ -77,7 +95,7 @@
       <item>
         <title>rebase</title>
         <link>https://onigirionegai.info/~yayoi/tags/rebase/</link>
-        <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/rebase/</guid>
@@ -95,28 +113,10 @@
       <item>
         <title>tabitha</title>
         <link>https://onigirionegai.info/~yayoi/tags/tabitha/</link>
-        <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
+        <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/tabitha/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>momo</title>
-        <link>https://onigirionegai.info/~yayoi/tags/momo/</link>
-        <pubDate>Sun, 01 Oct 2023 20:10:53 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/momo/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
