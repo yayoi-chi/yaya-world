@@ -1,6 +1,6 @@
 #+TITLE: RE[BASE] Allana: Spooky Nite!
 #+DATE: 2023-10-31T21:31:06-07:00
-#+DRAFT: true
+#+DRAFT: false
 #+WEIGHT: 5
 #+TYPE: story
 #+TAGS[]: allana tabitha momo rebase original adventure
@@ -12,14 +12,14 @@
 This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Allana, and not those of the author, Yayoi. Thank you!
 
 * It is Halloween Nite!
-It happened suddenly. Artemis was up late. She loved watching the sun rise on occasions just like this one. Event if Tabby or Momoko weren't around, she would sometimes come to Ordin just to see the sight of the first rays of sunlight glistening off the many windows of the city. She looked at the large clock at the center of town. Surely it was about that time, yet there was no hint of sunlight. It was simply not possible that sunrise could be /this/ far off. Was it?
+It happened suddenly. Artemis was up late. She loved watching the sun rise on occasions just like this one. Even if Tabby or Momoko weren't around she would sometimes come to Ordin just to see the sight of the first rays of sunlight glistening off the many windows of the city. She looked at the large clock at the center of town. Surely it was about that time, yet there was no hint of sunlight. It was simply not possible that sunrise could be /this/ far off. Was it?
 
-Instead of the first rays of the sun greeting her a loud explosion echoed through the sky followed by another and then more. The sky was set ablaze in various colors. /What is going on?/ Artemis asked herself as a voice chimed in over her hearing stone, which now glowed bright yellow. This meant a general announcement to all adventurers. "/Hello citizens of Gaia/" the voice stated. "/welcome to this year's All Hallow's Eve event. Let the eternal night begin!/"
+Instead of the first rays of the sun greeting her, a loud explosion echoed through the sky followed by another and then more. The sky was set ablaze in various colors. /What is going on?/ Artemis asked herself as a voice chimed in over her hearing stone, which now glowed bright yellow. This meant a general announcement to all adventurers. "/Hello citizens of Gaia/" the voice stated. "/welcome to this year's All Hallow's Eve event. Let the eternal night begin!/"
 
-"What?" Artemis gasped. She tapped her hearing stone until it was green. Hopping she reach someone in her guild, she said. "What do they mean by an eternal night?"
+"What?" Artemis gasped. She tapped her hearing stone until it was green. Hoping she could reach someone in her guild, she said. "What do they mean by an eternal night?"
 
 * Should I Change Plans?
-I started at the message in guild chat for a few minutes. ~Didn't you check the event logs in the launcher?~ someone had replied. I rarely paid any attention to the launcher unless the big "Enter Gaia" button was grayed out. Seeing as Tabitha and Momo weren't on and I really was just waiting for a sunrise, I decided to log out and take a look.
+I stared at the message in guild chat for a few minutes. ~Didn't you check the event logs in the launcher?~ someone had replied. I rarely paid any attention to the launcher unless the big "Enter Gaia" button was grayed out. Seeing as Tabitha and Momo weren't on and I really was just waiting for a sunrise, I decided to log out and take a look.
 
 "Allana," my sister said, knocking on my door, "you up for breakfast today?"
 
@@ -31,7 +31,7 @@ I started at the message in guild chat for a few minutes. ~Didn't you check the 
 
 "Oh, its just that. They're starting the Halloween event, huh?"
 
-"Yeah, why didn't I hear about it? I went to Ordin to watch the sunrise and everything."
+"Yeah, but why didn't I hear about it? I went to Ordin to watch the sunrise and everything."
 
 "I don't know, but I'm sure they announced it. What's the problem with the event? Is it bugged?"
 
@@ -47,7 +47,7 @@ I started at the message in guild chat for a few minutes. ~Didn't you check the 
 
 "I'm not sure," Allana replied. "I didn't hear what the middle school was doing today. Why not ask her after breakfast?"
 
-"Okay," I said. I changed into a comfortable outfit and headed down to the dining room. Tabitha already had a comfortable breakfast of rolled omelets, rice, and natto set out for me. I ate while I sent a text to Momo.
+"Okay," I said. I changed into a comfortable outfit and headed down to the dining room. Tabitha already had a cozy breakfast of rolled omelets, rice, and natto set out for me. I ate while I sent a text to Momo.
 
 "/Sorry/" she answered. "/School is still going on like normal until last period. Don't think I can sneak away./"
 
@@ -82,7 +82,7 @@ I started at the message in guild chat for a few minutes. ~Didn't you check the 
 * Its a Party!?
 I was almost literally dragged out of the house. I was very happy that I had decided to get dressed before breakfast. I'm not sure what I really expected when my sister said we were going shopping either. Maybe I figured we would go get some things for dinner or maybe she wanted to get me a new outfit or something. The second part wasn't too far from reality though. She did have an outfit of sorts in mind.
 
-Once out of the house, she let my arm go and we walked over the mall. I expected, at this time, that we would head over to a department store, maybe a book store, but nope, there was a Halloween shop in the mall, and that's where we were heading. "I hope they haven't sold all the good costumes," Tabitha said.
+Once out of the house, she let my arm go and we walked over the mall. I expected, at this time, that we would head over to a department store, maybe a bookstore, but nope, there was a Halloween shop in the mall, and that's where we were heading. "I hope they haven't sold all the good costumes," Tabitha said.
 
 "Costumes?"
 
@@ -108,7 +108,7 @@ Little did I know this shop not only carried fairy costumes in all sizes, and ma
 
 When I did I heard the loudest shriek from my sister I'd ever heard. Her eyes were locked on me. "Cuuuute!!" she exclaimed. I'm sure, if this was an anime or a VN, she would have hearts in her eyes or something. "That's the one!"
 
-"I don't know, it's a little short don't you think?" I was referring to the skirt. I mean I knew most fairies in movies and anime had short skirts, but I've never been forced to wear one.
+"I don't know, it's a little short don't you think?" I was referring to the skirt. I mean I knew most fairies in movies and anime had short skirts, but I've never been forced to wear one myself.
 
 "Don't worry, sis," Tabitha said with a wink, "you have nice legs and I'm not planning on inviting boys." So she was planning on inviting others. Just what was happening?
 
