@@ -1,0 +1,19 @@
+#+TITLE: New News
+#+DATE: 2023-11-09T17:52:22-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+This site now has a *lot* of news articles! I guess one article each week for almost a year will do that. As a result, I made a few changes to how the news section is organized. You probably won't notice anything, unless you link to an article. Sorry for all the links I just broke 😅
+
+* What Changed!?
+All articles in this section used to just be in the 'news' folder with the date as the file name. So, in the old way this article would have just been ~news/2023-11-09/~. If you look in your URL bar though you should see something like ~news/2023/new-news/~. This means that, more consistent with other pages on the site, the file name is now based on the title of the article and articles from 2023 are in one folder while articles from 2022 are in another folder. As I said, it won't effect much as the index page will still basically look the same, but it will effect links, so keep that in mind! Once again, I do apologize for breaking any of those, but this will help keep the site source more organized for me.
+
+* RE[BASE] Episode 5 is out!
+I apologize for the delay in getting this episode out. It is finally out now and I'm hoping it was worth the wait. It is going to help establish the story and direct things for the rest of the plot, though it might not seem that way just yet. Trust me, you're going to want to read it though, if you are following RE[BASE] at all.
+
+* More is Coming!
+While I still haven't started any RE[BASE] illustrations, I am working on something else. I had a fun idea come to my mind during a friend's live stream and I am making that now. I'll do RE[BASE] stuff soon. Its been a bit since I last drew anything though so this is a nice change. I'm also busy with work and school, but I am still managing everything. I even made sure this article came out on time. Yes, I'm proud of myself again. I do have to apologize again, is that the third time in one article, this news article is going to be a little shorter than some. A lot happened this week, but not a lot of it was worth noting and some of it is just laying down some ground work for future updates and things. Hopefully next week's article will be a bit longer.
