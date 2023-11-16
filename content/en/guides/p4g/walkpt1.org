@@ -1,18 +1,19 @@
-#+TITLE: Walkthrough
+#+TITLE: Walkthrough (May thru Sep)
 #+DATE: 2022-12-06T21:38:37-08:00
 #+DRAFT: false
-#+DESCRIPTION: A walkthrough for Persona 4: Golden
-#+TAGS[]: guide walkthrough p4g persona wip
+#+DESCRIPTION: A walkthrough for the first half of Persona 4 Golden
+#+TAGS[]: guide walkthrough p4g persona
 #+TYPE: guide
+#+WEIGHT: 1
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: This will walk you through everything you need to do in Persona 4: Golden!
+#+SUMMARY: This will walk you through everything you need to do in the first part of Persona 4 Golden!
 
 Welcome!
 
-This is designed to help you figure out what to do on each day of Persona 4: Golden! This is designed to give you suggestions and hints, I will not be telling you /exactly/ what to do each and every day, instead I favor giving you the /options/ (read: things you can do) for each day, and giving you the choice of what you can do.
+This is designed to help you figure out what to do on each day of Persona 4 Golden! This is designed to give you a heads up on events happening each day, I will not be telling you what to do each and every day, instead I favor telling you what will happen and how to prepare for each day.
 
-I'm currently working through my playthrough, and, I've started this kind of in the middle of that playthrough. So I don't have each day laid out just yet. For now I'll be pulling from things I've read and my own memory, but hope to have a better, more organized, walkthrough up in the future. For now, I'll be picking up at the second dungeon. The good news is, the first dungeon and the story to that point, is pretty straightforward. Nevertheless I will be covering that when I can.
+I've started this kind of in the middle of my current playthrough. So I don't have April included, which includes events from the first. For now I'll be pulling from things I've read and my own memory, but the good news is, the first dungeon and the story to that point is pretty straightforward. Nevertheless I will be covering that when I can.
 
 * The hot and steamy bathhouse!
 There is something just a little odd and unexpected about Kanji Tatsumi. On the third day after rescuing Yukiko, Kanji appears on the Midnight Channel. The first time the party sees this they aren't entirely sure who it is, but it becomes clear after the second viewing. Sadly, they cannot confront Kanji before he is kidnaped. He appears once more in a steamy bathhouse, only he seems a little different.
@@ -253,4 +254,4 @@ You can choose to hang out with the girls today. You don't have to, but you do g
 Other than 10/05 being the last day to save Naoto, not much happens during these three days. There are quizzes though. Here are the answers in order, starting with 10/04 as 10/03 is just a lecture: tug-of-war, and right edge.
 
 * Congrats!
-You have made it through the first half of the year and also about the first half of the game. There is a lot more to do though, but this walkthrough is getting long enough so I'm splitting it up. See you in part 2 (when its ready 😜).
+You have made it through the first half of the year and also about the first half of the game. There is a lot more to do though, but this walkthrough is getting long enough so I'm splitting it up. See you in [[{{% ref walkpt2.org %}}][the next part]].

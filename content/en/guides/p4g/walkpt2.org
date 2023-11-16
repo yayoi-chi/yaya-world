@@ -1,0 +1,34 @@
+#+TITLE: Walkthrough (Oct onward)
+#+DATE: 2023-11-15T21:39:40-08:00
+#+DRAFT: false
+#+DESCRIPTION: A walkthrough for the second half of Persona 4 Golden
+#+TAGS[]: guide walkthrough p4g persona wip
+#+TYPE: guide
+#+WEIGHT: 2
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This will walk you through everything you need to do in the second part of Persona 4 Golden!
+
+Welcome!
+
+This is designed to help you figure out what to do on each day of Persona 4 Golden! This is designed to give you a heads up on events happening each day, I will not be telling you what to do each and every day, instead I favor telling you what will happen and how to prepare for each day.
+
+I've started this kind of in the middle of my current playthrough. So I don't have April included, which includes events from the first. For now I'll be pulling from things I've read and my own memory, but the good news is, the first dungeon and the story to that point is pretty straightforward. Nevertheless I will be covering that when I can.
+
+This part is current a work in progress. I am building this as I playthrough the story myself. This is so I can give you a fresh head up on how things will go.
+
+* The Next Victim
+#+BEGIN_EXPORT html
+<!-- TODO change this heading to the name of the dungeon when known -->
+#+END_EXPORT
+** 10/06 - 10/10
+This is a series of story scenes that will take your after school time. It will start with discussing with Naoto what happened when they were kidnapped. They know quite a lot of details, but you will still have wait for another victim to come forward to investigate further. After getting Naoto-kun's reports, you will be helping Yosuke and Rise with a concert. The concert is on 10/10, but you'll spend a few days preparing. Just enjoy the scenes. The event even has a nice animated scene. There is one quiz during these day, on 10/08. The answer is pretty obvious, but I'll tell you anyway, it's: chicken. It should be noted that your evenings are still free, so use this time to finish up Nanako's S-Link or spend time with everyone in the evening.
+** 10/11
+Your after school hours are still not yours. You agree to study with everyone. Naoto will likely ask you to go into the TV when you get back home, but that'll have to wait until tomorrow. Good news is, this means you'll be free to do what you want tomorrow. There is a quiz today too, the answer is: glass jars.
+** 10/12
+A nice Haloween-themed quiz. The answer is: turnips (imagine carving those!). You'll be notified that a new strong shadow has appeared in the lab. Now is a good time to go back if you don't have anything else to do.
+#+BEGIN_EXPORT html
+<!-- TODO place the new boss table here! -->
+#+END_EXPORT
+** 10/13
+Everything is basically back to your normal rhythm. One more quiz, they'll be ramping up since your exams are coming up again. The answer is: ojisan.
