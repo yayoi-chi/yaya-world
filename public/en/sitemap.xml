@@ -5,8 +5,14 @@
     <loc>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</loc>
     <lastmod>2023-09-20T10:41:34-07:00</lastmod>
   </url><url>
+    <loc>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</loc>
+    <lastmod>2022-12-06T21:38:37-08:00</lastmod>
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</loc>
     <lastmod>2022-10-09T21:00:25-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/guides/p4g/walkpt2/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</loc>
     <lastmod>2023-09-26T11:04:38-07:00</lastmod>
@@ -45,14 +51,36 @@
     <loc>https://onigirionegai.info/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2023/new-news/</loc>
-    <lastmod>2023-11-09T17:52:22-08:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/tags/commissions/</loc>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</loc>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2023-11-09T17:52:22-08:00</lastmod>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/site/</loc>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://onigirionegai.info/~yayoi/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onigirionegai.info/~yayoi/tags/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2023-11-09T17:52:22-08:00</lastmod>
+    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -63,6 +91,24 @@
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/"
                 />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/guide/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/p4g/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/persona/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/walkthrough/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/wip/</loc>
+    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2023/new-news/</loc>
+    <lastmod>2023-11-09T17:52:22-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/spooky-month-is-over/</loc>
     <lastmod>2023-11-02T16:59:02-07:00</lastmod>
@@ -85,19 +131,6 @@
     <loc>https://onigirionegai.info/~yayoi/tags/tabitha/</loc>
     <lastmod>2023-10-31T21:31:06-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2023-10-31T21:31:06-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/"
-                />
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/i-hath-discovered-visual-novels/</loc>
     <lastmod>2023-10-26T16:09:16-07:00</lastmod>
   </url><url>
@@ -110,13 +143,7 @@
     <loc>https://onigirionegai.info/~yayoi/news/2023/feeling-a-little-lazy/</loc>
     <lastmod>2023-10-05T16:48:13-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2023-09-28T19:31:16-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</loc>
-    <lastmod>2023-09-28T19:31:16-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/site/</loc>
     <lastmod>2023-09-28T19:31:16-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/new-adventure-series/</loc>
@@ -133,9 +160,6 @@
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/added-a-few-things/</loc>
     <lastmod>2023-08-31T16:20:15-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/commissions/</loc>
-    <lastmod>2023-08-31T15:41:12-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/series/commissions/</loc>
     <lastmod>2023-08-31T15:41:12-07:00</lastmod>
@@ -289,9 +313,6 @@
     <loc>https://onigirionegai.info/~yayoi/tags/mia/</loc>
     <lastmod>2023-03-12T20:15:20-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/guide/</loc>
-    <lastmod>2023-03-12T19:19:05-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/jrpg/</loc>
     <lastmod>2023-03-12T19:19:05-07:00</lastmod>
   </url><url>
@@ -319,9 +340,6 @@
     <loc>https://onigirionegai.info/~yayoi/tags/ffxiv/</loc>
     <lastmod>2023-01-21T21:53:33-08:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/persona/</loc>
-    <lastmod>2023-01-21T21:53:33-08:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/ready-for-a-new-game/</loc>
     <lastmod>2023-01-21T21:53:33-08:00</lastmod>
   </url><url>
@@ -331,17 +349,11 @@
     <loc>https://onigirionegai.info/~yayoi/guides/p3p/</loc>
     <lastmod>2023-01-21T21:40:18-08:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/walkthrough/</loc>
-    <lastmod>2023-01-21T21:40:18-08:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/fiesta/</loc>
     <lastmod>2022-12-17T20:45:28-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</loc>
     <lastmod>2022-12-17T20:45:28-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/p4g/</loc>
-    <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/quests/</loc>
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
@@ -352,9 +364,6 @@
     <loc>https://onigirionegai.info/~yayoi/tags/skills/</loc>
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/wip/</loc>
-    <lastmod>2022-12-08T21:08:03-08:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/guides/p4g/jobs&#43;clubs/</loc>
     <lastmod>2022-12-08T21:06:57-08:00</lastmod>
   </url><url>
@@ -363,9 +372,6 @@
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/guides/p4g/slink/</loc>
     <lastmod>2022-12-08T21:06:30-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</loc>
-    <lastmod>2022-12-06T21:38:37-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/guides/p4g/</loc>
     <lastmod>2022-12-06T21:17:47-08:00</lastmod>
