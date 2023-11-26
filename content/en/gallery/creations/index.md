@@ -26,6 +26,8 @@ images: # when mode is one-by-one, images front matter works
     caption: Kotori surprised Yayoi with a hug from behind! I was too lazy to bother with a background ( o x o ;
   - image: AllanaDesignSheet.png
     caption: New character! This is Allana from RE[BASE]!
+  - image: HalloweenNite.png
+    caption: Allana's Halloween Custom from episode 5 of RE[BASE]!
 ---
 
 I draw too! That's right I don't just play games, but I also like to draw. I don't get much time to draw, but I'm hoping to make some more time soon. I have ideas I want to do! Anyway, below are just a couple of things that I have drawn!
