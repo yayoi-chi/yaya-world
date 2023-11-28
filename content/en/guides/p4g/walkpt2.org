@@ -26,9 +26,28 @@ This is a series of story scenes that will take your after school time. It will 
 ** 10/11
 Your after school hours are still not yours. You agree to study with everyone. Naoto will likely ask you to go into the TV when you get back home, but that'll have to wait until tomorrow. Good news is, this means you'll be free to do what you want tomorrow. There is a quiz today too, the answer is: glass jars.
 ** 10/12
-A nice Haloween-themed quiz. The answer is: turnips (imagine carving those!). You'll be notified that a new strong shadow has appeared in the lab. Now is a good time to go back if you don't have anything else to do.
-#+BEGIN_EXPORT html
-<!-- TODO place the new boss table here! -->
-#+END_EXPORT
+A nice Halloween-themed quiz. The answer is: turnips (imagine carving those!). You'll be notified that a new strong shadow has appeared in the lab. Now is a good time to go back if you don't have anything else to do.
+| Names          | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|----------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| Extreme Vessel | ??  | Fortune | ????    | ???     | -    | -   | -         | Wk  | Null  | Null |
 ** 10/13
 Everything is basically back to your normal rhythm. One more quiz, they'll be ramping up since your exams are coming up again. The answer is: ojisan.
+
+** 10/14 - 10/20
+With exception of 10/16, which is a Sunday, you will spend the next few days in school answering questions on your midterm exams. You are normally free in the evening, but may not be free during the after school hours. As such, it is a good idea to have fought the above special boss before this date. You could have 10/16. but you will be asked to join a study group, so, if you haven't fought the boss by now, it will be a toss up between enhancing S-Ranks and completing the boss. There will be sometime after exams, however. I'm not going to give you the questions on your exams as the questions and answers can't co-exist in the same area without endangering all of humanity. I will give you the answers though:
+| Day | Q1 Answer             | Q2 Answer        |
+|-----+-----------------------+------------------|
+|   1 | Throat                | The Right edge   |
+|   2 | 40 Minutes            | All of the above |
+|   3 | Black and White Bears | Ostrich          |
+|   4 | ??*                   | Glass Jars       |
+|   5 | Fall                  | Plan Resin       |
+(* Day 4/Q1 I got wrong in this playthrough, you'll still get top marks for this, but I can only say Wasan Shoujo is not the right answer)
+
+The last day has no questions. You'll be given a general sense of how you feel you did and the day will end. Your exams on now over, hope you did well. You will receive a mysterious letter, which gives you something to talk about with your friends in the morning, but that is it.
+
+** 10/22
+You will be given an opportunity to vote for an activity for your class to host during the culture festival this weekend. As this is the first time I played this far, I'm not sure if your choice actually matters. To be funny, I just chose the "group date cafe" let me know if you picked something different and how that turned out!
+
+** 10/24
+You get your test results today. If you answered all the questions with the answers I gave you, then you'll get top marks and all of your school friends will be impressed. This will increase all their S-Ranks.
