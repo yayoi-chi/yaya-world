@@ -1,0 +1,29 @@
+#+TITLE: RE[BASE] Nagisa: Debut!
+#+DATE: 2023-11-30T12:50:00-08:00
+#+DRAFT: true
+#+WEIGHT: 1
+#+TYPE: story
+#+DESCRIPTION:
+#+TAGS[]: nagisa original adventures rebase
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Nagisa is a little nervous about her online debut. Hopefully everything goes well.
+
+#+attr_html: :style font-family: monospace; font-size: 0.9em
+This is an original story. The story is written in first person, please note that the thoughts and feelings expressed in this story are those of the character, Nagisa, and not those of the author, Yayoi. Thank you!
+
+* Just Press "Go Live!"
+I stared at my screen. My heart was racing. Management had given me a checklist of things I needed to do before now and they sent over all the files and assets I needed. Yesterday I had updated my streaming software and linked it to my online account. I put together a little script of what I would do and say about myself, or rather, little Nanako (the character the agency had assigned me), and submitted it to my manager. She approved everything this morning and said all I had to do was get everything set up and press "Go Live". Yeah that was easier said then done. First of all the software didn't have a "Go Live" button, it said "Start Streaming". I knew that already though, but that wasn't the problem.
+
+I know just enough about computers to get by, but setting up the scenes and everything was a bit more difficult. You see Nanako, my little live avatar, was supposed to animate based on my head movements and my lip movements, but that wasn't working at first. The sent me over a few streaming backgrounds and frames I could use, but the software wasn't displaying those right and I had to do an update before it would work. I'm also not sure how to show my screen. That last part isn't important right now. I won't need to do that for debut, but the contract says, under the heading "engagement" that I was supposed to play games on stream for my fans, which I was not sure how to do. I even had my first one already scheduled. I took a breath. I already e-mailed my manager about that and she's looking into it. Right now, I just need to focus on debuting Nanako.
+
+The background was set up now. Nanako moved when she was supposed, she even blinked with me now. I took a deep breath and watched the clock. "Three minutes to debut!" I told myself. I quickly sent a text out to my parents and brother reminding them that I had work and not to bother me. I checked the pickups and gates on the microphone to make sure that only my adorable voice would be heard and checked off the second to last item on the checklist. "Two minutes" I updated.
+
+I took one deep breath than began tracing my figures. I breathed in as I went up one side, breathed out as I went down the other and repeated it for all five figures. "Everyone is nervous when they start," my manager had told me in my last virtual meeting. She told me about the technique just after that. "They're here to meet Nanako," I reminded myself. That's right, no one cared about Nagisa, they wanted Nanako, and Nanako had no background or baggage beyond the brief blurb some agency writer just put together for me to read during the debut. Those on the other end of the screen, they had no expectations for me. "Just have fun," my manager had added before logging off of that meeting.
+"Just have fun," I repeated now.
+
+A message popped up. It was from my manager. "Good luck!" she said. "You got this!"
+
+"Its time!" I said. I pressed "Start Stream". After a little wait connecting I played the first asset my manager sent over, and opening animation.
+
+* Hello Nanako!
