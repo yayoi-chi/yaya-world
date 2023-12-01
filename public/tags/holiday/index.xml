@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>holiday on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/holiday/</link>
+    <description>Recent content in holiday on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 22 Nov 2023 14:19:17 -0800</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Happy Turkey Day 🦃</title>
+        <link>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</link>
+        <pubDate>Wed, 22 Nov 2023 14:19:17 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Wed, 22 Nov 2023 14:19:17 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</guid>
+        <description>Spooky month is over, Christmas is not yet here, so that must mean its harvest time and that, at least for those of us living in the United States, means Thanksgiving, also known as Turkey Day. It also means I short work week and lots of time needed to prepare so not much in the way of updates this week. I picked up a new VN that I will like to review as I heard its one of the classics.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>commissions</category>
+            
+          
+            
+              <category>holiday</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

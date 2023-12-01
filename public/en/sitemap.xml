@@ -51,14 +51,39 @@
     <loc>https://onigirionegai.info/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</loc>
-    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/tags/allana/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/rebase/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/site/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://onigirionegai.info/~yayoi/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onigirionegai.info/~yayoi/tags/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
+    <lastmod>2023-11-30T12:11:42-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -71,29 +96,16 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/commissions/</loc>
-    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
+    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</loc>
+    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/holiday/</loc>
+    <lastmod>2023-11-22T14:19:17-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</loc>
     <lastmod>2023-11-16T18:29:07-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/site/</loc>
-    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2023-11-16T18:29:07-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/"
-                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/guide/</loc>
     <lastmod>2023-11-15T21:39:40-08:00</lastmod>
@@ -119,16 +131,10 @@
     <loc>https://onigirionegai.info/~yayoi/tags/adventure/</loc>
     <lastmod>2023-10-31T21:31:06-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/allana/</loc>
-    <lastmod>2023-10-31T21:31:06-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/momo/</loc>
     <lastmod>2023-10-31T21:31:06-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/original/</loc>
-    <lastmod>2023-10-31T21:31:06-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/rebase/</loc>
     <lastmod>2023-10-31T21:31:06-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/tabitha/</loc>
