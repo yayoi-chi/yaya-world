@@ -1,6 +1,6 @@
 #+TITLE: RE[BASE] Nagisa: Debut!
 #+DATE: 2023-11-30T12:50:00-08:00
-#+DRAFT: true
+#+DRAFT: false
 #+WEIGHT: 1
 #+TYPE: story
 #+DESCRIPTION:
