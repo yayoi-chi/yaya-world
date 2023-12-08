@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>nagisa on Yaya&#39;s World</title>
+    <link>https://onigirionegai.info/~yayoi/tags/nagisa/</link>
+    <description>Recent content in nagisa on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Nov 2023 12:50:00 -0800</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/nagisa/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>RE[BASE] Nagisa: Debut!</title>
+        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
+        <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 30 Nov 2023 12:50:00 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</guid>
+        <description>Nagisa is a little nervous about her online debut. Hopefully everything goes well.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>nagisa</category>
+            
+          
+            
+              <category>original</category>
+            
+          
+            
+              <category>adventures</category>
+            
+          
+            
+              <category>rebase</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
