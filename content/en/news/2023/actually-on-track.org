@@ -1,0 +1,33 @@
+#+TITLE: Actually on Track
+#+DATE: 2023-12-07T15:36:13-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site personal news rebase
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+For the past several months, I have fell behind on a lot of things. My school work was usually just barely on time, and work from my primary job was always submitted right on the deadline, but my commissions were always just a bit later than I'd like and many of my personal projects, including my playthrough of Persona 4 Golden, were all far behind. This week things changed and now I am not only caught up on everything but I'm ahead!
+
+* About Commissions for December
+I said, in my [[{{% ref "not-just-allana.org" %}}][last article]] that I was putting a pause on my commissions for the month of December and that I would be back to taking commissions on the 2nd of January. First off, this has not changed! Commissions are still closed and will remain closed until 2 Jan! I think one of the reasons I am ahead is because I did not take commissions this week and, if I want to stay ahead I need to keep the commissions closed, at least for now. I'm confidant that personal projects will be all done by Jan and I will be happy to resume then!
+
+* Persona 4 Golden
+Even though I'm writing a guide for Persona 4 Golden, I /might/ also write a review. I have some thoughts and I don't think the walkthrough or guides are a good place to put them. That said, I am still making great progress and I think I might just finish the game soon. I'd like to get it done before the end of the year, but I also don't want to set that as a goal, because I'm not sure its very realistic. There are less than thirty days left in 2023 😲
+
+There are a few things that I will be doing with the Persona 4 walkthrough soon, as well as the other guides:
+1. Remove some of the unneeded comments
+   a. During my playthrough I took notes and some of those notes are still in the walkthrough, but don't actually help the player so those will be removed.
+   b. Remove any comment about the availability of particular characters or activities unless they are affected by the story (this is particularly bad with Marie). These should be moved to the S-Link guides (more on that later).
+   c. Move the, sub-boss/boss tables (these will be redundant), and create links to other pages for them.
+2. Work on the other guides
+   a. Move all notes about character, job, or activity availability to bonefide S-Link guides if applicable.
+   b. Create guides for Jobs specifically which will talk mostly about the benefits of each job as well as pay for each one. Most jobs have an S-Link, so availability of job beyond basic schedule will be in that guide.
+   c. Create a quest guide, this might be a bit later since I didn't do much with quests.
+   d. Create a boss and dungeon strategy guide and place current boss/sub-boss tables there.
+It is my hope that this will help shorten the walkthrough and organize guides a bit better so that players will be able to find what the need when they need it. As for the walkthrough, it is up to date now with my current playthrough. I am almost do the next dungeon so we'll soon have a better heading for the second part 😜
+
+* Nagisa!
+Anyone who my be looking at my [[{{% ref "adventures/fiction" %}}][non-gaming adventures]] my have noticed a new episode up with the name of a new character. Of course, if you read my [[{{% ref "not-just-allana.org" %}}][last article]] this wouldn't be a surprise. I mentioned Nagisa there, but now her first episode is officially out!
+
+Nagisa is a short, petite girl who is a virtual idol (think vTuber) and a college freshman. I'm still not sure if and how Nagisa will meet Allana. I'm thinking they should meet because of some future story points, but we'll see. Also art for Nagisa and her vTuber Nanako will be out at some point. Actually you'll probably see Nagisa around Christmas. Look forward to more Nagisa soon! Also, Allana's story isn't done, so don't go thinking Nagisa is replacing Allana!
