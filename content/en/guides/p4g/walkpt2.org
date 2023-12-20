@@ -17,10 +17,7 @@ I've started this kind of in the middle of my current playthrough. So I don't ha
 
 This part is current a work in progress. I am building this as I playthrough the story myself. This is so I can give you a fresh head up on how things will go.
 
-* The Next Victim
-#+BEGIN_EXPORT html
-<!-- TODO change this heading to the name of the dungeon when known -->
-#+END_EXPORT
+* Haven
 ** 10/06 - 10/10
 This is a series of story scenes that will take your after school time. It will start with discussing with Naoto what happened when they were kidnapped. They know quite a lot of details, but you will still have wait for another victim to come forward to investigate further. After getting Naoto-kun's reports, you will be helping Yosuke and Rise with a concert. The concert is on 10/10, but you'll spend a few days preparing. Just enjoy the scenes. The event even has a nice animated scene. There is one quiz during these day, on 10/08. The answer is pretty obvious, but I'll tell you anyway, it's: chicken. It should be noted that your evenings are still free, so use this time to finish up Nanako's S-Link or spend time with everyone in the evening.
 ** 10/11
@@ -68,4 +65,22 @@ Nothing of note really, just a quiz, the answer is: geometric shapes
 You'll get an extra day off, just don't count on school activities this day.
 
 ** 11/04
-Just another quiz, the answer is: Cuckoo
+Another quiz (the answer is: Cuckoo), another person on the midnight channel. Though no one is certain yet, it is pretty clear who the next victim is going to be.
+
+** 11/05 - 11/20
+The story is beginning to reach its climax! There are a lot of scenes this day and little else. However the culprit of all the murders (save one) as well as everyone being thrown into the TV world is identified during these scenes. The culprit also kidnaps his next victim. With all this happening so quickly there is no need for any further investigation. Head into the TV and begin your search for the culprit and his next victim! Starting now, Nanoko will no longer be available, be sure her S-Link is maxed by now.
+
+Once you reach Paradise #7 you will encounter your first sub-boss. This is not a difficult fight, but be prepared nonetheless!
+
+| Names         | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| World Balance |  63 | Justice |    1200 |     100 | -    | -   | -         | -    | Null  | Null |
+
+You will confront the culprit on Paradise #10. This fight is a bit more tricky. The main boss has a full range of elemental attacks, so be mindful of everyone's weaknesses and do your best to cover them with shields or items. It appears the "atmosphere" will change before the boss switches elemental attacks. He also has a very power physical attack and can control your party members. Be careful!
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Kunino-sagiri | ??  | ????   | ?????   | ???     | -    | -   | -         | -    | Null  | Null |
+
+** 11/07 and 11/10
+Not much happens at school during this time. If you have any job or club S-Links to finish now is a good time to do this, especially if you aren't having any difficulty in the dungeon. It is also an excellent time to work on skills. On these two day, there are two quizzes, the only thing you have to worry about until 11/20. The answer to 11/07's quiz is "no country" while the answer to 11/10's quiz is "Namib".
