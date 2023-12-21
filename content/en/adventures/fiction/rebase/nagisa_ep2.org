@@ -1,7 +1,7 @@
 #+TITLE: RE[BASE] Nagisa: More Than a Voice
 #+DATE: 2023-11-30T12:50:00-08:00
 #+DRAFT: true
-#+WEIGHT: 2
+#+WEIGHT: 5
 #+TYPE: story
 #+DESCRIPTION:
 #+TAGS[]: nagisa original adventures rebase
