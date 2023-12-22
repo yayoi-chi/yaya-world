@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 14 Dec 2023 19:08:33 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 18:37:02 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>christmas</title>
         <link>https://onigirionegai.info/~yayoi/tags/christmas/</link>
-        <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
+        <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/christmas/</guid>
@@ -41,10 +41,64 @@
       <item>
         <title>news</title>
         <link>https://onigirionegai.info/~yayoi/tags/news/</link>
-        <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
+        <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>personal</title>
+        <link>https://onigirionegai.info/~yayoi/tags/personal/</link>
+        <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/personal/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>site</title>
+        <link>https://onigirionegai.info/~yayoi/tags/site/</link>
+        <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>work</title>
+        <link>https://onigirionegai.info/~yayoi/tags/work/</link>
+        <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tags/work/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -63,60 +117,6 @@
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/school/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>site</title>
-        <link>https://onigirionegai.info/~yayoi/tags/site/</link>
-        <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>work</title>
-        <link>https://onigirionegai.info/~yayoi/tags/work/</link>
-        <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/work/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>personal</title>
-        <link>https://onigirionegai.info/~yayoi/tags/personal/</link>
-        <pubDate>Thu, 07 Dec 2023 15:36:13 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>https://onigirionegai.info/~yayoi/tags/personal/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
