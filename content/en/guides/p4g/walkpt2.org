@@ -84,3 +84,40 @@ You will confront the culprit on Paradise #10. This fight is a bit more tricky. 
 
 ** 11/07 and 11/10
 Not much happens at school during this time. If you have any job or club S-Links to finish now is a good time to do this, especially if you aren't having any difficulty in the dungeon. It is also an excellent time to work on skills. On these two day, there are two quizzes, the only thing you have to worry about until 11/20. The answer to 11/07's quiz is "no country" while the answer to 11/10's quiz is "Namib".
+
+* The "Real" Culprit
+#+begin_export html
+<!-- Again, replace this with the name of the next dungeon if possible -->
+#+end_export
+** 11/21 - 11/26
+You can now visit Nanako. The culprit is also up, and a new mystery fills the town, literally. There are a few quizes during this time as well. I'll give you the answer by day in a moment. First, I wanted to note that every day during this range gives you the opprotunity to visit Nanako. You can choose not to at any point, but visiting her will raise several S-Links and visiting her at least three time will earn you an achievement. It might be worth it to visit her at least those three times. You have to talk to different party members in order to visit her though. The table will tell you the quiz answer and/or who to speak to to visit Nanako (if applicable).
+| Date  | Quiz Answer            | Who will send you to visit Nanako |
+|-------+------------------------+-----------------------------------|
+| 11/22 | a book of maps         | Yosuke (in your classroom)        |
+| 11/23 | N/A                    | Chie (Shopping District - North)  |
+| 11/24 | the Fibonacci sequence | Rise (Third Floor)                |
+| 11/25 | Khufu                  | Not known yet                     |
+| 11/26 | Mochi                  | Not known yet                     |
+** 11/28 - 12/03
+Time for another finals week and another table! Two tables back-to-back must be a record for this guide! This will hold the two answers you need for you finals by date.
+| Date  | First Answer | Second Answer      |
+|-------+--------------+--------------------|
+| 11/28 | Italian Food | Geometric Shapes   |
+| 11/29 | Khufu        | Atlas              |
+| 11/30 | Bridal       | Cuckoo             |
+| 12/01 | No Country   | Fibonacci Sequence |
+| 12/02 | Namib        | Mochi              |
+This is the last day of exams so there are no questions, you just get a general feel for how you did. Your afternoon, however, will be taken up by several scenes. *A Warning*: You can end the game right now if you are not careful. There is, however, many days left in the game, so be careful, unless you want to see the bad endings. To continue the story make sure you select the following:
+1. Wait a second here...
+2. We're missing something.
+3. Namatame's true feelings.
+4. Something's bothering me
+5. We're missing something...
+6. Calm the hell down!
+This will buy you at least a couple more days. You will have no choice but to sleep this evening, so go to your room. You'll be warned that tomorrow is a day of reflection.
+** 12/04
+And today is that day of reflection. You'll meet with your friends to discuss the case. Here you can kind of just go with the flow. After the scenes, you will go home and be forced to sleep again.
+** 12/05
+Now that your caught up on the case again. It is time to gather some more information. Ask around town about the two murders. First speak to a woman by the shrine. She mentions something about a suspicious person. You can now ask around about suspicious people. Go Junes and talk to a student there who mentions her friend may have saw someone suspicious. Go back to the shopping district and talk to the student in front of Yosuke. Nothing happens! Keep asking everyone else about suspicious people and the murders. The game pretty much forces you to talk to /everyone/ available in town before everyone gathers to go over the case again.
+
+Once again, you'll have to be careful! As you talk with Naoto, you'll be able to drop a name. The game gives you literally everyone you know as an option. All but one of these name is wrong and may lead you to another bad ending, so pick Adachi, come on, he's the only one that really fits all the criteria. Picking him will let the story continue again.

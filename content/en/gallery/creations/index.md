@@ -30,6 +30,12 @@ images: # when mode is one-by-one, images front matter works
     caption: Allana's Halloween Custom from episode 5 of RE[BASE]!
   - image: TooMuchVNFun.png
     caption: Allana may have had a bit too much fun playing a VN...or maybe not enough
+  - image: CherubicPrayer.png
+    caption: The 2023 Christmas Picture (PC Edition)
+  - image: JadeChristmasDress.png
+    caption: A Christmas Dress for Jade
+  - image: JadeChristmasPP.png
+    caption: A new profile peekture for Jade, she's wearing the dress!
 ---
 
 I draw too! That's right I don't just play games, but I also like to draw. I don't get much time to draw, but I'm hoping to make some more time soon. I have ideas I want to do! Anyway, below are just a couple of things that I have drawn!

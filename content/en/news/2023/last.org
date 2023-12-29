@@ -1,0 +1,25 @@
+#+TITLE: Last Article of 2023 🎊
+#+DATE: 2023-12-28T20:42:36-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news guides p4g
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+This is the first time I'm late since starting my weekly updates. It has been a crazy day! Fortunately, I'm not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the [[{{% ref "guides/p4g/walkpt2.org" %}}][Persona 4 Golden walkthrough]] and not enough time actually updating the website 😅
+
+* Looking Back
+A lot has happened in 2023. I quit working as Behavior Technician to focus more on my school work, I completed the first (of many) dissertation milestones, and I became a Graduate Assistant and a commissioned artist. Becoming a commissioned artist renewed my love of art and drawing and I have produced more pictures this year than I have in any year for the past few.
+
+This year has been far from perfect. There has been a /lot/ of frustrations and many stressful hours. Overall though, it has not been a bad year. The last month was pretty bad, but it seems things will be turning around for at least the last week of the year.
+
+* Looking Forward
+I don't want to jinx anything, but I am excited for 2024! I can already see things starting out well. Of course, I could come back as soon as next Thursday with a totally new take on that, though that will probably not happen until the following Thursday 😆
+
+I have one final meeting just before courses start to go over a few things. This is next week. Then all will start up and I will know for sure how I will work within this role. I /am/ a little worried, but also excited. I remember when I started as a Behavior Technician and how much I loved the change to get paid to play all day before getting disillusioned. I'm hoping the disillusionment doesn't happen this time, but we will just have to see in a couple of weeks, or maybe longer. Hopefully longer!
+
+* Goals for This Site in 2024!
+As far as my site here, I'm hoping you will be able to see even more art in my galleries, both my [[{{% ref "gallery/creations" %}}][Creations]] and my [[{{% ref "gallery/commissions" %}}][Commissions]] galleries. I'm also hoping to finally be done with my playthrough of Persona 4 Golden and have a servicable walkthrough and maybe review up soon. I know I am getting close to the end, so maybe I'll even start Persona 3 Portable or the remake next year as well. I'm also hoping for more reviews and first looks coming out next year. That section is still a little sparse 😅
+
+All-in-all, I'm hoping to see the site grow and for some interesting stories to come up as well. Maybe you'll even find out way [[{{% ref "/adventures/fiction/rebase/nagisa_ep2.org" %}}][RE[BASE]]] is called that 😆 I hope you are looking forward to the New Year as well. Let me know what you're looking forward to most!
