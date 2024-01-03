@@ -1,0 +1,23 @@
+#+TITLE: First Article of 2024
+#+DATE: 2024-01-03T15:33:51-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news holiday guides p4g reviews
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Welcome to 2024! Let's kick off the old and ring in the new! In this first week of 2024 I have made more progress on the [[{{% ref "guides/p4g/walkpt2.org" %}}][Persona 4 Golden walkthrough]]. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won't quite be done, I will be cutting some things out and streamlining it (maybe it'll fit on one page again) so it only helps you get through the game and doesn't have other information. Things like when Marie will be available and other commentary will be moved to other sections, like [[{{% ref "guides/p4g/slink" %}}][Social Links]] or [[{{% ref "guides/p4g/quests" %}}][Quests]]. As for other news, I have finished a game! Look forward to a new review and many more in 2024!
+
+* Persona 4 Golden
+I won't spoil anything, in fact I am doing my best not to spoil anything even in the Guide, but I am certain I am nearing the end of the story. As I mentioned before though, this doesn't mean the work of writing the walkthrough is nearly over. There is a lot more to do. As I was taking notes I made notes of things that most definitely shouldn't have been in the walkthrough, yet, because they were in my notes, they were but in there. I will be going through the walkthrough and putting that information where it belongs.
+
+This playthrough though, I did not really focus a lot of time on Social Links or Quests so there isn't going to be a ton of information available there. There will be a little bit, particularly around Marie and Nanako, but not much. I also won't guarantee I will flush everything out soon. Once I am done with this playthrough, I plan on moving on to Persona 3 (either P3P or the remake) where I will also be writing a walkthrough. Whatever information I have available by that time will be all the information available until I go back to play P4G again. Just fair warning.
+
+* 2024 Reviews
+I plan on writing a *lot* more reviews this year. Of course, I have to play a game to a reasonable conclusion before I can pass any sort of judgment so don't expect a ton. There will be one review which I am hoping will come out with this update (as you can see this is being written /before/ the update again). There will also be one for Persona 4 Golden once I am done with it as well as Persona 3. I also have a few VNs that I am working through so I'm hoping to review those as well. It'll take some time though.
+
+* New Year, New Job, New Classes
+Over the past week and into this week I have been getting ready for the courses that I will be supporting this quarter. I am very excited and I hope I will do well. I like the idea of helping my peers work through the coursework. I also have another course of my own coming up that I am a little nervous and a little excited about too, but overall, pretty happy and I can't wait for everything to start. Let's hope I can balance it all!
+
+That said, I would also like to remind everyone that my commissions opened up again 2 Jan. You can head to the [[{{% ref "commissions.org" %}}][Commisssions Page]] for more information on what I will draw for you as well as where to send your commission requests. I look forward to drawing more in 2024 as well!
