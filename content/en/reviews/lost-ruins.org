@@ -1,0 +1,39 @@
+#+TITLE: Lost Ruins (2/5)
+#+DATE: 2024-01-03T15:58:39-08:00
+#+DESCRIPTION: A cute game with a surprising lack of cats...and a predictable story
+#+TYPE: review
+#+TAGS[]: review game cute
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This is a pretty good action platformer, with pretty good art and a predicatable and mediocre story.
+
+#+BEGIN_EXPORT html
+<a id="forums" href="https://github.com/yayoi-chi/yaya-world/discussions/20" target="_new">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-empty.png" align="left" alt="empty star">
+<img src="/~yayoi/images/rating-empty.png" align="left" alt="empty star">
+<img src="/~yayoi/images/rating-empty.png" align="left" alt="empty star">
+</a>
+<div style="display:block;width:40px;height:40px;margin:auto">
+&nbsp;
+</div>
+#+END_EXPORT
+
+Well, it has been a while since I did one of these, and I wish it were for a better game, but here we are. Now Lost Ruins is a nice game with a good art style and excellent 2-D graphics, so it isn't a waste of time. It's just that you'll see the twist in the story coming five miles away, and the rest of the story is pretty mediocre. Still, it is at least worth your time if you can pick it up at a discount.
+
+* Overall
+What else can I say? Maybe I'm being a bit harsh, but I really wasn't too impressed with this one. Now I'm sure there is more focus placed on the survival aspects of the game and they did warn that it would be pretty challenging on the recommended difficulty. I'm sure this is really where the overall strength of the game is. Unfortunately, that also places it out of my reach. Normally I don't play difficult games and would rather experience the story in the immersive way that you can only experience it in a video game.
+
+When I saw there was an easier difficulty, which sounded like it was made just for people like me, I went for it! Let me tell you, if you want to just experience the story, this difficulty does let you do that. It is not so easy that it seems like everything was nerfed, but it does get out of your way so you /can/ experience the story if that's what you want to do. Only real problem is, I'm not sure anyone should.
+
+* Story
+Since I played on the easiest difficulty, it was really easy to experience the story and enjoy the art-style. The story, however, is not really this game's strong suit. It is a good story, but not great. It isn't terrible, but it isn't good. Meh, would just about describe it. That said, I don't think this was intended to carry the game. There are other aspects, like its combat and survival mechanics that do show more promise and, if I picked the right difficulty, may have actually helped the game.
+
+* Gameplay
+This is, I think, where the game's strength lies. Even on easy, there are lots of items, with limited ammo, limited uses, or just other limits that make you always searching for just the right thing to get the job done, or searching for anything to keep you alive. I could imagine that this would be far more difficult in the recommended difficulty and this may help the game a lot. In fact, I'm pretty sure this is where the developers spent a lot of there time, to the detriment of the story perhaps, but it was not the only area they focused on.
+
+* Art and Visual Style
+I'll tell you what, I undersold the visual style of this game a bit. Now I am going to explain that a little bit in a minute, but the over all game play field, the character sprites, and the environments are very pretty. It has a very good modern meets retro, or retro meets modern feel. It is really quite nice and like candy for your eyes.
+
+That said, there is more to the art than just the play field and character sprites. There are also the character portraits and this is where the art is a bit worse. Don't get me wrong, it isn't terrible, but it seems like, given the rest of the art, they could have done a lot better in this area. That said, it isn't distracting and doesn't bring down everything too much, it just takes something that would have been great and makes a bit more meh. That's kind of the theme here, everything, at least on the easiest difficulty is just kind of meh.
