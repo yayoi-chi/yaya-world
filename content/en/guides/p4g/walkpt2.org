@@ -85,10 +85,7 @@ You will confront the culprit on Paradise #10. This fight is a bit more tricky. 
 ** 11/07 and 11/10
 Not much happens at school during this time. If you have any job or club S-Links to finish now is a good time to do this, especially if you aren't having any difficulty in the dungeon. It is also an excellent time to work on skills. On these two day, there are two quizzes, the only thing you have to worry about until 11/20. The answer to 11/07's quiz is "no country" while the answer to 11/10's quiz is "Namib".
 
-* The "Real" Culprit
-#+begin_export html
-<!-- Again, replace this with the name of the next dungeon if possible -->
-#+end_export
+* Magatsu
 ** 11/21 - 11/26
 You can now visit Nanako. The culprit is also up, and a new mystery fills the town, literally. There are a few quizes during this time as well. I'll give you the answer by day in a moment. First, I wanted to note that every day during this range gives you the opprotunity to visit Nanako. You can choose not to at any point, but visiting her will raise several S-Links and visiting her at least three time will earn you an achievement. It might be worth it to visit her at least those three times. You have to talk to different party members in order to visit her though. The table will tell you the quiz answer and/or who to speak to to visit Nanako (if applicable).
 | Date  | Quiz Answer            | Who will send you to visit Nanako |
@@ -121,3 +118,15 @@ And today is that day of reflection. You'll meet with your friends to discuss th
 Now that your caught up on the case again. It is time to gather some more information. Ask around town about the two murders. First speak to a woman by the shrine. She mentions something about a suspicious person. You can now ask around about suspicious people. Go Junes and talk to a student there who mentions her friend may have saw someone suspicious. Go back to the shopping district and talk to the student in front of Yosuke. Nothing happens! Keep asking everyone else about suspicious people and the murders. The game pretty much forces you to talk to /everyone/ available in town before everyone gathers to go over the case again.
 
 Once again, you'll have to be careful! As you talk with Naoto, you'll be able to drop a name. The game gives you literally everyone you know as an option. All but one of these name is wrong and may lead you to another bad ending, so pick Adachi, come on, he's the only one that really fits all the criteria. Picking him will let the story continue again.
+
+** 12/06 - 12/07
+More days taken up with story and evenings where you can only go to sleep. While there isn't much to do for the first two days a lot does happen. The path forward becomes quite clear, literally.
+
+** 12/08 - 12/31
+It seems that the deadline for this dungeon is given to you during one of the scenes. This dungeon, as you can imagine, won't be like any of  the others thus far considering who created it. For me, I got to a deadend around the second level and ended up having to fall down a hole. I'm sure this will happen to everyone, I just can't guarantee it will happen on the same floor for everyone 😅
+
+After jumping down the hole, you will be in a new area. At some point you'll have to avoid all encounters with Shadows. This is a requirement, if you do start an encounter, you will be sent back to the starting room, so just don't do it! If you do manage not to encounter any Shadows, you will have to fight your first sub-boss, though I'm not really sure I should call it that, it really isn't that hard. The stats table is still provided, and I should note, they it does tend to summon new mobs, including lesser copies of itself.
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Chaos Fuzz | 70 | Magician | 600 | 124  | -    | -   | -         | -    | Null  | Null |
