@@ -1,0 +1,25 @@
+#+TITLE: Persona 4 Golden is Over... Maybe?
+#+DATE: 2024-01-10T15:29:47-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news art p4g guides
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+It seems I have completed the last main dungeon for Persona 4 Golden. I'm planning on bringing my walkthrough up to that point today or tomorrow. Now, there is still the matter of, what I believe is, the Golden content. This is the part about finding Marie that, if memory serves (as I don't think she was even in the original) was added for the Golden re-release. So I still have content to work through, but its almost there. Also, I would like to point out that I have a reference generated for a new personal project and I plan on starting that tonight or tomorrow.
+
+* Persona 4 Golden Update
+Yep, I think I'm just about done. I'm going a bit off memory here from when I first played the game, and that already failed me once 😅 but I also have clues from the story to back things up. I believe I have finished the final dungeon of the original game, and now I'm moving on to content that was added as part of the Golden update when the game was re-released on PS4/Steam.
+
+If I am right the walkthrough should be done very soon, maybe within the next week. I'll work on trimming it down and adding some notes and things about the S-Links I was able to complete. I've actually maxed more than half already (according to Margaret) so I have some insights I can share on those. I have not really focused on quests so that section of the guides will probably be a bit bare, as I have also not done much on the job front. You can look forward to a streamlined walktrhough and some information on Jobs and Quests and S-Links in the next few updates.
+
+* Persona 3 and Other Future Guides
+I'd like to point out that this is my first attempt at making a walkthrough and a guide all on my own. The Fiesta guide was from other sources and adapted and changed as I went, but this is walkthrough is all me, including the note on the bed endings (yeah I got a bad ending 😅). I've learned a lot on how to take notes and what to pay attention to while playing as well as on how to organize everything. I'm hoping I'll be able to apply what I learned making the P4G guides to Persona 3 and other guides as a work on them.
+
+That said, there will be more guides! I have already committed to Persona 3. That will be the next RPG I play, but I would like to finish my Made in Abyss guide and look into other guides. I know a lot of guides already exist for popular games, but I sometimes find that they aren't complete so I'd like to fill in the gaps, especially for games that don't get a lot of attention these days.
+
+* Let's see Nagisa!
+For those of you who saw this year's Christmas illustration in my [[{{% ref "gallery/creations" %}}][creations gallery]], you've already got a sneak peek at Nagisa, but I would like to put together some illustrations for her story since I've already done a few for Allana. I've actually used an AI model to generate a reference. I use reference images because I lack the tools and skills to envision my own poses. I'll say this though, I *do not* trace reference images. They are used to help me place guidelines and are turned off by the time I get to the actual drawing. This is actually why I am not against using an AI generated image. I had a somewhat more specific idea in mind for the image in terms of both the pose and composition, and none of the images I had or could find seemed to fit. AI was able to generate something though, so I'm going to try that. I say again, I am an actual artist and this image will only be used to place guides, I'm **not** tracing it.
+
+Anyway, I just wanted to let you know that more art for Nagisa is coming. I will probably also put together a design sheet similar to Allana's soon as well. I hope you like Nagisa! Also, I will probably work on designing Nagisa virtual idol avatar Nanako as well. You may even see Allana's FantasyQuest Online character(s) in the future!
