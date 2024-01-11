@@ -122,11 +122,55 @@ Once again, you'll have to be careful! As you talk with Naoto, you'll be able to
 ** 12/06 - 12/07
 More days taken up with story and evenings where you can only go to sleep. While there isn't much to do for the first two days a lot does happen. The path forward becomes quite clear, literally.
 
-** 12/08 - 12/31
-It seems that the deadline for this dungeon is given to you during one of the scenes. This dungeon, as you can imagine, won't be like any of  the others thus far considering who created it. For me, I got to a deadend around the second level and ended up having to fall down a hole. I'm sure this will happen to everyone, I just can't guarantee it will happen on the same floor for everyone 😅
+** 12/08 - 12/24
+It seems that the deadline for this dungeon is given to you during one of the scenes. This dungeon, as you can imagine, won't be like any of  the others thus far considering who created it. For me, I got to a dead end around the second level and ended up having to fall down a hole. I'm sure this will happen to everyone, I just can't guarantee it will happen on the same floor for everyone 😅
 
 After jumping down the hole, you will be in a new area. At some point you'll have to avoid all encounters with Shadows. This is a requirement, if you do start an encounter, you will be sent back to the starting room, so just don't do it! If you do manage not to encounter any Shadows, you will have to fight your first sub-boss, though I'm not really sure I should call it that, it really isn't that hard. The stats table is still provided, and I should note, they it does tend to summon new mobs, including lesser copies of itself.
 
 | Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
 |---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
 | Chaos Fuzz | 70 | Magician | 600 | 124  | -    | -   | -         | -    | Null  | Null |
+
+Shortly after this you will encounter another sub-boss.
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Envious Giant | 74 | Magician | 3333 | 3333 | Str | Str | Dr    | Str | Null  | Null |
+
+After this encounter, you'll be notified that it looks like something changed in the other area. Go back to the Inaba section and continue on to the floor with the hole. Don't jump back down the hole! You should be able to access the exit now. This will take you to the final floor and your next boss fight. Now /might/ be a good time to leave the TV world to regroup and resupply. This is actually a two-phase fight and you will want to make sure you are prepared!
+
+| Names        | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|--------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Adachi       | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Null  | Null |
+| Ameno-sagiri | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Null  | Null |
+So, Adachi has a persona! This surprises the party, but shouldn't be much of a surprise to you, right? Anyway, this does mean that he can use a lot of the skills and powers that your party members can use. Be mindful of your weaknesses. Also, Mundo, is one of those skills! Remember, this is an instant kill, dark skill (if you're anything like me it and Hamon have been your bestfriends up until this point). This isn't a huge problem as your should have someone who can revive your part members, but, be very careful with the MC, his death, as always, results in an instant game over! If you have worked on some of your S-Links and chose your party well, he /might/ survive, but if you have a persona that nullifies dark, this is the best insurance.
+
+Amano-sagiri seems to use mostly fire and wind attacks, but he does have a fully upgraded fire attack that is quite devastating. Also, watch out for the confusing fog. This singles a series of buffs followed by a powerful party attack. If you are caught unprepared, you may lose your entire party. I always just guarded whenever I saw the fog and kept guarding until the attack was launched.
+
+** 12/09 and 12/10
+Just a couple pop quizzes here. The answer for the first is: transparent. While the answer to the second is: the cross-section
+
+** 12/23
+This seems to be effectively you last day to take care of Adachi. In the evening, your girlfriend (if you have one) will invite you to spend Christmas Eve with her.
+
+** 12/24
+You can spend Christmas Eve with your girlfriend. This will replace all other activities this day.
+
+** 12/25
+Now you its time for more story scenes. You'll spend Christmas with your family
+
+** 12/26
+Watch the Midnight Channel again on this rainy day. If all went well, nothing will be on!
+
+** 12/31 - 01/03
+Some more scenes as you visit the shrine for the end of the year. You will also be able to choose a girl to visit the shrine with (this appears to come from anyone your dating, so, depending on how much of a player you are, you /might/ get mulitple invites). The next day is for spending with family and you'll be tasked with going around for your New Years greetings. You'll basically have to go around and talk to /everyone/ you've connected with, except Marie. Something different happens when you visit the velvet room. You also start feeling under the weather through all this and will collapse on the last day. Teddy moved in with you and will take care of you.
+
+* Golden Content
+** 01/09
+You get a few more scenes then your told to work on you S-Links to prepare to locate/rescue Marie. You'll be over your cold by this date.
+
+** 01/10
+Just another quiz. The answer is: an orange.
+
+** 01/11
+Teddie will come to school during lunch today. This is optional, but it will result in an upgrade for his Persona and a little scene, so why not?
