@@ -8,6 +8,9 @@
 #+SLUG:
 #+SUMMARY:
 
+#+attr_html: :align left :title Keyrie Cildor :alt Keyrie's Portrait :width 35%
+[[/~yayoi/gallery/creations/KeyriePP.png]]
+
 I am Keyrie Cildor. I come from a privileged and noble line of wood elves. I am not large of stature, standing at only five feet and a single inch as measured by the humans, but I have a fierce heart for adventure.
 
 My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. The common folk love me for my kindness and generosity. It is my responsibility to respect the authority of those above just as expect from those below. I must prove that I can handle myself without the coddling and privilege of my family. I am loyal to my sovereign and my subjects regard me as a hero. Though loyal and respectful in person, I often find thoughts of privilege creeping into my mind reminding me that I am above all.
