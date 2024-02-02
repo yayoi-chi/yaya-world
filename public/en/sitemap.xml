@@ -60,13 +60,29 @@
     <loc>https://onigirionegai.info/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2024/little-update-for-now/</loc>
+    <lastmod>2024-02-01T18:36:39-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/</loc>
+    <lastmod>2024-02-01T18:36:39-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/</loc>
+    <lastmod>2024-02-01T18:36:39-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://onigirionegai.info/~yayoi/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onigirionegai.info/~yayoi/"
+                />
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/need-not-equal-to-laziness/</loc>
     <lastmod>2024-01-25T18:24:44-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2024-01-25T18:24:44-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/</loc>
     <lastmod>2024-01-25T18:24:44-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/personal/</loc>
@@ -89,19 +105,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/tags/"
-                />
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2024-01-25T18:24:44-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://onigirionegai.info/~yayoi/"
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/am-not-lazy-am-busy/</loc>
