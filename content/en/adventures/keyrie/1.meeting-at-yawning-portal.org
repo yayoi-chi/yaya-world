@@ -1,8 +1,9 @@
 #+TITLE: 1. Meeting at Yawning Portal
 #+DATE: 2024-01-14T17:52:51-08:00
-#+DRAFT: true
+#+DRAFT: false
 #+DESCRIPTION: Keyrie, meets an interesting moon elf and a rather large barbaric woman.
 #+TYPE: story
+#+WEIGHT: 1
 #+TAGS[]: stories adventures D&D Keyrie
 #+KEYWORDS[]:
 #+SLUG:
@@ -43,4 +44,22 @@ Soon, however, the creatures were slain, mostly with the help of Tracie and Embe
 A bit discomfort flashed on the man's face. "Aye, for you see this may have been my fault." I, however, had enough information. We were supposed to look for a princely-looking man with striking red hair. We were to be paid ten gold and than ten times that when we return with the man. What else did I need to know? Deciding we might as well work together on this as Tracie, Ember, and I were called together already, we were each given our ten gold pieces and headed out toward the last known location of the man we were tasked to find, the Skeward Dragon
 
 * The Skeward Dragon
-To saw I was worried of the future of our endeavors would have been an understatement, especially after ending up on a street they called Fillet. Every street lamp had been shattered and none gave any light. Yet something managed to catch my eye just ahead. It was on the corner of an intersection. It looked like a creature I had heard about, a beholder, I believe, but this one was stuffed and was a deep purple, a noble color. We approach the stuffed beholder and notice a sign. /Old Xoblob's Shop/
+To say I was worried of the future of our endeavors would have been an understatement, especially after ending up on a street they called Fillet. Every street lamp had been shattered and none gave any light. Yet something managed to catch my eye just ahead. It was on the corner of an intersection. It looked like a creature I had heard about, a beholder, I believe, but this one was stuffed and was a deep purple, a noble color. We approach the stuffed beholder and notice a sign. /Old Xoblob's Shop/
+
+The adventurers I had elected to follow didn't seem to keen on entering this shop. I, on the other hand was very much interested in it. I'm not sure if it was the sign, or the faint purple hues that I could see through the windows, but I was drawn to this place.
+
+I don't remember much about the shop other than a few interesting pieces of merchandise. One was a beautiful crystal, which Tracie was all to happy to snag up. Another was a feather, deep emerald in color. I thought this feather would make a great adornment for my hair and a snatched it for a pretty coin. The final was a dairy. Something about this dairy drew me to it. Now I know more than my share of languages, but this was written in one that I didn't even recognize. This just made the dairy more interesting, so I purchased it as well.
+
+With our business concluded at Old Xoblob's Shop, we continued on our way toward the Skeward Dragon. This was a place I would /not/ have walked into or even came close to in my previous life. It was a tavern for the lowlifes. There were absolutely not luxuries and it was completely rundown. Nevertheless the man we need to find was last seen drinking here. It was really our only lead. Reluctantly, I entered the "establishment" with my new party.
+
+* Hide-out at the Docks
+We left much of the talking to Tracie. At Skeward Dragon, we met the man that had been seen drinking with the one we were meant to find. He pointed us to the direction his friend was heading for when he was left. He mentioned the man was attacked. We headed toward the docks to further our investigation. There we found a warehouse. This was filled with scum. We wasted no time with them. I even managed to take one out with a well-placed arrow through the neck. Sadly, our companion, Ember, had said "We probably should have left one of them alive." once the fighting was over. To her credit she did try to hold them, but I thought this was just to make them easier to kill. Nonetheless we did manage to find and entrance to a sewer which we spent a bit too much time getting lost in.
+
+It took us many, many wrong turns before we managed to find a large chamber. Before arriving there, however, we stumbled across some interesting folks, including a halfling guard and a few goblins. Using magic, Tracie even managed to befriend one after we managed to take his coin purse. Of course, after seeing the measly sum, Tracie decided to give it back.
+
+In the chamber, we met an mind-thief, or something of that nature. It did manage to use a spell on Ember, but we were able to defeat it and its master. This is where we rescued our target and ended up back at the Yawning Portal where we would find out that the gold we were promised...well...was not exactly gold.
+
+* Trollskull Manor
+"I have something better than gold!" the words were of little comfort to me. I was quickly coming to the realization that I may not have managed to gather enough of my father's wealth before I left his household and I was beginning to worry about how I would be able to eat, to say nothing of the comforts I was used to at home. Nevertheless we had little choice in the matter. We had to find out what it was that was better than gold.
+
+We were presented a deed. It detailed a large manor in the middle of Trollskull Alley. This was a part of the city that was not effluent but not rundown. Kind of a middle of the road place. We decided we would take the property and vowed to have a look at it the next day. At least I had a place to stay for the night, as I had enough to afford a nice room at the Yawning Portal. Who knows, maybe a manor wouldn't be too bad. At least I would probably not have to worry about the expense of maintaining a residence at an inn or tavern. Of course, who knew what condition this so-called manor was in...

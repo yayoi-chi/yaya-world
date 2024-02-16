@@ -1,0 +1,24 @@
+#+TITLE: Its a D&D Journal
+#+DATE: 2024-02-15T18:00:08-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+#+attr_html: :width 150px :alt It's Keyrie again! :align left
+[[file:/~yayoi/gallery/creations/KeyriePP.png]]
+
+I'm sure you all remember this Little elf right? You /might/ even remember that I teased a new little section for my adventures. Well its here and its all thanks to a new D&D campaign I've entered! I typically play D&D on Saturday nights and I've been enjoying it so far. It is just a little extra thing for me to do to keep myself connected socially because I'm not one who really like going out 😅
+
+* D&D!
+So, as you may be aware, I've always liked playing MMORPGs. I've mentioned Final Fantasy XIV and I have guides for [[{{% ref "/guides/fiesta/" %}}][Fiesta]], but I've also played quite a few other games over the years. I like them, but I think what I was really looking for was something like Dungeons & Dragons. I've always wanted to create a character and just role-play in a bit more of a free-style story fashion. I think that is what D&D is, at least that's been my experience so far.
+
+Now I have gone through the process of creating a character before, and this was a bit of a daunting task, but modern tools make it easier. I was really surprised how quickly I was able to get a character sheet put together for my new character, Keyrie. I've also enjoyed going through some of the scenarios the DM has come up with for us and working with a party, though our party is a bit small.
+
+* The Journal
+You may also be aware that a like writing. I mean that is what that whole [[{{% ref "/adventures/" %}}][adventures]] section is all about. Though I am still working on [[{% ref "/adventures/fiction/" %}][other projects]] I decided that, since I need to take notes to keep the party appraised on what we are doing anyway, I might as well also write it up for anyone reading this site. So I'm doing just that. Titled [[{{% ref "/adventures/keyrie/" %}}][The Journal of Keyrie Cildor]], this will be a compilation of the adventures of my D&D character and her party. This first chapter should be up by the time this goes live. Now I didn't take very good notes during the first session and well, I didn't really decide to write this up right away, so some of the details were lost, but the other chapters will be much better, I promise! Check them out when they come out!
+
+* Those Other Stories
+I am aware that I haven't done much with RE[BASE] in a while. Actually the reason I decided to make RE[BASE] a collection of short stories was so that each story /could/ stand on its own even if I take extremely long breaks between them. I hope you understand. There will be more episodes of RE[BASE] though. Right now I'm focusing on school work and art commissions as well as my new job, but, once a few things start settling, then I'll be able to do some more episodes of RE[BASE]. Until then, you'll get some new chapters of the D&D journal and some new art in my [[{{% ref "/gallery/commissions" %}}][commissions gallery]]! That should be good right?
