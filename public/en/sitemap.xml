@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</loc>
     <lastmod>2023-11-30T12:50:00-08:00</lastmod>
   </url><url>
@@ -60,13 +63,29 @@
     <loc>https://onigirionegai.info/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2024/its-a-dnd-journal/</loc>
+    <lastmod>2024-02-15T18:00:08-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/</loc>
+    <lastmod>2024-02-15T18:00:08-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/</loc>
+    <lastmod>2024-02-15T18:00:08-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://onigirionegai.info/~yayoi/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onigirionegai.info/~yayoi/"
+                />
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/anime/</loc>
     <lastmod>2024-02-08T18:15:42-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2024-02-08T18:15:42-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/</loc>
     <lastmod>2024-02-08T18:15:42-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/on-localizations/</loc>
@@ -94,19 +113,6 @@
                 href="https://onigirionegai.info/~yayoi/tags/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2024-02-08T18:15:42-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://onigirionegai.info/~yayoi/"
-                />
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/little-update-for-now/</loc>
     <lastmod>2024-02-01T18:36:39-08:00</lastmod>
   </url><url>
@@ -120,10 +126,16 @@
     <lastmod>2024-01-18T18:54:47-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/adventures/</loc>
-    <lastmod>2024-01-14T17:28:29-08:00</lastmod>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/dd/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/keyrie/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/stories/</loc>
-    <lastmod>2024-01-14T17:28:29-08:00</lastmod>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/adventures/keyrie/</loc>
     <lastmod>2024-01-14T17:28:29-08:00</lastmod>
