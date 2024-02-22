@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>survival on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/survival/</link>
-    <description>Recent content in survival on Yaya&#39;s World</description>
+    <title>Survival on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/survival/</link>
+    <description>Recent content in Survival on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 12 Mar 2023 19:19:05 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/survival/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/survival/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>The First Layer</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/maps/1/</link>
         <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 19:19:05 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/maps/1/</guid>
         <description>Maps of the first layer of The Abyss</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -66,11 +66,11 @@
       
       <item>
         <title>Maps of The Abyss</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/maps/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/maps/</link>
         <pubDate>Sun, 12 Mar 2023 19:02:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 19:02:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/maps/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/maps/</guid>
         <description>Some tips to help you survive your next cave raid!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -110,11 +110,11 @@
       
       <item>
         <title>Cave Raiding Tips</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/tips/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/tips/</link>
         <pubDate>Sun, 12 Mar 2023 17:57:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 17:57:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/tips/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/tips/</guid>
         <description>Some tips to help you survive your next cave raid!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -154,11 +154,11 @@
       
       <item>
         <title>Made in Abyss: Binary Star Falling into Darkness</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/</link>
         <pubDate>Sun, 12 Mar 2023 17:57:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 17:57:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/</guid>
         <description>Maps of the Abyss and general tips to help you survive!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

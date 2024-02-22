@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>fiesta on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/fiesta/</link>
-    <description>Recent content in fiesta on Yaya&#39;s World</description>
+    <title>Fiesta on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/fiesta/</link>
+    <description>Recent content in Fiesta on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 17 Dec 2022 20:45:28 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/fiesta/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/fiesta/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Make my website grow!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/make-my-website-grow/</link>
         <pubDate>Sat, 17 Dec 2022 20:45:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 17 Dec 2022 20:45:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/make-my-website-grow/</guid>
         <description>New guides, new shtuff, all sorts of fun things coming just in time for Christmas!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>The halloween towns are here!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/the-halloween-towns-are-here/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/the-halloween-towns-are-here/</link>
         <pubDate>Tue, 25 Oct 2022 20:54:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 25 Oct 2022 20:54:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/the-halloween-towns-are-here/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/the-halloween-towns-are-here/</guid>
         <description>So I wasn&amp;#39;t entirely wrong! I did say that before you read the last article that I would be proven wrong and that Gamigo would droup the halloween update. I even said I would be happy if they did. Well, so, they did just that! You heard me right we have all the halloween vibes we could ever want in most of the towns of Isya!
 Maze of Madness Like last year, there is far more going on than just a makeover for most of the cities and towns in Fiesta.</description>
         
@@ -83,11 +83,11 @@ Maze of Madness Like last year, there is far more going on than just a makeover 
       
       <item>
         <title>Where&#39;s the Halloween Towns!?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/where-are-the-halloween-towns/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/where-are-the-halloween-towns/</link>
         <pubDate>Thu, 20 Oct 2022 21:06:01 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 20 Oct 2022 21:06:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/where-are-the-halloween-towns/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/where-are-the-halloween-towns/</guid>
         <description>Hi hi everypeep 👋🏻
 Is everyone having a good and scary halloween time? Got your favorite beverages in blood bags, some good spaghetti brains, and….the scariest of it all, candy corn? For me Halloween is one of my favorite times of year! One of the things a really like about Fiesta Online during this time of year is the spooky make over that comes to all the major towns. In the past years this would usually come to the game in the first or second update of October.</description>
         

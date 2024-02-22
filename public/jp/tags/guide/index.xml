@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Guide on やよいのWORLD</title>
+    <link>http://localhost:1313/~yayoi/jp/tags/guide/</link>
+    <description>Recent content in Guide on やよいのWORLD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 21:00:25 -0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/~yayoi/jp/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Babies</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/lvling/babies/</link>
+        <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 21:00:25 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/lvling/babies/</guid>
+        <description>The easiest way to level these characters is to have a higher level character kill certain mobs for you while you are in the party. Their are so-called power levelers (plvlrs) who will do this for in-game money or you can find me and I&amp;#39;ll do it for free, if I have the time. The fastest mobs are the Cursed Knights in Flaming Mine (I can help get your characters here to if you need me to), but there is often a full exposition here of babies being leveled, often by a paid plvlr.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Newblets</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/lvling/newblets/</link>
+        <pubDate>Sun, 09 Oct 2022 21:00:07 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 21:00:07 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/lvling/newblets/</guid>
+        <description>If you are lucky enough to be in Flaming Mine since you were a baby, you can pretty much stay there until level 50. Otherwise you should do a few repeatables and the Iyzel quests (at level 40) in order to get here. You can see the guide for babies for more information.
+From this point on you will be exploiting the games various repeatable quests in order to level quickly and efficiently.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Fledgling Adventurers</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/lvling/fledgling/</link>
+        <pubDate>Sun, 09 Oct 2022 20:59:51 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:59:51 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/lvling/fledgling/</guid>
+        <description>If you have followed my guides so far then you&amp;#39;ll be level 81 in no time, especially if you were power leveled. Things will start to go really fast or depressingly slow depending on the guild you are in, the money you have amassed, or the friends you have. This is kinda just how it is in Fiesta, unfortunately.
+How best to exploit repeatable from level 81-120, according to Yayoi Again, there are many leveling guides available, and a lot of opinions on how things can be done at this stage too.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Bone-fide Adventurers</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/lvling/adventurer/</link>
+        <pubDate>Sun, 09 Oct 2022 20:59:31 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:59:31 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/lvling/adventurer/</guid>
+        <description>After following my guide thus far you&amp;#39;ll notice that trying to do things solo from this point on is really hard if not impossible unless you pray really hard to the Gamigo Gods and give them plenty of offerings (by purchasing SC) 😅 So, hopefully, you&amp;#39;ve gotten yourself into a good guild and have managed to collect a lot of good friends. Trust me, this really helps 😜 Regardless, there are still a few levels left and loooots of repeatable quests to get through so onward to ADVENTURE.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>God-like Adventurers</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/lvling/gods/</link>
+        <pubDate>Sun, 09 Oct 2022 20:59:14 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:59:14 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/lvling/gods/</guid>
+        <description>When I first wrote my last guide the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. Sadly progress is slow and you know longer have any KQs to help you out. So, mayhap, you really don&amp;#39;t want to try, but in case you think capping might be cool, here&amp;#39;s some ideas of what you can do.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>leveling</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Enhancement Guide</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/enhancement/</link>
+        <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/enhancement/</guid>
+        <description>Before we begin, it is important to understand that everything in Fiesta is divided into tiers, this includes weapons, armor, and jewlery. Since Gamingo likes to make money bundles and stones used to enhance weapons, armor, and jewlery need to match their tier. So, say you have a tier 2 bow and you want to make it +1, you will need a tier 2 elrue. A tier 5 shield will need tier 5 stones.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>gear</category>
+            
+          
+            
+              <category>weapons</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Lucky House</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/luckyhouse/</link>
+        <pubDate>Sun, 09 Oct 2022 20:53:12 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:53:12 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/luckyhouse/</guid>
+        <description>The Lucky House can be entered by speaking to the Lucky House Guide in the following towns:
+Elderine Uruga Alberstroll Ruins Note: Your character must be at least level 40 to enter the Lucky House.
+The Lucky House is a place where you can exchange in-game gems, gold, etc for coins that can be used for a variety of gambling games. These games are pretty entertaining for a bit and, like all gambling, are a way to win more coins to exchange for gems.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Daily Quests</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/dailies/</link>
+        <pubDate>Sun, 09 Oct 2022 20:49:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:49:16 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/dailies/</guid>
+        <description>At level 95 you can begin doing daily quests. Daily quests reset every day at 00:00 in-game time, meaning once you turn them in they are done, but you can pick em up again the next day. From levels 90-125 you can pick up quests by purchasing a mission scroll from the mission board in Elderine. Talk to Verylo (who is standing next to the board) to actually pick up the quest.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>quests</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Builds</title>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/builds/</link>
+        <pubDate>Sun, 09 Oct 2022 20:43:55 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 09 Oct 2022 20:43:55 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/builds/</guid>
+        <description>We go over some builds like All SPR, all STR, and more with their pros, cons, and best classes</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>guide</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

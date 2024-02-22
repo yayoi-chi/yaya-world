@@ -1,0 +1,33 @@
+#+TITLE: Why Hugo Why
+#+DATE: 2024-02-22T15:11:37-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site personal news rant
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Well, this was going to be a totally different and probably much shorter post, but then things happened. First, I /did/ put the rant tag on just in case but I don't really think this is going to be much of rant. Second I'm actually going to be mostly focusing on some new wellness things I'm doing to keep myself from going crazy and not so much on what happened with Hugo. That, however, will be the first little header here so if you want to skip it, you can just go to the next header listed in the "What's on this page" list to the right.
+
+* Hugo Kinda Forgot What its For 😅
+Hugo is the application that builds this site for me. I may have already kind of described it, but, in case I have or its been awhile, it basically allows me to write the web pages how I want without using HTML. I know HTML, but HTML is annoying so I like being able to use a simpler markup language. Plus Hugo handles the template and stuff much better than something like Adobe Dreamweaver. Though, at least with Dreamweaver I can hope to write my own template 😆
+
+Well Hugo's main purpose is to build the site from how I write it into a series of optimized HTML pages that you can view on this site and to handle things like generating links easily to pages on the site. Well it kinda forgot that with and update a few days ago and I went to start up by development server and it didn't know what to do with /any/ of the reference links (links to other pages in the site). Turns out this was a reported bug and it was quickly fixed, but I only run updates on my machine once a week and I didn't get the update. I just ran another update, after figuring out what happened, and now it builds things correctly. Though I did find some untranslated pages in the not really used-cause-I-don't-have-time Japanese version of the site, which I have mostly removed until I get I chance to actually translate them.
+
+Anyway, we're back up so everything is fine and I can get onto some other things. Like what this article was originally going to be about!
+
+* Trying a Couple New Routines
+So, normally I just work whenever. I mean this is nice because I don't have to worry about a schedule, but I think it can also kind of lead to feeling burnt out. Hear me out! See, if you can work whenever you want are you really scheduling time for yourself when you really should? Are you scheduling time to relax or be with friends at all? Maybe you do, but only on the weekend. For me that's kind of how I worked. I would have little breaks within my work day, but then just get back to a meeting or other work tasks, either school, GA work, or art work, shortly after an just save all the fun stuff for the weekend. This isn't good, even if I was like watching a stream while I worked so I'm trying something out which I plan on extending to the next quarter. My new policy, no work in the evening!
+
+Now this doesn't mean I can't do other things doing the morning and afternoon, but absolutely no work after dinner. That means no art, unless its a personal project, no answering e-mail, no reading for school, and no writing for school after dinner. In fact, since I do all my work in the same room I sleep and play in, I've decided to change the configuration of the room for work and then change it back for play and sleep so the room feels different. I was already doing this on weekends, but now I'm expanding it to evenings as well. I just started, but so far I think its starting to help me reduce stress and burnout a bit. I'll keep you updated on how it's working in the long term!
+
+* For Next Quarter
+In my role as an teaching or graduate assistant I have one-on-one meetings with learners. These are kinda just scheduled whenever and I have pretty open availability. While this was a good thing when I was working as a behavior therapist, it may have also been what lead me to leaving that position. Recognizing this and how I felt in the past few weeks, I've decided that, next quarter I'm setting a schedule where I'm not available evenings or weekends. This may not be best for all learners, particularly those in my timezone, but it still leaves plenty options available for learners outside my timezone and I'm hoping it will help me feel better about my work and not feel so much pressure.
+
+* What Does This Mean for The Site?
+Well the site is no longer just a hobby, but is kind of part of my work, so, I'm not updating it in the evening any more. Updates will now come out Thursday /afternoon/. As of right now I'm going to keep it in my calendar as the evening, but will strive for them to be out earlier. By next quarter /everything/ work-related will be scheduled no later than 5 PM.
+
+Now some of the /content/ of this site is not work. Particularly my own creation in the gallery and some of the fictional content like episodes of RE[BASE] so I /will/ work on some of this content even after dinner, but I don't want to be pressured to work on it too much either. That will mean slower releases. This is partly why RE[BASE] is kind of not being updated. Just be patient though, as I do have an idea or two coming up that I just need to flesh out before I start writing.
+
+* One Last Note on Persona 4
+I'm still working through it! I think I'm getting close to the next dungeon and then things will likely pick up. For this week though, I didn't really make enough progress to add to the walkthrough, but I'll added it next week when I have a bit more to add. I really want to get to Persona 3 Portable. It seems like this will be the next game unless my financial situation changes and I can suddenly afford Persona 3 Reload.

@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>commissions on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/commissions/</link>
-    <description>Recent content in commissions on Yaya&#39;s World</description>
+    <title>Commissions on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/commissions/</link>
+    <description>Recent content in Commissions on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 22 Nov 2023 14:19:17 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/commissions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/commissions/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Happy Turkey Day 🦃</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</link>
         <pubDate>Wed, 22 Nov 2023 14:19:17 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 22 Nov 2023 14:19:17 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</guid>
         <description>Spooky month is over, Christmas is not yet here, so that must mean its harvest time and that, at least for those of us living in the United States, means Thanksgiving, also known as Turkey Day. It also means I short work week and lots of time needed to prepare so not much in the way of updates this week. I picked up a new VN that I will like to review as I heard its one of the classics.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Fun Art Is Fun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/fun-art-is-fun/</link>
         <pubDate>Thu, 16 Nov 2023 18:29:07 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 16 Nov 2023 18:29:07 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/fun-art-is-fun/</guid>
         <description>This week has been pretty busy. Been working in a new position and attending lots of meetings and training seminars. I got another commission. On top of everything I&amp;#39;m still working toward my degree as well. So yeah been busy, but its also been mostly fun…as long as you ignore the last heading that is 😜
 New Position As many of you should be aware, I am a PhD student looking to become a professor of psychology.</description>
         
@@ -91,11 +91,11 @@ New Position As many of you should be aware, I am a PhD student looking to becom
       
       <item>
         <title>Commissions</title>
-        <link>https://onigirionegai.info/~yayoi/gallery/commissions/</link>
+        <link>http://localhost:1313/~yayoi/gallery/commissions/</link>
         <pubDate>Thu, 31 Aug 2023 15:41:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 15:41:12 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/gallery/commissions/</guid>
+        <guid>http://localhost:1313/~yayoi/gallery/commissions/</guid>
         <description>I do commissions! For more information on commissioning me, you can check out the page about commissions. Please note that I only showcase commissions that he original client has given me permission to showcase!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

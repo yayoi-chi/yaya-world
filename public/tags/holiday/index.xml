@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>holiday on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/holiday/</link>
-    <description>Recent content in holiday on Yaya&#39;s World</description>
+    <title>Holiday on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/holiday/</link>
+    <description>Recent content in Holiday on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 03 Jan 2024 15:33:51 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>First Article of 2024</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/first/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 03 Jan 2024 15:33:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/first/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/first/</guid>
         <description>Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the Persona 4 Golden walkthrough. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -66,11 +66,11 @@
       
       <item>
         <title>Happy Turkey Day 🦃</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</link>
         <pubDate>Wed, 22 Nov 2023 14:19:17 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 22 Nov 2023 14:19:17 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</guid>
         <description>Spooky month is over, Christmas is not yet here, so that must mean its harvest time and that, at least for those of us living in the United States, means Thanksgiving, also known as Turkey Day. It also means I short work week and lots of time needed to prepare so not much in the way of updates this week. I picked up a new VN that I will like to review as I heard its one of the classics.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

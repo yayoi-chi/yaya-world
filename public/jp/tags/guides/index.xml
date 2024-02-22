@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>guides on やよいのWORLD</title>
-    <link>https://onigirionegai.info/~yayoi/jp/tags/guides/</link>
-    <description>Recent content in guides on やよいのWORLD</description>
+    <title>Guides on やよいのWORLD</title>
+    <link>http://localhost:1313/~yayoi/jp/tags/guides/</link>
+    <description>Recent content in Guides on やよいのWORLD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 20:34:13 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/jp/tags/guides/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/jp/tags/guides/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>FiesataNAのゲード</title>
-        <link>https://onigirionegai.info/~yayoi/jp/fiesta/</link>
+        <link>http://localhost:1313/~yayoi/jp/fiesta/</link>
         <pubDate>Sun, 09 Oct 2022 20:34:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:34:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/jp/fiesta/</guid>
+        <guid>http://localhost:1313/~yayoi/jp/fiesta/</guid>
         <description>Welcome to my guides to Fiesta Online.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
