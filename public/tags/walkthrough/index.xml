@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Walkthrough on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/walkthrough/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/walkthrough/</link>
     <description>Recent content in Walkthrough on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 15 Nov 2023 21:39:40 -0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Walkthrough (May thru Sep)</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/walkpt1/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</link>
         <pubDate>Tue, 06 Dec 2022 21:38:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:38:37 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/walkpt1/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkpt1/</guid>
         <description>This will walk you through everything you need to do in the first part of Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Walkthrough (Oct onward)</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/walkpt2/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkpt2/</link>
         <pubDate>Wed, 15 Nov 2023 21:39:40 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 15 Nov 2023 21:39:40 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/walkpt2/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkpt2/</guid>
         <description>This will walk you through everything you need to do in the second part of Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -98,11 +98,11 @@
       
       <item>
         <title>Persona 3 Portable</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
         <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 21 Jan 2023 21:40:18 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p3p/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Portable. Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -142,11 +142,11 @@
       
       <item>
         <title>Persona 4 Golden</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
         <pubDate>Tue, 06 Dec 2022 21:17:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:17:47 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 4 (Persona 4: Golden). Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
