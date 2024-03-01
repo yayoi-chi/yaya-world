@@ -20,6 +20,8 @@ images: # when mode is one-by-one, images front matter works
     caption: Jade and I noticed that some emulators work best in their original 4:3 aspect ratio so I made a frame to work with them.
   - image: FirstFrameforJade.png
     caption: This is the first stab at a streaming frame. I've decided, after doing the retro one to edit this a bit. That'll be done after Thanksgiving
+  - image: StreamSetUp.png
+    caption: This is a "Stream Starting Soon Card". My client uses it before the stream starts.
 ---
 
 I do commissions! For more information on commissioning me, you can check out the page [about commissions]({{% ref "/commissions.org" %}}). Please note that I only showcase commissions that he original client has given me permission to showcase!
