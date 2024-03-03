@@ -2,135 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://onigirionegai.info/~yayoi/jp/introduction/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/introduction/</loc>
     <lastmod>2022-10-09T21:44:28-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/introduction/"
+                href="http://localhost:1313/~yayoi/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/introduction/"
+                href="http://localhost:1313/~yayoi/jp/introduction/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/tags/friends/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/tags/friends/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/friends/"
+                href="http://localhost:1313/~yayoi/tags/friends/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/friends/"
+                href="http://localhost:1313/~yayoi/jp/tags/friends/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/tags/fun/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/tags/fun/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/fun/"
+                href="http://localhost:1313/~yayoi/tags/fun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/fun/"
+                href="http://localhost:1313/~yayoi/jp/tags/fun/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/tags/story/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/tags/story/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/story/"
+                href="http://localhost:1313/~yayoi/tags/story/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/story/"
+                href="http://localhost:1313/~yayoi/jp/tags/story/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/tags/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/tags/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/"
+                href="http://localhost:1313/~yayoi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/"
+                href="http://localhost:1313/~yayoi/jp/tags/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/"
+                href="http://localhost:1313/~yayoi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/"
+                href="http://localhost:1313/~yayoi/jp/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/adventures/stories/ch1/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/adventures/stories/ch1/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/adventures/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/adventures/stories/</loc>
+    <lastmod>2022-10-09T21:54:20-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/adventures/</loc>
     <lastmod>2022-10-09T21:49:45-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/adventures/"
+                href="http://localhost:1313/~yayoi/adventures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/adventures/"
+                href="http://localhost:1313/~yayoi/jp/adventures/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/tags/about/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/tags/about/</loc>
     <lastmod>2022-10-09T21:44:28-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/about/"
+                href="http://localhost:1313/~yayoi/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/about/"
+                href="http://localhost:1313/~yayoi/jp/tags/about/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/categories/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/categories/"
+                href="http://localhost:1313/~yayoi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/categories/"
+                href="http://localhost:1313/~yayoi/jp/categories/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/jp/series/</loc>
+    <loc>http://localhost:1313/~yayoi/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onigirionegai.info/~yayoi/series/"
+                href="http://localhost:1313/~yayoi/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/series/"
+                href="http://localhost:1313/~yayoi/jp/series/"
                 />
   </url>
 </urlset>
