@@ -215,3 +215,33 @@ Your advancement exams start today. Like all other exams, you will spend these d
 * Hollow Forest
 ** 02/11 - 02/12
 Now that placement exams are over, time for a trip! These two days are filled with story scenes. Just sit back and enjoy everyone spending time with you before you leave. Also Marie is finally found and a new dungeon opens!
+** 02/13
+This dungeon is unique for a few different reasons:
+1. You do not enter this dungeon from Junes!
+2. This dungeon is only available for one day
+3. You cannot bring items you have collected from other dungeons or elsewhere in the game into this dungeon
+4. On some floors encounters work as they do in other dungeons, but on others you will not see shadows on the map, they will only attack when you open doors.
+5. You lose half your SP after each fight
+6. You gain SP during fights
+7. No encounter gives you money except certain golden hands.
+8. Goho-M's (which aren't available) and "escape skills" will not work, only "sacred branches" will allow you to leave.
+
+
+   With these in mind it is best to pace yourself and pop back to the entrance strategically. You may use your items in the entrance and these can be used to restore HP/SP and you can switch out tired party members, or, potentially, use the fox for healing. Just remember, the fox's healing is not cheap. You can also use some encounters to simply regain SP, but this is not ideal since you will still lose some after the encounter and you don't get SP back quickly.
+
+   Do NOT leave the dungeon without saving Marie! This will result in a bad ending. You have been warned!
+| Names           | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|-----------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Marie           | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Rpl   | Rpl  |
+| Kusumi-no-Okami | ??  | ?      | ????    | ???     | Rpl  | Rpl | Rpl       | Rpl  | Rpl   | Rpl  |
+|                 |     |        |         |         |      |     |           |      |       |      |
+The stats for Marie listed above are her starting stats. She will change her stats to essentially match Kusumi-no-Okami's at some point in the fight, however, you don't have to worry about this fight. Marie herself will end this fight after a few turns. For Kusumi-no-Okami, you will notice she repels all attacks. You can damage her with Almighty attacks, however, this will likely take a lot of SP and time. What I did was use items (or you can also use skills) that nullify her repels. This will basically poke holes her her defenses that you can exploit to do a lot more damage. Monitor these affinities though to make sure you don't accidentally damage yourself. Her skills are all party skills, but they aren't particularly devastating. You may want to have a dedicated healer though as, in combonations, like "hot lightening" followed by "run amok" they can do quite a lot of damage to the whole party. Keep everyone healed up and watch their SP and you should be able to beat her fairly easily.
+
+** 2/14
+Story time! Just spend some time with your favorite girl, or whatever. I'm actually not sure how these scenes play out if you don't have a favorite girl, but you'll probably still get to enjoy Marie and Nanako's company at least.
+
+** 2/15-3/19
+Yep, this is a kind of time skip. Some images of new memories made with your friends flash by, but otherwise time just passes by uneventfully.
+
+** 3/20
+This is your last day with your friends in Inaba. Best make the most of it, even if you kind of have to.
