@@ -16,7 +16,6 @@ This is designed to help you figure out what to do on each day of Persona 4 Gold
 I've started this kind of in the middle of my current playthrough. So I don't have April included, which includes events from the first. For now I'll be pulling from things I've read and my own memory, but the good news is, the first dungeon and the story to that point is pretty straightforward. Nevertheless I will be covering that when I can.
 
 * The hot and steamy bathhouse!
-There is something just a little odd and unexpected about Kanji Tatsumi. On the third day after rescuing Yukiko, Kanji appears on the Midnight Channel. The first time the party sees this they aren't entirely sure who it is, but it becomes clear after the second viewing. Sadly, they cannot confront Kanji before he is kidnaped. He appears once more in a steamy bathhouse, only he seems a little different.
 ** 5/20 - 5/23
 Kanji disappears around the 20th of May (5/20). The 20th is a Thursday. Even before he disappears, Dojima-san tells you to keep an eye out for Adachi in Junes. Believe it or not this is a clue, though its not really Adachi your looking for, but I digress.
 
@@ -45,32 +44,22 @@ One final note: These bosses can cast poison and rage on the whole party. In my 
 
 ** 5/25
 On this date you will get a cutscene before school introducing you to a new job, the Tutor job. This is a job that you can go to at night, tues., thurs., and sat. it pays very well (10,000 yen per day), but requires high *understanding*.
-
-Marie is also available to go out this day.
 ** 5/26
 There is a quiz in class today. This is a fairly easy question as long as you are paying attention. If you want to skip the dialog, however, the answer is, "attendance logs".
 ** 5/28
 The mail order show starts. You can order things from the TV in your room. Watch for deals on Sun., Mon., and Tues.
-** 5/30
-There is another lecture on this day, but there is no quiz and it does not affect what is available for you to do this day.
-** 6/1
-Rain sets in today. This is the game's warning that you will need to hurry and save Kanji. Marie is available this day as well. Also, it is good to remember that /some/ part-time jobs and clubs cannot be done on rainy days.
 ** 6/4
 This is it! This is your last day to save Kanji.
 ** 6/5
 Kanji returns! You will now have a few cutscenes to go through where the party will welcome Kanji to their group and discuss the case thus far. Congratulations on finishing the bathhouse!
 ** 6/6
-A lot is about to happen and yet hardly anything happens. Here's what I mean. Over the next several days nothing happens on the midnight channel and nothing new happens in the TV world, however, a lot of events and story notes will take place. At the moment the party will just discuss changes to the killer's MO and other notes about the case to this date.
+Your afternoons will be spent in discussing the cases so far.
 ** 6/8
 There is a lecture today. There will be a question, the answer to which is "balance beam". After the lecture you will begin discussing getting a motorcycle license.
 ** 6/9
 You'll get your license today and you are gifted a scooter. You can practice riding it and unlock other areas to travel from doing so.
-** 6/13
-This is the first day of summer, yay?
 ** 6/15
 There is a quiz this day too, the answer is "cheerfulness in a group". You will have a pick up (as in pickup a girl) contest after school today.
-** 6/16
-The girls go shopping to prepare for the school camp out.
 ** 6/17 - 6/18
 Camp out day one, it should be noted /none/ of your usual ways of spending time will be available, its all story at cutscenes, just sit back and let the game hold your hands for a bit
 ** 6/20
@@ -79,7 +68,6 @@ Rise makes a TV announcement. The party suspects she might be the next victim. T
 |--------------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
 | Intolerant Officer | ?   | Emperor | ?       | ?       | -    | -   | Wk        | ?    | Null  | Null |
 * Marukyu Striptease
-Rise Kujikawa is an idol from the small town of Inaba, where the story is taking place. As an idol, Rise has to conform to a certain personality archetype, but is actually quite different from how she appears on TV. As a result, she is struggling with her true self and the "manufactured personality" she has as an idol.
 ** 6/21 - 6/23
 After the party begin to suspect that Rise may be the next target, she begins to appear on the Midnight Channel. Unlike before, they will immediately identify her. Like before, they will not be able to save her, so it will be off to the TV for you.
 ** 6/24
@@ -115,40 +103,31 @@ So Teddie joins the party in a new capacity and new form (yeah that was also sur
 ** 7/11
 You get a new homeroom teacher. Brace yourself for that, by the way, she isn't exactly any better than your last. Also, brace yourself for a barrage of cutscenes as everyone discusses the case so far.
 
-** 7/12
-Nothing much happens now. Take a nice rest! Finals start next week!
-
 ** 7/13 - 7/16
 To help you prepare for next week's finals, you will have a series of pop quizzes. The answers are relatively easy though if you pay attention in class, you do pay attention, don't you? Well, since this isn't a real school, I guess I can let you look at my answers:
 + 7/13: sphenopalatine gangloinueralgia
 + 7/14: Kuukai
 + 7/15: the equator
 + 7/16: no mustache
-Enjoy your weekend! Note: Marie is available 7/13 as well
+Enjoy your weekend!
 
 ** 7/19 - 7/23
 Finals week is here. Again, just because this is a game and not a real class, I'll let you look at my notes, but you really should just be paying attention in class.
-+ Day 1, Quiz 1: cheerfulness in a group
-+ Day 1, Quiz 2: balance beam
-+ Day 2, Quiz 1: 応
-+ Day 2, Quiz 2: Meiji
-+ Day 3, Quiz 1: king of hearts
-+ Day 3, Quiz 2: pascal
-+ Day 4, Quiz 1: pis pis river
-+ Day 4, Quiz 3: deceleration of independence
+| Day  | Answer 1                 | Answer 2                     |
+|------+--------------------------+------------------------------|
+| 7/19 | Cheerfullness in a group | balance beam                 |
+| 7/20 | 応                       | Meiji                        |
+| 7/21 | king of hearts           | pascal                       |
+| 7/22 | pis pis river            | deceleration of independence |
 
+The last day of this, and every exam, gives you some idea about how you will do, there are no questions to answer.
 ** 7/23
-You will meet to discuss the case a bit more. Pick "formaldehyde" when asked. The Lovers arcana is opened to you!
-
-** 7/25
-You will get your test results today. How did you do? I gave you all the answers, so you /should/ have done well 😝
+You will meet to discuss the case a bit more. Pick "formaldehyde" when asked.
 
 ** 7/26 - 7/27
 Time for a new midnight TV, nothing else happens. Just sit back and enjoy the story. In fact you can sit back for two days! You will meet the next day to try and figure out who the boy is. Actually you probably should sit around the second day. You /should/ go talk to Kanji real quick on the second day you'll need to do this if you want to open the next dungeon quickly.
 
 * Void Quest
-Have you found the culprit at last? Only one way to find out! Back into the TV with you! Keep in mind that summer vacation officially started 7/28, sorry I forgot to tell you. This means you will not have to worry about school or club activities. It also means those social links are blocked from progression at this time.
-
 ** 7/28 - 7/29
 If you couldn't or didn't talk to Kanji, you should be able to do so now, also take his suggestion and talk to Doujima, though it doesn't seem helpful, you can actually use this to get some info out of Adachi, but not on the first day as he is probably not available. Better wait until the second, you'll learn from Adachi that the boy was a part-timer at one of the shops. In fact, it was Souzai Daigaku in the north section of the shopping district (the steak place). Once you talk to the owner there, you should see a boy with blonde hair and a school bag hanging around the tofu shop. You'll get a yearbook photo of the culprit from him. This will be all Rise needs to track him down. If, for some reason, he does not appear, the boy will appear again on 8/1, make sure you have completed all the steps above, before that time. I don't know when he'll show up again, but he does not show up on every day.
 
@@ -161,17 +140,11 @@ This dungeon is modeled after an old point-and-click-adventure game, or maybe an
 
 This dungeon is fashioned after an old-school RPG. At the beginning of this fight, Mitsuo will start by building his character. This creates the boxy shell known as Mitsuo the Hero. Mitsuo the Hero uses powerful attacks straight out of an RPG, including an old-style UI for you to enjoy. You must destroy this shell before you can hurt Shadow Mitsuo himself. Keep in mind Shadow Mitsuo a wall during the fight and will attack with the Ma-spell that matches it. Be mindful of your party's weaknesses and try to counter when you can. He will also attempt to rebuild his character, but you will have some warning when this is about to happen. Aside from being mindful of your weaknesses, there isn't much to this fight and you should not have too much difficulty winning.
 
-** 8/3
-Marie will be available for you to have a good time with 😜
-
-** 8/7
-Marie is now available again. Keep in mind that you are on summer break now. You normal activities will not be available, but you will have much more free time for some of your other S-Links, including Marie.
-
 ** 8/12
 This is your last change to confront Mitsuo. If you haven't reached chapter 10 in the dungeon by now, you must do so now, at all costs!
 
 ** 8/13
-Marie is also available today. Your evening, however, will be spent with a lively "victory" dinner with Doujima, Nanako, and Adachi.
+Your evening, however, will be spent with a lively "victory" dinner with Doujima, Nanako, and Adachi.
 
 ** 8/15-8/19
 You will be given the opportunity to work at Junes to help Yosuke out. This will earn you 40,000 yen (by the way you'll also get 40,000 for Doujima if you talk to him at the right moment before this day). It will also net you some S-Link points for Chie and Yosuke. However, this all does come with a price. That is you will skip the entire week, so you won't be able to do anything else. It is a good way to fast track some boring days though. Its up to you if its worth it or not.
@@ -198,7 +171,7 @@ Prepare yourself for a lot of story scenes. First, you'll have the fireworks fes
 School is bake in session! Welcome to your second term! Naoto, the boy detective will also come to school for the next few days, including the school trip. You'll also spend your after school hours talking with Naoto over recent events, so more story!
 
 ** 9/3 - 9/6
-Nothing of particular note here. You're finally free to do almost whatever you want. On the first day Marie will be available to work on her S-Link. You will receive a quiz on the second to last day in this stretch. The answer is Brisk. The last day here will inform you of a powerful new shadow in the game that you can /optionally/ fight!
+Nothing of particular note here. You're finally free to do almost whatever you want. You will receive a quiz on the second to last day in this stretch. The answer is Brisk. The last day here will inform you of a powerful new shadow in the game that you can /optionally/ fight!
 | Names            | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
 |------------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
 | Escapist Soldier | ?   | Justice | ???     | ???     | -    | -   | -         | -    | Null  | Null |
@@ -206,7 +179,7 @@ Nothing of particular note here. You're finally free to do almost whatever you w
 Watch out for elemental skills! Will also cast "Stagnant Air" and "Mudon". Remember, "Mudon" is an instant KO dark skill, if this hits the party leader, it will be a game over. It is best to make sure your party leader, if not the entire party, is immune to dark.
 
 ** 9/7-9/11
-You will have after school on 9/7 to yourself, but your evening will be taken up by getting ready for the school trip. The school trip itself lasts from 9/8-9/10 and is all story, so just sit back and relax again. You will be home by 9/11, and Marie will be available again.
+You will have after school on 9/7 to yourself, but your evening will be taken up by getting ready for the school trip. The school trip itself lasts from 9/8-9/10 and is all story, so just sit back and relax again. You will be home by 9/11.
 
 ** 9/12
 A special report will be shown on TV. This report talks about the case and, most importantly, about Naoto. It will take away your evening though, so plan accordingly.

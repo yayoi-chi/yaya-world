@@ -1,0 +1,29 @@
+#+TITLE: Marie (Aeon)
+#+DATE: 2024-03-12T18:33:01-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TYPE: guide
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Marie is a girl you meet in the Velvet Room. She usually sits on the other side of Igor, though some times she seems to be missing only to return fairly quickly usually after you discover one of her poems. After 04/18 you will see in option under "check on dwellers" in the velvet room to "listen to Marie's request". This will allow you to befriend Marie and start her social link.
+
+* Availability
+Once initiated Marie will be available on the following times of days.
+
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | On Rainy Days |
+|--------+---------+-----------+----------+--------+----------+--------+---------------|
+| X      | X       | Day       | X        | X      | Day      | Day    | X             |
+
+- Though she isn't typically available when it is raining, you must speak to her on a rainy done in order to get to rank one.
+- If you are ever in a position where you are still gathering information on a victim during one of the available days, you will not find Marie
+- Once you reach the dungon "Magatsu Inaba" then Marie becomes available every day
+- You can find Marie outside the Velvet Room door in the shopping district when she's available
+
+* Dialog Options and Story (spoilers)
+Marie has lost her memory. Her story essentially revolves around her finding more about herself. The dialog options below could be considered spoilers. Skip to the next section if you want to avoid those!
+
+* Rewards
+As Marie is a non-combatant, her rewards primarily revolve around boosting EXP for Persona of the Aeon archon. However, maxing out this social link does give you the key item "Old Bamboo Comb" which enables you to fuse the Persona "Kaguya". It also unlocks special scenes when you defeat the last main bosses.
