@@ -1,4 +1,4 @@
-#+TITLE: Walkthrough (May thru Sep)
+#+TITLE: Walkthrough
 #+DATE: 2022-12-06T21:38:37-08:00
 #+DRAFT: false
 #+DESCRIPTION: A walkthrough for the first half of Persona 4 Golden
@@ -22,7 +22,7 @@ Kanji disappears around the 20th of May (5/20). The 20th is a Thursday. Even bef
 You see, when Kanji disappears, you will head over to the TV world where your shocked to find that Teddy is having difficulty locating Kanji. To help him out, you need to learn more about the delinquent. To do so you need to find the young man you saw him speaking to just before he was kidnaped. Remember how I said Junes was a clue, well this young man can actually be found in Junes, but not every day. In fact, he is only there Tues., Thurs., and Sat. You need to find him, speak with him, then find Kanji's mom and speak to her, but there's a bit of a trick to this. She will only appear /after/ you speak to the young man, and never on the same day you speak to him. So you have to time it right.
 
 After speaking to the young man, go about your day, maybe go to work or do whatever you want that day, keep in mind that your friends, and a few others won't be available yet. On the next day, go to the textile shop. Kanji's mom should be right outside, if she isn't, go about your day as you normally would, if she is, speak to her first. Finally, on the next Tues., Thurs., or Sat. Find the young man and speak with him again. He'll give you the clue you need to hand over to Teddy. You can hop into the TV right away to hand over the clue and gain access to the bathhouse, or wait until it is most convenient. You should have access to your friends and other social links once you have the clue, but I shared it with Teddy right away, so I'm not sure.
-** 5/24 - 6/3
+** 5/24 - 6/4
 If you do the above quickly you may have a bit more time. If your slower you may not have as much time. This is the date I started and should be a good amount of time to get this dungeon done and dusted. I'm still on this date.
 
 The first two floors are fairly easy. Keep in mind that each floor is generated randomly by the game, just like with the previous dungeon. There will be chests to open and some fairly easy shadows to beat. There is a cutscene where the party gets their first glimpse of Kanji's shadow, but this all that is of note. On my playthrough on easy I was easily able to reach this floor in one afternoon. As with all dungeons, mind your time and watch your party.
@@ -48,14 +48,12 @@ On this date you will get a cutscene before school introducing you to a new job,
 There is a quiz in class today. This is a fairly easy question as long as you are paying attention. If you want to skip the dialog, however, the answer is, "attendance logs".
 ** 5/28
 The mail order show starts. You can order things from the TV in your room. Watch for deals on Sun., Mon., and Tues.
-** 6/4
-This is it! This is your last day to save Kanji.
 ** 6/5
 Kanji returns! You will now have a few cutscenes to go through where the party will welcome Kanji to their group and discuss the case thus far. Congratulations on finishing the bathhouse!
 ** 6/6
 Your afternoons will be spent in discussing the cases so far.
 ** 6/8
-There is a lecture today. There will be a question, the answer to which is "balance beam". After the lecture you will begin discussing getting a motorcycle license.
+There is a lecture today. There will be a question, the answer to which is "balance beam".
 ** 6/9
 You'll get your license today and you are gifted a scooter. You can practice riding it and unlock other areas to travel from doing so.
 ** 6/15
@@ -91,11 +89,11 @@ Shadow Rise has no weaknesses, but is more than capable of taking advantage of y
 | Shadow Teddie | ?   | Moon   | ?       | ?       | -    | Dr  | -         | -    | Null  | Null |
 It is after the twist that the real fight begins. Shadow Rise, was pretty easy actually, now its time for Shadow Teddie! This will be a real fight. Like Shadow Rise, Teddie has no weaknesses. He will also attempt to lower your party's defenses right away and inflict other ailments. Eventually he will begin charging attacks. At these points, make sure all party members are guarding when the message "Shadow Teddie is charging up" is displayed. You will block the attack fully. Careful though! Shadow Teddie will attempt to inflict dizzy on a party member, or two, before charging up.
 
-** 7/4
-There is a lecture and a pop quiz today. The answer to the question is "Pascal"
-
-** 7/7
-Another lecture and quiz this day. The answer to the question is "The Deceleration of Independence"
+** 7/4 - 7/7
+| Date | Answer                          |
+|------+---------------------------------|
+| 7/4  | Pascal                          |
+| 7/5  | The Declaration of Independence |
 
 ** 7/10
 So Teddie joins the party in a new capacity and new form (yeah that was also surprising) and our super cute idol Rise will join the party. She replaces Teddie as your analyst, however, so don't expect her to be fighting alongside you. Your homeroom teacher was murdered last night and his story appears today on the news.
@@ -104,11 +102,13 @@ So Teddie joins the party in a new capacity and new form (yeah that was also sur
 You get a new homeroom teacher. Brace yourself for that, by the way, she isn't exactly any better than your last. Also, brace yourself for a barrage of cutscenes as everyone discusses the case so far.
 
 ** 7/13 - 7/16
-To help you prepare for next week's finals, you will have a series of pop quizzes. The answers are relatively easy though if you pay attention in class, you do pay attention, don't you? Well, since this isn't a real school, I guess I can let you look at my answers:
-+ 7/13: sphenopalatine gangloinueralgia
-+ 7/14: Kuukai
-+ 7/15: the equator
-+ 7/16: no mustache
+To help you prepare for next week's finals, you will have a series of pop quizzes. The answers are relatively easy though if you pay attention in class, you do pay attention, don't you? Well, since this isn't a real school, I guess I can let you look at my answers!
+| Date | Answer                          |
+|------+---------------------------------|
+| 7/13 | sphenopalatine gangloinueralgia |
+| 7/14 | Kuukai                          |
+| 7/15 | the equator                     |
+| 7/16 | no mustache                     |
 Enjoy your weekend!
 
 ** 7/19 - 7/23
@@ -140,9 +140,6 @@ This dungeon is modeled after an old point-and-click-adventure game, or maybe an
 
 This dungeon is fashioned after an old-school RPG. At the beginning of this fight, Mitsuo will start by building his character. This creates the boxy shell known as Mitsuo the Hero. Mitsuo the Hero uses powerful attacks straight out of an RPG, including an old-style UI for you to enjoy. You must destroy this shell before you can hurt Shadow Mitsuo himself. Keep in mind Shadow Mitsuo a wall during the fight and will attack with the Ma-spell that matches it. Be mindful of your party's weaknesses and try to counter when you can. He will also attempt to rebuild his character, but you will have some warning when this is about to happen. Aside from being mindful of your weaknesses, there isn't much to this fight and you should not have too much difficulty winning.
 
-** 8/12
-This is your last change to confront Mitsuo. If you haven't reached chapter 10 in the dungeon by now, you must do so now, at all costs!
-
 ** 8/13
 Your evening, however, will be spent with a lively "victory" dinner with Doujima, Nanako, and Adachi.
 
@@ -152,14 +149,8 @@ You will be given the opportunity to work at Junes to help Yosuke out. This will
 ** 8/20
 This is a story telling day. You'll attend the first day of the summer festival with friends. Enjoy the cutscenes!
 
-** 8/21
-You can choose to spend your evening with another summer festival day, this time with your favorite girl! This will skip the whole day though.
-
-** 8/23
-You can choose to have a beach day today. Choosing this will give you a pretty funny cutscene that you have to watch at least once, but it will skip the whole day until evening. If you have anything you need to do today for any reason, maybe skip the beach for now. The evening will present another option for you. You will be able to help Nanako with her homework. This will build her S-Link rank and also those of a few of your classmates who will stop by to help. Its worth it to help you build those S-Links, but will also take up a few evenings, not just this one.
-
-** 8/24
-You remember that you have summer assignment to work on. You can choose to spend your daytime hours at your desk working on homework. This is a good way of raising your knowledge, but if you are already fairly high, than you /might/ want to skip one or more of these. At least you have the option. Also, remember, if you decided to help Nanako your evenings will be spent with her (you have no choice after the first one), so you won't be able to do anything else in the evenings.
+** 8/21 - 8/24
+You will have a different choice given to you at the beginning of each of these days. If you choose to do any of these, they will take the whole day, but will offer you new scenes or potentially boasts to your S-Links. One of the choices that pops up will be to help Nanako with her summer assignments, which will take your evenings as well for the next few days.
 
 ** 8/29
 This is the last day to finish your summer assignments. The game is going to force you to spend the daytime hours finishing them up. If you chose to help Nanako you will spend your evening with her, so this day will probably be a wash. Fortunately, it also happens to be the last day you'll need to help Nanako.
@@ -183,9 +174,6 @@ You will have after school on 9/7 to yourself, but your evening will be taken up
 
 ** 9/12
 A special report will be shown on TV. This report talks about the case and, most importantly, about Naoto. It will take away your evening though, so plan accordingly.
-
-** 9/14
-The rain lasts well into the night today. You will use this opportunity to watch the midnight channel. If you were paying real close attention you /might/ not be surprised when a faint image appears on the TV. After all even Naoto wasn't entirely convinced that the real killer was caught.
 
 ** 9/15
 Time to discuss what everyone saw on the Midnight Channel after school. You'll also get the game's first back-to-back midnight channels and discovered that Naoto has gotten themselves thrown into the TV.
@@ -218,13 +206,234 @@ Once you have the second key and take it to the second door you'll be able to pr
 Naoto doesn't really fight fair. As seems to be the norm with boss fights now, they have no weakness to speak of, but will nullify your party's resistances as well. Furthermore, while they also don't seem to have any light/dark skills, they do still have one instant kill skill. You'll want to make sure some of your party are able to survive a death blow (usually acquired at high enough S-Rank). When their HP gets low, they will start using Mute Ray which casts silence and steals both HP and SP from a single target. This is a difficult fight, but, if you focus on your strongest party and keep everyone's HP high you should be able to win. Also watch when everyone is buffed/debuffed and plan you attacks just right for the best damage possible.
 
 ** 9/20 - 9/28
-Not much happens during this time. Its the perfect chance to work on S-Links and explore the Secret Lab. 9/20 does have a quiz in PE, the answer is: nonagenarian. There is a lecture on 9/24. but no quiz. 9/28 also has a lecture and quiz, the answer is: Throat.
+Just a few quizzes to take note of:
+| Date | Answer       |
+|------+--------------|
+| 9/20 | nonagenarian |
+| 9/28 | throat       |
 
 ** 10/02
 You can choose to hang out with the girls today. You don't have to, but you do get a few fun scenes while you are out shopping with them. Kanji even joins you, though Yosuke seems to have been smart enough not to show. If you do choose this, you will gain S-Link for all the girls and Kanji. Might help you with the S-Rank.
 
-** 10/03 - 10/05
-Other than 10/05 being the last day to save Naoto, not much happens during these three days. There are quizzes though. Here are the answers in order, starting with 10/04 as 10/03 is just a lecture: tug-of-war, and right edge.
+** 10/04 - 10/05
+| Date  | Answer     |
+|-------+------------|
+| 10/04 | tug-of-war |
+| 10/05 | right edge |
+
+* Haven
+** 10/06 - 10/10
+This is a series of story scenes that will take your after school time. It will start with discussing with Naoto what happened when they were kidnapped. They know quite a lot of details, but you will still have wait for another victim to come forward to investigate further. After getting Naoto-kun's reports, you will be helping Yosuke and Rise with a concert. The concert is on 10/10, but you'll spend a few days preparing. Just enjoy the scenes. The event even has a nice animated scene. There is one quiz during these day, on 10/08. The answer is pretty obvious, but I'll tell you anyway, it's: chicken. It should be noted that your evenings are still free, so use this time to finish up Nanako's S-Link or spend time with everyone in the evening.
+** 10/11
+Your after school hours are still not yours. You agree to study with everyone. Naoto will likely ask you to go into the TV when you get back home, but that'll have to wait until tomorrow. Good news is, this means you'll be free to do what you want tomorrow. There is a quiz today too, the answer is: glass jars.
+** 10/12
+A nice Halloween-themed quiz. The answer is: turnips (imagine carving those!). You'll be notified that a new strong shadow has appeared in the lab. Now is a good time to go back if you don't have anything else to do.
+| Names          | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|----------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| Extreme Vessel | ??  | Fortune | ????    | ???     | -    | -   | -         | Wk  | Null  | Null |
+** 10/13
+Everything is basically back to your normal rhythm. One more quiz, they'll be ramping up since your exams are coming up again. The answer is: ojisan.
+
+** 10/14 - 10/20
+With exception of 10/16, which is a Sunday, you will spend the next few days in school answering questions on your midterm exams. You are normally free in the evening, but may not be free during the after school hours. As such, it is a good idea to have fought the above special boss before this date. You could have 10/16. but you will be asked to join a study group, so, if you haven't fought the boss by now, it will be a toss up between enhancing S-Ranks and completing the boss. There will be sometime after exams, however. I'm not going to give you the questions on your exams as the questions and answers can't co-exist in the same area without endangering all of humanity. I will give you the answers though:
+| Day | Q1 Answer             | Q2 Answer        |
+|-----+-----------------------+------------------|
+|   1 | Throat                | The Right edge   |
+|   2 | 40 Minutes            | All of the above |
+|   3 | Black and White Bears | Ostrich          |
+|   4 | ??*                   | Glass Jars       |
+|   5 | Fall                  | Plan Resin       |
+(* Day 4/Q1 I got wrong in this playthrough, you'll still get top marks for this, but I can only say Wasan Shoujo is not the right answer)
+
+The last day has no questions. You'll be given a general sense of how you feel you did and the day will end. Your exams on now over, hope you did well. You will receive a mysterious letter, which gives you something to talk about with your friends in the morning, but that is it.
+
+** 10/22
+You will be given an opportunity to vote for an activity for your class to host during the culture festival this weekend. As this is the first time I played this far, I'm not sure if your choice actually matters. To be funny, I just chose the "group date cafe" let me know if you picked something different and how that turned out!
+
+** 10/24
+You get your test results today. If you answered all the questions with the answers I gave you, then you'll get top marks and all of your school friends will be impressed. This will increase all their S-Ranks.
+
+** 10/27 - 10/28
+The culture festival will be starting at the end of this week, and guess which class completely forgot about it? Yeah, yours! So, now you'll be spending a few days, including after school hours, preparing for the culture festival. If you have anything you want to get done in the TV do it before now, or you'll have to wait until next week.
+
+** 10/29 - 10/30
+The culture festival itself. This is just a compilation of some really fun scenes. You will lose more time and you'll want to be prepared for a long set of cutscenes. There will not be many opportunities to save once the culture festival starts. In fact, your next chance will be after the hot springs visit on 10/30. Make sure you block out plenty of time to get through these scenes!
+
+** 10/31
+You'll get an extra day off. You can save and do whatever, but, if you want everyone's Halloween costumes, you're going to have to help Yosuke out and Junes. This whole thing is a wash and all you get are the outfits though, so its up to you.
+
+** 11/01
+Nothing of note really, just a quiz, the answer is: geometric shapes
+
+** 11/04
+Another quiz (the answer is: Cuckoo), another person on the midnight channel. Though no one is certain yet, it is pretty clear who the next victim is going to be.
+
+** 11/05 - 11/20
+The story is beginning to reach its climax! There are a lot of scenes this day and little else. However the culprit of all the murders (save one) as well as everyone being thrown into the TV world is identified during these scenes. The culprit also kidnaps his next victim. With all this happening so quickly there is no need for any further investigation. Head into the TV and begin your search for the culprit and his next victim! Starting now, Nanoko will no longer be available, be sure her S-Link is maxed by now.
+
+Once you reach Paradise #7 you will encounter your first sub-boss. This is not a difficult fight, but be prepared nonetheless!
+
+| Names         | Lvl | Archon  | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+---------+---------+---------+------+-----+-----------+------+-------+------|
+| World Balance |  63 | Justice |    1200 |     100 | -    | -   | -         | -    | Null  | Null |
+
+You will confront the culprit on Paradise #10. This fight is a bit more tricky. The main boss has a full range of elemental attacks, so be mindful of everyone's weaknesses and do your best to cover them with shields or items. It appears the "atmosphere" will change before the boss switches elemental attacks. He also has a very power physical attack and can control your party members. Be careful!
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Kunino-sagiri | ??  | ????   | ?????   | ???     | -    | -   | -         | -    | Null  | Null |
+
+** 11/07 and 11/10
+Not much happens at school during this time. If you have any job or club S-Links to finish now is a good time to do this, especially if you aren't having any difficulty in the dungeon. It is also an excellent time to work on skills. On these two day, there are two quizzes, the only thing you have to worry about until 11/20. The answer to 11/07's quiz is "no country" while the answer to 11/10's quiz is "Namib".
+
+* Magatsu
+** 11/21 - 11/26
+You can now visit Nanako. The culprit is also up, and a new mystery fills the town, literally. There are a few quizes during this time as well. I'll give you the answer by day in a moment. First, I wanted to note that every day during this range gives you the opprotunity to visit Nanako. You can choose not to at any point, but visiting her will raise several S-Links and visiting her at least three time will earn you an achievement. It might be worth it to visit her at least those three times. You have to talk to different party members in order to visit her though. The table will tell you the quiz answer and/or who to speak to to visit Nanako (if applicable).
+| Date  | Quiz Answer            | Who will send you to visit Nanako |
+|-------+------------------------+-----------------------------------|
+| 11/22 | a book of maps         | Yosuke (in your classroom)        |
+| 11/23 | N/A                    | Chie (Shopping District - North)  |
+| 11/24 | the Fibonacci sequence | Rise (Third Floor)                |
+| 11/25 | Khufu                  | Not known yet                     |
+| 11/26 | Mochi                  | Not known yet                     |
+** 11/28 - 12/03
+Time for another finals week and another table! Two tables back-to-back must be a record for this guide! This will hold the two answers you need for you finals by date.
+| Date  | First Answer | Second Answer      |
+|-------+--------------+--------------------|
+| 11/28 | Italian Food | Geometric Shapes   |
+| 11/29 | Khufu        | Atlas              |
+| 11/30 | Bridal       | Cuckoo             |
+| 12/01 | No Country   | Fibonacci Sequence |
+| 12/02 | Namib        | Mochi              |
+This is the last day of exams so there are no questions, you just get a general feel for how you did. Your afternoon, however, will be taken up by several scenes. *A Warning*: You can end the game right now if you are not careful. There is, however, many days left in the game, so be careful, unless you want to see the bad endings. To continue the story make sure you select the following:
+1. Wait a second here...
+2. We're missing something.
+3. Namatame's true feelings.
+4. Something's bothering me
+5. We're missing something...
+6. Calm the hell down!
+This will buy you at least a couple more days. You will have no choice but to sleep this evening, so go to your room. You'll be warned that tomorrow is a day of reflection.
+** 12/04
+And today is that day of reflection. You'll meet with your friends to discuss the case. Here you can kind of just go with the flow. After the scenes, you will go home and be forced to sleep again.
+** 12/05
+Now that your caught up on the case again. It is time to gather some more information. Ask around town about the two murders. First speak to a woman by the shrine. She mentions something about a suspicious person. You can now ask around about suspicious people. Go Junes and talk to a student there who mentions her friend may have saw someone suspicious. Go back to the shopping district and talk to the student in front of Yosuke. Nothing happens! Keep asking everyone else about suspicious people and the murders. The game pretty much forces you to talk to /everyone/ available in town before everyone gathers to go over the case again.
+
+Once again, you'll have to be careful! As you talk with Naoto, you'll be able to drop a name. The game gives you literally everyone you know as an option. All but one of these name is wrong and may lead you to another bad ending, so pick Adachi, come on, he's the only one that really fits all the criteria. Picking him will let the story continue again.
+
+** 12/06 - 12/07
+More days taken up with story and evenings where you can only go to sleep. While there isn't much to do for the first two days a lot does happen. The path forward becomes quite clear, literally.
+
+** 12/08 - 12/23
+It seems that the deadline for this dungeon is given to you during one of the scenes. This dungeon, as you can imagine, won't be like any of  the others thus far considering who created it. For me, I got to a dead end around the second level and ended up having to fall down a hole. I'm sure this will happen to everyone, I just can't guarantee it will happen on the same floor for everyone 😅
+
+After jumping down the hole, you will be in a new area. At some point you'll have to avoid all encounters with Shadows. This is a requirement, if you do start an encounter, you will be sent back to the starting room, so just don't do it! If you do manage not to encounter any Shadows, you will have to fight your first sub-boss, though I'm not really sure I should call it that, it really isn't that hard. The stats table is still provided, and I should note, they it does tend to summon new mobs, including lesser copies of itself.
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Chaos Fuzz | 70 | Magician | 600 | 124  | -    | -   | -         | -    | Null  | Null |
+
+Shortly after this you will encounter another sub-boss.
+
+| Names         | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|---------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Envious Giant | 74 | Magician | 3333 | 3333 | Str | Str | Dr    | Str | Null  | Null |
+
+After this encounter, you'll be notified that it looks like something changed in the other area. Go back to the Inaba section and continue on to the floor with the hole. Don't jump back down the hole! You should be able to access the exit now. This will take you to the final floor and your next boss fight. Now /might/ be a good time to leave the TV world to regroup and resupply. This is actually a two-phase fight and you will want to make sure you are prepared!
+
+| Names        | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|--------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Adachi       | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Null  | Null |
+| Ameno-sagiri | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Null  | Null |
+So, Adachi has a persona! This surprises the party, but shouldn't be much of a surprise to you, right? Anyway, this does mean that he can use a lot of the skills and powers that your party members can use. Be mindful of your weaknesses. Also, Mundo, is one of those skills! Remember, this is an instant kill, dark skill (if you're anything like me it and Hamon have been your bestfriends up until this point). This isn't a huge problem as your should have someone who can revive your part members, but, be very careful with the MC, his death, as always, results in an instant game over! If you have worked on some of your S-Links and chose your party well, he /might/ survive, but if you have a persona that nullifies dark, this is the best insurance.
+
+Amano-sagiri seems to use mostly fire and wind attacks, but he does have a fully upgraded fire attack that is quite devastating. Also, watch out for the confusing fog. This singles a series of buffs followed by a powerful party attack. If you are caught unprepared, you may lose your entire party. I always just guarded whenever I saw the fog and kept guarding until the attack was launched.
+
+** 12/09 and 12/10
+Just a couple pop quizzes here.
+| Date  | Answer            |
+|-------+-------------------|
+| 12/9  | transparent       |
+| 12/10 | the cross-section |
+
+** 12/24
+You can spend Christmas Eve with your girlfriend. This will replace all other activities this day.
+
+** 12/25
+Now you its time for more story scenes. You'll spend Christmas with your family
+
+** 12/31 - 01/03
+Some more scenes as you visit the shrine for the end of the year. You will also be able to choose a girl to visit the shrine with (this appears to come from anyone your dating, so, depending on how much of a player you are, you /might/ get multiple invites). The next day is for spending with family and you'll be tasked with going around for your New Years greetings. You'll basically have to go around and talk to /everyone/ you've connected with, except Marie. Something different happens when you visit the velvet room. You also start feeling under the weather through all this and will collapse on the last day. Teddy moved in with you and will take care of you.
+
+* Golden Content
+** 01/09
+You get a few more scenes then your told to work on you S-Links to prepare to locate/rescue Marie. You'll be over your cold by this date.
+
+** 01/10 - 01/14
+Two quizzes in this timeframe!
+| Date  | Answer          |
+|-------+-----------------|
+| 01/10 | an orange       |
+| 01/14 | bury the demons |
+
+** 01/20 & 01/22
+Nanako comes home and you will spend one day picking her home and another celebrating her return. This will limit your actions on these days.
+
+** 01/25
+Another update about Marie and another quiz. The answer to the quiz is: red.
+
+** 01/28 - 02/4
+You can choose to help Nanako catch up with homework for the next few evenings. This will eat up your evening time for the next *three* weeks! There isn't much benefit to this other than always having something to do during the evening, but will limit your choices. The scenes are kind of cute though. Up to you!
+
+** 01/30 - 02/1
+Just a few quizzes.
+| Date  | Answer   |
+|-------+----------|
+| 01/30 | petabyte |
+| 02/1  | white    |
+
+** 02/6 - 02/10
+Your advancement exams start today. Like all other exams, you will spend these days answering questions. Unlike those exams this one has questions from the /entire/ last year! Don't worry though, there in the table below along with their answers. You're welcome!
+
+| Date  | Answer 1 | Answer 2                       |
+|-------+----------+--------------------------------|
+| 02/06 | Beta     | Attendance logs                |
+| 02/07 | Toso     | Sphenopalatine gangioneuralgia |
+| 02/08 | Rabbit   | Turnips                        |
+| 02/09 | White    | Desert Sand                    |
+
+* Hollow Forest
+** 02/11 - 02/12
+Now that placement exams are over, time for a trip! These two days are filled with story scenes. Just sit back and enjoy everyone spending time with you before you leave. Also Marie is finally found and a new dungeon opens!
+** 02/13
+This dungeon is unique for a few different reasons:
+1. You do not enter this dungeon from Junes!
+2. This dungeon is only available for one day
+3. You cannot bring items you have collected from other dungeons or elsewhere in the game into this dungeon
+4. On some floors encounters work as they do in other dungeons, but on others you will not see shadows on the map, they will only attack when you open doors.
+5. You lose half your SP after each fight
+6. You gain SP during fights
+7. No encounter gives you money except certain golden hands.
+8. Goho-M's (which aren't available) and "escape skills" will not work, only "sacred branches" will allow you to leave.
+
+
+   With these in mind it is best to pace yourself and pop back to the entrance strategically. You may use your items in the entrance and these can be used to restore HP/SP and you can switch out tired party members, or, potentially, use the fox for healing. Just remember, the fox's healing is not cheap. You can also use some encounters to simply regain SP, but this is not ideal since you will still lose some after the encounter and you don't get SP back quickly.
+
+   Do NOT leave the dungeon without saving Marie! This will result in a bad ending. You have been warned!
+| Names           | Lvl | Archon | Full HP | Full SP | Fire | Ice | Lightning | Wind | Light | Dark |
+|-----------------+-----+--------+---------+---------+------+-----+-----------+------+-------+------|
+| Marie           | ??  | ?      | ????    | ???     | -    | -   | -         | -    | Rpl   | Rpl  |
+| Kusumi-no-Okami | ??  | ?      | ????    | ???     | Rpl  | Rpl | Rpl       | Rpl  | Rpl   | Rpl  |
+|                 |     |        |         |         |      |     |           |      |       |      |
+The stats for Marie listed above are her starting stats. She will change her stats to essentially match Kusumi-no-Okami's at some point in the fight, however, you don't have to worry about this fight. Marie herself will end this fight after a few turns. For Kusumi-no-Okami, you will notice she repels all attacks. You can damage her with Almighty attacks, however, this will likely take a lot of SP and time. What I did was use items (or you can also use skills) that nullify her repels. This will basically poke holes her her defenses that you can exploit to do a lot more damage. Monitor these affinities though to make sure you don't accidentally damage yourself. Her skills are all party skills, but they aren't particularly devastating. You may want to have a dedicated healer though as, in combinations, like "hot lightening" followed by "run amok" they can do quite a lot of damage to the whole party. Keep everyone healed up and watch their SP and you should be able to beat her fairly easily.
+
+** 2/14
+Story time! Just spend some time with your favorite girl, or whatever. I'm actually not sure how these scenes play out if you don't have a favorite girl, but you'll probably still get to enjoy Marie and Nanako's company at least.
+
+** 2/15-3/19
+Yep, this is a kind of time skip. Some images of new memories made with your friends flash by, but otherwise time just passes by uneventfully.
+
+** 3/20
+This is your last day with your friends in Inaba. Best make the most of it, even if you kind of have to.
 
 * Congrats!
-You have made it through the first half of the year and also about the first half of the game. There is a lot more to do though, but this walkthrough is getting long enough so I'm splitting it up. See you in [[{{% ref walkpt2.org %}}][the next part]].
+You have completed the main story of P4G. There is a bonus dungeon, aside from the Hallow Forest and another ending, but doing everything to this point results in a good ending so I will save the bonus dungeon for its own section!

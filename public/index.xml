@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 12 Mar 2024 18:33:48 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 18:33:01 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -154,12 +154,12 @@
       </item>
       
       <item>
-        <title>Walkthrough (May thru Sep)</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/walkpt1/</link>
+        <title>Walkthrough</title>
+        <link>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</link>
         <pubDate>Tue, 06 Dec 2022 21:38:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:38:37 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/walkpt1/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</guid>
         <description>This will walk you through everything you need to do in the first part of Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -214,46 +214,6 @@
           
             
               <category>quests</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Walkthrough (Oct onward)</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/walkpt2/</link>
-        <pubDate>Wed, 15 Nov 2023 21:39:40 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Wed, 15 Nov 2023 21:39:40 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/walkpt2/</guid>
-        <description>This will walk you through everything you need to do in the second part of Persona 4 Golden!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
-            
-          
-            
-              <category>walkthrough</category>
-            
-          
-            
-              <category>p4g</category>
-            
-          
-            
-              <category>persona</category>
-            
-          
-            
-              <category>wip</category>
             
           
         
@@ -650,60 +610,6 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
               <category>about</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Teddie</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</link>
-        <pubDate>Tue, 12 Mar 2024 18:33:48 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 12 Mar 2024 18:33:48 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Rise</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/slink/rise/</link>
-        <pubDate>Tue, 12 Mar 2024 18:33:37 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 12 Mar 2024 18:33:37 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/rise/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Ninako</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/slink/ninako/</link>
-        <pubDate>Tue, 12 Mar 2024 18:33:22 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 12 Mar 2024 18:33:22 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/ninako/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
         
         
         
