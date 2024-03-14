@@ -7,7 +7,7 @@
 #+SLUG:
 #+SUMMARY:
 
-This is the first time I'm late since starting my weekly updates. It has been a crazy day! Fortunately, I'm not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the [[{{% ref "guides/p4g/walkpt2.org" %}}][Persona 4 Golden walkthrough]] and not enough time actually updating the website 😅
+This is the first time I'm late since starting my weekly updates. It has been a crazy day! Fortunately, I'm not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the [[{{% ref "guides/p4g/walkthrough.org" %}}][Persona 4 Golden walkthrough]] and not enough time actually updating the website 😅
 
 * Looking Back
 A lot has happened in 2023. I quit working as Behavior Technician to focus more on my school work, I completed the first (of many) dissertation milestones, and I became a Graduate Assistant and a commissioned artist. Becoming a commissioned artist renewed my love of art and drawing and I have produced more pictures this year than I have in any year for the past few.

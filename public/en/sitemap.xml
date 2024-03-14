@@ -11,14 +11,11 @@
     <loc>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</loc>
     <lastmod>2023-09-20T10:41:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/walkpt1/</loc>
+    <loc>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</loc>
     <lastmod>2022-12-06T21:38:37-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</loc>
     <lastmod>2022-10-09T21:00:25-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/walkpt2/</loc>
-    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</loc>
     <lastmod>2023-09-26T11:04:38-07:00</lastmod>
@@ -63,9 +60,6 @@
     <loc>http://localhost:1313/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</loc>
-    <lastmod>2024-03-12T18:33:48-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/</loc>
     <lastmod>2024-03-12T18:33:48-07:00</lastmod>
     <xhtml:link
@@ -78,12 +72,6 @@
                 hreflang="en"
                 href="http://localhost:1313/~yayoi/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/rise/</loc>
-    <lastmod>2024-03-12T18:33:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/ninako/</loc>
-    <lastmod>2024-03-12T18:33:22-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/guides/p4g/slink/marie/</loc>
     <lastmod>2024-03-12T18:33:01-07:00</lastmod>
@@ -244,18 +232,6 @@
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2023/fun-art-is-fun/</loc>
     <lastmod>2023-11-16T18:29:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/guide/</loc>
-    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/persona/</loc>
-    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/walkthrough/</loc>
-    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/wip/</loc>
-    <lastmod>2023-11-15T21:39:40-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2023/new-news/</loc>
     <lastmod>2023-11-09T17:52:22-08:00</lastmod>
@@ -424,6 +400,9 @@
     <loc>http://localhost:1313/~yayoi/tags/mia/</loc>
     <lastmod>2023-03-12T20:15:20-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/guide/</loc>
+    <lastmod>2023-03-12T19:19:05-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/~yayoi/tags/jrpg/</loc>
     <lastmod>2023-03-12T19:19:05-07:00</lastmod>
   </url><url>
@@ -451,6 +430,9 @@
     <loc>http://localhost:1313/~yayoi/tags/ffxiv/</loc>
     <lastmod>2023-01-21T21:53:33-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/persona/</loc>
+    <lastmod>2023-01-21T21:53:33-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/~yayoi/news/2023/ready-for-a-new-game/</loc>
     <lastmod>2023-01-21T21:53:33-08:00</lastmod>
   </url><url>
@@ -458,6 +440,9 @@
     <lastmod>2023-01-21T21:40:18-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/guides/p3p/</loc>
+    <lastmod>2023-01-21T21:40:18-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/walkthrough/</loc>
     <lastmod>2023-01-21T21:40:18-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/fiesta/</loc>
@@ -473,6 +458,9 @@
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/skills/</loc>
+    <lastmod>2022-12-08T21:08:03-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/wip/</loc>
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/guides/p4g/jobs&#43;clubs/</loc>
