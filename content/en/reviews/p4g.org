@@ -1,0 +1,34 @@
+#+TITLE: Persona 4 Golden
+#+DATE: 2024-03-14T14:56:40-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: review game jrpg vn
+#+TYPE: review
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+#+BEGIN_EXPORT html
+<a id="forums" href="https://github.com/yayoi-chi/yaya-world/discussions/28" target="_new">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-full.png" align="left" alt="full star">
+<img src="/~yayoi/images/rating-empty.png" align="left" alt="half star">
+</a>
+<div style="display:block;width:40px;height:40px;margin:auto">
+&nbsp;
+</div>
+#+END_EXPORT
+Persona 4 Golden is a faithful update to a classic game with new story elements and new characters. It has a classic story with interesting characters. The protagonist is a bit generic and the graphics are a little dated, but the story and gameplay more than make up for these minor gripes. If you like a game with a lot of charm and fun, I highly recommend Persona 4 Golden!
+
+* Overall
+If you are a fan of /any/ of the Persona games you will like this. If you are a fan of Persona 4 (on PS2) you'll definitely like this! Now, I loved the original Persona 4, so I'm probably a bit biased, but I loved this game. I won't say it was without its flaws, but I'll get into those a little later. Overall though it was a really great game and I enjoyed my time with it. Its even I game I'm considering coming back to later. I never did get everything and their are so many ways you can tweak your experience with it. Again, not without its flaws, but great regardless.
+* Story
+The Story is not flawless, the setting though makes some of the more dated aspects of the story a bit more bearable. At least it isn't as bad as P3P, but I digress. This, like many Persona games is where the game really shines. You will be drawn in as the new transfer student you play has get sucked into an investigation that literally sees him enter his TV. It is a novel concept that has you exploring aspects of coming of age, social pressure, society as a whole, and many other parts of the human experience. It has charm too! Overall I great story even if littered with a few dated notions.
+* Gameplay
+Much of the story is told in a VN fashion, but this is more than a visual novel. Persona 4 had leaned more into the RPG elements that made the first three persona games unique. It adds many dungeons to explore each are intrinsically linked to the story and have challenges of their own. None of the dungeons are too stale, but they are randomly generated. This makes it interesting because no two playthroughs or even visits to a dungeon are the same, but it can be disorienting.
+
+The game also offers difficulty setting, which the original version did not. This helps to avoid some of the complaints with the RPG elements getting in the way of the story. You can probably come at this game with little experience or desire to play an RPG and still manage to get through it and experience the awesome story, but, if you want a challenging RPG experience with you story, you can get that too! Flexibility in gameplay is a really good thing!
+* Art and Graphics
+This is where the game looses many points. While the UI and art is very charming and many of the elements like the character portraits are done much better and are quite the upgrade over the original, in game graphics are still basically the PS2 version but with a little more resolution. It lacks in some detail and seems a bit more blocky than a more modern game. Still, much of the story is told using those nice new portraits and through fully animated story scenes, so it doesn't distract from that. It can be a bit distracting during game play though. Not terribly so, but distracting nonetheless. I support a fully remake of this game because this is quite literally the only thing wrong with it!
