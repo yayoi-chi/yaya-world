@@ -1,0 +1,23 @@
+#+TITLE: Bring on P3 Reload!
+#+DATE: 2024-03-14T14:22:03-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Well, I had finished the main story of Persona 4 Golden. I have even managed to get the [[{{% ref "guides/p4g/walkthrough.org" %}}][walkthrough]] down a bit and I think it fits okay in on part now, so I went and removed the second part. I also have started some work on the other guide sections. Mostly just got Marie up. So yeah I feel accomplished! After finishing P4G, I started P3P, but, before I even started writing this, I managed to get my hands on P3 Reload! So I went ahead and started that too!
+
+* Persona Walkthrough Question!
+As I was finishing up the walkthrough for P4G and trying to condense things I noticed that a lot of space was, and is, devoted to quiz answers. Now, I think this is a pretty important part of the game play, but it is also kind of optional. Quizzes help raise your stats which will help you with SLinks and, in turn, help with boss fights, fusion, and dungeons, but they don't affect what is available to you as the player on any given day. The main point of going through the important dates is to give you all a "heads up" as to what might or might not be available on that day not to make decisions for you.
+
+So the question is: should I make another page in the guide devoted to quizzes and exams for those who /want/ to improve stats and leave the waklthrough as a general over view of what you should expect to be available, like noting when story scenes take over a day or what investigation steps are needed on that day and other strategies like dungeon time frames and boss stats, or should I leave quizzes and exam answer on the guide. I really want your input here. It will affect how I do other Persona guides too. I'll make a [[https://github.com/yayoi-chi/yaya-world/discussions/26][discussion thread]] so you can answer with a poll, or you can always comment below.
+
+* P3P and P3 Reload
+For those who have played Persona 3 Portable, you'll know that they added a female protagonist to the game. According the game she doesn't change game play, but you get the story from a new prospective. Likely because she didn't affect game play, she was removed again in P3 Reload. So the next question I have for the comments is: should I bother with the male protagonist in P3P. I already started the game with the female and I /have/ noticed some differences between P3P and P3 Reload so it seems it /might/ be a good thing to have separate walkthroughs for P3P and P3 Reload, but, if the choice of genders in P3P doesn't really affect gameplay than would it affect my walkthrough. Maybe I could just have a walkthrough for P3P that uses information from my playthrough with the female protagonist and have another walkthrough with P3 Reload and the male. What do you think? I also made a [[https://github.com/yayoi-chi/yaya-world/discussions/27][separate thread]] for this question!
+
+I'm planning on playing both together. Like maybe devoting my nights to P3P while I'm in bed on the Steam Deck and then doing P3 Reload on the PC. So I think I can work on both walkthroughs too. Am I overcomplicating it though? I'm not sure 😅
+
+* Break time!
+The quarter is coming to an end 🥳 This is my last week and I have pretty much finished all of my school work. I have lots of meetings this week, but those will start to diminish soon and I'll be able to take a breather for a few weeks. I'm looking forward to it. I won't have as much to do on this break, for work, as I did on my last break so maybe it will actually feel like a real break. I guess I'll let you know 😆
