@@ -1,13 +1,13 @@
 #+TITLE: Walkthrough
 #+DATE: 2022-12-06T21:38:37-08:00
 #+DRAFT: false
-#+DESCRIPTION: A walkthrough for the first half of Persona 4 Golden
+#+DESCRIPTION: A walkthrough for Persona 4 Golden
 #+TAGS[]: guide walkthrough p4g persona
 #+TYPE: guide
 #+WEIGHT: 1
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: This will walk you through everything you need to do in the first part of Persona 4 Golden!
+#+SUMMARY: This will walk you through everything you need to do in Persona 4 Golden!
 
 Welcome!
 

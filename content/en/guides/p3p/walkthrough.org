@@ -1,0 +1,78 @@
+#+TITLE: Walkthrough
+#+DATE: 2024-03-19T09:34:39-07:00
+#+DRAFT: false
+#+DESCRIPTION: A walkthrough for Persona 3 Portable
+#+TAGS[]: guide walkthrough p3p persona
+#+TYPE: guide
+#+WEIGHT: 1
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This will walk you through everything that is available to you in your every day life in Persona 3 Portable
+
+Welcome!
+
+This is designed to help you figure out what you can do each day of Persona 3 Portable! This is designed to give you a heads up on events happening each day, I will not be telling you what to do each and every day, instead I favor telling you what will happen and how to prepare for each day.
+
+As an aside, this walkthrough is specific to Persona 3 Portable not the new remake ([[{{% ref "guides/p3reload/" %}}][Persona 3 Reload]]). There are some subtle differences between the two and so, as that link might suggest, I am writing a separate guide for that game. This walkthrough is also written from the perspective of the /female/ protagonist as she is only available in P3P. It shouldn't matter as the game says she doesn't affect gameplay and this is mostly a gameplay walkthrough, but you have been warned!
+
+* Priestess
+** 4/7
+It is time for you new life to begin! Not much is in your control today. You'll will arrive at your new school and some game features will be introduced. Other than that just sit back and relax.
+
+** 4/8
+The game introduces your to quizzes with...you guessed it, your first quiz. For now I'll be giving you the answers here, but I'm thinking of placing quiz answers in their own guide. Quizzes only help you build relationships ([[{{% ref "guides/p3p/slink/" %}}][S-Links]]) and your social stats. The answer to your first quiz is *Utsubo Kubota*. You will also learn about the *Dark Hour* which is central to the games mechanics and story.
+
+** 4/9
+You'll be introduced to the mall. You're not introduced to any of the shops yet, just given the opportunity to explore them on your own. You will also be introduced to combat and your Persona after the dorm is attacked! This fight is kind of easy and your functions are limited so just use normal attacks!
+
+** 4/19
+You're out cold until now. You still won't be able to do much today.
+
+** 4/20
+There is a quiz today. I believe the answer is **mud huts**. Unlike P4G, this game doesn't always give you the correct answer and I accidentally selected the wrong one 😅
+
+** 4/21
+You'll be introduced to Tatarus today. This will serve as the main dungeon you'll be exploring during the game. This dungeon is divided into blocks. During your exploration you'll encounter powerful groups of shadows on key floors, but will eventually be blocked from going any further. Seems something has to happen outside Tatarus that will allow you to continue.
+
+One such powerful shadow will be enountered on Block 1 14F
+| Names         | Archon | Lvl | Slash | Pierce | Fire | Ice | Lightening | Wind | Light | Dark |
+|---------------+--------+-----+-------+--------+------+-----+------------+------+-------+------|
+| Rampage Drive | ?      | ?   | Null  | Null   | Rpl  | -   | ?          | -    | ?     | ?    |
+The strengths/weaknesses I have listed are from a trail-and-error approach as analysis yields only "?". I did not have lightening, light, or dark skills or items so those are not known!
+
+** 4/22
+You are now free do move around after school! There isn't much to do yet, but you're after school time will soon be a good time to work on your relationships.
+
+** 4/23
+You will be forced to spend this afternoon with Junpei.
+
+** 4/24
+You're told about athletics teams. This will give you an opportunity to start a new relationship that you'll be able to work on after school. More information will be available in the [[{{% ref "guides/p3p/slink/" %}}][S-Link]] guides.
+
+** 4/25
+The bookstore, bookworms is open, but you don't really buy books here. It is an opportunity for a new relationship though.
+
+** 4/27
+Quiz: **6,000 Years ago** You are encouraged to join the student council. Now you have three relationships to work on!
+
+** 4/30
+Elizabeth will tell you about requests. So far these are the only [[{{% ref "guides/p3p/quests/" %}}][quests]] in the game.
+
+** 5/1
+You will not be free again this day after school as it is taken up by a story scene.
+
+** 5/2
+The Sunday shopping program "Tanaka's" is introduced. You'll get another scene at night.
+
+** 5/6
+Quiz: **soft water**
+
+** 5/8
+You'll be asked, or told rather, to join a committee. You are given a choice on which to join, though there are only two.
+
+** 5/9
+You're first full moon! These will usually involve a powerful shadow unlike the bosses you encounter in Tartarus. This one includes a mini-dungeon as well, not sure yet about the others. Just be prepared!
+| Names         | Archon | Lvl | Slash | Pierce | Fire | Ice | Lightening | Wind | Light | Dark |
+|---------------+--------+-----+-------+--------+------+-----+------------+------+-------+------|
+| Priestess | ?      | ?   | -  | -  | - | Rpl | ?          | -    | ?     | ?    |
+There is a time limit for this fight, but the shadow is fairly weak, just don't use ice attacks or items. After defeating this powerful enemy you're party will become tired. Its advised that you don't return to Tartarus for awhile. Once you do though you will find that a new block is available, if you made it to 21F.
