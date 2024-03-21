@@ -1,0 +1,109 @@
+#+TITLE: Nanako (Justice)
+#+DATE: 2024-03-12T18:33:22-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TYPE: guide
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Nanako is Ryotaro Dojima's daughter, which makes her your cousin. Though her age isn't specified she appears to be between six and eight, but she is surprisingly mature for her age. This is probably because she had to grow up rather quickly after the death of her mother. Nanako's story is very cute and was one of my favorites in to work through in my game. Her S-Link will start automatically as part of the game's story.
+
+* Availability
+Nanako is available just about any night so long as Doujima is not around. Of course those specific days are not listed, its just a matter of paying attention. Trust me though, you'll have plenty of time to work on her S-Link if you don't neglect her.
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Rainy |
+|--------+---------+-----------+----------+--------+----------+--------+-------|
+| Night  | Night   | Night     | Night    | Night  | Night    | Night  | Anytime |
+All this said, keep in mind that, unlike most S-Links, Nanako's has a hard cut-off. The last day to get her to Rank 10 will be 10/31!
+
+* Dialog Options
+I'll try to keep just the questions and the options here to prevent spoilers, but that is *not* guaranteed! For your information something like "Rank 1>2" means going from rank 1 to rank 2. Also, the number after the "+" is the number of notes each choice nets you which affects how quickly you move to the next rank.
+
+** Rank 1>2
+- /Nanako is fidgeting/
+  + "Go ahead and ask." +3
+  + "What's wrong?" +2
+- /Are you an only child?/
+  + "That's right" +3
+  + "Nope." [just leads to the next question]
+- /Hmm...then do you have a little sister?/
+  + "I have you." +3
+
+** Rank 2>3
+*I is helpful to have level 3 expression before you attempt this rank!*
+- /Dad'll be disappointed./
+  + "I'll go buy some." +3
+  + "Let's go buy some together." +3
+- /Nanako looks sad/
+  + "It's not Nanako's fault." +3 [level 3 expression!]
+  + "Hear her out." [level 3 expression!]
+
+** Rank 3>4
+*You will be _required_ to have level 3 expression before starting this rank!*
+- /Nanako is nodding her head cheerfully.../
+  + "Is there anything else?" +3
+- /What happens to a person when they die?/
+  + "They go to haven." +3
+  + "I don't know." +2
+- /Why do bad people do bad things?/
+  + "I don't know" +2
+- /Are bad people more important to dad than I am?/
+  + "He's protecting you." +2
+
+** Rank 4>5
+- /What do they mean by "real"?/
+  + "A person you love a lot." +3
+- /Daddy doesn't come home because I'm not his 'real' daughter?/
+  + "Did he say that?" +3
+  + "You have me." +2
+- /What should you do?/
+  + "Listen to her talk." +3 [level 3 understanding]
+  + "Talk with her." +2
+** Rank 5>6
+*Max level expression is _required_ before you attempt this rank!*
+- /Nanako looks like she's about to cry.../
+  + "Swear to it." +2
+- /He can't come, huh?/
+  + "I'll ask him with your." +3
+  + "He'll come." +3
+
+** Rank 6>7
+- /What's gotten into her...?/
+  + "Let's go look for her" +2 to Hierophant S-Link
+- /She'll listen to you.../
+  + Any answer
+- /Big bro.../
+  + "Let's go home." +3
+- /Is he going to throw me away, too...?/
+  + Any answer
+
+** Rank 7>8
+- /What should I do...? The teacher will yell at me./
+  + "I'll help you look for it." +3
+- /Why did dad stop smiling...?/
+  + "He's lonely too." +3
+  + "Because you're lonely" +3
+
+** Rank 8>9
+- /Big bro... I love my dad./
+  + "He loves you too." +3
+  + "I know." +3
+- /...I feel sorry for him, losing someone he loves./
+  + "He still has you." +3
+  + "She's not lost." +3
+  + "I feel sorry for you too" +3
+- /What would you do?/
+  + "Play with her." +3
+  + "Talk to Nanako." +3
+
+** Rank 9>10
+- /Big bro, can you make me a salad?
+  + "Sure thing." +3
+  + "I think..." +2
+- /You're my family too, so... let's work hard together!/
+  + "Let's do it." +3
+  + "Don't strain yourself." +2
+
+* Rewards
+Of course, working on Nanako will boast EXP when fusing Persona of the Justice archon. Maxing out this rank will also net you the "family photo" key item which let's you fuse the Persona /Sraosha/
