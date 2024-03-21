@@ -15,6 +15,58 @@
                 href="http://localhost:1313/~yayoi/jp/introduction/"
                 />
   </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/tags/friends/</loc>
+    <lastmod>2022-10-09T21:56:20-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/tags/friends/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/tags/friends/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/tags/fun/</loc>
+    <lastmod>2022-10-09T21:56:20-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/tags/fun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/tags/fun/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/tags/story/</loc>
+    <lastmod>2022-10-09T21:56:20-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/tags/story/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/tags/story/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/tags/</loc>
+    <lastmod>2022-10-09T21:56:20-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/~yayoi/jp/</loc>
     <lastmod>2022-10-09T21:56:20-07:00</lastmod>
     <xhtml:link
@@ -27,6 +79,12 @@
                 hreflang="jp"
                 href="http://localhost:1313/~yayoi/jp/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/adventures/stories/ch1/</loc>
+    <lastmod>2022-10-09T21:56:20-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/jp/adventures/stories/</loc>
+    <lastmod>2022-10-09T21:54:20-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/jp/adventures/</loc>
     <lastmod>2022-10-09T21:49:45-07:00</lastmod>
@@ -52,19 +110,6 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/~yayoi/jp/tags/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/jp/tags/</loc>
-    <lastmod>2022-10-09T21:44:28-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/~yayoi/jp/categories/</loc>
