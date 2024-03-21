@@ -1,0 +1,23 @@
+#+TITLE: Where Do Breaks Go
+#+DATE: 2024-03-21T11:35:24-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: personal site news p3reload p3p
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Okay maybe that's not really that fair of a question, especially considering spring break literally just started, but, hey, it's already Thursday! I mean come on I only get three weeks so what's up with that!? I always come up with all sorts of things that I want to do accomplish during my breaks. Things that I don't think I would have time to work on while I'm in class. However, its already Thursday of the first week and I haven't really made much of a dent. That said, there are still quite a few things I /have/ worked on this week!
+
+* Persona 3 Reload and Persona 3 Portable
+The walkthroughs for both [[{{% ref "guides/p3reload/walkthrough.org" %}}][Persona 3 Reload]] and [[{{% ref "guides/p3p/walkthrough.org" %}}][Persona 3 Portable]] have both been started! I'm currently trying to play both at the same time 😅 Let me tell you that isn't has easy as it sounds as I was in two very different places in the game between the two. Now I have caught up to the same spot in both so hopefully I won't get disoriented again. The thing is there are subtle, but important, differences between the two games and its possible I could still have problems remembering what I wanted to do when I get back to one or the other. In other words, we'll have to see if I'm able to keep up with both or if I'll have to focus on one or the other 😅
+
+* Persona 4 Golden
+After streamlining the [[{{% ref "guides/p4g/walkthrough.org" %}}][Persona 4 Golden walkthrough]] I have officially begun working on [[{{% ref "guides/p4g/slink" %}}][its S-Links]]! Only two guides are available right now. Most of the dialog options are based on observations from my play through, but I'll admit that I'm getting some of the data from other guides online just to make sure the guides are completed in a timely fashion. It already takes quite awhile just do put together one guide so this is just how I have to do it to make sure you all aren't waiting too long for them. I'll probably do the same once I get to Persona 3's other guides.
+
+* Other Projects
+Other things I have worked on, or will be working on soon, are:
+1. More art for RE[BASE]
+2. More RE[BASE] episodes
+3. Finishing up Chapter 2 of the [[{{% ref "adventures/keyrie/" %}}][Journal of Keyrie Cildor]]
+There are a few other things that I am also trying to work on for my own professional development as well. As I said I had quit a lot of things planned for these short three weeks. I'm honestly not sure how much I'll be able to work on, but I'll get as much done as I can. Naturally, not all of it will be here, but you should see a healthy bit of new content on the website during the next three weeks!

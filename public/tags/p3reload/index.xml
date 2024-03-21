@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>P3reload on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/p3reload/</link>
+    <description>Recent content in P3reload on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 Mar 2024 11:35:24 -0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/~yayoi/tags/p3reload/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Where Do Breaks Go</title>
+        <link>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 21 Mar 2024 11:35:24 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</guid>
+        <description>Okay maybe that&amp;#39;s not really that fair of a question, especially considering spring break literally just started, but, hey, it&amp;#39;s already Thursday! I mean come on I only get three weeks so what&amp;#39;s up with that!? I always come up with all sorts of things that I want to do accomplish during my breaks. Things that I don&amp;#39;t think I would have time to work on while I&amp;#39;m in class.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>p3reload</category>
+            
+          
+            
+              <category>p3p</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
