@@ -22,8 +22,94 @@ Once initiated Marie will be available on the following times of days.
 - Once you reach the dungon "Magatsu Inaba" then Marie becomes available every day
 - You can find Marie outside the Velvet Room door in the shopping district when she's available
 
-* Dialog Options and Story (spoilers)
-Marie has lost her memory. Her story essentially revolves around her finding more about herself. The dialog options below could be considered spoilers. Skip to the next section if you want to avoid those!
+* Dialog Options
+Marie has lost her memory. Her story essentially revolves around her finding more about herself. I have done my best to remove spoiler from the dialog option below, but some may still be present, you have been warned. Something like "Rank 1>2" means transitioning from rank 1 to rank 2. The number next to the "+" is the number of "notes" you get. These are like bonus points you can earn which will help you reach the next rank faster.
 
+** Rank 1>2
+- Any choice, really none offer a bonus, so just be yourself.
+
+** Rank 2>3
+- /Hey, what do you do in the city?/
+  + "Play around" +3
+  + "People watch." +3
+  + "There's nothing to do." +3
+- /Chie, they might already have plans of their own. Don't just assume they can come along at a moment's notice./
+  + Either choice
+- /Chie is holding a green shirt.../
+  + Any choice
+- /Yukiko has a chrimson skirt in her hands.../
+  + Any choice
+- /Why don't we all go together, then? The four of us?
+  + Either choice
+- /Well... I don't really know? The meaning of friendship...? Hmm...
+  + Either choice
+- /Huh? Me too?/
+  + "Let's hurry." +3
+  + "You're not going?" +3
+
+** Rank 3>4
+- /You don't get tired of it?/
+  + "It's fun." +3
+  + "It's pretty much my duty." +3
+- /What are you guys doing? Out on a stroll?
+  + Either choice
+- /I don't get it. Do green and red do that, too?/
+  + Either choice
+- /Face yourself.../
+  + Any choice
+
+** Rank 4>5
+You'll need to have Rise in your gang to start this rank. Hold off until 7/24 or later. None of your options will offer bonus points here.
+
+** Rank 5>6
+- /So, about my memories... what do you think I should do?/
+  + Any choice
+- /...will this help?
+  + "It's made of bamboo." +3
+  + "It is sold somewhere." +3
+- /What store around here might deal in old combs like that...?/
+  + Any choice
+- /Huh? Wait... don't tell me the two of you are on a date...?/
+  + Any choice
+- /So, what do you want from me? You need me to figure out where this thing came from?/
+  + Either choice
+- /Marie grimaces.../
+  + Either choice
+
+** Rank 6>7
+None of the choices offer bonus points!
+
+** Rank 7>8
+None of the choices offer bonus points!
+
+** Rank 8>9
+- /I had fun then. Take me there again sometimes, okay?/
+  + Any choice
+- /Hey, can we make more? More memories.../
+  + "I'll help." +3
+  + "It's up to you." +3
+  + "Don't forget 'em." +3
+- /...why?/
+  + "Because I love you." [Opens Lover's Route]
+  + "Because you're my friend." [Opens Friendship Route]
+- /...I won't believe just words./ [Only if you opened the Lover's route]
+  + Hug her. [Confirms Lover's Route]
+  + Don't hug her. [Returns to Friendship Route]
+
+** Rank 9>10
+This rank is split depending on the route you took when transitioning from rank 8 to rank 9.
+
+*** Romance: Marie is your girlfriend
+- /Marie is looking around your room.../
+  + "What's wrong?" +3
+  + "Bored?" +3
+  + "Don't snoop around?" +3
+- /Memories so fun, I won't care about the past any more./
+  + "Leave it to me." +3
+  + "Lots of memories won't do it." +3
+
+*** Friendship: you two aren't dating
+- /...I wouldn't have been able to do that on my own. I only realized that because of you./
+  + "It was fun." +3
 * Rewards
 As Marie is a non-combatant, her rewards primarily revolve around boosting EXP for Persona of the Aeon archon. However, maxing out this social link does give you the key item "Old Bamboo Comb" which enables you to fuse the Persona "Kaguya". It also unlocks special scenes when you defeat the last main bosses.
