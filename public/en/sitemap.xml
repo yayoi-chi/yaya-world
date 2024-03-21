@@ -23,9 +23,6 @@
     <loc>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</loc>
     <lastmod>2022-10-09T21:00:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/adventures/keyrie/2.a-new-life-in-trollskull/</loc>
-    <lastmod>2024-02-13T19:41:58-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</loc>
     <lastmod>2023-09-26T11:04:38-07:00</lastmod>
   </url><url>
@@ -110,15 +107,6 @@
     <loc>http://localhost:1313/~yayoi/tags/p3p/</loc>
     <lastmod>2024-03-19T09:34:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p3p/slink/</loc>
-    <lastmod>2024-03-19T09:31:43-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p3p/quests/</loc>
-    <lastmod>2024-03-19T09:31:33-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p3p/jobs&#43;clubs/</loc>
-    <lastmod>2024-03-19T09:31:23-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/tags/jrpg/</loc>
     <lastmod>2024-03-19T09:30:34-07:00</lastmod>
   </url><url>
@@ -146,13 +134,7 @@
     <loc>http://localhost:1313/~yayoi/news/</loc>
     <lastmod>2024-03-14T14:22:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</loc>
-    <lastmod>2024-03-12T18:33:48-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/rise/</loc>
-    <lastmod>2024-03-12T18:33:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/ninako/</loc>
+    <loc>http://localhost:1313/~yayoi/guides/p4g/slink/nanako/</loc>
     <lastmod>2024-03-12T18:33:22-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/guides/p4g/slink/marie/</loc>
@@ -182,28 +164,6 @@
     <loc>http://localhost:1313/~yayoi/news/2024/its-a-dnd-journal/</loc>
     <lastmod>2024-02-15T18:00:08-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/adventures/</loc>
-    <lastmod>2024-02-13T19:41:58-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/dd/</loc>
-    <lastmod>2024-02-13T19:41:58-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/keyrie/</loc>
-    <lastmod>2024-02-13T19:41:58-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/story/</loc>
-    <lastmod>2024-02-13T19:41:58-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/tags/story/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/tags/story/"
-                />
-  </url><url>
     <loc>http://localhost:1313/~yayoi/tags/anime/</loc>
     <lastmod>2024-02-08T18:15:42-08:00</lastmod>
   </url><url>
@@ -221,6 +181,15 @@
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2024/am-not-lazy-am-busy/</loc>
     <lastmod>2024-01-18T18:54:47-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/adventures/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/dd/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/keyrie/</loc>
+    <lastmod>2024-01-14T17:52:51-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/stories/</loc>
     <lastmod>2024-01-14T17:52:51-08:00</lastmod>
@@ -397,16 +366,6 @@
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/friends/</loc>
     <lastmod>2023-08-17T18:40:58-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/tags/friends/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/tags/friends/"
-                />
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2023/moar-reviews/</loc>
     <lastmod>2023-08-10T19:28:59-07:00</lastmod>
@@ -424,6 +383,9 @@
     <lastmod>2023-07-31T21:16:45-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/friend/</loc>
+    <lastmod>2023-07-31T21:16:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/story/</loc>
     <lastmod>2023-07-31T21:16:45-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/adventures/friends/the-ultimate-yolk/</loc>
@@ -467,16 +429,6 @@
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/fun/</loc>
     <lastmod>2023-04-03T15:43:52-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/tags/fun/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/tags/fun/"
-                />
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/wallpaper/</loc>
     <lastmod>2023-04-03T15:43:52-07:00</lastmod>
