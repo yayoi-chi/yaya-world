@@ -66,17 +66,26 @@
     <loc>http://localhost:1313/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/guide/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/p3/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/news/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/persona/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/tags/p3p/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/p3reload/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/personal/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/site/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -88,11 +97,11 @@
                 href="http://localhost:1313/~yayoi/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/walkthrough/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</loc>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/</loc>
-    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+    <lastmod>2024-03-21T11:35:24-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -104,8 +113,17 @@
                 href="http://localhost:1313/~yayoi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/p3p/</loc>
-    <lastmod>2024-03-19T09:34:39-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/tags/guide/</loc>
+    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/p3/</loc>
+    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/persona/</loc>
+    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/walkthrough/</loc>
+    <lastmod>2024-03-19T10:59:52-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/jrpg/</loc>
     <lastmod>2024-03-19T09:30:34-07:00</lastmod>
@@ -131,9 +149,6 @@
     <loc>http://localhost:1313/~yayoi/news/2024/bring-on-p3-reload/</loc>
     <lastmod>2024-03-14T14:22:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/news/</loc>
-    <lastmod>2024-03-14T14:22:03-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/guides/p4g/slink/nanako/</loc>
     <lastmod>2024-03-12T18:33:22-07:00</lastmod>
   </url><url>
@@ -146,16 +161,7 @@
     <loc>http://localhost:1313/~yayoi/news/2024/moar-commissions-plz/</loc>
     <lastmod>2024-02-29T17:59:28-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
-    <lastmod>2024-02-22T15:11:37-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/personal/</loc>
-    <lastmod>2024-02-22T15:11:37-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/tags/rant/</loc>
-    <lastmod>2024-02-22T15:11:37-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/site/</loc>
     <lastmod>2024-02-22T15:11:37-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2024/why-hugo-why/</loc>

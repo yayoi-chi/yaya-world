@@ -14,11 +14,101 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 10:59:52 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 11:35:24 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>News</title>
+        <link>http://localhost:1313/~yayoi/tags/news/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/tags/news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>P3p</title>
+        <link>http://localhost:1313/~yayoi/tags/p3p/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/tags/p3p/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>P3reload</title>
+        <link>http://localhost:1313/~yayoi/tags/p3reload/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/tags/p3reload/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Personal</title>
+        <link>http://localhost:1313/~yayoi/tags/personal/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/tags/personal/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Site</title>
+        <link>http://localhost:1313/~yayoi/tags/site/</link>
+        <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/tags/site/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Guide</title>
@@ -81,24 +171,6 @@
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>http://localhost:1313/~yayoi/tags/walkthrough/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>P3p</title>
-        <link>http://localhost:1313/~yayoi/tags/p3p/</link>
-        <pubDate>Tue, 19 Mar 2024 09:34:39 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>http://localhost:1313/~yayoi/tags/p3p/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -201,66 +273,12 @@
       </item>
       
       <item>
-        <title>News</title>
-        <link>http://localhost:1313/~yayoi/tags/news/</link>
-        <pubDate>Thu, 22 Feb 2024 15:11:37 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>http://localhost:1313/~yayoi/tags/news/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Personal</title>
-        <link>http://localhost:1313/~yayoi/tags/personal/</link>
-        <pubDate>Thu, 22 Feb 2024 15:11:37 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>http://localhost:1313/~yayoi/tags/personal/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Rant</title>
         <link>http://localhost:1313/~yayoi/tags/rant/</link>
         <pubDate>Thu, 22 Feb 2024 15:11:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>http://localhost:1313/~yayoi/tags/rant/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Site</title>
-        <link>http://localhost:1313/~yayoi/tags/site/</link>
-        <pubDate>Thu, 22 Feb 2024 15:11:37 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        
-        <guid>http://localhost:1313/~yayoi/tags/site/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

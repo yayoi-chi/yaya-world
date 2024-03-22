@@ -64,7 +64,7 @@ You'll need to have Rise in your gang to start this rank. Hold off until 7/24 or
 ** Rank 5>6
 - /So, about my memories... what do you think I should do?/
   + Any choice
-- /...will this help?
+- /...will this help?/
   + "It's made of bamboo." +3
   + "It is sold somewhere." +3
 - /What store around here might deal in old combs like that...?/
