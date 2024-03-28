@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Social_networks on Yaya&#39;s World</title>
+    <link>http://localhost:1313/~yayoi/tags/social_networks/</link>
+    <description>Recent content in Social_networks on Yaya&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 11:44:17 -0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/~yayoi/tags/social_networks/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Social Links (er...I mean Social Networking)</title>
+        <link>http://localhost:1313/~yayoi/news/2024/social-links/</link>
+        <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 28 Mar 2024 11:44:17 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/social-links/</guid>
+        <description>Working on my Persona guides, especially the Persona 4 Golden Social Link guides and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.
+Progress! Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into Keyrie&amp;#39;s Journal.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>p4g</category>
+            
+          
+            
+              <category>persona</category>
+            
+          
+            
+              <category>social_networks</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+#+TITLE: Social Links (er...I mean Social Networking)
+#+DATE: 2024-03-28T11:44:17-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: personal news p4g persona social_networks
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Working on my Persona guides, especially the Persona 4 Golden [[{{% ref "guides/p4g/slink" %}}][Social Link guides]] and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I'm not talking about Facebook, or Twitter, or even Mastodon, I'm talking about the relationships we build with each other over time much like the protagonists in a Persona game.
+
+* Progress!
+Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into [[{{% ref "adventures/keyrie" %}}][Keyrie's Journal]]. I wasn't really aware of how much we actually manage to do per session even if it seems like the sessions just fly by 😅 So this is a bit more of an undertaking than I originally thought it would be. I think it'll be worth it in the end even if I still only have the first chapter available right now.
+
+Also, if you clicked that link above, you saw that I added a new social link guide there. Rise is up! So that's a bit more progress. For Persona 3 (both Portable and Reload) I have been making progress in the story but am I bit shocked as to how little actually needs to be pointed out in a guide. I mean there are lectures, but usually no quizzes and I was thinking about putting that separately anyway, most of the other stuff would go in Social Link guides for those games so all that leaves in the bosses and gatekeepers in Tartarus. I'll probably start taking note of when party members aren't available, but that does even really affect things much in easier difficulties at least, but maybe it could be useful for higher ones, I don't know, I'll start putting it in there soon.
+
+* Break Work!
+I mentioned that I had a lot of things I wanted to get done during this three week break I find myself literally in the middle of right now. Most of this involved trying to make myself a more attractive job candidate for when I'm ready to move on to bigger and better things in my life. Part of this was developing a CV and job search skills.
+
+One thing that kept coming up was Networking. I cringed every time I heard someone say ~Leverage you social network~ or ~build a social network~. I have a tendency to say I will keep in touch with people and I always forget or just don't think about it so I'm like "How can I, I don't build a social network?" Of course, working on my Persona guides, I couldn't help but think about the Social Links in that game.
+
+Building Social Links in Persona 4 was pretty straightforward and it was just as easy in the original P3 and probably P3P, but in Persona 5 they introduced the aspect of relationship decay. That is, if you don't spend time with some of your Social Links as often, it could be harder to spend rank up in their Social Links later. This appears to be the case in P3 Reload as well. This aspect got me thinking about Social Networking in real life.
+
+You see we connect with people. Sometimes we connect with people because we are thrown into the same group with them. A class, a project at work, a religious congregation, or some other assignment. Sometimes we connect with people through other people. Sometimes we may even be outgoing and seek a connection out by own merit, going to a club or bar. However we meet build and connect with them it is then up to us to maintain this connections are we'll lose them.
+
+Unlike in Persona, we don't get a voice in our head telling us that this social relationship are links or important parts of our social network, nor do we get helpful hints when we "rank up" in a link or when things are growing stale. Its kind of up to use to reach out every now and then I do our best to read the each encounter and hope we don't screw up.
+
+* Pitfalls of Social Networking
+And that last part is where I struggle. You see I don't feel I read people well. I never really know when I've grown closer (ranked up) or further apart from someone and I always feel weird if I try to talk to someone after not speaking with them for months or even weeks. How am I supposed to build a social network if I'm so awkward?
+
+I'm hoping to learn more about this soon. From what I see having a social network if very important! It can mean the difference between staying where you are in life and gaining new opportunities for growth. At least that's what I see and hear from others. Maybe I'll be able to learn more about maintaining social networks from Persona 3 Reload 😆 Thanks for reading!
