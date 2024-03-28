@@ -1,8 +1,104 @@
-#+TITLE: Rise
+#+TITLE: Rise (Lovers)
 #+DATE: 2024-03-12T18:33:37-07:00
 #+DRAFT: true
 #+DESCRIPTION:
+#+TYPE: guide
 #+TAGS[]:
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+Rise is idol named "Rise-chi (or Risette if you're a barbarian)" who may have suffered from a bit of burnout and is now seeking a break from that work and a quieter life back in her home town.
+
+* Availability
+You'll start this Social Link automatically 7/23 after you complete the [[http://onigirionegai.info/~yayoi/guides/p4g/walkthrough/#headline-14][Marukyu Striptease]] dungeon. You'll usually find her on the first floor of the high school or in front of the tofu shop in the central shopping district on the days listed below.
+
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | On Rainy Days |
+|--------+---------+-----------+----------+--------+----------+--------+---------------|
+| X      | X       | X      | X        | Day    | Day      | Day    | X             |
+
+* Dialog Options
+As always I will try to keep these spoiler free. You may not see every dialog option in every rank up opportunity only the ones that either affect you relationship or the story. Rank 1>2 or something similar means rank up from rank 1 to rank 2 while the number next to a "+" represents notes were are a kind of bonus point that can help you increase your rank faster.
+
+** Rank 1>2
+- /But it's a little embarrassing to show up alone, you know?/
+  + "Just order takeout." +3
+  + "So you don't eat out?" +3
+  + "Why?" +2
+
+** Rank 2>3
+- /It'll take time to get back, so let's walk around quick!/
+  + "You come here often?" +3
+  + "Can't you shop in Inaba...?" +3
+  + "What are you looking for?" +3
+
+** Rank 3>4
+- /Rise is worried.../
+  + "Grab her hand and run." +3
+  + "Call the police." +3
+- /Rise looks desperate.../
+  + "Go along with her." +3
+- /I'm sorry...Lying about marrying you and all.../
+  + "I don't mind." +3
+  + "It... It was a lie?" +3
+** Rank 4>5
+- /Senpai, have you ever thought that you're pushing yourself too far, or that you were just acting...?/
+  + "All the time." +3
+  + "Sometimes." +3
+  + "Not really." +2
+- /You're with me right now because I'm Rise-chi (yes this will say Risette, but I *will not* call her that, get over it 😝), yeah?
+  + "No." +3
+  + "I don't know." +3
+
+** Rank 5>6
+- /A fan letter came, you see.../
+  + Any choice
+- /To think I trusted him... I feel betrayed!/
+  + Any choice
+- /I gave up on being Rise-chi. I can't meet her expectations.../
+  + "She'll understand." +3 (Level 5 Understanding required)
+  + "Having second thoughts?" +3
+- /Doesn't that sound fun? H-how about it? Haha...ha.../
+  + "If you're serious..." +3
+  + "Sounds great." +3
+
+** Rank 6>7
+- /She was cute, so I figured she would sell./
+  + Any choice
+- /You like having such a cute underclassman, right? I'm an ex-idol, after all./
+  + "That part doesn't matter." +3
+  + "I'm happy." +2
+- /Rise looks helpless.../
+  + "Laugh it off." +3 (Level 5 Courage required)
+  + "Move closer to her." +3
+  + "Cheer her up." +3
+
+** Rank 7>8
+This is where you can choose to pursue a romantic relationship with Rise Kujikawa. Romantic relationships don't effect the gameplay, but may have an effect on certain parts of the story.
+- /Senpai...I...I don't know why I'm crying.../
+  + Any choice
+- /...You sense this is an important moment. There's no turning back./
+  + "Hold her." [Romance Route]
+  + "Stand there." [Friendship Route]
+
+** Rank 8>9
+- /And yet... I felt so angry about it... why do you think that is?/
+  + "Rise-chi is Rise, too." +3
+  + "You regret leaving." +3
+  + "You're selfish." +3
+
+** Rank 9>10
+This rank has two branches depending on your relationship status, or the route you chose in Rank 7>8
+
+*** Romance Route
+- /I'll ask the man himself! So - where do you hide them?/
+  + Any choice
+
+*** Friendship Route
+- No choices for this branch
+
+* Rewards
+Aside from the "Signed Photo" key item which allows you to fuse Kanzeon and Ishtar, that you get for completing the S-Link you will also gain a few rewards for Rise's persona as you make your way through the S-Link.
+1. Treasure Radar: Rank 3
+2. Enemy Radar: Rank 6
+3. Weakness Scan: Rank 10
