@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Stories on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/stories/</link>
+    <link>http://localhost:1313/~yayoi/tags/stories/</link>
     <description>Recent content in Stories on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 14 Jan 2024 17:52:51 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>1. Meeting at Yawning Portal</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
+        <link>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:52:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
         <description>All of my servants told me the Yawning Portal would be the best place to seek adventure. While I was not entirely sheltered by my parents, being my father&amp;#39;s youngest daughter, ensured that I was not treated with the same freedom or independence as my eldest sister or my older brothers, but living under the shadow of my father&amp;#39;s station, was cold and lonesome and I desired to see more of the world than our small keep.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>The Journal of Keyrie Cildor</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/</link>
+        <link>http://localhost:1313/~yayoi/adventures/keyrie/</link>
         <pubDate>Sun, 14 Jan 2024 17:28:29 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:28:29 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/keyrie/</guid>
         <description>I am Keyrie Cildor. I come from a privileged and noble line of wood elves. I am not large of stature, standing at only five feet and a single inch as measured by the humans, but I have a fierce heart for adventure.
 My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. The common folk love me for my kindness and generosity.</description>
         
@@ -87,11 +87,11 @@ My eloquent flattery makes everyone I talk to feel like the most wonderful and i
       
       <item>
         <title>Non-gaming Adventures (General Fiction)</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/</link>
         <pubDate>Mon, 24 Jul 2023 16:36:49 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 24 Jul 2023 16:36:49 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/</guid>
         <description>I write things that are more original just like my art</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
