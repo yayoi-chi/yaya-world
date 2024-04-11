@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Persona 4 Golden on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/guides/p4g/</link>
+    <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
     <description>Recent content in Persona 4 Golden on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 06 Dec 2022 21:17:47 -0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/guides/p4g/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/guides/p4g/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Walkthrough</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</link>
         <pubDate>Tue, 06 Dec 2022 21:38:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:38:37 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</guid>
         <description>This will walk you through everything you need to do in Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Quests</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/quests/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
         <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Dec 2022 21:08:03 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/quests/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/quests/</guid>
         <description>This guides will help you with unlocks, skill boosts, and other quests you encounter throughout the story of the game. All of these are outside of dungeons</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -98,11 +98,11 @@
       
       <item>
         <title>Jobs &amp; Clubs</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/jobs&#43;clubs/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/jobs&#43;clubs/</link>
         <pubDate>Thu, 08 Dec 2022 21:06:57 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Dec 2022 21:06:57 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/jobs&#43;clubs/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/jobs&#43;clubs/</guid>
         <description>A guide for jobs and clubs on Persona 4</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -134,11 +134,11 @@
       
       <item>
         <title>Social Links (aka SLinks)</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/slink/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p4g/slink/</link>
         <pubDate>Thu, 08 Dec 2022 21:06:30 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Dec 2022 21:06:30 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p4g/slink/</guid>
         <description>Guides to social links to help maximize your personas!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

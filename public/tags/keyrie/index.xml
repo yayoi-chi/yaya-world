@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Keyrie on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/keyrie/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/keyrie/</link>
     <description>Recent content in Keyrie on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 13 Feb 2024 19:41:58 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 17:52:51 -0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/keyrie/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/keyrie/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>1. Meeting at Yawning Portal</title>
-        <link>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:52:51 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
         <description>All of my servants told me the Yawning Portal would be the best place to seek adventure. While I was not entirely sheltered by my parents, being my father&amp;#39;s youngest daughter, ensured that I was not treated with the same freedom or independence as my eldest sister or my older brothers, but living under the shadow of my father&amp;#39;s station, was cold and lonesome and I desired to see more of the world than our small keep.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -37,42 +37,6 @@
           
             
               <category>stories</category>
-            
-          
-            
-              <category>adventures</category>
-            
-          
-            
-              <category>D&amp;D</category>
-            
-          
-            
-              <category>Keyrie</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>2. A New Life in Trollskull Alley</title>
-        <link>http://localhost:1313/~yayoi/adventures/keyrie/2.a-new-life-in-trollskull/</link>
-        <pubDate>Tue, 13 Feb 2024 19:41:58 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 13 Feb 2024 19:41:58 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/keyrie/2.a-new-life-in-trollskull/</guid>
-        <description>While I can almost guarantee that the important details were all there, looking through my entry on how I met Ember and Tracie, I know there was much that was left out. To this end I have decided that I should begin to keep a daily journal of all of my actions. Even those that may be seen as mundane. I apologize for the somewhat rushed and lax presentation of my last adventures.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>story</category>
             
           
             
