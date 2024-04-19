@@ -14,11 +14,29 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 12:37:30 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:03:05 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Moar Persona News</title>
+        <link>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</link>
+        <pubDate>Thu, 18 Apr 2024 18:03:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 18 Apr 2024 18:03:05 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>New Quarter More Work</title>

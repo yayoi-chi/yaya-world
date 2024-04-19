@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 12:37:30 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:03:05 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -286,42 +286,6 @@
           
             
               <category>quests</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>2. A New Life in Trollskull Alley</title>
-        <link>http://localhost:1313/~yayoi/adventures/keyrie/2.a-new-life-in-trollskull/</link>
-        <pubDate>Tue, 13 Feb 2024 19:41:58 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 13 Feb 2024 19:41:58 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/keyrie/2.a-new-life-in-trollskull/</guid>
-        <description>While I can almost guarantee that the important details were all there, looking through my entry on how I met Ember and Tracie, I know there was much that was left out. To this end I have decided that I should begin to keep a daily journal of all of my actions. Even those that may be seen as mundane. I apologize for the somewhat rushed and lax presentation of my last adventures.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>story</category>
-            
-          
-            
-              <category>adventures</category>
-            
-          
-            
-              <category>D&amp;D</category>
-            
-          
-            
-              <category>Keyrie</category>
             
           
         
@@ -718,6 +682,24 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
               <category>about</category>
             
           
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Moar Persona News</title>
+        <link>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</link>
+        <pubDate>Thu, 18 Apr 2024 18:03:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 18 Apr 2024 18:03:05 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
         
         
         

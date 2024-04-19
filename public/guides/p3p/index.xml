@@ -56,60 +56,6 @@
         
       </item>
       
-      <item>
-        <title>S-Link</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/slink/</link>
-        <pubDate>Tue, 19 Mar 2024 09:31:43 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 19 Mar 2024 09:31:43 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/slink/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Quests</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/quests/</link>
-        <pubDate>Tue, 19 Mar 2024 09:31:33 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 19 Mar 2024 09:31:33 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/quests/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Jobs &amp; Clubs</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/jobs&#43;clubs/</link>
-        <pubDate>Tue, 19 Mar 2024 09:31:23 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Tue, 19 Mar 2024 09:31:23 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/jobs&#43;clubs/</guid>
-        <description></description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
 
     
   </channel>
