@@ -7,26 +7,80 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on やよいのWORLD</title>
-    <link>https://onigirionegai.info/~yayoi/jp/tags/</link>
+    <link>http://localhost:1313/~yayoi/jp/tags/</link>
     <description>Recent content in Tags on やよいのWORLD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 21:44:28 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 21:56:20 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/jp/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/jp/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Friends</title>
+        <link>http://localhost:1313/~yayoi/jp/tags/friends/</link>
+        <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/jp/tags/friends/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Fun</title>
+        <link>http://localhost:1313/~yayoi/jp/tags/fun/</link>
+        <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/jp/tags/fun/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Story</title>
+        <link>http://localhost:1313/~yayoi/jp/tags/story/</link>
+        <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>http://localhost:1313/~yayoi/jp/tags/story/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>About</title>
-        <link>https://onigirionegai.info/~yayoi/jp/tags/about/</link>
+        <link>http://localhost:1313/~yayoi/jp/tags/about/</link>
         <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/jp/tags/about/</guid>
+        <guid>http://localhost:1313/~yayoi/jp/tags/about/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

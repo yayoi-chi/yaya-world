@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>News on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/news/</link>
+    <link>http://localhost:1313/~yayoi/news/</link>
     <description>Recent content in News on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 16:03:18 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>A Case of the &#34;Mehs&#34;</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/case-of-the-mehs/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/</link>
         <pubDate>Thu, 25 Apr 2024 16:03:18 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 25 Apr 2024 16:03:18 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/case-of-the-mehs/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/</guid>
         <description>Do you ever just have times in your life, or maybe just a day or a few hours, where you just don&amp;#39;t want to do anything? Like no matter what it is you are doing, even if its something that usually brings you a lot of joy or something you&amp;#39;re normally really passionate about, you just can&amp;#39;t seem to enjoy doing it. I&amp;#39;d honestly like to know if I&amp;#39;m the only one 😅 Well this has happened a few days this week and rather than coming up with something to update the site with, I decided I&amp;#39;d talk about this a little and the struggle with this one is so real for me.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Moar Persona News</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/moar-persona-news/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</link>
         <pubDate>Thu, 18 Apr 2024 18:03:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 18 Apr 2024 18:03:05 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/moar-persona-news/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</guid>
         <description>After finishing the easiest S-Link guide ever, I have to admit I have not really gone back 😅 I have mostly been playing through Persona3 Reload and P3P. Of course I still have work to do. Fortunately, it seems that the amount of work as decreased a bit since I am more used to the new processes. I also am still working on some stories and ADVENTURES, but most of that work isn&amp;#39;t seen until I&amp;#39;m ready to release it 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>New Quarter More Work</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/new-quarter-more-work/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/new-quarter-more-work/</link>
         <pubDate>Thu, 11 Apr 2024 12:37:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 11 Apr 2024 12:37:30 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/new-quarter-more-work/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/new-quarter-more-work/</guid>
         <description>I think they underworked me last quarter and now this quarter they decided to overwork me 😆 I&amp;#39;m kidding though, but only a little. I do have a lot more work to do this quarter each work than I did last quarter, but its not a terrible amount. I am hoping it gives me a little bit more hours and more money though. I&amp;#39;ll find this out on my next pay check.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Spring Break Over</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/spring-break-over/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/spring-break-over/</link>
         <pubDate>Thu, 04 Apr 2024 12:22:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 04 Apr 2024 12:22:45 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/spring-break-over/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/spring-break-over/</guid>
         <description>Forgive me for not having much to update this week. We did have a little fun with April Fool&amp;#39;s Day this year and that&amp;#39;s good enough for me, but I need to put out a bit of an update to see if I can clear that and I do have a few things to talk about so I figured I&amp;#39;d put out a small news article this week and focus on getting my work and shtuff ready for the next quarter.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/social-links/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Mar 2024 11:44:17 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/social-links/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/social-links/</guid>
         <description>Working on my Persona guides, especially the Persona 4 Golden Social Link guides and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.
 Progress! Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into Keyrie&amp;#39;s Journal.</description>
         
@@ -135,11 +135,11 @@ Progress! Before I go into that topic though I just wanted to let everyone know 
       
       <item>
         <title>Where Do Breaks Go</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</link>
         <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Mar 2024 11:35:24 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</guid>
         <description>Okay maybe that&amp;#39;s not really that fair of a question, especially considering spring break literally just started, but, hey, it&amp;#39;s already Thursday! I mean come on I only get three weeks so what&amp;#39;s up with that!? I always come up with all sorts of things that I want to do accomplish during my breaks. Things that I don&amp;#39;t think I would have time to work on while I&amp;#39;m in class.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -175,11 +175,11 @@ Progress! Before I go into that topic though I just wanted to let everyone know 
       
       <item>
         <title>Bring on P3 Reload!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/bring-on-p3-reload/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/bring-on-p3-reload/</link>
         <pubDate>Thu, 14 Mar 2024 14:22:03 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:22:03 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/bring-on-p3-reload/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/bring-on-p3-reload/</guid>
         <description>Well, I had finished the main story of Persona 4 Golden. I have even managed to get the walkthrough down a bit and I think it fits okay in on part now, so I went and removed the second part. I also have started some work on the other guide sections. Mostly just got Marie up. So yeah I feel accomplished! After finishing P4G, I started P3P, but, before I even started writing this, I managed to get my hands on P3 Reload!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -193,11 +193,11 @@ Progress! Before I go into that topic though I just wanted to let everyone know 
       
       <item>
         <title>Persona 4 Golden Finale</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/p4g-finale/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/p4g-finale/</link>
         <pubDate>Thu, 07 Mar 2024 18:48:09 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 07 Mar 2024 18:48:09 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/p4g-finale/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/p4g-finale/</guid>
         <description>Its almost official. I am just about done with Persona 4 Golden. The walkthrough is up to the point just passed the Golden dungeon and that is the last dungeon I will be including in the walkthrough. I hear tales of a hidden dungeon, but I will not be testing those tales just yet nor will that be included in the walkthrough. So basically, the walkthrough is done. There is maybe a day or so left and that will be uploaded next week, but this begs the question of what is happening next.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -211,11 +211,11 @@ Progress! Before I go into that topic though I just wanted to let everyone know 
       
       <item>
         <title>More Commissions Please</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/moar-commissions-plz/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/moar-commissions-plz/</link>
         <pubDate>Thu, 29 Feb 2024 17:59:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 29 Feb 2024 17:59:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/moar-commissions-plz/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/moar-commissions-plz/</guid>
         <description>No, this isn&amp;#39;t a call for you to commission me more, though I wouldn&amp;#39;t mind if I got more commissions. I just wanted a funny title for this week&amp;#39;s news article and I do you have another commission done so, yeah let&amp;#39;s just have some fun! Of course you can still give me more commissions 😆
 I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedish Fish, or even Skittles Gummies to snack on throughout the day.</description>
         
@@ -230,11 +230,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>Why Hugo Why</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/why-hugo-why/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/why-hugo-why/</link>
         <pubDate>Thu, 22 Feb 2024 15:11:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 22 Feb 2024 15:11:37 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/why-hugo-why/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/why-hugo-why/</guid>
         <description>Well, this was going to be a totally different and probably much shorter post, but then things happened. First, I did put the rant tag on just in case but I don&amp;#39;t really think this is going to be much of rant. Second I&amp;#39;m actually going to be mostly focusing on some new wellness things I&amp;#39;m doing to keep myself from going crazy and not so much on what happened with Hugo.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -266,11 +266,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>Its a D&amp;D Journal</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/its-a-dnd-journal/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/its-a-dnd-journal/</link>
         <pubDate>Thu, 15 Feb 2024 18:00:08 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 15 Feb 2024 18:00:08 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/its-a-dnd-journal/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/its-a-dnd-journal/</guid>
         <description>I&amp;#39;m sure you all remember this Little elf right? You might even remember that I teased a new little section for my adventures. Well its here and its all thanks to a new D&amp;amp;D campaign I&amp;#39;ve entered! I typically play D&amp;amp;D on Saturday nights and I&amp;#39;ve been enjoying it so far. It is just a little extra thing for me to do to keep myself connected socially because I&amp;#39;m not one who really like going out 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -284,11 +284,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>On Localizations</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/on-localizations/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/on-localizations/</link>
         <pubDate>Thu, 08 Feb 2024 18:15:42 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Feb 2024 18:15:42 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/on-localizations/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/on-localizations/</guid>
         <description>I have 10 max S-Links in Persona 4 Golden \ ( ^ o ^ ) / Just had to say it, lol. That should give you an indication that I have started playing it again. which I have. I&amp;#39;m mostly just working on my S-Links and trying to get through some of the extra post-game content while I wait for things to pick up again. You would think I&amp;#39;d be used to this kind of thing knowing that I also like visual novels, but, for some reason this sort of thing is just not so fun in Persona.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -324,11 +324,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>Little Update for Now</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/little-update-for-now/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/little-update-for-now/</link>
         <pubDate>Thu, 01 Feb 2024 18:36:39 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 01 Feb 2024 18:36:39 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/little-update-for-now/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/little-update-for-now/</guid>
         <description>Yep just a little update this week, but at least I have some actual new content. It has been awhile since I updated any of my stories, but hopefully I&amp;#39;ll get something up soon. With all that has been going on, I really haven&amp;#39;t been in the mood for writing. In fact, if Keyrie wasn&amp;#39;t something I had already started and nearly finished I wouldn&amp;#39;t have finished that either. I do have another project I had started, but haven&amp;#39;t worked on because I haven&amp;#39;t felt like working on it much either.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -342,11 +342,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>Needing Support is Not Being Lazy</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/need-not-equal-to-laziness/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/need-not-equal-to-laziness/</link>
         <pubDate>Thu, 25 Jan 2024 18:24:44 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 25 Jan 2024 18:24:44 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/need-not-equal-to-laziness/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/need-not-equal-to-laziness/</guid>
         <description>This is going to be a bit of a rant. If that is not why you&amp;#39;re here and not the type of content you want to see from me, I fully understand. Please feel free to skip this article, even if it is still the only update this week. Before you do that though, I&amp;#39;ll let you know a little about what happened and why this is, yet again, the only thing updated this week.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -378,11 +378,11 @@ I Haz DA SNACKS!! Yes I do love snacks! I usually have nuts, or pocky, or Swedis
       
       <item>
         <title>Am Not Lazy Am Busy</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/am-not-lazy-am-busy/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/am-not-lazy-am-busy/</link>
         <pubDate>Thu, 18 Jan 2024 18:54:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 18 Jan 2024 18:54:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/am-not-lazy-am-busy/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/am-not-lazy-am-busy/</guid>
         <description>I am committed to making sure there is something new on this site every week even if there isn&amp;#39;t much! There will probably be some things coming up next week, but this week was quite a bit busier than it appeared on screen, particularly today. I still have a few things to finish, but at least work is over 😅
 Only a News Article? Yes, I have to apologize, I had a lot to do this week for work and school and those are all just a bit more important than this site.</description>
         
@@ -407,11 +407,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Persona 4 Golden is Over... Maybe?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/p4g-is-over-maybe/</link>
         <pubDate>Wed, 10 Jan 2024 15:29:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 10 Jan 2024 15:29:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/p4g-is-over-maybe/</guid>
         <description>It seems I have completed the last main dungeon for Persona 4 Golden. I&amp;#39;m planning on bringing my walkthrough up to that point today or tomorrow. Now, there is still the matter of, what I believe is, the Golden content. This is the part about finding Marie that, if memory serves (as I don&amp;#39;t think she was even in the original) was added for the Golden re-release. So I still have content to work through, but its almost there.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -447,11 +447,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>First Article of 2024</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/first/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 03 Jan 2024 15:33:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/first/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/first/</guid>
         <description>Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the Persona 4 Golden walkthrough. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -491,11 +491,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Last Article of 2023 🎊</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/last/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/last/</link>
         <pubDate>Thu, 28 Dec 2023 20:42:36 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Dec 2023 20:42:36 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/last/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/last/</guid>
         <description>This is the first time I&amp;#39;m late since starting my weekly updates. It has been a crazy day! Fortunately, I&amp;#39;m not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the Persona 4 Golden walkthrough and not enough time actually updating the website 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -527,11 +527,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Ready for the New Year</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/ready-for-the-new-year/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/ready-for-the-new-year/</link>
         <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 20 Dec 2023 18:37:02 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/ready-for-the-new-year/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/ready-for-the-new-year/</guid>
         <description>I hope you all are looking forward to Christmas! If not, well maybe I can give you all something to look forward too! This year&amp;#39;s Christmas illustration is finished and it features Nagisa. It will be your first opportunity to see what she looks like, so I hope that&amp;#39;s enough to get you to look forward to Christmas. I mean, I could release her now, but I&amp;#39;m going to wait just so you all have a Christmas present to look forward to.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -567,11 +567,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Its Almost Time 🎄</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/its-almost-time/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/its-almost-time/</link>
         <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Dec 2023 19:08:33 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/its-almost-time/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/its-almost-time/</guid>
         <description>Things were going so smoothly with all my other things that I was bound to almost forget something 😅 The thing was…this site 😆 Yeah there isn&amp;#39;t really any updates this week. I&amp;#39;m trudging along through Persona 4 Golden still, but I have been focusing more on Christmas projects and less on other things as it is, as the title says, almost that time. Now, I don&amp;#39;t really think of myself as behind right now, just on different priorities.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -607,11 +607,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Actually on Track</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/actually-on-track/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/actually-on-track/</link>
         <pubDate>Thu, 07 Dec 2023 15:36:13 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 07 Dec 2023 15:36:13 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/actually-on-track/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/actually-on-track/</guid>
         <description>For the past several months, I have fell behind on a lot of things. My school work was usually just barely on time, and work from my primary job was always submitted right on the deadline, but my commissions were always just a bit later than I&amp;#39;d like and many of my personal projects, including my playthrough of Persona 4 Golden, were all far behind. This week things changed and now I am not only caught up on everything but I&amp;#39;m ahead!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -643,11 +643,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Not Just Allana</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/not-just-allana/</link>
         <pubDate>Thu, 30 Nov 2023 12:11:42 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:11:42 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/not-just-allana/</guid>
         <description>Things are progressing nicely with some of the illustrations for RE[BASE] and there are already five episodes written. Only one illustration is up so far, but I am hard at working making another one. So far all five episodes center around Allana. Obviously, she is not the only character. In fact, through her story, you have been introduced to a few others, but I am here to announce another main character who will debut (there&amp;#39;s a pun in there for anyone reading this after her debut 😉) next week.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -679,11 +679,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Happy Turkey Day 🦃</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</link>
         <pubDate>Wed, 22 Nov 2023 14:19:17 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 22 Nov 2023 14:19:17 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/happy-turkey-day/</guid>
         <description>Spooky month is over, Christmas is not yet here, so that must mean its harvest time and that, at least for those of us living in the United States, means Thanksgiving, also known as Turkey Day. It also means I short work week and lots of time needed to prepare so not much in the way of updates this week. I picked up a new VN that I will like to review as I heard its one of the classics.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -715,11 +715,11 @@ Only a News Article? Yes, I have to apologize, I had a lot to do this week for w
       
       <item>
         <title>Fun Art Is Fun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/fun-art-is-fun/</link>
         <pubDate>Thu, 16 Nov 2023 18:29:07 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 16 Nov 2023 18:29:07 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/fun-art-is-fun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/fun-art-is-fun/</guid>
         <description>This week has been pretty busy. Been working in a new position and attending lots of meetings and training seminars. I got another commission. On top of everything I&amp;#39;m still working toward my degree as well. So yeah been busy, but its also been mostly fun…as long as you ignore the last heading that is 😜
 New Position As many of you should be aware, I am a PhD student looking to become a professor of psychology.</description>
         
@@ -748,11 +748,11 @@ New Position As many of you should be aware, I am a PhD student looking to becom
       
       <item>
         <title>New News</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-news/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/new-news/</link>
         <pubDate>Thu, 09 Nov 2023 17:52:22 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 09 Nov 2023 17:52:22 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-news/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/new-news/</guid>
         <description>This site now has a lot of news articles! I guess one article each week for almost a year will do that. As a result, I made a few changes to how the news section is organized. You probably won&amp;#39;t notice anything, unless you link to an article. Sorry for all the links I just broke 😅
 What Changed!? All articles in this section used to just be in the &amp;#39;news&amp;#39; folder with the date as the file name.</description>
         
@@ -767,11 +767,11 @@ What Changed!? All articles in this section used to just be in the &amp;#39;news
       
       <item>
         <title>Spooky Month is Over 😢</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/spooky-month-is-over/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/spooky-month-is-over/</link>
         <pubDate>Thu, 02 Nov 2023 16:59:02 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 02 Nov 2023 16:59:02 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/spooky-month-is-over/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/spooky-month-is-over/</guid>
         <description>The month of October, also known as Spooky Month, is over. Halloween was one of my favorite holidays, but I, sadly, didn&amp;#39;t do much this year. I am still sad to see the month go and, I was also reminded, there are only two months left in the year 😲. 2023 has gone by fast, huh?
 Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you will not be seeing a new episode of RE[BASE] this week.</description>
         
@@ -786,11 +786,11 @@ Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you wi
       
       <item>
         <title>I Hath Discovered Visual Novels!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/i-hath-discovered-visual-novels/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/i-hath-discovered-visual-novels/</link>
         <pubDate>Thu, 26 Oct 2023 16:09:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 26 Oct 2023 16:09:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/i-hath-discovered-visual-novels/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/i-hath-discovered-visual-novels/</guid>
         <description>Just kidding, I discovered those a long time ago 😝 Actually, what&amp;#39;s funny is that some of my favorite JRPGS are also marked as visual novels, at least according to Steam. For some of them I can actually see that. Like Hyper Dimension Neptunia, or Fairy Fencer. Those do have some RPG elements to them, like building and leveling your characters and exploring dungeons, but most of the story is</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -804,11 +804,11 @@ Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you wi
       
       <item>
         <title>A Little Too Much Gaming?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-little-too-much-gaming/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-little-too-much-gaming/</link>
         <pubDate>Wed, 18 Oct 2023 19:03:09 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 18 Oct 2023 19:03:09 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-little-too-much-gaming/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-little-too-much-gaming/</guid>
         <description>I guess I&amp;#39;ll start with a confession. There will be no episode of RE[BASE] this week. I&amp;#39;d like to point out that I said that I won&amp;#39;t necessarily be trying to maintain the once-a-week pace for episode releases. I also mentioned that releasing the first three episodes on that schedule was more because I was on break and had a lot of time. So, I would like to say its because I started back in classes so I don&amp;#39;t have the time I did when I was on break, but that&amp;#39;s not really true 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -822,11 +822,11 @@ Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you wi
       
       <item>
         <title>New Term, New Opportunities</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-term-new-opportunities/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/new-term-new-opportunities/</link>
         <pubDate>Wed, 11 Oct 2023 18:08:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 11 Oct 2023 18:08:31 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-term-new-opportunities/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/new-term-new-opportunities/</guid>
         <description>Breaks always seem to go by way too fast. I mean I get three weeks between terms, but those same three weeks always seem to go by faster and faster. Fortunately, the first couple weeks of a new term are always fairly light so I don&amp;#39;t have to worry so much right away. This week has been light enough that I&amp;#39;ve been able to do a lot of extra things.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -840,11 +840,11 @@ Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you wi
       
       <item>
         <title>Feeling a Little Lazy</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/feeling-a-little-lazy/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/feeling-a-little-lazy/</link>
         <pubDate>Thu, 05 Oct 2023 16:48:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 05 Oct 2023 16:48:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/feeling-a-little-lazy/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/feeling-a-little-lazy/</guid>
         <description>I am feeling quite lazy, have been for the last few days. To be fair to myself, I have made progress on all of projects and completed many a to-do item, but I really had to force myself to do some of them. I actually finished episode two of RE[BASE] sometime just after I published the first episode so that will be going up this week. I even started episode three, but I didn&amp;#39;t make as much progress as I wanted and I haven&amp;#39;t played the games I wanted to play this week either.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -858,11 +858,11 @@ Obligatory RE[BASE] update For reasons I&amp;#39;ll get into a bit later, you wi
       
       <item>
         <title>RE[BASE] is Up!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/rebase-is-up/</link>
         <pubDate>Thu, 28 Sep 2023 19:31:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Sep 2023 19:31:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/rebase-is-up/</guid>
         <description>Hello everypeep,
 It&amp;#39;s been another week and with another week another update. This time I am pleased to announce that I am releasing the first episode of a multi-part series of short stories that I am calling RE[BASE]. I&amp;#39;ve been spending most of my time working on this story and some art relating to it. Mostly trying to get character designs done. I&amp;#39;m also working on a secret project, shh, don&amp;#39;t tell anyone.</description>
         
@@ -895,11 +895,11 @@ It&amp;#39;s been another week and with another week another update. This time I
       
       <item>
         <title>New ADVENTURE Series!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-adventure-series/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/new-adventure-series/</link>
         <pubDate>Thu, 21 Sep 2023 15:25:32 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Sep 2023 15:25:32 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-adventure-series/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/new-adventure-series/</guid>
         <description>During my break I decided to do some productive things instead of just playing video games. I mean I do that too, but not just that 😝 One of those new things is getting back in to creative writing. While this week&amp;#39;s update likely won&amp;#39;t feature it, I have started a new series of short stories. Of course I&amp;#39;m also now about halfway through Persona 4 Golden so I&amp;#39;ve been updating my guide for that finally!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -913,11 +913,11 @@ It&amp;#39;s been another week and with another week another update. This time I
       
       <item>
         <title>Busy Week</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/busy-week/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/busy-week/</link>
         <pubDate>Thu, 14 Sep 2023 15:46:47 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Sep 2023 15:46:47 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/busy-week/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/busy-week/</guid>
         <description>Hello!
 I come bearing some bad news. There will be no content update this week. I am, as you can read, still writing a news article, but there will be no further updates. I am pleased enough that I have not forgotten the site for several weeks straight now. I still count this week since you are seeing this. Maybe I should start putting a counter in 😆 Just kidding, I think that would change my mindset and I would end up breaking the streak and then saying &amp;#34;Why can&amp;#39;t I keep it going!</description>
         
@@ -942,11 +942,11 @@ I come bearing some bad news. There will be no content update this week. I am, a
       
       <item>
         <title>I wrote a thing!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/i-wrote-a-thing/</link>
         <pubDate>Thu, 07 Sep 2023 17:46:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 07 Sep 2023 17:46:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/i-wrote-a-thing/</guid>
         <description>Well, as of writing this I am still technically writing a thing. I started it thought so, yeah…😆 Anyway, aside from writing a new ADVENTURE, I also made a few more adjustments to my fiesta leveling guide. This week though it is mostly about writing!
 About the adjustments After racking my brain for a bit and looking at some Hugo documentation and found a way to re-order the list for the individual leveling guides.</description>
         
@@ -961,11 +961,11 @@ About the adjustments After racking my brain for a bit and looking at some Hugo 
       
       <item>
         <title>Added a few things</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/added-a-few-things/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/added-a-few-things/</link>
         <pubDate>Thu, 31 Aug 2023 16:20:15 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 16:20:15 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/added-a-few-things/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/added-a-few-things/</guid>
         <description>This was originally going to be called, &amp;#34;More about commission&amp;#34;, but I didn&amp;#39;t want to confuse anyone especially since the site ordered this right below the actual about commissions page. This is this week&amp;#39;s news article not just another section talking about commissions. I mean that was one thing I added though this week though!
 I want commissions! Yeah, so commissions are actually kind of fun for me. They give me an excuse to draw and I get paid so win-win maybe.</description>
         
@@ -990,11 +990,11 @@ I want commissions! Yeah, so commissions are actually kind of fun for me. They g
       
       <item>
         <title>Commissions are OPEN!!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/commissions-are-open/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/commissions-are-open/</link>
         <pubDate>Thu, 24 Aug 2023 15:00:57 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 24 Aug 2023 15:00:57 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/commissions-are-open/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/commissions-are-open/</guid>
         <description>This week was not as small as last week, but the updates are still few. One thing is that I&amp;#39;ve been doing a lot of thinking and I have decided to open up commissions! Other than that, and, as far as this site goes, I have also decided not to wait until I have completed No Man&amp;#39;s Sky to write about it. You can consider this my first impressions of the game. As I said, I am planning on writing a full review once I have completed the main story missions, but I didn&amp;#39;t want to wait that long because I really like the game!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1022,11 +1022,11 @@ I want commissions! Yeah, so commissions are actually kind of fun for me. They g
       
       <item>
         <title>A little week</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-little-week/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-little-week/</link>
         <pubDate>Thu, 17 Aug 2023 18:40:58 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 17 Aug 2023 18:40:58 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-little-week/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-little-week/</guid>
         <description>This week was a small week. I did play a new game, but I&amp;#39;m not to a point where I&amp;#39;d feel comfortable reviewing it or writing a guide for it. This week wasn&amp;#39;t completely dead though. I have been spending some more time in Fiesta and that means some updates to the fiesta guide.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1054,11 +1054,11 @@ I want commissions! Yeah, so commissions are actually kind of fun for me. They g
       
       <item>
         <title>Moar Reviews!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/moar-reviews/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/moar-reviews/</link>
         <pubDate>Thu, 10 Aug 2023 19:28:59 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 10 Aug 2023 19:28:59 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/moar-reviews/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/moar-reviews/</guid>
         <description>I wrote another review. This review is about a game I played while I was playing Stray. I don&amp;#39;t normally play two games at once, but I actually managed to just this one time. As for other news, I&amp;#39;ve mostly just be working hard on commissions and other work. This means only small updates like this week&amp;#39;s updates, but I am still doing weekly updates so I think I&amp;#39;m doing fairly good!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1082,11 +1082,11 @@ I want commissions! Yeah, so commissions are actually kind of fun for me. They g
       
       <item>
         <title>A Commission! A Friend&#39;s ADVENTURE!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-commission-a-friends-adventure/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-commission-a-friends-adventure/</link>
         <pubDate>Thu, 03 Aug 2023 14:11:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 03 Aug 2023 14:11:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-commission-a-friends-adventure/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-commission-a-friends-adventure/</guid>
         <description>Hello and welcome to another update!
 I like that I have time now to do more frequent updates to the site. This update is going to be a pretty small one. I have more time for sure, but not so much time that I can do big updates every time. I am trying to focus on good updates, so more frequent, but quality updates is what I&amp;#39;m trying to achieve.</description>
         
@@ -1115,11 +1115,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>A new section and a new sub-section</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-new-section-and-a-new-sub-section/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-new-section-and-a-new-sub-section/</link>
         <pubDate>Tue, 25 Jul 2023 15:48:36 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 25 Jul 2023 15:48:36 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-new-section-and-a-new-sub-section/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-new-section-and-a-new-sub-section/</guid>
         <description>Hello everpeep, we have a couple new sections to announce, well really its a section and a sub-section. Anyway, I am adding a review section and a new other adventures section!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1147,11 +1147,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>A few site notes</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-few-stie-notes/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-few-stie-notes/</link>
         <pubDate>Thu, 20 Jul 2023 07:17:32 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 20 Jul 2023 07:17:32 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-few-stie-notes/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-few-stie-notes/</guid>
         <description>I made a few changes subtilely and think its time to explain them, also have some ideas for new things to add to the site, but thing is added yet</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1175,11 +1175,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>More time!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/more-time/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/more-time/</link>
         <pubDate>Sun, 09 Jul 2023 20:15:32 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Jul 2023 20:15:32 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/more-time/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/more-time/</guid>
         <description>Some changes are coming and those changes may leave me with more time to do fun things!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1207,11 +1207,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Covid Visit!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/covid-visit/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/covid-visit/</link>
         <pubDate>Mon, 15 May 2023 20:04:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 15 May 2023 20:04:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/covid-visit/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/covid-visit/</guid>
         <description>COVID-19 has come around and now I have a lot of time!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1235,11 +1235,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Birthday!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/birthday/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/birthday/</link>
         <pubDate>Sun, 09 Apr 2023 12:24:15 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Apr 2023 12:24:15 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/birthday/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/birthday/</guid>
         <description>I had a birthday so I updated the site!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1263,11 +1263,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>New Gallery!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-gallery/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/new-gallery/</link>
         <pubDate>Mon, 03 Apr 2023 16:14:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 03 Apr 2023 16:14:52 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-gallery/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/new-gallery/</guid>
         <description>Enjoy the new gallery! Also, I talk about art 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1291,11 +1291,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Hard Game is HARD!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/hard-game-is-hard/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/hard-game-is-hard/</link>
         <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 20:15:20 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/hard-game-is-hard/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/hard-game-is-hard/</guid>
         <description>Another new game another new guide!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1323,11 +1323,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Ready for a New Game!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/ready-for-a-new-game/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/ready-for-a-new-game/</link>
         <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 21 Jan 2023 21:53:33 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/ready-for-a-new-game/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/ready-for-a-new-game/</guid>
         <description>New game means a new set of guides is coming!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1359,11 +1359,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Make my website grow!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/make-my-website-grow/</link>
         <pubDate>Sat, 17 Dec 2022 20:45:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 17 Dec 2022 20:45:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/make-my-website-grow/</guid>
         <description>New guides, new shtuff, all sorts of fun things coming just in time for Christmas!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1391,11 +1391,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>The halloween towns are here!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/the-halloween-towns-are-here/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/the-halloween-towns-are-here/</link>
         <pubDate>Tue, 25 Oct 2022 20:54:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 25 Oct 2022 20:54:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/the-halloween-towns-are-here/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/the-halloween-towns-are-here/</guid>
         <description>So I wasn&amp;#39;t entirely wrong! I did say that before you read the last article that I would be proven wrong and that Gamigo would droup the halloween update. I even said I would be happy if they did. Well, so, they did just that! You heard me right we have all the halloween vibes we could ever want in most of the towns of Isya!
 Maze of Madness Like last year, there is far more going on than just a makeover for most of the cities and towns in Fiesta.</description>
         
@@ -1420,11 +1420,11 @@ Maze of Madness Like last year, there is far more going on than just a makeover 
       
       <item>
         <title>Where&#39;s the Halloween Towns!?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/where-are-the-halloween-towns/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/where-are-the-halloween-towns/</link>
         <pubDate>Thu, 20 Oct 2022 21:06:01 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 20 Oct 2022 21:06:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/where-are-the-halloween-towns/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/where-are-the-halloween-towns/</guid>
         <description>Hi hi everypeep 👋🏻
 Is everyone having a good and scary halloween time? Got your favorite beverages in blood bags, some good spaghetti brains, and….the scariest of it all, candy corn? For me Halloween is one of my favorite times of year! One of the things a really like about Fiesta Online during this time of year is the spooky make over that comes to all the major towns. In the past years this would usually come to the game in the first or second update of October.</description>
         
@@ -1449,11 +1449,11 @@ Is everyone having a good and scary halloween time? Got your favorite beverages 
       
       <item>
         <title>Japanese Translation</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/japanese-translation/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/japanese-translation/</link>
         <pubDate>Sat, 15 Oct 2022 15:38:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 15 Oct 2022 15:38:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/japanese-translation/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/japanese-translation/</guid>
         <description>Hi hi everypeep 👋🏻 During my undergraduate studies I have decided to take a few extra courses to fill out some credit requirements. I took a couple of language courses including two years of Japanese. I&amp;#39;ve always liked Japan and thought studying Japanese would give me a brief introduction to the &amp;#34;real&amp;#34; Japan and not the one seen in anime and manga. It did do that and I thought</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1481,11 +1481,11 @@ Is everyone having a good and scary halloween time? Got your favorite beverages 
       
       <item>
         <title>A New Platform a New Look!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2022/a-new-platform-a-new-look/</link>
+        <link>http://localhost:1313/~yayoi/news/2022/a-new-platform-a-new-look/</link>
         <pubDate>Wed, 12 Oct 2022 10:51:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 12 Oct 2022 10:51:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2022/a-new-platform-a-new-look/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2022/a-new-platform-a-new-look/</guid>
         <description>Hello everypeep!
 If any of you have visited this site before, you may have noticed a few changes. Even if you haven&amp;#39;t ever visited this site, and its quite possible since I have not done much to spread awareness of this site, I still wanted to do this little post. Its mostly for me, and a bit for testing how things will work going forward. Anyway, the important bit is that the site is now running on a different platform, or more specifically, it is now being built on another platform.</description>
         
