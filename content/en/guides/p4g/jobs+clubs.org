@@ -1,0 +1,36 @@
+#+TITLE: Jobs & Clubs
+#+DATE: 2022-12-08T21:06:57-08:00
+#+DRAFT: false
+#+DESCRIPTION: A guide for Jobs and Clubs
+#+TYPE: guide
+#+TAGS[]: leveling guide p4g wip
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A guide for jobs and clubs on Persona 4
+
+Jobs and clubs in Persona 4 will help you build social stats. Choosing the right job and or clubs for you can be tricky. You can join only one sports club, and one culture club. You can hold multiple part-time jobs. Also some of these happen on the same day. The best way to decide which job or club to choose is to decide which will help you build the skills you think will help you the best in build the [[{{% ref "guides/p4g/slink" %}}][Social Links]] you want to focus on most.
+
+As mentioned there are two types of clubs. Each type has a social link attached to it that you will build as your attend club activities. I'll give you more information on these links in the other guide (linked above). I will only discuss club rewards here.
+
+* Sports Clubs
+All sports clubs meet Tuesday, Thursday, and Saturdays on days it is _not_ raining. They don't meet at all when its raining. Both of these are linked to the [[{{% ref "guides/p4g/slink/fellow-athletes.org" %}}][Fellow Athletes]] Social Links and even have the same characters. There are two clubs a) basket ball and b) soccer.
+
+Seeing as all these clubs are linked to the social links, and rewards, the only thing you are choosing is the story you want to see and the difficulty it ranking he social link. It can be easier, for example, to work through the soccer club and you can gain rewards a little faster. Other than that, just pick which one you want to join.
+
+* Culture Clubs
+Both culture clubs meet on Monday, Tuesday, and Thursday even if it's raining. Attending these are a great way to increase /expression/. This will help with some other content including the [[{{% ref "guides/p4g/slink/nanako.org" %}}][Nanako Doujima]] social link. Both clubs are linked to the same arcana but have two separate but similar social links.
+
+What you are choosing here is which person you want to see the story of and, possibly, get with. Either [[{{% ref "guides/p4g/slink/yumi.org" %}}][Yumi Ozawa]] or [[{{% ref "guides/p4g/slink/ayane.org" %}}][Ayane Matsunaga]].
+
+* Jobs
+Welcome to the world of high school in Japan! Just kidding. You are able to make money through several part time jobs. Many of these jobs will only give you some money and help you boos some of your social stats. A few will help you acquire and rank up social links though. I'll summarize the jobs in a handy table below.
+
+| Job                          | Daily Salary    | Work Days                 | Requirements                     | Benefits             | Notes                                                                                                                    |
+|------------------------------+-----------------+---------------------------+----------------------------------+----------------------+--------------------------------------------------------------------------------------------------------------------------|
+| Envelope Constructor         | 1,000+          | Anytime                   | N/A                              | Boosts Diligence     | Available 4/23 and allows you to construct Enveloped on your work desk.                                                  |
+| Translator                   | 1,500+          | Anytime                   | Some Knowledge                   | Boosts Expression    | Available 4/23. This allows you to translate papers on your work desk                                                    |
+| Origami Crane Folder         | N/A (Volunteer) | Anytime                   | Some Diligence                   | Boosts Understanding | Available 4/23. This allows you to fold Origami Cranes on the work desk in your room.                                    |
+| Assistant Day Care Caretaker | 4,000+          | Mon/Fri/Sat (not raining) | Understanding required           | N/A                  | Starts 4/23. You will work in a day care during the afternoon, this will help you build the [[{{% ref "guides/p4g/slink/eri.org" %}}][Eri Minami]] social link |
+| Pub Dishwasher               | 1,500+          | Any day, at night         | Some Understanding               | Boosts Diligence     | Available on 5/25. Allows you to work at the Shiroku Pub any night.                                                      |
+| Hospital Janitor             | 1,500+          | Wed/Thur/Fri (Night)      | Some Understanding               | Boosts Courage       | Starts 5/25. Doing this job will start the [[{{% ref "guides/p4g/slink/sayako.org" %}}][Sayoko Uehara]] social link.       |
+| Tutor                        | 10,000          | Tue/Thurs/Sat (Night)     | Requires Understanding (Saintly) | Boosts Expression    | Available starting 5/25. Doing this job will start and boost the [[{{% ref "guides/p4g/slink/shu.org" %}}][Shu Nakajima]] social link |
