@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 25 Apr 2024 16:03:18 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:35:30 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -724,6 +724,42 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
       </item>
       
       <item>
+        <title>Still Haven&#39;t Broken It</title>
+        <link>http://localhost:1313/~yayoi/news/2024/still-havent-broken-it/</link>
+        <pubDate>Thu, 02 May 2024 18:35:30 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 02 May 2024 18:35:30 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/still-havent-broken-it/</guid>
+        <description>I know last week&amp;#39;s new article sounded a little bleak and I even told you not to expect weekly updates any more, but, well here I am! I wanted to give myself a bit of an &amp;#34;out&amp;#34; because of how I was feeling. I&amp;#39;m still not feeling great, but I&amp;#39;m here and I am working on updates. Unfortunately, the one you will see will look like a removal of something and not updating or adding anything.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>rant</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>A Case of the &#34;Mehs&#34;</title>
         <link>http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/</link>
         <pubDate>Thu, 25 Apr 2024 16:03:18 -0700</pubDate>
@@ -937,8 +973,9 @@ Progress! Before I go into that topic though I just wanted to let everyone know 
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 12 Mar 2024 18:33:48 -0700</atom:modified>
         <guid>http://localhost:1313/~yayoi/guides/p4g/slink/ayane/</guid>
-        <description>I won&amp;#39;t give too much information about Teddie. Teddie is Teddie and Teddie is a party member and persona-user, somehow. You&amp;#39;ll automatically start and rank this social link during the story.
-Availability Depending on how you look at it Teddie is not really ever available. You don&amp;#39;t get the option to hang out with him outside of story events and other S-Links. This isn&amp;#39;t a bad thing because it is actually one of the easiest S-Links to rank as it happens automatically during normal story events.</description>
+        <description>Ayane is a first year student and a member of the school&amp;#39;s band. She is also one potential love-interest for the protagonist. You&amp;#39;ll unlock her as soon as culture clubs are available.
+Availability Ayane is available during band club meetings. The schedule for band club is available on the Job &amp;amp; Clubs page.
+Dialog Options To keep things spoiler-free, I won&amp;#39;t give you the context for these questions or their answers.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -1051,8 +1088,9 @@ Availability Depending on how you look at it Teddie is not really ever available
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 12 Mar 2024 18:33:48 -0700</atom:modified>
         <guid>http://localhost:1313/~yayoi/guides/p4g/slink/yumi/</guid>
-        <description>I won&amp;#39;t give too much information about Teddie. Teddie is Teddie and Teddie is a party member and persona-user, somehow. You&amp;#39;ll automatically start and rank this social link during the story.
-Availability Depending on how you look at it Teddie is not really ever available. You don&amp;#39;t get the option to hang out with him outside of story events and other S-Links. This isn&amp;#39;t a bad thing because it is actually one of the easiest S-Links to rank as it happens automatically during normal story events.</description>
+        <description>Yumi is a member of the School&amp;#39;s Drama club. She becomes available once you unlock culture clubs.
+Availability Yumi is available whenever the drama club meets. See the page on Jobs &amp;amp; Clubs for the club schedules.
+Dialog Options This may shock you, but Yumi and Ayane are different characters and have different stories. I&amp;#39;ll do my best to avoid spoilers while preparing you with the dialog options that will best help you, as usual, please play Yumi story to feel in the blanks.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -2600,11 +2638,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Jobs &amp; Clubs</title>
-        <link>http://localhost:1313/~yayoi/guides/p4g/jobs&#43;clubs/</link>
+        <link>http://localhost:1313/~yayoi/guides/p4g/jobs-clubs/</link>
         <pubDate>Thu, 08 Dec 2022 21:06:57 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Dec 2022 21:06:57 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p4g/jobs&#43;clubs/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/jobs-clubs/</guid>
         <description>A guide for jobs and clubs on Persona 4</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2870,32 +2908,6 @@ If any of you have visited this site before, you may have noticed a few changes.
           
             
               <category>weapons</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Lucky House</title>
-        <link>http://localhost:1313/~yayoi/guides/fiesta/luckyhouse/</link>
-        <pubDate>Sun, 09 Oct 2022 20:53:12 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Oct 2022 20:53:12 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/fiesta/luckyhouse/</guid>
-        <description>The Lucky House can be entered by speaking to the Lucky House Guide in the following towns:
-Elderine Uruga Alberstroll Ruins Note: Your character must be at least level 40 to enter the Lucky House.
-The Lucky House is a place where you can exchange in-game gems, gold, etc for coins that can be used for a variety of gambling games. These games are pretty entertaining for a bit and, like all gambling, are a way to win more coins to exchange for gems.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
             
           
         

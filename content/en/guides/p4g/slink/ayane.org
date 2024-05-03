@@ -8,27 +8,72 @@
 #+SLUG:
 #+SUMMARY:
 
-I won't give too much information about Teddie. Teddie is Teddie and Teddie is a party member and persona-user, somehow. You'll automatically start and rank this social link during the story.
+Ayane is a first year student and a member of the school's band. She is also one potential love-interest for the protagonist. You'll unlock her as soon as [[{{% ref "guides/p4g/jobs-clubs.org" %}}][culture clubs]] are available.
 
 * Availability
-Depending on how you look at it Teddie is not really ever available. You don't get the option to hang out with him outside of story events and other S-Links. This isn't a bad thing because it is actually one of the easiest S-Links to rank as it happens automatically during normal story events.
+Ayane is available during band club meetings. The schedule for band club is available on the [[{{% ref "guides/p4g/jobs-clubs.org" %}}][Job & Clubs]] page.
 
 * Dialog Options
-None of the dialog options will give you extra points or rewards since all ranks happen automatically. Again this makes it easy to rank up as it requires no interaction from the player. You will automatically rank up this S-Link on these dates:
-- Rank 1: 4/17
-- Rank 2: 4/30
-- Rank 3: 5/18
-- Rank 4: 6/6
-- Rank 5: 7/10
-- Rank 6: 7/10
-- Rank 8: 10/6
-- Rank 9: 11/6
-- Rank 10: 12/3
+To keep things spoiler-free, I won't give you the context for these questions or their answers. Please play the story for that. I will give you the choices you can make the amount of "notes" each is worth as I do with the other SLinks. Remember that each of these happens at a transition point in your relationship. So Rank 0>1 means going from not having the SLink to its first rank and Rank 1>2 means going from rank one to two.
+** Rank 0>1
+- /Do you have any questions?/
+  + Any answer, but the 3rd choice requires Courage.
+- /Cleanup look like a big task for just one person.../
+  + "Help Out." (Understanding stat raised)
+  + "Watch"
+** Rank 1>2
+- /I wish I had as much talent as you./
+  + "You do have talent." +3
+  + "Effort is what matters" +2 (requires Understanding)
+- /Cleanup looks like a big task for just one person.../
+  + "Help out." +3, raises Understanding
+  + "Watch." +3, raises Diligence
+** Rank 2>3
+- /I think I'll stick around and practice. I was out so long, I didn't even touch my trombone./
+  + "Forget it today." +3
+  + "You want me to help?" +2
+- /...not that I'll be in it, but still.../
+  + Either Choice
+- /Because there are a lot of other things I can do for the club. Scheduling, accounting, cleaning up.../
+  + "That's a great attitude" +2
+** Rank 3>4
+- /Shoot...I still can't play the part I was messing up last time./
+  + "Why don't you give up?" (Courage, level 3, needed)
+- /It'd be nice to be able to play outside, but I'd embarrass myself if I want alone.../
+  + "Want me to help out?" +3, raises Expression (Understanding needed)
+  + "Alright, follow me." +3, also raises Expression (Courage required)
+** Rank 4>5
+- /As the other leave, Ayane stays engrossed in her practice.../
+  + Either answer
+- /I can't...I can't do it.../
+  + "It's okay to mess up." +3 (Understanding Level 3 required)
+  + "Don't worry, you can do it." raises Expression
+** Rank 5>6
+This rank raises without any input from you!
 
+** Rank 6>7
+- /The other members are remaining silent.../
+  + "Stick up for Ayane." raises Expression
+- /Ayane is weeping.../
+  + "Hold her." +3
+  + Comfort her. raises Expression
+** Rank 7>8
+As mentioned, Ayane is a potential love interest. At this rank you will choose if you would like to pursue a romantic relationship with her or remain friends. This choice does *not* affect how the SLink progresses or the rewards you receive, only some of the scenes you will get later. Also, there can be consequences for cheating, so make sure you /want/ to pursue this relationship and *only* this romantic relationship.
+- /What should you do...?/
+  + "Reveal your feelings for her." selects the romantic relationship
+  + "Change the subject." remain as friends
+** Rank 8>9
+What I meant by the choices not effecting your progress is that pretty much everything is autoamtic after its made. You /do/ have dialog options for this level if you choose the romance path, but not if you choose to remain friends, but as you'll see, that has little weight moving forward.
+
+*** Romance Path
+- /Ayane looks at the ground nervously./
+  + "Wanna come to my house?" +3 (Courage needed)
+  + "Wanna go out and have fun?" +3
+  + "Wanna grab some food?" +3
+*** Friendship Path
+No input from you again.
+
+** Rank 9>10
+Not matter which path you choose, there will be no dialog options for this rank that effect it or you in any way.
 * Rewards
-As well as unlocking the ability to Fuse Helel, Ranking up this S-Link grants new skills for Teddie. As this happens automatically, this is mostly just for information purposes.
-- Rank 1: Protect
-- Rank 3: Follow Up
-- Rank 5: Assist
-- Rank 7: Recover
-- Rank 9: Endure
+Maxing out this, the Sun Social Link, with Ayane will give you the Handmade Ticket key item which gives you the ability to fuse the Persona Asura.

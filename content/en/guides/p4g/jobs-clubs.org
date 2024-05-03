@@ -1,6 +1,6 @@
 #+TITLE: Jobs & Clubs
 #+DATE: 2022-12-08T21:06:57-08:00
-#+DRAFT: false
+#+DRAFT: true
 #+DESCRIPTION: A guide for Jobs and Clubs
 #+TYPE: guide
 #+TAGS[]: leveling guide p4g wip

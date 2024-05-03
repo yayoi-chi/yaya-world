@@ -8,27 +8,68 @@
 #+SLUG:
 #+SUMMARY:
 
-I won't give too much information about Teddie. Teddie is Teddie and Teddie is a party member and persona-user, somehow. You'll automatically start and rank this social link during the story.
+Yumi is a member of the School's Drama club. She becomes available once you unlock [[{{% ref "guides/p4g/jobs-clubs.org" %}}][culture clubs]].
 
 * Availability
-Depending on how you look at it Teddie is not really ever available. You don't get the option to hang out with him outside of story events and other S-Links. This isn't a bad thing because it is actually one of the easiest S-Links to rank as it happens automatically during normal story events.
+Yumi is available whenever the drama club meets. See the page on [[{{% ref "guides/p4g/jobs-clubs.org" %}}][Jobs & Clubs]] for the club schedules.
 
 * Dialog Options
-None of the dialog options will give you extra points or rewards since all ranks happen automatically. Again this makes it easy to rank up as it requires no interaction from the player. You will automatically rank up this S-Link on these dates:
-- Rank 1: 4/17
-- Rank 2: 4/30
-- Rank 3: 5/18
-- Rank 4: 6/6
-- Rank 5: 7/10
-- Rank 6: 7/10
-- Rank 8: 10/6
-- Rank 9: 11/6
-- Rank 10: 12/3
+This may shock you, but Yumi and [[{{% ref ayane.org %}}][Ayane]] are different characters and have different stories. I'll do my best to avoid spoilers while preparing you with the dialog options that will best help you, as usual, please play Yumi story to feel in the blanks.
+** Rank 1>2
+- /The line begins.../
+  + "What crazes me is not..."
+- /Then it went.../
+  + Any answer
+- /...but I do want us to take it seriously, so give it a shot, okay?/
+  + "I'll give it my all!" +3
+** Rank 2>3
+- /Huh...? Oh, er...what should I do? We're still.../
+  + Either answer
+- /Wh-when did you get here!? Were you listening to me?/
+  + Either answer
+- /Yumi is trembling with anger...
+  + Either answer
+** Rank 3>4
+- /...was I wrong, when I said that?/
+  + "No." +3
+  + "It was how you said it." +2
+- /...anywhere but at home./
+  + "Is something wrong." +3
+  + "I'll help." +2
+- /Just forget about this, okay?/
+  + "I can't forget?" +3
+  + "Okay." +3
+** Rank 4>5
+- /Why are you...?/
+  + "Just passing by." +3
+  + "I was wondering about you." +2
+  + "I got hurt" +2
+** Rank 5>6
+- /...I just came from dad's - that man's room.../
+  + "How is your mother?" +2
+- /...why do I have to go through all of this? Why me?!
+  + Any answer
+** Rank 6>7
+- /...He's so stupid./
+  + "He's a kind father." +3
+** Rank 7>8
+- /There's...just some things I just don't understand./
+  + "Gently encourage her." +3
+  + "Cry together." +3
+** Rank 8>9
+- /Yumi is not doing good./
+  + Any answer
+- /Yumi seems to be enduring the tragedy./
+  + Any answer
+- /I am good at something...but what kind of thing?/
+  + "Think about it slowly." +3
+  + "You're always cheerful." +3
+  + "The things that can be done." +3
+** Rank 9>10
+Finally you get to choose the kind of relationship you will pursue with Yumi. Since this is the last rank up you will note that this choice can't affect the social link. However, it will affect certain future scenes. Problem is that, this happens quite late and if your pacing is even a little off, you /might/ miss some of the scenes. Also, don't forget, there can be consquences for cheating, so make sure Yumi is the only one you want to pursue a romantice relationship with if you are choosing that route.
 
+- /I'll turn around, so if you're going to reject me, just leave the room. That way, I won't have to see you go.../
+  + "Hug her." pursue a romantic relationship
+  + "Leave." continue as friends
 * Rewards
-As well as unlocking the ability to Fuse Helel, Ranking up this S-Link grants new skills for Teddie. As this happens automatically, this is mostly just for information purposes.
-- Rank 1: Protect
-- Rank 3: Follow Up
-- Rank 5: Assist
-- Rank 7: Recover
-- Rank 9: Endure
+When you max out the Sun Social Link with Yumi you gain the Annotated Script key item. While the item is different than when you complete this rank with [[{{% ref "guides/p4g/slink/ayane.org" %}}][Ayane]], its effect is the same, you'll be able to fuse Asura.
