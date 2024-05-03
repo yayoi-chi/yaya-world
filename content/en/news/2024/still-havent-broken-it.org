@@ -1,0 +1,23 @@
+#+TITLE: Still Haven't Broken It
+#+DATE: 2024-05-02T18:35:30-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site personal news rant
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+I know [[{{% ref case-of-the-mehs.org %}}][last week's]] new article sounded a little bleak and I even told you not to expect weekly updates any more, but, well here I am! I wanted to give myself a bit of an "out" because of how I was feeling. I'm still not feeling great, but I'm here and I /am/ working on updates. Unfortunately, the one you will see will look like a removal of something and not updating or adding anything. Don't worry, it will be back later and in greater numbers 😆
+
+* I Made an Oopsie
+Okay, this doesn't have anything to do with the site, but it does have something to do with work and something that kind of effected my mood, so rant time? Yeah, maybe more of a mini-rant, but feel free to skip this section if you just want to know what went missing on the site and why.
+
+So there are certain tasks I have to do for my job. I don't think that's any different from any other job, and many other people probably do the same tasks every week or maybe even every day. So, you know, should be totally used to them all and just be able to complete them without thinking, right? Right? Wrong! I sort of change how I complete one of the tasks, or kind more how I start it, and well, that threw me off and...what I was supposed to deliver was just kind of gone 😅 So, yeah, BEEG oopsie! I had to spend some extra time today redoing it and making sure it got put where it belongs. I suppose it isn't that big of deal, but it was kind of frustrating and embarrassing and so kind of threw of my mood on top of everything else that happened last week.
+
+I did fix it, and I'm proud of myself for that, but this was something I do /every *fricking* week/ so can I mess it up like that!? Frustrating right? I mean, yes I was trying to be more efficient and I changed a few things, but still. Anyway, it is fixed and I plan to make sure it doesn't happen again. Still kind of mad at myself though.
+
+* Jobs & Clubs for P4G is Missing
+No there's no mistake there, I am heavily renovating this section of the [[{{% ref "guides/p4g/" %}}][Persona 4 Golden]] guide. As a result, I have set it to a draft again so it will no longer appear on any of the site's indexes. This is only temporary and the section, now basically a single page, should be back up in a couple of weeks at the most. Basically, aside from changing the structure of the page, I am now linking to the applicable SLink guides as well, which will need to marked as published before the page will work correctly. So, when I said it'll be back an in greater numbers, I mean there will be more pages that will appear when that page returns. Just a heads up for anyone who noticed it went missing.
+
+* P3Reload
+I have a lot of notes and am ready to work on the [[{{% ref "guides/p3reload/walkthrough.org" %}}][Persona3 Reload walkthrough]], but I'm having some problems. You see I right everything on this site on my MacBook, and, well, that game doesn't run on the Mac, so I've been playing it on the Steam Deck. Not a problem, you'd say, but the notes I'm taking on the Seam Deck are /not/ syncing with my Mac again. I say that because the same thing happened with Persona 4 Golden. So now I have to find a way to either edit the page on the Steam Deck or get the notes on the Mac. I'm looking into that, but also still playing through the game. Hopefully I'll be able to update the walkthrough soon though 😅
