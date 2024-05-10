@@ -38,6 +38,8 @@ images: # when mode is one-by-one, images front matter works
     caption: A new profile peekture for Jade, she's wearing the dress!
   - image: KeyriePP.png
     caption: It's Keyrie!
+  - image: Yayoi_ChiFrame.png
+    caption: My Very Own Stream Frame
 ---
 
 I draw too! That's right I don't just play games, but I also like to draw. I don't get much time to draw, but I'm hoping to make some more time soon. I have ideas I want to do! Anyway, below are just a couple of things that I have drawn!
