@@ -5,15 +5,23 @@
 #+TAGS[]: streaming art site news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: If you've been around my site for awhile than you probably know that I am an artist and a writer. Well, I haven't really been doing much writing of late, other than school papers, but I'm still a writer, okay? Well, anyway, I have a new hat! A streamer hat!
 
 If you've been around my site for awhile than you probably know that I am an artist and a writer. Well, I haven't really been doing much writing of late, other than school papers, but I'm still a writer, okay? Well, anyway, I have a new hat! A streamer hat!
 
 * First Stream!
-I don't count the test stream I did the day before, so yesterday was my first real stream. It was an art stream. Basically I just chilled out while I turned a stream frame I did as a [[{{% ref "gallery/commissions" %}}][commission]] awhile back into a stream frame of my own. It was kind of fun and cozy. I didn't talk, but I think people still enjoy watching it. You can catch my streams and my VODs on my [[https://www.twitch.tv/yayoi_chi][Twitch Channel]].
+I don't count the test stream I did the day before, so yesterday was my first real stream. It was an art stream. Basically I just chilled out while I turned a stream frame I did as a [[{{% ref "gallery/commissions" %}}][commission]] awhile back into a stream frame of my own. It was kind of fun and cozy. I didn't talk, but I think people still enjoy watching it. You can catch a shortened version of the stream right here! Tada!
 
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jvo-9s8SEUE?si=IrT5pTpqUdz10Wy-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
 * And A Second Stream!
-After working on my stream frame, I wanted to put it to the test, so there was a second stream earlier today. In this one, I actually spent about three hours playing Hollow Knight. I actually really enjoyed it. Again, I didn't speak, but I was as active in the chat as I could be playing a game like Hollow Knight. It was really fun and I think I want to do it again, maybe I'll even play some other games. I do have a The Sims 4 stream scheduled for the weekend so I'll be clearing up so old mods and getting things set up soon. Again, check out the [[https://www.twitch.tv/yayoi_chi][Twitch Channel]]! Monday I'll be creating a schedule graphic so I can post my schedules up. I think I'll have to make a page for that here, not sure how I'll set that up. Maybe I'll but the schedule down on the weekly news post, let me know if you have suggestions.
+After working on my stream frame, I wanted to put it to the test, so there was a second stream earlier today. In this one, I actually spent about three hours playing Hollow Knight. I actually really enjoyed it. Again, I didn't speak, but I was as active in the chat as I could be playing a game like Hollow Knight. It was really fun and I think I want to do it again, maybe I'll even play some other games. I do have a The Sims 4 stream scheduled for the weekend so I'll be clearing up some old mods and getting things set up soon. Again, check out the [[https://www.twitch.tv/yayoi_chi][Twitch Channel]]!
 
-* Site Sthuff
+Monday I'll be creating a schedule graphic so I can post my schedules. I think I'll have to make a page for that here, not sure how I'll set that up. Maybe I'll but the schedule down on the weekly news post, let me know if you have suggestions.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLEfWA_pQ7s?si=pddwOYOKqahWYC_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Site Shtuff
 Thanks to my streaming I have something to write this post about, but also, because I may have spent a bit more time than I thought I would on researching ways to set up the stream and on the streams themselves, there is no other updates this week. It /might/ be like that for a little bit. Of course, if I decide to use the weekly news post to post my schedule than you're actually still going to be almost guaranteed to have at leas that every week. I'm excited to join this new journey though, hope you enjoy taking it with me 😄
