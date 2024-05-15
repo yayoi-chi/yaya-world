@@ -1,8 +1,44 @@
-#+TITLE: Stream Recap Week 1
+#+TITLE: Stream Recap: Week 1
 #+DATE: 2024-05-15T14:49:00-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream news recap
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+* Art Stream
+If you want to see my first art stream, you can catch it in [[{{% ref "news/2024/am-a-streamer-now.org" %}}][last week's]] news article! This week though, I started simple again by designing a template to use for schedule images and then put it to the test by creating this week's schedule! I think I'm getting used to making art on stream. Not very many people watch the stream so maybe that has something to do with it, but I'm not sure. I guess the only way to know is to see how I am with more viewers 😅 I still had fun though. You'll be able to catch it on YouTube.
+
+#+begin_export html
+<!-- TODO add embed for latest art stream once published -->
+#+end_export
+
+Oh that's right, there are now two playslists for archives on YouTube that you can check out. I'll still have them available here, but, if you don't want all this text, you can check out my [[https://youtube.com/playlist?list=PLkFe_D6-Ml98xWkSINAfE8FWSVrdK2iIg][art stream]] and [[https://youtube.com/playlist?list=PLkFe_D6-Ml99oIIwXaAMrMayxFG7lDdSE][twitch archive]] playslists on YouTube!
+* Game Streams
+** Hollow Knight
+#+begin_export html
+<!-- TODO add embed for bapanada archive once published -->
+#+end_export
+I started this game off stream, but didn't get very far. Still this is technically a continuation of an ADVENTURE in Hollow Nest. I was kind of nervous during this one, but I've watched it back and, aside from making some pretty bad mistakes as I started getting tired, I did fairly well.
+** The Sims 4
+#+begin_export html
+<!-- TODO add embed for sul sul archive once published -->
+#+end_export
+This is a brand new save! I created a self-sim and a place for her to live. That didn't take as long as I thought it would so I also got started on a new challenge. I'm going to try and complete every aspiration in the game, or die trying!
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for the week of 20 May
+[[/~yayoi/images/Yayoi_Chi20May.png]]
+
+Schedule for Week 5/20 - 5/26
+| Day of the Week | What's Streaming                              | At What Time |
+|-----------------+-----------------------------------------------+--------------|
+| Monday          | Making my own vTuber                          | 3 PM PT      |
+| Tuesday         |                                               | Offline      |
+| Wednesday       | Making my own Vtuber Pt. 2                    | 6 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)     | 6 PM PT      |
+| Friday          | Continuing our ADVENTURES through Hollow Nest | 11 AM PT     |
+| Saturday        | Sim Saturday. Let's check in on Yayoi Chi     | 12 PM PT     |
+| Sunday          |                                               | Offline      |
+
+I'll be a bit more busy next week! I'm going to be streaming 5 days: Monday and Wednesday thru Friday. I've even included two art streams where I will be trying my hand at becoming not just a vTuber designer but also a rigger and animator! For those who cannot see the image, I have also included a table with my Schedule. Hope to see some of you there and look forward to seeing the archives when their are up if you can't make the lives!
