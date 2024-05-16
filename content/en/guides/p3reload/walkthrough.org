@@ -53,3 +53,65 @@ You'll skip straight to the /Dark Hour/ today. You'll be introduced to a new kin
 |-----------+--------+-----+-------+--------+--------+------+-----+------+------------+-------+------|
 | Priestess | ?      | ?   | -     | -      | -      | -    | -   | -    | ?          | -     | ?    |
 There is a time limit for this fight! It seems like it's plenty of time as the clock starts at 30 minutes, but the Priestess as a skill that will speed up the clock and shave several minutes off at one time. In my play I didn't see a single weakness. Try attacking with everyone's best skills and only healing when it is absolutely required!
+
+** 5/13 & 5/15
+You have now been introduced to many of the main features of the game. A few other features will trickle in, but they are very well explained during gameplay. Much of what you'll see in this Walkthrough are quiz answers and the special shadow encounters. Speaking of quizzes, there is one each on these days. First answer is: *the pendelum* and second is: *May Blues*
+
+** 5/18 - 5/23
+This is your first midterm! Don't worry midterms here are pretty easy as they are based on quizzes and lectures you have just seen, usually. Nevertheless, I've made it even easier by giving you the answers:
+
+1. No quiz
+2. May Blues
+3. a pendelum
+4. electricity
+5. Jomon
+
+* The Emperor and The Empress
+** 6/1- 6/4
+Some extra story elements. Basically, you will be tasked with gathering information on ghost stories at school. Just use these few days to talk to random students and learn more about the victims. Or don't, I'm going to give you the answers anyway.
+
+** 6/2
+You have probably heard you can doze in class. This is one such day where you're given the option. I just wanted to start pointing these out as in /this/ version of the game you gain Courage if you doze off during class. I'll start making note of opportunities here. Just be careful, you could miss something important if you do it too much.
+
+** 6/5
+A scene plays out between after school and evening. Yukari will ask a few questions relating to the ghost stories she asked you to ask about. I'll leave the answers she's looking for here for you.
+
+1. there were three victims
+2. they hung out together
+
+** 6/6
+You'll follow up on some of the information you gathered. This involves a relatively short scene that plans before evening. In other words, this doesn't affect gameplay options.
+
+** 6/8
+Another full moon and your day is taken up with more investigation. You'll need to find a key in the faculty office. Basically head there and select "gym" when asked what key this is. You will then explore an unknown set of floors in Tartarus. You /will/ start alone, but meet up with everyone after going up a few floors.
+
+You also meet the emperor and empress shadows. I will put a table here with their starting stats, but this is *not* a usual fight. Each has skills that alter their strengths and weaknesses so you'll be relaying heavily on your new member's analysis ability. It is a good chance to practice this though.
+| Name    | Archon | Lvl | Slash | Strike | Pierce | Fire | Ice  | Wind | Lightening | Light | Dark |
+|---------+--------+-----+-------+--------+--------+------+------+------+------------+-------+------|
+| Empress | ?      | ?   | Null  | Null   | Weak   | Null | Null | Null | Null       | Null  | Null |
+| Emperor | ?      | ?   | Null  | Null   | Null   | Null | Null | Null | Weak       | Null  | Null |
+
+** 6/9 - 6/12
+Tartarus will be removed as an option for these few days, but your evenings are otherwise free. Maybe work on social stats, or finding new SLinks?
+
+* The Hierophant and The Lovers
+** 6/10
+Lecture! You can choose to sleep but might miss an exam answer. The "Man-yoshou"
+
+** 6/13
+You'll be pretty open after school, but you will be exploring Tartarus tonight, whether you like it or not.
+
+** 6/15 & 6/17
+quizzes:
++ *keen eye*
++ *shamanism*
+
+** 6/20
+You will spend this afternoon in a meeting.
+
+** 6/22, 6/24, 6/29, 7/3
+Quizzes on these dates!
+1. *witch of agnesi*
+2. *the flutter effect*
+3. *dowsing*
+4. *about romance*
