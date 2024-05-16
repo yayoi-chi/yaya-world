@@ -66,11 +66,33 @@
     <loc>http://localhost:1313/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
+    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/~yayoi/news/</loc>
+    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/recap/</loc>
+    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/stream/</loc>
     <lastmod>2024-05-15T14:49:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/</loc>
     <lastmod>2024-05-15T14:49:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/</loc>
+    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/tags/"
+                />
   </url><url>
     <loc>http://localhost:1313/~yayoi/</loc>
     <lastmod>2024-05-15T14:49:00-07:00</lastmod>
@@ -91,27 +113,11 @@
     <loc>http://localhost:1313/~yayoi/tags/art/</loc>
     <lastmod>2024-05-09T18:44:33-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
-    <lastmod>2024-05-09T18:44:33-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/~yayoi/tags/site/</loc>
     <lastmod>2024-05-09T18:44:33-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/streaming/</loc>
     <lastmod>2024-05-09T18:44:33-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/</loc>
-    <lastmod>2024-05-09T18:44:33-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/personal/</loc>
     <lastmod>2024-05-02T18:35:30-07:00</lastmod>
