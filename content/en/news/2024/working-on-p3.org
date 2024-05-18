@@ -1,8 +1,29 @@
-#+TITLE: Working on P3
+#+TITLE: Working on P3!
 #+DATE: 2024-05-17T19:14:27-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: site news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+In my [[{{% ref "stream-recap-week-1.org" %}}][Stream Recap]] for this week you won't find a Persona 3 stream, but I /did/ have one. It was a surprise stream and you can catch it on my Twitch page. I'll also be in next week's recap, probably. Anyway, I also worked a bit on the [[{{% ref "guides/p3reload/walkthrough.org" %}}][Persona 3 Reload Walkthrough]] this week.
+
+* The Stream Recap!
+You can see it my link! I have decided how I will handle news and stream schedules! There will be essentially *two* tags "news" and "recap" but you don't have to know that unless you're looking specifically for streaming news versus regular news. You can also just look at the tag "streaming" for everything to do with streams.
+
+Each week I will at least release a recap of my streams complete with embeds for YouTube archives of my streams. Art streams will be sped up so you can see the whole process but not have to watch all 90+ minutes. Game streams will be unaltered though. I will also post the *next week's* schedule /at the end/ of the recap so you'll be able to see it. On Sunday, I will update the schedule on Twitch, but you'll see it here first!
+
+Aside from the recap you /may/ get another news article or blog post. This will happen only if I have something to say that week. This could be news about upcoming additions or changes to the site or other news in life, career, or anything else that comes to mind outside of my streams. Again, this is not guaranteed, but the stream recap will be as long as I streamed at least once during that week. Oh, and I should let you know, if there were like a ton of game streams, I might not embed all the YouTube videos, but you'll at least get links.
+
+Finally, to better align everything with the release of my new schedule on Twitch, the site will be updated on Fridays now instead of Thursdays. You'll still see the new schedule here first, just not quite so far in advance.
+
+* Persona 3
+I have decided to focus on Persona 3 Reload. I will likely still finish the Persona 3 Portable walkthrough at some future time, so I'm not removing what I have. Just know that I will be finishing Persona 3 Reload before finishing that walkthrough.
+
+I also tested a stream with it and will probably be at least recording my play sessions if not streaming them because I think this will help me do the walkthrough without having to pause the game to write notes and figuring out how to get the notes on my laptop. I brought the current version of the walkthrough up to about where I am when I started my last Persona 3 stream, just need a couple of things added, which I'll do this weekend before adding things from the stream. Anyway, I hope this will help me enjoy the game and still provide a good walkthrough for you.
+
+* Call for followers!
+While I'm on the topic, if you enjoy watching the archives of my streams, please consider subscribing to my [[https://youtube.com/@yayoi-chi][YouTube]] channel /and/ following me on [[https://www.twitch.tv/yayoi_chi][Twitch]]. I am really wanting to make my streams more interesting for my viewers and getting affiliate will really help with that, so please follow if you enjoy my live streams! Thank you!
+
+Live Stream VODs are always released on Twitch first and new archives are released the next available Thursday on YouTube!
