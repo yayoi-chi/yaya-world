@@ -10,7 +10,7 @@
 In my [[{{% ref "stream-recap-week-1.org" %}}][Stream Recap]] for this week you won't find a Persona 3 stream, but I /did/ have one. It was a surprise stream and you can catch it on my Twitch page. I'll also be in next week's recap, probably. Anyway, I also worked a bit on the [[{{% ref "guides/p3reload/walkthrough.org" %}}][Persona 3 Reload Walkthrough]] this week.
 
 * The Stream Recap!
-You can see it my link! I have decided how I will handle news and stream schedules! There will be essentially *two* tags "news" and "recap" but you don't have to know that unless you're looking specifically for streaming news versus regular news. You can also just look at the tag "streaming" for everything to do with streams.
+You can see it my link! I have decided how I will handle news and stream schedules! There will be essentially *two* tags "news" and "recap" but you don't have to know that unless you're looking specifically for streaming news versus regular news. You can also just look at the tag "stream" for everything to do with streams.
 
 Each week I will at least release a recap of my streams complete with embeds for YouTube archives of my streams. Art streams will be sped up so you can see the whole process but not have to watch all 90+ minutes. Game streams will be unaltered though. I will also post the *next week's* schedule /at the end/ of the recap so you'll be able to see it. On Sunday, I will update the schedule on Twitch, but you'll see it here first!
 
