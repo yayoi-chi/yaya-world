@@ -1,0 +1,60 @@
+#+TITLE: Stream Recap: Week 2
+#+DATE: 2024-05-23T15:33:27-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week's recap, were a total of three game streams including a suprise stream testing Persona 3 Reload!
+
+* Art Stream
+I started designing my vTuber this week. I did /two/ art streams, but one of them won't to published on YouTube until next week because I did it on a Wednesday. If you want to see the start of the journey though it is available on YouTube and the second part is up on my Twitch channel, though it is *not* edited. If you don't want to watch the full 2 hours of live video you can catch the second part condensed next week.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RsTmBo0MgM?si=kv-esoTI1uxrcrv9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Game Streams
+Multiple! There were three game streams last week including a surprise Persona 3 Reload stream.
+** Persona 3 Reload
+I decided to open up Persona 3 Reload on my Steam Deck and try to use Steam Remote Play to get it into OBS on my Mac. Naturally it wasn't the best experience, but it did work better than I thought. I wanted to see how well it played to see if I can expand the kinds of games I can comfortably stream without buying extra hardware. I decided it will work in a pinch, but I'll need at least a capture device so that I can properly stream games from the Steam Deck as well Nintendo Switch and PS4.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9oLPnw3hpBI?si=nqpoXXlqGgYJ457-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** Hollow Knight
+I continued my ADVENTURE in Hollow Knight. I got really lost quite a few times and forgot where to go. Eventually though I remembered at least one place I still needed to get through, City of Tears, and find my way there. So I made some progress just not a lot.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ED0Kp5kWH-c?si=5UU5amWtg-Oflvkt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** Stray
+I heard Stray came out on macOS so I decided to download it and see if I could stream it. Stray is a bit more of a demanding game and it was a good test of the limits of the hardware, namely my poor 2021 MacBook Air. There were some frustrating moments, but I think I can get to to run a bit better next time a stream it. That wasn't this week, but, as you'll see, it will be next week!
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emMXPA_Jn_w?si=vU8BwK0NbNTrBvB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** The Sims 4
+Hey we had another The Sims 4 game! To be honest, I almost forgot about it 😅 Not much happened, except a lot of infant milestones popping up and an exploding pizza...sorta 😆
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3y9euafp_c?si=-Wf0ugpGkBsIiq-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 5/27 - 6/2
+[[/~yayoi/images/Yayoi_Chi27May.png]]
+
+| Day of the Week | What's Streaming                             | At What Time |
+|-----------------+----------------------------------------------+--------------|
+| Monday          | Making my own vTuber Pt. 3                   | 1 PM PT      |
+| Tuesday         |                                              | Offline      |
+| Wednesday       | Making my own vTuber Pt. 4                   | 6 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)    | 6 PM PT      |
+| Friday          | Let's Examine Our Persona (Persona 3 Reload) | 12 PM PT     |
+| Saturday        | Sim Saturday. How's Yayoi Chi doing?         | 12 PM PT     |
+| Sunday          |                                              | Offline      |
+
+Its memoral week, so I have Monday off! Hopefully I'll make even more progress on my vTuber model with a lot of time available to work on it. That is assuming I have to stamina to go the entire time! I will be streaming a total of five days again with Tuesday and Sunday begin my offline days. I will not be streaming Hollow Knight this week, but do plan a Persona 3 Reload stream and my Throwback Thursday. Hope to see you [[https://www.twitch.tv/yayoi_chi][there]]!
