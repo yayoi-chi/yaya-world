@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/</link>
+    <link>http://localhost:1313/~yayoi/tags/</link>
     <description>Recent content in Tags on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 17 May 2024 19:14:27 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>News</title>
-        <link>https://onigirionegai.info/~yayoi/tags/news/</link>
+        <link>http://localhost:1313/~yayoi/tags/news/</link>
         <pubDate>Fri, 17 May 2024 19:14:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/news/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Site</title>
-        <link>https://onigirionegai.info/~yayoi/tags/site/</link>
+        <link>http://localhost:1313/~yayoi/tags/site/</link>
         <pubDate>Fri, 17 May 2024 19:14:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/site/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/site/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Recap</title>
-        <link>https://onigirionegai.info/~yayoi/tags/recap/</link>
+        <link>http://localhost:1313/~yayoi/tags/recap/</link>
         <pubDate>Wed, 15 May 2024 14:49:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/recap/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/recap/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Stream</title>
-        <link>https://onigirionegai.info/~yayoi/tags/stream/</link>
+        <link>http://localhost:1313/~yayoi/tags/stream/</link>
         <pubDate>Wed, 15 May 2024 14:49:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/stream/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/stream/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Art</title>
-        <link>https://onigirionegai.info/~yayoi/tags/art/</link>
+        <link>http://localhost:1313/~yayoi/tags/art/</link>
         <pubDate>Thu, 09 May 2024 18:44:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/art/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/art/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>Streaming</title>
-        <link>https://onigirionegai.info/~yayoi/tags/streaming/</link>
+        <link>http://localhost:1313/~yayoi/tags/streaming/</link>
         <pubDate>Thu, 09 May 2024 18:44:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/streaming/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/streaming/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>Personal</title>
-        <link>https://onigirionegai.info/~yayoi/tags/personal/</link>
+        <link>http://localhost:1313/~yayoi/tags/personal/</link>
         <pubDate>Thu, 02 May 2024 18:35:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/personal/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/personal/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>Rant</title>
-        <link>https://onigirionegai.info/~yayoi/tags/rant/</link>
+        <link>http://localhost:1313/~yayoi/tags/rant/</link>
         <pubDate>Thu, 02 May 2024 18:35:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/rant/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/rant/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>P4g</title>
-        <link>https://onigirionegai.info/~yayoi/tags/p4g/</link>
+        <link>http://localhost:1313/~yayoi/tags/p4g/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/p4g/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>Persona</title>
-        <link>https://onigirionegai.info/~yayoi/tags/persona/</link>
+        <link>http://localhost:1313/~yayoi/tags/persona/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/persona/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/persona/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>Social_networks</title>
-        <link>https://onigirionegai.info/~yayoi/tags/social_networks/</link>
+        <link>http://localhost:1313/~yayoi/tags/social_networks/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/social_networks/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/social_networks/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -220,11 +220,11 @@
       
       <item>
         <title>P3p</title>
-        <link>https://onigirionegai.info/~yayoi/tags/p3p/</link>
+        <link>http://localhost:1313/~yayoi/tags/p3p/</link>
         <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/p3p/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/p3p/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -238,11 +238,11 @@
       
       <item>
         <title>P3reload</title>
-        <link>https://onigirionegai.info/~yayoi/tags/p3reload/</link>
+        <link>http://localhost:1313/~yayoi/tags/p3reload/</link>
         <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/p3reload/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/p3reload/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -256,11 +256,11 @@
       
       <item>
         <title>Guide</title>
-        <link>https://onigirionegai.info/~yayoi/tags/guide/</link>
+        <link>http://localhost:1313/~yayoi/tags/guide/</link>
         <pubDate>Tue, 19 Mar 2024 10:59:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/guide/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/guide/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>P3</title>
-        <link>https://onigirionegai.info/~yayoi/tags/p3/</link>
+        <link>http://localhost:1313/~yayoi/tags/p3/</link>
         <pubDate>Tue, 19 Mar 2024 10:59:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/p3/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/p3/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -292,11 +292,11 @@
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/tags/walkthrough/</link>
+        <link>http://localhost:1313/~yayoi/tags/walkthrough/</link>
         <pubDate>Tue, 19 Mar 2024 10:59:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/walkthrough/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/walkthrough/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -310,11 +310,11 @@
       
       <item>
         <title>Jrpg</title>
-        <link>https://onigirionegai.info/~yayoi/tags/jrpg/</link>
+        <link>http://localhost:1313/~yayoi/tags/jrpg/</link>
         <pubDate>Tue, 19 Mar 2024 09:30:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/jrpg/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/jrpg/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -328,11 +328,11 @@
       
       <item>
         <title>Rpg</title>
-        <link>https://onigirionegai.info/~yayoi/tags/rpg/</link>
+        <link>http://localhost:1313/~yayoi/tags/rpg/</link>
         <pubDate>Tue, 19 Mar 2024 09:30:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/rpg/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/rpg/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -346,11 +346,11 @@
       
       <item>
         <title>Game</title>
-        <link>https://onigirionegai.info/~yayoi/tags/game/</link>
+        <link>http://localhost:1313/~yayoi/tags/game/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/game/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/game/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -364,11 +364,11 @@
       
       <item>
         <title>Review</title>
-        <link>https://onigirionegai.info/~yayoi/tags/review/</link>
+        <link>http://localhost:1313/~yayoi/tags/review/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/review/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/review/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -382,11 +382,11 @@
       
       <item>
         <title>Vn</title>
-        <link>https://onigirionegai.info/~yayoi/tags/vn/</link>
+        <link>http://localhost:1313/~yayoi/tags/vn/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/vn/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/vn/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -400,11 +400,11 @@
       
       <item>
         <title>Anime</title>
-        <link>https://onigirionegai.info/~yayoi/tags/anime/</link>
+        <link>http://localhost:1313/~yayoi/tags/anime/</link>
         <pubDate>Thu, 08 Feb 2024 18:15:42 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/anime/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/anime/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -418,11 +418,11 @@
       
       <item>
         <title>Adventures</title>
-        <link>https://onigirionegai.info/~yayoi/tags/adventures/</link>
+        <link>http://localhost:1313/~yayoi/tags/adventures/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/adventures/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/adventures/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -436,11 +436,11 @@
       
       <item>
         <title>D&amp;D</title>
-        <link>https://onigirionegai.info/~yayoi/tags/dd/</link>
+        <link>http://localhost:1313/~yayoi/tags/dd/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/dd/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/dd/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -454,11 +454,11 @@
       
       <item>
         <title>Keyrie</title>
-        <link>https://onigirionegai.info/~yayoi/tags/keyrie/</link>
+        <link>http://localhost:1313/~yayoi/tags/keyrie/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/keyrie/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/keyrie/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -472,11 +472,11 @@
       
       <item>
         <title>Stories</title>
-        <link>https://onigirionegai.info/~yayoi/tags/stories/</link>
+        <link>http://localhost:1313/~yayoi/tags/stories/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/stories/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/stories/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -490,11 +490,11 @@
       
       <item>
         <title>Guides</title>
-        <link>https://onigirionegai.info/~yayoi/tags/guides/</link>
+        <link>http://localhost:1313/~yayoi/tags/guides/</link>
         <pubDate>Wed, 10 Jan 2024 15:29:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/guides/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/guides/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -508,11 +508,11 @@
       
       <item>
         <title>Cute</title>
-        <link>https://onigirionegai.info/~yayoi/tags/cute/</link>
+        <link>http://localhost:1313/~yayoi/tags/cute/</link>
         <pubDate>Wed, 03 Jan 2024 15:58:39 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/cute/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/cute/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -526,11 +526,11 @@
       
       <item>
         <title>Holiday</title>
-        <link>https://onigirionegai.info/~yayoi/tags/holiday/</link>
+        <link>http://localhost:1313/~yayoi/tags/holiday/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/holiday/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/holiday/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -544,11 +544,11 @@
       
       <item>
         <title>Reviews</title>
-        <link>https://onigirionegai.info/~yayoi/tags/reviews/</link>
+        <link>http://localhost:1313/~yayoi/tags/reviews/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/reviews/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/reviews/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -562,11 +562,11 @@
       
       <item>
         <title>Adventure</title>
-        <link>https://onigirionegai.info/~yayoi/tags/adventure/</link>
+        <link>http://localhost:1313/~yayoi/tags/adventure/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/adventure/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/adventure/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -580,11 +580,11 @@
       
       <item>
         <title>Allana</title>
-        <link>https://onigirionegai.info/~yayoi/tags/allana/</link>
+        <link>http://localhost:1313/~yayoi/tags/allana/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/allana/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/allana/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -598,11 +598,11 @@
       
       <item>
         <title>Momo</title>
-        <link>https://onigirionegai.info/~yayoi/tags/momo/</link>
+        <link>http://localhost:1313/~yayoi/tags/momo/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/momo/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/momo/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -616,11 +616,11 @@
       
       <item>
         <title>Original</title>
-        <link>https://onigirionegai.info/~yayoi/tags/original/</link>
+        <link>http://localhost:1313/~yayoi/tags/original/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/original/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/original/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -634,11 +634,11 @@
       
       <item>
         <title>Rebase</title>
-        <link>https://onigirionegai.info/~yayoi/tags/rebase/</link>
+        <link>http://localhost:1313/~yayoi/tags/rebase/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/rebase/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/rebase/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -652,11 +652,11 @@
       
       <item>
         <title>Tabitha</title>
-        <link>https://onigirionegai.info/~yayoi/tags/tabitha/</link>
+        <link>http://localhost:1313/~yayoi/tags/tabitha/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/tabitha/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/tabitha/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -670,11 +670,11 @@
       
       <item>
         <title>Christmas</title>
-        <link>https://onigirionegai.info/~yayoi/tags/christmas/</link>
+        <link>http://localhost:1313/~yayoi/tags/christmas/</link>
         <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/christmas/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/christmas/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -688,11 +688,11 @@
       
       <item>
         <title>Work</title>
-        <link>https://onigirionegai.info/~yayoi/tags/work/</link>
+        <link>http://localhost:1313/~yayoi/tags/work/</link>
         <pubDate>Wed, 20 Dec 2023 18:37:02 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/work/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/work/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -706,11 +706,11 @@
       
       <item>
         <title>School</title>
-        <link>https://onigirionegai.info/~yayoi/tags/school/</link>
+        <link>http://localhost:1313/~yayoi/tags/school/</link>
         <pubDate>Thu, 14 Dec 2023 19:08:33 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/school/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/school/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -724,11 +724,11 @@
       
       <item>
         <title>Nagisa</title>
-        <link>https://onigirionegai.info/~yayoi/tags/nagisa/</link>
+        <link>http://localhost:1313/~yayoi/tags/nagisa/</link>
         <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/nagisa/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/nagisa/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -742,11 +742,11 @@
       
       <item>
         <title>Commissions</title>
-        <link>https://onigirionegai.info/~yayoi/tags/commissions/</link>
+        <link>http://localhost:1313/~yayoi/tags/commissions/</link>
         <pubDate>Wed, 22 Nov 2023 14:19:17 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/commissions/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/commissions/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -760,11 +760,11 @@
       
       <item>
         <title>Me</title>
-        <link>https://onigirionegai.info/~yayoi/tags/me/</link>
+        <link>http://localhost:1313/~yayoi/tags/me/</link>
         <pubDate>Thu, 31 Aug 2023 15:41:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/me/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/me/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -778,11 +778,11 @@
       
       <item>
         <title>About</title>
-        <link>https://onigirionegai.info/~yayoi/tags/about/</link>
+        <link>http://localhost:1313/~yayoi/tags/about/</link>
         <pubDate>Thu, 31 Aug 2023 15:20:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/about/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/about/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -796,11 +796,11 @@
       
       <item>
         <title>Announcement</title>
-        <link>https://onigirionegai.info/~yayoi/tags/announcement/</link>
+        <link>http://localhost:1313/~yayoi/tags/announcement/</link>
         <pubDate>Thu, 24 Aug 2023 15:00:57 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/announcement/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/announcement/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -814,11 +814,11 @@
       
       <item>
         <title>Exploration</title>
-        <link>https://onigirionegai.info/~yayoi/tags/exploration/</link>
+        <link>http://localhost:1313/~yayoi/tags/exploration/</link>
         <pubDate>Wed, 23 Aug 2023 16:31:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/exploration/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/exploration/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -832,11 +832,11 @@
       
       <item>
         <title>Sci-Fi</title>
-        <link>https://onigirionegai.info/~yayoi/tags/sci-fi/</link>
+        <link>http://localhost:1313/~yayoi/tags/sci-fi/</link>
         <pubDate>Wed, 23 Aug 2023 16:31:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/sci-fi/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/sci-fi/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -850,11 +850,11 @@
       
       <item>
         <title>Friends</title>
-        <link>https://onigirionegai.info/~yayoi/tags/friends/</link>
+        <link>http://localhost:1313/~yayoi/tags/friends/</link>
         <pubDate>Thu, 17 Aug 2023 18:40:58 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/friends/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/friends/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -868,11 +868,11 @@
       
       <item>
         <title>Cat</title>
-        <link>https://onigirionegai.info/~yayoi/tags/cat/</link>
+        <link>http://localhost:1313/~yayoi/tags/cat/</link>
         <pubDate>Wed, 09 Aug 2023 18:54:41 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/cat/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/cat/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -886,11 +886,11 @@
       
       <item>
         <title>_Egg</title>
-        <link>https://onigirionegai.info/~yayoi/tags/_egg/</link>
+        <link>http://localhost:1313/~yayoi/tags/_egg/</link>
         <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/_egg/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/_egg/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -904,11 +904,11 @@
       
       <item>
         <title>Friend</title>
-        <link>https://onigirionegai.info/~yayoi/tags/friend/</link>
+        <link>http://localhost:1313/~yayoi/tags/friend/</link>
         <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/friend/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/friend/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -922,11 +922,11 @@
       
       <item>
         <title>Story</title>
-        <link>https://onigirionegai.info/~yayoi/tags/story/</link>
+        <link>http://localhost:1313/~yayoi/tags/story/</link>
         <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/story/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/story/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -940,11 +940,11 @@
       
       <item>
         <title>Forum</title>
-        <link>https://onigirionegai.info/~yayoi/tags/forum/</link>
+        <link>http://localhost:1313/~yayoi/tags/forum/</link>
         <pubDate>Tue, 25 Jul 2023 15:48:36 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/forum/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/forum/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -958,11 +958,11 @@
       
       <item>
         <title>Computers</title>
-        <link>https://onigirionegai.info/~yayoi/tags/computers/</link>
+        <link>http://localhost:1313/~yayoi/tags/computers/</link>
         <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/computers/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/computers/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -976,11 +976,11 @@
       
       <item>
         <title>Desktop</title>
-        <link>https://onigirionegai.info/~yayoi/tags/desktop/</link>
+        <link>http://localhost:1313/~yayoi/tags/desktop/</link>
         <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/desktop/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/desktop/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -994,11 +994,11 @@
       
       <item>
         <title>Fun</title>
-        <link>https://onigirionegai.info/~yayoi/tags/fun/</link>
+        <link>http://localhost:1313/~yayoi/tags/fun/</link>
         <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/fun/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/fun/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1012,11 +1012,11 @@
       
       <item>
         <title>Wallpaper</title>
-        <link>https://onigirionegai.info/~yayoi/tags/wallpaper/</link>
+        <link>http://localhost:1313/~yayoi/tags/wallpaper/</link>
         <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/wallpaper/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/wallpaper/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1030,11 +1030,11 @@
       
       <item>
         <title>Mia</title>
-        <link>https://onigirionegai.info/~yayoi/tags/mia/</link>
+        <link>http://localhost:1313/~yayoi/tags/mia/</link>
         <pubDate>Sun, 12 Mar 2023 20:15:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/mia/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/mia/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1048,11 +1048,11 @@
       
       <item>
         <title>Survival</title>
-        <link>https://onigirionegai.info/~yayoi/tags/survival/</link>
+        <link>http://localhost:1313/~yayoi/tags/survival/</link>
         <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/survival/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/survival/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1066,11 +1066,11 @@
       
       <item>
         <title>Tips</title>
-        <link>https://onigirionegai.info/~yayoi/tags/tips/</link>
+        <link>http://localhost:1313/~yayoi/tags/tips/</link>
         <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/tips/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/tips/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1084,11 +1084,11 @@
       
       <item>
         <title>Ffxiv</title>
-        <link>https://onigirionegai.info/~yayoi/tags/ffxiv/</link>
+        <link>http://localhost:1313/~yayoi/tags/ffxiv/</link>
         <pubDate>Sat, 21 Jan 2023 21:53:33 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/ffxiv/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/ffxiv/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1102,11 +1102,11 @@
       
       <item>
         <title>Fiesta</title>
-        <link>https://onigirionegai.info/~yayoi/tags/fiesta/</link>
+        <link>http://localhost:1313/~yayoi/tags/fiesta/</link>
         <pubDate>Sat, 17 Dec 2022 20:45:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/fiesta/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/fiesta/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1120,11 +1120,11 @@
       
       <item>
         <title>Quests</title>
-        <link>https://onigirionegai.info/~yayoi/tags/quests/</link>
+        <link>http://localhost:1313/~yayoi/tags/quests/</link>
         <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/quests/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/quests/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1138,11 +1138,11 @@
       
       <item>
         <title>Skills</title>
-        <link>https://onigirionegai.info/~yayoi/tags/skills/</link>
+        <link>http://localhost:1313/~yayoi/tags/skills/</link>
         <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/skills/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/skills/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1156,11 +1156,11 @@
       
       <item>
         <title>Wip</title>
-        <link>https://onigirionegai.info/~yayoi/tags/wip/</link>
+        <link>http://localhost:1313/~yayoi/tags/wip/</link>
         <pubDate>Thu, 08 Dec 2022 21:08:03 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/wip/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/wip/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1174,11 +1174,11 @@
       
       <item>
         <title>Leveling</title>
-        <link>https://onigirionegai.info/~yayoi/tags/leveling/</link>
+        <link>http://localhost:1313/~yayoi/tags/leveling/</link>
         <pubDate>Thu, 08 Dec 2022 21:06:30 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/leveling/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/leveling/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1192,11 +1192,11 @@
       
       <item>
         <title>Help</title>
-        <link>https://onigirionegai.info/~yayoi/tags/help/</link>
+        <link>http://localhost:1313/~yayoi/tags/help/</link>
         <pubDate>Sat, 15 Oct 2022 15:38:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/help/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/help/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1210,11 +1210,11 @@
       
       <item>
         <title>Gear</title>
-        <link>https://onigirionegai.info/~yayoi/tags/gear/</link>
+        <link>http://localhost:1313/~yayoi/tags/gear/</link>
         <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/gear/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/gear/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1228,11 +1228,11 @@
       
       <item>
         <title>Weapons</title>
-        <link>https://onigirionegai.info/~yayoi/tags/weapons/</link>
+        <link>http://localhost:1313/~yayoi/tags/weapons/</link>
         <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>https://onigirionegai.info/~yayoi/tags/weapons/</guid>
+        <guid>http://localhost:1313/~yayoi/tags/weapons/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
