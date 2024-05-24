@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on やよいのWORLD</title>
-    <link>http://localhost:1313/~yayoi/jp/tags/</link>
+    <link>https://onigirionegai.info/~yayoi/jp/tags/</link>
     <description>Recent content in Tags on やよいのWORLD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 21:44:28 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/jp/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/jp/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>About</title>
-        <link>http://localhost:1313/~yayoi/jp/tags/about/</link>
+        <link>https://onigirionegai.info/~yayoi/jp/tags/about/</link>
         <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
-        <guid>http://localhost:1313/~yayoi/jp/tags/about/</guid>
+        <guid>https://onigirionegai.info/~yayoi/jp/tags/about/</guid>
         <description></description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
