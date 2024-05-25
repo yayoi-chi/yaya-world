@@ -2,7 +2,7 @@
 #+DATE: 2024-05-23T15:33:27-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream news recap
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY: Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week's recap, were a total of three game streams including a suprise stream testing Persona 3 Reload!
