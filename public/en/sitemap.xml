@@ -66,11 +66,33 @@
     <loc>https://onigirionegai.info/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
+    <lastmod>2024-05-23T15:33:27-07:00</lastmod>
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
+    <lastmod>2024-05-23T15:33:27-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
+    <lastmod>2024-05-23T15:33:27-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
     <lastmod>2024-05-23T15:33:27-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</loc>
     <lastmod>2024-05-23T15:33:27-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
+    <lastmod>2024-05-23T15:33:27-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://onigirionegai.info/~yayoi/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onigirionegai.info/~yayoi/tags/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
     <lastmod>2024-05-23T15:33:27-07:00</lastmod>
@@ -85,33 +107,11 @@
                 href="https://onigirionegai.info/~yayoi/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2024-05-17T19:14:27-07:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/site/</loc>
     <lastmod>2024-05-17T19:14:27-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2024-05-17T19:14:27-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://onigirionegai.info/~yayoi/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://onigirionegai.info/~yayoi/tags/"
-                />
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</loc>
     <lastmod>2024-05-17T19:14:27-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
-    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
-    <lastmod>2024-05-15T14:49:00-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</loc>
     <lastmod>2024-05-15T14:49:00-07:00</lastmod>
