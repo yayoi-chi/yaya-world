@@ -1,0 +1,54 @@
+#+TITLE: Stream Recap: Week 3
+#+DATE: 2024-05-30T15:45:53-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: recap news stream
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I've begun to ramp up my stream schedule just a bit so there are some were a few more streams this week than there had been in the last two weeks. As I mentioned, though, last week had two art streams, but I'll be putting the second one as the first for this week. Hope that's not too confusing. We also had a few game streams including my first throwback thursday!
+
+* Art Streams
+Yep there are two here. Because of the timing of the last art stream last week it wasn't available for that recap. I've added it below. Basically I finished my the design for my vTuber and her default outfit. This week, I also cut the design into parts to make live animation easier. I don't have a timelaps of that one, but it is available for a limited time on my [[https://www.twitch.tv/yayoi_chi][Twitch Channel]] in full.
+
+I also plan on stitching the three parts of my design timelapses into one video. Don't worry the individual parts will still be accessible here. I'll post the full video next week!
+
+** Part 2
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_ZWMNirhJY?si=zln4wcb9LDdNChtq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** Part 3
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4K7PLkcr7c?si=VNFiECxTSdVtisD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Game Streams
+** Hello Kitty Island Adventure
+I had some technical difficulties last Saturday and was not able to play The Sims 4 as planned. I did a stream, it was Hello Kitty Island Adventure, but I also had some issues during the stream and I ended up with two parts. I've decided to keep the videos for this stream private for now, so I won't be embedding them here. I just wanted to let you know what happened on Saturday and why there are no videos for The Sims 4 in case you were following my schedule.
+** Chrono Trigger
+I started playing Chrono Trigger for the SNES as a tribute to Throwback Thursdays. This was my first time playing the game and I may have spent like 40 minutes trying to figure out where I needed to go when the answer was actually right there. Anyway you can see me bumble through the game right here!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f445OdUvrEE?si=hY9CvLxhRz290CCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** Hollow Knight
+Still making my way through Hollownest. I'm both surprised by how well I'm doing a platforming and how poorly I'm doing figuring out where to go and fighting the bosses. I ended on one particularly difficult boss that just spawns to many things too quickly. Hopefully I'll get past in on the next play session. Which was not this week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Xb-XwGwa3s?si=rzgNVvNbuke9lU_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/3 - 6/9
+[[/~yayoi/images/Yayoi_Chi3Jun.png]]
+
+| Day of the Week | What's Streaming                                        | At What Time |
+|-----------------+---------------------------------------------------------+--------------|
+| Monday          | Rigging my vTuber Pt. 1                                 | 3 PM PT      |
+| Tuesday         | I can't stay off the island (Hello Kitty Island Adventure)     | 6 PM PT      |
+| Wednesday       | New Game (Fantasian)                                    | 6 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)               | 6 PM PT      |
+| Friday          | That's enough time away from Hollownest (Hollow Knight) | 12 PM PT     |
+| Saturday        | Sim Saturday: More of Yayoi Chi's life (The Sims 4) | 12 PM PT     |
+| Sunday          |                                                         | Offline      |
+
+Looking at a fairly busy week next week. In fact, I'm trying a stream everyday except Sunday to see how that goes. I'm also returning to Hellow Kitty and Hollow Knight next wee and trying a new game called Fantasian. Hope to see you all [[https://www.twitch.tv/yayoi_chi][there]]!
