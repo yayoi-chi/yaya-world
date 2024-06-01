@@ -66,10 +66,26 @@
     <loc>http://localhost:1313/~yayoi/commissions/</loc>
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
-    <lastmod>2024-05-30T15:45:53-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/news/2024/new-template/</loc>
+    <lastmod>2024-05-31T19:11:04-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/</loc>
+    <lastmod>2024-05-31T19:11:04-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/</loc>
+    <lastmod>2024-05-31T19:11:04-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/~yayoi/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/~yayoi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/tags/news/</loc>
     <lastmod>2024-05-30T15:45:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/recap/</loc>
@@ -92,19 +108,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/~yayoi/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/~yayoi/</loc>
-    <lastmod>2024-05-30T15:45:53-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/~yayoi/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/~yayoi/"
                 />
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-2/</loc>

@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 30 May 2024 15:45:53 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 19:11:04 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -682,6 +682,24 @@ How best to exploit repeatable from level 81-120, according to Yayoi Again, ther
               <category>about</category>
             
           
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>New Template</title>
+        <link>http://localhost:1313/~yayoi/news/2024/new-template/</link>
+        <pubDate>Fri, 31 May 2024 19:11:04 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Fri, 31 May 2024 19:11:04 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/new-template/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
         
         
         
@@ -2935,30 +2953,6 @@ The Lucky House is a place where you can exchange in-game gems, gold, etc for co
           
             
               <category>quests</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Builds</title>
-        <link>http://localhost:1313/~yayoi/guides/fiesta/builds/</link>
-        <pubDate>Sun, 09 Oct 2022 20:43:55 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Oct 2022 20:43:55 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/fiesta/builds/</guid>
-        <description>We go over some builds like All SPR, all STR, and more with their pros, cons, and best classes</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
             
           
         
