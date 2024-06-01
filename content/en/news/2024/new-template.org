@@ -7,7 +7,7 @@
 #+SLUG:
 #+SUMMARY:
 
-As I work on various art assets, like stream overlays, frames, cards, and my vTubing model, I have settled on a kind of brand for myself that revolves around a few colors. While I /love/ this site, its design, and the various color schemes available for it, I wonder if it will serve this kind of "brand" that I am building for myself on Twitch. I'm thinking it would be best to make this site an extension of the brand.
+As I work on various art assets, like stream overlays, frames, cards, and my vTubing model, I have settled on a kind of brand for myself that revolves around a few colors. While I /love/ this site, its design, and the various color schemes available for it, I wonder if it will serve this kind of "brand" that I am building for myself on [[https://www.twitch.tv/yayoi_chi][Twitch]]. I'm thinking it would be best to make this site an extension of the brand.
 
 * The Brand
 I don't know if it happened by accident or if I meant for it to happen unconsciously but I think I have kind of built a brand for myself. All you have to do is look at my overlays and frames that all have a kind of color pallet and it is different from what I currently have on this website. Take a look at these colors.
