@@ -2,7 +2,29 @@
 #+DATE: 2024-05-31T19:11:04-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: site news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+As I work on various art assets, like stream overlays, frames, cards, and my vTubing model, I have settled on a kind of brand for myself that revolves around a few colors. While I /love/ this site, its design, and the various color schemes available for it, I wonder if it will serve this kind of "brand" that I am building for myself on Twitch. I'm thinking it would be best to make this site an extension of the brand.
+
+* The Brand
+I don't know if it happened by accident or if I meant for it to happen unconsciously but I think I have kind of built a brand for myself. All you have to do is look at my overlays and frames that all have a kind of color pallet and it is different from what I currently have on this website. Take a look at these colors.
+#+begin_export html
+<table>
+<tr style="height:150px;background:#000;color:#EAEAEA;align:center">
+<td style="width:150px;background:#513172">Background</td><td style="width:150px;background:#D4A8F4;color:#000">Highlight 1</td><td style="width:150px;background:#93D799;color:#000">Highlight 2</td><td style="width:150px;background:#EAEAEA;color:#000">Foreground</td>
+</tr>
+</table>
+#+end_export
+
+This is essentially the pallet that I'm talking about and it kind of fits with this site in that there are two different colored headings plus the background and foreground colors. One of the highlights can even be used for link colors.
+
+* The Other Problem
+But I have another problem other than the current colors not matching. the template I'm using is no longer being maintained and updated. I've done my best to patch it so it works with the current version of Hugo, but I'm not sure how long I can keep doing that 😅 I've worked with like HTML and CSS and even a little PHP, but nothing like this. What worries me is that I won't be able to keep up with this long term unless I either learn Hugo's template system or find a new template.
+
+Here's the thing though, if I learn the template system, why bother maintaining this one? I mean wouldn't it make since to make my own template? I could make everything work, look, and act how I want it and maybe even come up with a site that really fits the brand I'm building on Twitch, more than just the colors, but also the rounded boxes with titlebars and other elements that I've put on the images I've made.
+
+* The Question
+This leads to the question. Should I just learn the template system and spend some time making my own template that really fits my brand, or should I just find another template and hope it will stay supported and that it works okay and lets me use the colors that fit my brand? I honestly don't know. I'm not even sure which would be easier. I mean if I can find a template that works and lets me use my colors and that is going to be maintained then I guess that would be easiest, even if it /might/ take a while to find. The thing is though, I don't know if I'll find one that meets all of that. So maybe I should make my own. I guess all I'm saying is, don't be surprised if things change quite a lot 😝
