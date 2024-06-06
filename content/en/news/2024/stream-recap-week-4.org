@@ -5,4 +5,46 @@
 #+TAGS[]: stream news recap
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: Busy week is just about over! My first week streaming almost every day is almost over! I'm not sure I'm going to do another week like this, it was a lot, but I now I can do it!
+
+* Art Stream
+I only did one art stream this week, most of my time was spent playing games. This stream is the start of the next phase in creating my vTubing model, the rigging phase! If you'd like to see the entire design phase you can watch it now on [[https://youtu.be/NokeIZxKqsg][YouTube]]. As for the rigging phase, I really just got started creating and editing the meshes. I only just barely started working on a winking/blinking animation. I plan on finishing most of the basic movements next week with this model, though I've already finished a second take.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkFpcMEOaTY?si=VHvzj-XyDs331dh_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Game Streams
+This is a lot and I probably should not embed all four of them, but I don't see why not, at least the one time. Hopefully I won't do this many streams in a week again, if I do, probably not embeds 😅
+** Persona 3 Reload
+Mostly a kind of boring stream of just going through some more of the story. We did manage to do a bit of Tartarus and unlocked a new party-member and the Monad doors, so not /entirely/ boring. I still had fun playing at least!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vmekf_X8Yz4?si=rDTNzA5rqzRJhduf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** The Sims 4
+Not much interesting happened here other that the fact that I was a little late getting started (something that would happen again later in the week) because The Sims wouldn't start right away after an update. Did get it up and Smol aged up to a toddler! Fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fA2Seg8W154?si=mnshbLdwbo8JPpim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hello Kitty Island Adventure
+Yeah, just couldn't stay away from the island! I was also a little late getting started here, but this was because of controller issues. I never solved them in this stream and ended up doing the whole stream with the keyboard, but I made it work. Not sure I made any real progress. Spent too much time looking for sticks and a tophat goutama, but that's life right 😝
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MgVD-v6bqJ0?si=px017q6a2002X61f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** FANTASIAN
+This is a game a kept starting but never getting very far in. Hopefully playing it on stream will help. I played for almost three hours and I think I'm still just about where I usually stop though. Oh well, I'll just need to schedule another session 😉
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4uOcjFCF-s?si=OSwBBQ3KNq3jf4m2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/10 - 6/16
+[[/~yayoi/images/Yayoi_Chi10Jun.png]]
+
+| Day of the Week | What's Streaming                                           | At What Time |
+|-----------------+------------------------------------------------------------+--------------|
+| Monday          | Rigging my vTuber Pt. 2                                    | 3 PM PT      |
+| Tuesday         | Motion preview and chat, maybe a random game               | 7 PM PT      |
+| Wednesday       | Further decent into madness, er Hollownest (Hollow Knight) | 6 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)                  | 6 PM PT      |
+| Friday          | Can we talk about Personas again? (Persona 3 Reload)       | 12 PM PT     |
+| Saturday        |                                                            | Offline |
+| Sunday          |                                                            | Offline      |
