@@ -14,7 +14,7 @@ I only did one art stream this week, most of my time was spent playing games. Th
 #+end_export
 
 * Game Streams
-This is a lot and I probably should not embed all four of them, but I don't see why not, at least the one time. Hopefully I won't do this many streams in a week again, if I do, probably not embeds 😅
+This is a lot and I probably should not embed all four of them, but I don't see why not, at least this one time. Hopefully I won't do this many streams in a week again, if I do, probably not doing embeds 😅
 ** Persona 3 Reload
 Mostly a kind of boring stream of just going through some more of the story. We did manage to do a bit of Tartarus and unlocked a new party-member and the Monad doors, so not /entirely/ boring. I still had fun playing at least!
 #+begin_export html
