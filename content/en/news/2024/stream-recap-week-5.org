@@ -1,0 +1,40 @@
+#+TITLE: Stream Recap: Week 5
+#+DATE: 2024-06-13T16:08:55-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream news recap
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I streamed all seven days this week...I don't think I'm going to do that again 😅
+
+* Art Stream
+As with last week, there was only one art stream. This will be the norm for most weeks from now on. Though I may do guerrilla art streams in the future, I will probably stick to only having one /scheduled/. For this week, I finished up the basic rigging on my model so I could debut her with some very basic movements.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fbQQwJcYekc?si=xW-OUfCDnCjlKWNK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Game Streams
+Even more games streams then last week so no embeds on this page. Please visit my [[http://www.youtube.com/channel/UCawDd2ITxhS4DinK-fvkziw][channel page on YouTube]] to get a preview of all that happened. The videos themselves will be *linked* under the descriptions!
+** [[https://youtu.be/7wja5AsZweo][Chrono Trigger]]
+Wouldn't you know it, I got lost again 😅 Fortunately, I new viewer really helped point me in the right direction and I made some really good progress going back and forth through time. All the time travel gives me a headache, but at least the story seems interesting so far. I'll definitely still be playing this....maybe for a bit too long 😅
+** [[https://youtu.be/fA2Seg8W154][The Sims 4]]
+Didn't make quite as much progress as I wanted to. I think I only complete like one aspiration task, but Smol is now a child! That's something right. Also, The Sims 4 breaks a *lot* just had to remind everyone 😅
+** [[https://youtu.be/yaJs9UQ8QM4][Guerrilla Stream: Pokémon Sword]]
+After playing The Sims 4 for a bit too long, I wanted to stream something else, but Pokémon didn't load for me. Turns out, I had a corrupt SD card. Fortunately, I got it installed on the local storage and was able to stream it a day later! This also wouldn't be the only stream of it in the week!
+** [[https://youtu.be/pTB4V-PpxU0][Special Event: Shizumi Yayoi's Pre-Debut!]]
+With the basic rigging done, I set out to show off my model! There were some glitches, and still are, but I have them fixed in the next model! This would have been just a quick 30 minute stream...if I didn't decide to also play some more Pokémon, which I did 😝
+** [[https://youtu.be/MN_5ZNwqjeM][Hollow Knight]]
+I feel like this was the most unproductive Hollow Knight stream ever. Don't get me wrong I did get the super dash, which is my favorite ability, but then I just kind of wondered through Hollownest. I'm not sure where I want to go next, but I'll give it some thought and maybe have a direction to go next week!
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/17 - 6/23
+[[/~yayoi/images/Yayoi_Chi17Jun.png]]
+
+| Day of the Week | What's Streaming                                     | At What Time |
+|-----------------+------------------------------------------------------+--------------|
+| Monday          | Channel Assets!                                      | 12 PM PT     |
+| Tuesday         | Will our memory every return!? (FANTASIAN)           | 12 PM PT     |
+| Wednesday       | Wut teh heck is up with Hollownest (Hollow Knight)   | 3 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)            | 3 PM PT      |
+| Friday          | Are we done talking about your Persona? (Persona 3 Reload) | 12 PM PT     |
+| Saturday        |                                                      | Offline      |
+| Sunday          |                                                      | Offline      |

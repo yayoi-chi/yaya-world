@@ -10,7 +10,7 @@
 * Art Stream
 I only did one art stream this week, most of my time was spent playing games. This stream is the start of the next phase in creating my vTubing model, the rigging phase! If you'd like to see the entire design phase you can watch it now on [[https://youtu.be/NokeIZxKqsg][YouTube]]. As for the rigging phase, I really just got started creating and editing the meshes. I only just barely started working on a winking/blinking animation. I plan on finishing most of the basic movements next week with this model, though I've already finished a second take.
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qkFpcMEOaTY?si=VHvzj-XyDs331dh_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kwGQH28Y8gM?si=QzNjwm3DnF5WEj-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 
 * Game Streams
