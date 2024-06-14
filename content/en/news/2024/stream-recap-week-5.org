@@ -14,7 +14,7 @@ As with last week, there was only one art stream. This will be the norm for most
 #+end_export
 
 * Game Streams
-Even more games streams then last week so no embeds on this page. Please visit my [[http://www.youtube.com/channel/UCawDd2ITxhS4DinK-fvkziw][channel page on YouTube]] to get a preview of all that happened. The videos themselves will be *linked* under the descriptions!
+Even more games streams then last week so no embeds on this page. Please visit my [[http://www.youtube.com/channel/UCawDd2ITxhS4DinK-fvkziw][channel page on YouTube]] to get a preview of all that happened. The videos themselves are linked in the headings.
 ** [[https://youtu.be/7wja5AsZweo][Chrono Trigger]]
 Wouldn't you know it, I got lost again 😅 Fortunately, I new viewer really helped point me in the right direction and I made some really good progress going back and forth through time. All the time travel gives me a headache, but at least the story seems interesting so far. I'll definitely still be playing this....maybe for a bit too long 😅
 ** [[https://youtu.be/fA2Seg8W154][The Sims 4]]
@@ -29,12 +29,12 @@ I feel like this was the most unproductive Hollow Knight stream ever. Don't get 
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/17 - 6/23
 [[/~yayoi/images/Yayoi_Chi17Jun.png]]
 
-| Day of the Week | What's Streaming                                     | At What Time |
-|-----------------+------------------------------------------------------+--------------|
-| Monday          | Channel Assets!                                      | 12 PM PT     |
-| Tuesday         | Will our memory every return!? (FANTASIAN)           | 12 PM PT     |
-| Wednesday       | Wut teh heck is up with Hollownest (Hollow Knight)   | 3 PM PT      |
-| Thursday        | Throwback Thursday! Chrono Trigger (SNES)            | 3 PM PT      |
+| Day of the Week | What's Streaming                                           | At What Time |
+|-----------------+------------------------------------------------------------+--------------|
+| Monday          | Channel Assets!                                            | 12 PM PT     |
+| Tuesday         | Will our memory every return!? (FANTASIAN)                 | 12 PM PT     |
+| Wednesday       | Wut teh heck is up with Hollownest (Hollow Knight)         | 3 PM PT      |
+| Thursday        | Throwback Thursday! Chrono Trigger (SNES)                  | 3 PM PT      |
 | Friday          | Are we done talking about your Persona? (Persona 3 Reload) | 12 PM PT     |
-| Saturday        |                                                      | Offline      |
-| Sunday          |                                                      | Offline      |
+| Saturday        |                                                            | Offline      |
+| Sunday          |                                                            | Offline      |
