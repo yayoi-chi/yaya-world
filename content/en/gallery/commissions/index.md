@@ -24,4 +24,4 @@ images: # when mode is one-by-one, images front matter works
     caption: This is a "Stream Starting Soon Card". My client uses it before the stream starts.
 ---
 
-I do commissions! For more information on commissioning me, you can check out the page [about commissions]({{% ref "/commissions.org" %}}). Please note that I only showcase commissions that he original client has given me permission to showcase!
+I do commissions! For more information on commissioning me, you can check out the page [about commissions]({{% ref "/commissions.org" %}}). Please note that I only showcase commissions that the original client has given me permission to showcase!
