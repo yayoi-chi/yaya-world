@@ -42,4 +42,4 @@ images: # when mode is one-by-one, images front matter works
     caption: My Very Own Stream Frame
 ---
 
-I draw too! That's right I don't just play games, but I also like to draw. I will even stream my art, you can check out my past art streams on [YouTube](https://www.youtube.com/watch?v=ayRYUYXwDfA&list=PLkFe_D6-Ml98xWkSINAfE8FWSVrdK2iIg&pp=gAQBiAQB). I try to do at least one art stream a week, so please check it out, and check out my finished works below!
+I draw too! That's right I don't just play games, but I also like to draw. I will even stream my art, you can check out my past art streams on [YouTube](https://www.youtube.com/playlist?list=PLkFe_D6-Ml98xWkSINAfE8FWSVrdK2iIg). I try to do at least one art stream a week, so please check it out, and check out my finished works below!
