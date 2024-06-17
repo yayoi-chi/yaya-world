@@ -34,4 +34,4 @@ images: # when mode is one-by-one, images front matter works
     caption: Sooo much red in one spot!
 ---
 
-This is my Wall o' ADVENTURE! Currently its a bunch of random screenshots from [Fiesta Online](http://fiesta.gamingo.com). In the future I plan on putting other screenshots from other games that don't fit with a particular theme or story here. I think I'll have more specific galleries for screenshots and peektures that have some kind of theme, but these are all I have at the moment.
+Oh boi! I'm not really sure what to do with this one. The original plan was to have screenshots of the ADVENTURES I've had in past games, but, with clips on Twitch and my [YouTube Archives](https://www.youtube.com/playlist?list=PLkFe_D6-Ml99oIIwXaAMrMayxFG7lDdSE) I'm not really sure any more. I haven't updated it in **ages** 😅 Right now its just a random set of screenshots from one MMO I used to play. Maybe it'll showcase ADVENTURES I have with kittens? I don't know yet, thanks for looking though 😅

@@ -8,4 +8,4 @@
 #+SLUG:
 #+SUMMARY: A place for me to talk about games I play and not just write guides
 
- [[{{% ref "/guides/" %}}][Guides]] are one thing, but sometimes you need to know what I think about game I play, or maybe not, but if you do want my opinion and not just a walkthrough or guide, this is the section for you. There may be games here I don't do a guide for and there may be games I do guides for that I don't do a review for. If I do have a review though it will show up below. Hope you enjoy them!
+ [[{{% ref "/guides/" %}}][Guides]] are one thing, but sometimes you need to know what I think about the games I play, or maybe not, but if you do want my opinion and not just a walkthrough or guide, this is the section for you. There may be games here I don't do a guide for and there may be games I do guides for that I don't do a review for. If I do have a review though it will show up below. Hope you enjoy them!

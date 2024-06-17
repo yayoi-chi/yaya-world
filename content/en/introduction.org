@@ -1,17 +1,21 @@
 #+TITLE: Introduction
 #+DATE: 2022-10-09T21:44:28-07:00
 #+DRAFT: false
-#+DESCRIPTION: My name is Yayoi and I love playing games. If you wanna learn more this is the page to do it!
+#+DESCRIPTION: Who is this 静海やよい (Yayoi Shizumi) person?
 #+TAGS[]: about
 #+WEIGHT: 100
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
 
-Hi hi 👋 You can call me Yayoi, all of my friends do. I am 39 years old and I live on the west coast in the USA. Just over two years ago I discovered, or rather, re-discovered the MMO Fiesta Online with friends. I was completely addicted 🤪 If I'm honest, Fiesta Online isn't exactly the best game in the world. Its grindy and it can be hard to solo, but I've made friends and just can't seem to leave them. So I'm still playing, even if I'm only slowly leveling one character 😅, and spending most of my time playing other games.
+Hewwo hewwo nyaoo nyaoo~~
 
-Over the last year, I learned that I don't really like playing Fiesta Online much. I'm still on every now and then, but I'd rather spend time on other games. However, I have also been a member of several guildes and picked up a few things from them, including some [[{{% ref guides %}}][guides]]. If you're looking for some help then check out those guides or just find me in game. I'd still be happy to help 😁
+My name is Yayoi Shizumi (静海やよい in Japanese) and I am a magical fairy cat princess from a mystical realm near the North West Passage! I was sent to this realm to protect it. Unfortunately, my travel here was far from uneventful and I am no longer able to speak. I have had to find new ways to communicate in order to fulfill my mission, and protect my kittens!
 
-Though Fiesta is the game play most consistently, I am occasionally on other games, including other MMOs. Some MMOs I like are Final Fantasy XIV, Tower of Fantasy, and Ys Online. Chances are, if you run into a character named Yayoi, YayoiChi, Yayoi Chi, or something similar than I'm playing her! MMOs aren't all I play, I also play other online games like Genshin Impact and Honkai: Star Rail, and I'm a big fan of retro games, like Sonic the Hedgehog and Super Mario Brothers, and JRPGS, my favorite of which is the Xenosaga Saga and Persona series. In fact, I love these games so much, I've added some guides from them!
+Aside from using my powers to protect my kittens I've also been charged with the task of spreading positivity and love! I do this using the very networks evil forces are trying to use to spread hate and negativity! On these networks, I play a variety of games and chat with anyone who joins, kitten or not. So please check me out! I live stream on [[https://www.twitch.tv/yayoi_chi][Twitch]] and post videos on [[https://www.youtube.com/@yayoi-chi][YouTube]]!
 
-Also, I make a pretty good friend. If you happen to be on Steam, Mastodon, or Matrix, you can add me. I put links to my profiles on the bottom of the site. You can use these and the e-mail link to get in touch with suggestions or issues with the site as well, though a prefer to hear about page specific problems in their comments, thank you!
+You can get recaps, and updates on this website, which the kind folks taking care of me in your world have made for me, but you can also get updates on [[https://mastodon.world/@yaya][Mastodon]] and my [[https://www.youtube.com/@yayoi-chi/community][YouTube Community Tab]]! I love helping and have also created some [[{{% ref guides %}}][Guides]] and [[{{% ref reviews %}}][Reviews]] of some of my favorite games for you!
+
+My mission above all is to be a great friend! So please help me out and connect with me. I might not be able to talk anymore, but I can still communicate and I love getting to know new people. Also, if you would like to become one of my kittens, I'd love to have you. Just follow me on Twitch or subscribe on YouTube!
+
+Thank you so so so much for +listening+ (reading?)! I hope I will be able to get to know you!
