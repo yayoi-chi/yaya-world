@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: A fun mixed back of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!
+#+SUMMARY: A fun mixed-bag of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!
 
 * Art Stream
 This week's art stream was supposed to be something simple to get ready for my full debut. I needed some branding, which meant a name logo and banners for YouTube and Twitch. So this stream focused on that. I would even go on to make a new profile picture for Mastodon, Twitch, and YouTube using the cute art I made for the banner!
@@ -15,7 +15,7 @@ This week's art stream was supposed to be something simple to get ready for my f
 * Game Streams
 Mostly I stuck to RPGs this week, but there was some Hollow Knight 😝
 ** Chrono Trigger
-Went all the way back to 6.5 million BC and met an interesting cave woman like character. She gave us something we needed, but we ended up losing our gate key! Guess we'll have to get it back...in the next stream!
+Went all the way back to 6.5 million BC and met an interesting cave woman-like character. She gave us something we needed, but we ended up losing our gate key! Guess we'll have to get it back...in the next stream!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UXMBu2EiEas?si=PxNfN1FTbqhQBSHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -35,7 +35,7 @@ I started this one early and decided to finish the assets I was working on in th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3uAfsx4WP0?si=oVx9PnMwdurASHU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/17 - 6/23
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/24 - 6/30
 [[/~yayoi/images/Yayoi_Chi24Jun.png]]
 
 | Day of the Week | What's Streaming                                                                     | At What Time |
