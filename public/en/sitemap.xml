@@ -67,22 +67,22 @@
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/news/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/recap/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/stream/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</loc>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/tags/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -95,7 +95,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/~yayoi/</loc>
-    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
+    <lastmod>2024-06-20T20:54:51-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -106,6 +106,9 @@
                 hreflang="en"
                 href="http://localhost:1313/~yayoi/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</loc>
+    <lastmod>2024-06-13T16:08:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/~yayoi/news/2024/stream-recap-week-4/</loc>
     <lastmod>2024-06-06T14:47:10-07:00</lastmod>
