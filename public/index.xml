@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 13 Jun 2024 16:08:55 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 20:54:51 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -681,6 +681,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: Week 6</title>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</link>
+        <pubDate>Thu, 20 Jun 2024 20:54:51 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 20 Jun 2024 20:54:51 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</guid>
+        <description>A fun mixed-bag of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -2942,38 +2974,6 @@ If any of you have visited this site before, you may have noticed a few changes.
           
             
               <category>quests</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Enhancement Guide</title>
-        <link>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</link>
-        <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</guid>
-        <description>Before we begin, it is important to understand that everything in Fiesta is divided into tiers, this includes weapons, armor, and jewlery. Since Gamingo likes to make money bundles and stones used to enhance weapons, armor, and jewlery need to match their tier. So, say you have a tier 2 bow and you want to make it +1, you will need a tier 2 elrue. A tier 5 shield will need tier 5 stones.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
-            
-          
-            
-              <category>gear</category>
-            
-          
-            
-              <category>weapons</category>
             
           
         

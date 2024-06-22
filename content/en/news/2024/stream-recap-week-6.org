@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: Week 6
+#+DATE: 2024-06-20T20:54:51-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A fun mixed-bag of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!
+
+* Art Stream
+This week's art stream was supposed to be something simple to get ready for my full debut. I needed some branding, which meant a name logo and banners for YouTube and Twitch. So this stream focused on that. I would even go on to make a new profile picture for Mastodon, Twitch, and YouTube using the cute art I made for the banner!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rxoN3k0MeI?si=nKyshW4dZaWb3x1f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Mostly I stuck to RPGs this week, but there was some Hollow Knight 😝
+** Chrono Trigger
+Went all the way back to 6.5 million BC and met an interesting cave woman-like character. She gave us something we needed, but we ended up losing our gate key! Guess we'll have to get it back...in the next stream!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UXMBu2EiEas?si=PxNfN1FTbqhQBSHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Kind of a nothing burger of a stream, if I'm honest. There was a lot of dungeon exploration and I unlocked the Monad Passage. I also fought two gatekeepers in a row! Other than that, not much happened. If you're following the story though, you might want to still see this one
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6aV2A3hj0Y?si=3uoRMgbrvU4cMZGX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** FANTASIAN
+Nope, we did not get our memory back! Well, we got part of it back, but not much. Did meet a princess. A princess that can fight and decided to join us despite our past with her...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_h1jbYVbWaA?si=1OSPuApFDYsuvRTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+I started this one early and decided to finish the assets I was working on in the art stream, but we met a very creepy dreamer! Also, kind of still a little lost and missing some powers. Hopefully I can find them so I can find the other dreamers and unlock other parts of Hollownest and solve the mystery!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3uAfsx4WP0?si=oVx9PnMwdurASHU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/24 - 6/30
+[[/~yayoi/images/Yayoi_Chi24Jun.png]]
+
+| Day of the Week | What's Streaming                                                                     | At What Time |
+|-----------------+--------------------------------------------------------------------------------------+--------------|
+| Monday          | BRB Card! Time for a break XD                                                        | 3 PM PT      |
+| Tuesday         | Hello Retsuko? (Hello Kitty Island Adventure)                                        | 2 PM PT      |
+| Wednesday       | Still trapped in Hollownest (Hollow Knight)                                          | 2 PM PT      |
+| Thursday        | Throwback Thursday! Super Mario Bros. 3 (NES)                                        | 2 PM PT      |
+| Friday          | I'm beginning to think we'll never stop talking about our Persona (Persona 3 Reload) | 1 PM PT      |
+| Saturday        |                                                                                      | Offline      |
+| Sunday          |                                                                                      | Offline      |
