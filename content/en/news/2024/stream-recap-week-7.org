@@ -8,7 +8,7 @@
 #+SUMMARY: It was finally time for a new card for OBS. After turning off my model too many times so I can take a break, I decided, I needed a BRB card 😝 I also went back to Hello Kitty Island Adventure and Persona!
 
 * Art Stream
-After turning off my vTuber model a few too many times during streams so I can drink water or take a break, I decided it was about time for a BRB card so you can still see who's stream, and I still don't have to worry about my model losing tracking! Check out the first part below! No I didn't finish 😅
+After turning off my vTuber model a few too many times during streams so I can drink water or take a break, I decided it was about time for a BRB card so you can still see who's streaming, and I still don't have to worry about my model losing tracking! Check out the first part below! No I didn't finish 😅
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZBotZTD9Ac?si=WkpABuu60M8zP4LD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -29,7 +29,7 @@ I barely even talked with my Oshi, even though she was in the title 🥺 Mostly 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoX65HyiU8A?si=NNLIyZfBUfZ9GZBf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Hollow Knight
-Lots of wondering around trying to find paths I still have access too. I did meet a new bug and got a new nail art. I also managed to find the spirit glade and my wondering through Fungal Wastes may have opened a potential direction for next stream!
+Lots of wondering around trying to find paths I still have access too. I did meet a new bug and got a new nail art. I also managed to find the Spirit Glade and my wondering through Fungal Wastes may have opened a potential direction for next stream!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySRuRbBYjVk?si=muLjhl-IeeEl3CKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
