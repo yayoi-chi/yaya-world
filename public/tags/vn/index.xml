@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Vn on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/vn/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/vn/</link>
     <description>Recent content in Vn on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 14 Mar 2024 14:56:40 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/vn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/vn/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Persona 4 Golden</title>
-        <link>http://localhost:1313/~yayoi/reviews/p4g/</link>
+        <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:56:40 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/reviews/p4g/</guid>
+        <guid>https://onigirionegai.info/~yayoi/reviews/p4g/</guid>
         <description>&amp;nbsp; Persona 4 Golden is a faithful update to a classic game with new story elements and new characters. It has a classic story with interesting characters. The protagonist is a bit generic and the graphics are a little dated, but the story and gameplay more than make up for these minor gripes. If you like a game with a lot of charm and fun, I highly recommend Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
