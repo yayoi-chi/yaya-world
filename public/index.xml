@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 20:54:51 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 11:58:16 -0700</lastBuildDate>
     
         <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -681,6 +681,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: Week 7</title>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</link>
+        <pubDate>Thu, 27 Jun 2024 11:58:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 27 Jun 2024 11:58:16 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</guid>
+        <description>It was finally time for a new card for OBS. After turning off my model too many times so I can take a break, I decided, I needed a BRB card 😝 I also went back to Hello Kitty Island Adventure and Persona!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -2942,38 +2974,6 @@ If any of you have visited this site before, you may have noticed a few changes.
           
             
               <category>friends</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>God-like Adventurers</title>
-        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/gods/</link>
-        <pubDate>Sun, 09 Oct 2022 20:59:14 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Oct 2022 20:59:14 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/gods/</guid>
-        <description>When I first wrote my last guide the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. So, here&amp;#39;s some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have not tried some of these suggestions alone.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>guide</category>
-            
-          
-            
-              <category>leveling</category>
-            
-          
-            
-              <category>quests</category>
             
           
         
