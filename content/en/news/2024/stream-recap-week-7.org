@@ -1,0 +1,48 @@
+#+TITLE: Stream Recap: Week 7
+#+DATE: 2024-06-27T11:58:16-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It was finally time for a new card for OBS. After turning off my model too many times so I can take a break, I decided, I needed a BRB card 😝 I also went back to Hello Kitty Island Adventure and Persona!
+
+* Art Stream
+After turning off my vTuber model a few too many times during streams so I can drink water or take a break, I decided it was about time for a BRB card so you can still see who's streaming, and I still don't have to worry about my model losing tracking! Check out the first part below! No I didn't finish 😅
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZBotZTD9Ac?si=WkpABuu60M8zP4LD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+** Chrono Trigger
+This stream had a lot more back and forth through time. We left 6.5 million BC and went on to 1000AD, but spent more time in the medieval ages working to defeat Magus.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F807P7_WqU0?si=T8qrOD5s-UhKgGWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Much more variety this time! Lots of time spent with friends, as well as in Tartarus. Also had a full moon operation! Did we beat the tank? Take a look!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zi307HLgnOc?si=GWecmgroVmZyaeUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hello Kitty Island Adventure
+I barely even talked with my Oshi, even though she was in the title 🥺 Mostly wondering around. I opened up the nature preserve and the haunted house and finally found my way up to Gemstone Town!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RoX65HyiU8A?si=NNLIyZfBUfZ9GZBf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Lots of wondering around trying to find paths I still have access too. I did meet a new bug and got a new nail art. I also managed to find the Spirit Glade and my wondering through Fungal Wastes may have opened a potential direction for next stream!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySRuRbBYjVk?si=muLjhl-IeeEl3CKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/1 - 7/7
+[[/~yayoi/images/Yayoi_Chi1Jul.png]]
+
+| Day of the Week | What's Streaming                              | At What Time |
+|-----------------+-----------------------------------------------+--------------|
+| Monday          | Let's Finish the BRB Card                     | 3 PM PT      |
+| Tuesday         | We might have a direction! (Hollow Knight)    | 2 PM PT      |
+| Wednesday       | We need to stop Wondering (Hollow Knight)     | 2 PM PT      |
+| Thursday        |                                               | Offline      |
+| Friday          | How many floors are there? (Persona 3 Reload) | 1 PM PT      |
+| Saturday        | Nep Nep! (Hyperdimension Neptunia Re;Birth1)  | 1 PM PT      |
+| Sunday          |                                               | Offline      |
