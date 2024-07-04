@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: Week 8
+#+DATE: 2024-07-04T10:43:33-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I've been streaming for two months and hasn't technically had a full debut o:! I do plan on fixing that...just don't know when. I just worked on finishing my BRB card this week and played some Hollow Knight...I mean LOTS of Hollow Knight 😆
+
+* Art Stream
+It took *two* streams, but I did finally finish my BRB card. The video belows shows the whole process. I did make three parts originally, but, by third part I decided to just combine them as one especially considering that two of the three parts happened in the same week.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5PpRjJpfflU?si=KWKk8WYpZoxHPHJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Art Streams
+Many a Hollow Knight strim o:! Just trying to get things done. Turns out, this is a good thing considering what I'm planning for the next three weeks. Let's just say, chu won't see much of Hollow Knight until after July 😅
+** Super Mario Bros. 3
+Just kind of wanted a break from Chrono Trigger, so I picked up a game that has a lot of nostalgia for me. I played the NES version for Nintendo Online on the Switch.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A12HSnUiUuU?si=4aq2dhhikAvAuRct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Acquired another form of Jack Frost! Also did a lot in Tartarus and some fun watermelon splitting and other story things!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9XBfY4evVc?si=bXZoewxHcT3JaE_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+In the first Hollow Knight Stream I got to Deepnest, but it was getting suuuper creepy so I stopped for a bit
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9W3WVw0zd3M?si=lZhwLwo5yuG6p7BN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+In the second stream I made my way out of Deepnest and back to the Ancient Basin for another encouter with Hornet. She's much harder now, so and I was making a lot of dum mistakes so I stopped there. We'll be a bit before I fight her again. Look at my schedule next week 😅
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4USZYjBBYsk?si=WoZDP-dXAQQ0pk-K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Kicking off a three week Final Fantasy Challenge! I'm going to try and get through all the final fantasy games...or at least see how many I can get through until Aug!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/8 - 7/14
+[[/~yayoi/images/Yayoi_Chi8Jul.png]]
+
+| Day of the Week | What's Streaming          | At What Time |
+|-----------------+---------------------------+--------------|
+| Monday          | Final Fantasy Week: Day 1 | 12 PM PT     |
+| Tuesday         | Final Fantasy Week: Day 2 | 12 PM PT     |
+| Wednesday       | Final Fantasy Week: Day 3 | 12 PM PT     |
+| Thursday        | Final Fantasy Week: Day 4 | 12 PM PT     |
+| Friday          | Final Fantasy Week: Day 5 | 12 PM PT     |
+| Saturday        |                           | Offline      |
+| Sunday          |                           | Offline      |
