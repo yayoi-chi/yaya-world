@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>やよいのWORLD</title>
-    <link>https://onigirionegai.info/~yayoi/jp/</link>
+    <link>http://localhost:1313/~yayoi/jp/</link>
     <description>Recent content on やよいのWORLD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
@@ -16,7 +16,7 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 21:56:20 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/jp/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/jp/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -43,11 +43,11 @@
       
       <item>
         <title>私について</title>
-        <link>https://onigirionegai.info/~yayoi/jp/introduction/</link>
+        <link>http://localhost:1313/~yayoi/jp/introduction/</link>
         <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:44:28 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/jp/introduction/</guid>
+        <guid>http://localhost:1313/~yayoi/jp/introduction/</guid>
         <description>こんにちは （＾ - ＾）/ 名前はやよいです。３９歳です。アメリカ出身です。日本語を勉強しています。日本人じゃないよ！FeistaNAをします。F</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
