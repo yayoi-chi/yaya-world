@@ -1,0 +1,38 @@
+#+TITLE: Final Fantasy Challenge: Week 1
+#+DATE: 2024-07-11T20:03:11-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news final_fantasy challenge
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This week begins the first of three special weeks! A fellow streamer had decided to do a final fantasy month and I decided to join in...sort of. I already did the schedule for the first week of July, so I'm only doing the last three weeks, but its still a special three weeks of Final Fantasy!
+
+* Art Stream?
+Actually I'm doing a special Final Fantasy Challenge so, for the next three weeks there will be no art streams. Instead I'll be challenging myself to completing four of the Final Fantasy games in three weeks!
+* Game Streams!
+** Persona 3 Reload
+Before kicking off the Final Fantasy Challenge I had some unfinished business to take care of in Persona 3 Reload. Mostly some monad passage stuff and another full moon operation!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EeaYw31ga0?si=Ry2pI2xWMssy5Lih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hyperdimension Neptunia Re;Birth 1
+The last game before I started the Final Fantasy challenge was a special one. I really like this series because of all the cute girls in it. The story isn't the best, but it is interesting. I just got it started and it will be awhile before I return to it, even after the challenge, but I will probably get back to it sometime.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feWCecps2ZU?si=J1z0mE45WmezlObL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** [[https://www.youtube.com/playlist?list=PLkFe_D6-Ml98b2E443npDfWKnVV_x0mmF][Final Fantasy Challenge]]
+This Monday marked the beginning of the challenge. I've linked a playlist containing all the Final Fantasy videos for you. I started with Final Fantasy III and never did finish it at least not in this first week. I met a few very difficult boss fights and ended the week trying to get the water crystal. You'll soon see that I did manage to do it, but it wasn't the last challenge I have. Keep track of the playlist for new videos!
+* Next Week
+The Final Fantasy Challenge continues for another week! Let's see if I make it to IV or even V? We'll see!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/15 - 7/21
+[[/~yayoi/images/Yayoi_Chi15Jul.png]]
+
+| Day of the Week | What's Streaming                | At What Time |
+|-----------------+---------------------------------+--------------|
+| Monday          | Final Fantasy Challenge: Day 6  | 12 PM PT     |
+| Tuesday         | Final Fantasy Challenge: Day 7  | 12 PM PT     |
+| Wednesday       | Final Fantasy Challenge: Day 8  | 12 PM PT     |
+| Thursday        | Final Fantasy Challenge: Day 9  | 12 PM PT     |
+| Friday          | Final Fantasy Challenge: Day 10 | 12 PM PT     |
+| Saturday        |                                 | Offline      |
+| Sunday          |                                 | Offline      |
