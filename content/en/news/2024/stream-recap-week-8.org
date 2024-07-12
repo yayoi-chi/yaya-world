@@ -12,7 +12,7 @@ It took *two* streams, but I did finally finish my BRB card. The video below sho
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5PpRjJpfflU?si=KWKk8WYpZoxHPHJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
-* Art Streams
+* Game Streams
 Many a Hollow Knight strim o:! Just trying to get things done. Turns out, this is a good thing considering what I'm planning for the next three weeks. Let's just say, chu won't see much of Hollow Knight until after July 😅
 ** Super Mario Bros. 3
 Just kind of wanted a break from Chrono Trigger, so I picked up a game that has a lot of nostalgia for me. I played the NES version for Nintendo Online on the Switch.

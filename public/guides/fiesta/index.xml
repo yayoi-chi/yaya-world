@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Fiesta Guides on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/guides/fiesta/</link>
+    <link>http://localhost:1313/~yayoi/guides/fiesta/</link>
     <description>Recent content in Fiesta Guides on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 20:34:13 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/guides/fiesta/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/guides/fiesta/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Special Events</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/events/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/events/</link>
         <pubDate>Sat, 29 Oct 2022 14:39:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 29 Oct 2022 14:39:45 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/events/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/events/</guid>
         <description>short guides for special events in Fiesta!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -50,11 +50,11 @@
       
       <item>
         <title>Enhancement Guide</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/enhancement/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</link>
         <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/enhancement/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</guid>
         <description>Before we begin, it is important to understand that everything in Fiesta is divided into tiers, this includes weapons, armor, and jewlery. Since Gamingo likes to make money bundles and stones used to enhance weapons, armor, and jewlery need to match their tier. So, say you have a tier 2 bow and you want to make it +1, you will need a tier 2 elrue. A tier 5 shield will need tier 5 stones.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -82,11 +82,11 @@
       
       <item>
         <title>Lucky House</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/luckyhouse/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/luckyhouse/</link>
         <pubDate>Sun, 09 Oct 2022 20:53:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:53:12 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/luckyhouse/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/luckyhouse/</guid>
         <description>The Lucky House can be entered by speaking to the Lucky House Guide in the following towns:
 Elderine Uruga Alberstroll Ruins Note: Your character must be at least level 40 to enter the Lucky House.
 The Lucky House is a place where you can exchange in-game gems, gold, etc for coins that can be used for a variety of gambling games. These games are pretty entertaining for a bit and, like all gambling, are a way to win more coins to exchange for gems.</description>
@@ -108,11 +108,11 @@ The Lucky House is a place where you can exchange in-game gems, gold, etc for co
       
       <item>
         <title>Daily Quests</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/dailies/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/dailies/</link>
         <pubDate>Sun, 09 Oct 2022 20:49:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:49:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/dailies/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/dailies/</guid>
         <description>At level 95 you can begin doing daily quests. Daily quests reset every day at 00:00 in-game time, meaning once you turn them in they are done, but you can pick em up again the next day. From levels 90-125 you can pick up quests by purchasing a mission scroll from the mission board in Elderine. Talk to Verylo (who is standing next to the board) to actually pick up the quest.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -136,11 +136,11 @@ The Lucky House is a place where you can exchange in-game gems, gold, etc for co
       
       <item>
         <title>Builds</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/builds/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/builds/</link>
         <pubDate>Sun, 09 Oct 2022 20:43:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:43:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/builds/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/builds/</guid>
         <description>We go over some builds like All SPR, all STR, and more with their pros, cons, and best classes</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -160,11 +160,11 @@ The Lucky House is a place where you can exchange in-game gems, gold, etc for co
       
       <item>
         <title>Leveling</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/</link>
         <pubDate>Sun, 09 Oct 2022 20:41:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:41:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/</guid>
         <description>Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main guide index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
