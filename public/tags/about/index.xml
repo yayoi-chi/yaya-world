@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>About on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/about/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/about/</link>
     <description>Recent content in About on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Aug 2023 15:20:40 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/about/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Introduction</title>
-        <link>http://localhost:1313/~yayoi/introduction/</link>
+        <link>https://onigirionegai.info/~yayoi/introduction/</link>
         <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:44:28 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/introduction/</guid>
+        <guid>https://onigirionegai.info/~yayoi/introduction/</guid>
         <description>Hewwo hewwo nyaoo nyaoo~~ My name is Yayoi Shizumi (静海やよい in Japanese) and I am a magical fairy cat princess from a mystical realm near the North West Passage! I was sent to this realm to protect it. Unfortunately, my travel here was far from uneventful and I am no longer able to speak. I have had to find new ways to communicate in order</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -46,11 +46,11 @@
       
       <item>
         <title>About Commissions</title>
-        <link>http://localhost:1313/~yayoi/commissions/</link>
+        <link>https://onigirionegai.info/~yayoi/commissions/</link>
         <pubDate>Thu, 31 Aug 2023 15:20:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 15:20:40 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/commissions/</guid>
+        <guid>https://onigirionegai.info/~yayoi/commissions/</guid>
         <description>Hewwo peeps and kittens!
 I want to do more than just stream games, and for that I need to show off my artistic side! Believe it or not I need your help. If you&amp;#39;d be so kind commission art from me, this would really help the family that adopted me here in your realm and is one way you can support me as well! I have everything you need to know drawn up below.</description>
         
