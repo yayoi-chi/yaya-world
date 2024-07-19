@@ -1,0 +1,30 @@
+#+TITLE: Final Fantasy Challenge: Week 2
+#+DATE: 2024-07-18T18:17:11-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news final_fantasy challenge
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: The second week of a three week Final Fantasy Special! Haven't made it passed Final Fantasy III. Had to do a lot of short streams and it is really kicking my behind. Maybe I'll finally beat the cloud of darkness tomorrow!
+
+* [[https://www.youtube.com/playlist?list=PLkFe_D6-Ml98b2E443npDfWKnVV_x0mmF][Final Fantasy 3 Week Challenge!]]
+If you were here for [[{{% ref 'final-fantasy-challenge-week-1.org' %}}][last week's]] recap then you'll know I started a Final Fantasy three week challenge. Well, this was week two! I had originally hoped to get to VII by the end of the challenge, but I have been stuck in III this whole time. Since I am playing the older 3D remake, I don't get any of the more modern boosts and helps available in the newer Pixel Remaster. Part of me likes this challenge, but the other part wishes I was on IV already!
+
+Anyway I think I'm going to have to revise the goal! Maybe I can at least start V by the end of the challenge. That'll be the new goal. No worries though, I /will/ be revisiting the realm of Final Fantasy! I'm thinking of starting the original Final Fantasy on NES for my Throwback Thursdays after we beat Chrono Trigger. Plus I still want to play VI, and many of the other games on stream so I'll definitely be playing again. Who knows, maybe there will be another crack at the challenge next year too!
+
+Anyway, hope to beat the cloud of darkness tomorrow and welcome you all in to IV! Please tune in on [[https://www.twitch.tv/yayoi_chi][Twitch]]!
+
+* Next Week
+Still going to be going through Final Fantasy, but hopefully we'll make our way through (and even beat) Final Fantasy IV! I'm at least going to try. After next week there will be a more normal schedule and we'll be back to Chrono Trigger on Thursday and maybe even more Persona 3 Reload. You'll find out on next week's final Final Fantasy Challenge recap!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/22 - 7/28
+[[/~yayoi/images/Yayoi_Chi22Jul.png]]
+
+| Day of the Week | What's Streaming                | At What Time |
+|-----------------+---------------------------------+--------------|
+| Monday          | Final Fantasy Challenge: Day 11 | 12 PM PT     |
+| Tuesday         | Final Fantasy Challenge: Day 12 | 12 PM PT     |
+| Wednesday       | Final Fantasy Challenge: Day 13 | 12 PM PT     |
+| Thursday        | Final Fantasy Challenge: Day 14 | 12 PM PT     |
+| Friday          | Final Fantasy Challenge: Day 15 | 12 PM PT     |
+| Saturday        |                                 | Offline      |
+| Sunday          |                                 | Offline      |
