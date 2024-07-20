@@ -7,26 +7,66 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Recap on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/recap/</link>
+    <link>http://localhost:1313/~yayoi/tags/recap/</link>
     <description>Recent content in Recap on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 11 Jul 2024 20:03:11 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:17:11 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/recap/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/recap/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Final Fantasy Challenge: Week 2</title>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</link>
+        <pubDate>Thu, 18 Jul 2024 18:17:11 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 18 Jul 2024 18:17:11 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</guid>
+        <description>The second week of a three week Final Fantasy Special! Haven&amp;#39;t made it passed Final Fantasy III. Had to do a lot of short streams and it is really kicking my behind. Maybe I&amp;#39;ll finally beat the cloud of darkness tomorrow!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>final_fantasy</category>
+            
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Final Fantasy Challenge: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
         <pubDate>Thu, 11 Jul 2024 20:03:11 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 11 Jul 2024 20:03:11 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
         <description>This week begins the first of three special weeks! A fellow streamer had decided to do a final fantasy month and I decided to join in…sort of. I already did the schedule for the first week of July, so I&amp;#39;m only doing the last three weeks, but its still a special three weeks of Final Fantasy!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -62,11 +102,11 @@
       
       <item>
         <title>Stream Recap: Week 8</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-8/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-8/</link>
         <pubDate>Thu, 04 Jul 2024 10:43:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 04 Jul 2024 10:43:33 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-8/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-8/</guid>
         <description>I&amp;#39;ve been streaming for two months and haven&amp;#39;t technically had a full debut o:! I do plan on fixing that…just don&amp;#39;t know when. I just worked on finishing my BRB card this week and played some Hollow Knight…I mean LOTS of Hollow Knight 😆</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -94,11 +134,11 @@
       
       <item>
         <title>Stream Recap: Week 7</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-7/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</link>
         <pubDate>Thu, 27 Jun 2024 11:58:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 27 Jun 2024 11:58:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-7/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</guid>
         <description>It was finally time for a new card for OBS. After turning off my model too many times so I can take a break, I decided, I needed a BRB card 😝 I also went back to Hello Kitty Island Adventure and Persona!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -126,11 +166,11 @@
       
       <item>
         <title>Stream Recap: Week 6</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-6/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</link>
         <pubDate>Thu, 20 Jun 2024 20:54:51 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 20 Jun 2024 20:54:51 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-6/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</guid>
         <description>A fun mixed-bag of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -158,11 +198,11 @@
       
       <item>
         <title>Stream Recap: Week 5</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-5/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</link>
         <pubDate>Thu, 13 Jun 2024 16:08:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 13 Jun 2024 16:08:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-5/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</guid>
         <description>I streamed all seven days this week…I don&amp;#39;t think I&amp;#39;m going to do that again 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -190,11 +230,11 @@
       
       <item>
         <title>Stream Recap: Week 4</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-4/</link>
         <pubDate>Thu, 06 Jun 2024 14:47:10 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 06 Jun 2024 14:47:10 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-4/</guid>
         <description>Busy week is just about over! My first week streaming almost every day is almost over! I&amp;#39;m not sure I&amp;#39;m going to do another week like this, it was a lot, but I now I can do it!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -222,11 +262,11 @@
       
       <item>
         <title>Stream Recap: Week 3</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-3/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-3/</link>
         <pubDate>Thu, 30 May 2024 15:45:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 May 2024 15:45:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-3/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-3/</guid>
         <description>I&amp;#39;ve begun to ramp up my stream schedule just a bit so there are some were a few more streams this week than there had been in the last two weeks. As I mentioned, though, last week had two art streams, but I&amp;#39;ll be putting the second one as the first for this week. Hope that&amp;#39;s not too confusing. We also had a few game streams including my first throwback thursday!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -254,11 +294,11 @@
       
       <item>
         <title>Stream Recap: Week 2</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-2/</link>
         <pubDate>Thu, 23 May 2024 15:33:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 23 May 2024 15:33:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-2/</guid>
         <description>Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week&amp;#39;s recap, were a total of three game streams including a suprise stream testing Persona 3 Reload!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -286,11 +326,11 @@
       
       <item>
         <title>Stream Recap: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/</link>
         <pubDate>Wed, 15 May 2024 14:49:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 15 May 2024 14:49:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/</guid>
         <description>Art Stream If you want to see my first art stream, you can catch it in last week&amp;#39;s news article! This week though, I started simple again by designing a template to use for schedule images and then put it to the test by creating this week&amp;#39;s schedule! I think I&amp;#39;m getting used to making art on stream. Not very many people watch the stream so maybe that has something to do with it, but I&amp;#39;m not sure.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
