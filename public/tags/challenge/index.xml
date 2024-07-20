@@ -7,26 +7,66 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Challenge on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/challenge/</link>
+    <link>http://localhost:1313/~yayoi/tags/challenge/</link>
     <description>Recent content in Challenge on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 11 Jul 2024 20:03:11 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:17:11 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Final Fantasy Challenge: Week 2</title>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</link>
+        <pubDate>Thu, 18 Jul 2024 18:17:11 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 18 Jul 2024 18:17:11 -0700</atom:modified>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</guid>
+        <description>The second week of a three week Final Fantasy Special! Haven&amp;#39;t made it passed Final Fantasy III. Had to do a lot of short streams and it is really kicking my behind. Maybe I&amp;#39;ll finally beat the cloud of darkness tomorrow!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>final_fantasy</category>
+            
+          
+            
+              <category>challenge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Final Fantasy Challenge: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
         <pubDate>Thu, 11 Jul 2024 20:03:11 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 11 Jul 2024 20:03:11 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
         <description>This week begins the first of three special weeks! A fellow streamer had decided to do a final fantasy month and I decided to join in…sort of. I already did the schedule for the first week of July, so I&amp;#39;m only doing the last three weeks, but its still a special three weeks of Final Fantasy!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
