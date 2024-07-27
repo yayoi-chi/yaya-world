@@ -13,7 +13,7 @@ We beat the cloud of darkness just in time! This week we started Final Fantasy I
 Anyway, I don't think I'm going to finish IV before the end of the week. Just have tomorrow left and I'm not even half way. I might come back for a bit next week and maybe come back some more later. For now check out the playlist, the final part should be up soon, by the time this is out, and check out all my live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]]!
 
 * Next Week
-The Final Fantasy 3 Week challenge might be over, but July is sticking around for a few more days, so why not still do some Final Fantasy things! Monday will be a special Final Fantasy-themed are stream where I will be drawing some of my favorite characters from FFIII and FFIV in my smol style as well as requests from others and maybe even from chat! I'll be off Tuesday, but Wednesday we may be back for some more FFIV and Thursday we'll be going back to a more normal schedule with Throwback Thursday and Chrono Trigger! Check out the full schedule below!
+The Final Fantasy 3 Week challenge might be over, but July is sticking around for a few more days, so why not still do some Final Fantasy things! Monday will be a special Final Fantasy-themed art stream where I will be drawing some of my favorite characters from FFIII and FFIV in my smol style as well as requests from others and maybe even from chat! I'll be off Tuesday, but Wednesday we may be back for some more FFIV and Thursday we'll be going back to a more normal schedule with Throwback Thursday and Chrono Trigger! Check out the full schedule below!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/29 - 8/4
 [[/~yayoi/images/Yayoi_Chi29Jul.png]]
 
@@ -21,7 +21,7 @@ The Final Fantasy 3 Week challenge might be over, but July is sticking around fo
 |-----------------+-----------------------------------------------------------+--------------|
 | Monday          | Let's Draw Cute Final Fantasy Characters                  | 6 PM PT      |
 | Tuesday         |                                                           | Offline      |
-| Wednesday       | The Final Final Fantasy Day (Final Fantasy IV)            | 12 PM PT     |
+| Wednesday       | The final Final Fantasy Day (Final Fantasy IV)            | 12 PM PT     |
 | Thursday        | The return of Throwback Thursday (Chrono Trigger)         | 6 PM PT      |
 | Friday          | Hello Holownest my old friend... (Hollow Knight)          | 12 PM PT     |
 | Saturday        | Back to school, not really, but really (Persona 3 Reload) | 2 PM PT      |
