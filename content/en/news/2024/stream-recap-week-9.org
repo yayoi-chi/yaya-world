@@ -25,15 +25,16 @@ More timey-whimey shtuff! In fact, there was a *lot* of time traveling back and 
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoEBSGayX6M?si=u1wTxA9WslaRdves" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
-
 ** Hollow Knight
 Yeah, this was a four hour stream. I'm getting good at those. It was also four hours of trying to beat Hornet. I got very consistent, but she's almost a worse wall than the demon wall. I'll get her next time!
 #+begin_export html
-<!--TODO add embed -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocpqrN9OQSA?si=LYxe3Y-2KOw85EY2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
-
 ** Persona 3 Reload
-No description yet!
+Mostly got through a *lot* of story scenes after the last full moon operation and worked on social links while Tartarus was unavailable. Did manage to spend an hour in there though. Decided to end in the middle of exploring so I can haz din din though. We'll finish next week!
+#+begin_export html
+<!--TODO add embed after video is published-->
+#+end_export
 * Next Week
 Kicking off a three week Final Fantasy Challenge! I'm going to try and get through all the Final Fantasy games...or at least see how many I can get through until Aug!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/5 - 8/11
