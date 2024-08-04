@@ -1,0 +1,51 @@
+#+TITLE: Stream Recap: Week 9
+#+DATE: 2024-08-03T12:36:46-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Back to a regular stream schedule and not just streamining Final Fantasy games. I mean the first two streams were still kinda Final Fantasy-themed including a really fun art stream drawing some of my friends and kittens in Final Fantasy III/V jobs. It was a lot of fun! I also got passed the demon wall in IV and am actually nearing the end game now! I think I'll try to beat it this week!
+
+* Art Stream
+I did a special art stream this week! I drew Smol Yayoi in a devout outfit, but I also drew three of my friends in other jobs from Final Fantasy III/V. It was a lot of fun to draw a lot of characters in my smol character style. I'm going to be doing more smol-styled stuff because I'm happy I can doodle now! In fact next week's stream /might/ have another Smol Yayoi!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irlqai-TGAA?si=e2skHwzKrKgxVT78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+* Game Streams
+Started with getting passed the demon wall in Final Fantasy IV because July wasn't quite over yet. I also returned to Hollownest to a difficult fight with Hornet, and I finished the week going back to school in Persona 3 Reload!
+** Final Fantasy IV
+We beat that wall! We also managed to get close to the end game. I didn't beat it yet, but, when you scroll down, you'll see it is on for next week! If I'm lucky I'll beat in then. Will I ever play V? We'll see!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1GkrVbRu2A?si=w9Rx-RGBWLVWOhIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Chrono Trigger
+More timey-whimey shtuff! In fact, there was a *lot* of time traveling back and forth. Just continuing to make some progress and having fun along the way!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoEBSGayX6M?si=u1wTxA9WslaRdves" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Yeah, this was a four hour stream. I'm getting good at those. It was also four hours of trying to beat Hornet. I got very consistent, but she's almost a worse wall than the demon wall. I'll get her next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocpqrN9OQSA?si=LYxe3Y-2KOw85EY2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Mostly got through a *lot* of story scenes after the last full moon operation and worked on social links while Tartarus was unavailable. Did manage to spend an hour in there though. Decided to end in the middle of exploring so I can haz din din though. We'll finish next week!
+#+begin_export html
+<!--TODO add embed after video is published-->
+#+end_export
+* Next Week
+Next week, we continue with a few more evening streams! The week will start with a special art stream! I'll make a new frame for art streams and maybe update my other frames. I'll also work on beating Hornet and Throwback Thursday will have a special game by special request! I hope to see you there on [[https://www.twitch.tv/yayoi_chi][Twitch]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/5 - 8/11
+[[/~yayoi/images/Yayoi_Chi5Aug.png]]
+
+| Day of the Week | What's Streaming                                               | At What Time |
+|-----------------+----------------------------------------------------------------+--------------|
+| Monday          | Maker Monday: Art Stream Frame                                 | 7 PM PT      |
+| Tuesday         | How close are we understanding our Persona? (Persona 3 Reload) | 12 PM PT     |
+| Wednesday       | Hornet! That is all! Moar Hornet!                              | 6 PM PT      |
+| Thursday        | Throwback Thursday Special! (Xenosaga Episode 1)               | 6 PM PT      |
+| Friday          | Let's finish what we started! (Final Fantasy IV)               | 12 PM PT     |
+| Saturday        |                                                                | Offline      |
+| Sunday          |                                                                | Offline      |

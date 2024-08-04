@@ -1,0 +1,19 @@
+#+TITLE: Schedule Changes
+#+DATE: 2024-08-03T12:17:00-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site stream news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+You may notice that this is coming out late and, if you're really observant it was created /before/ the stream recap for this week. I had originally been trying to get the recaps out on Thursday, but this meant some weirdness in what was covered in the recaps and what was scheduled because a Thursday release meant I would work on them on Wednesday, in the middle of the week, and my schedule was (and still is) written for Monday through Sunday. I moved the release to Friday, but that still doesn't really work, so I'm making another change.
+
+* What's changing?
+Friday releases mean I'm still working on recaps starting on Thursday at the latest. This still means some weirdness in what is in the recap and what is on the schedule. What I'm doing to change this is targeting a Sunday release. This means I'll start working on the recap on Friday or Saturday right after my last stream for the week. I will now be able to include all the streams that are on the schedule from the previous week so everything should line up better.
+
+* How does the effect the site?
+The site will update on Sunday. This means, if I have anything else; new commissions, illustrations, guides, or news they will also be published on Sunday. As you know, I have been focusing a lot on my streams so I haven't been doing too many other updates for the site, but, if I do have other updates, they will be released alongside the recaps!
+
+* Future plans?
+I actually don't really have any immediate plans for the future. I do have some long term plans. Many of them will be after a make affiliate on Twitch. I do have to go through my Persona 3 Reload streams so I can finish my walkthrough, but I would also like to make a few more graphics and things to make the site stand out. I also have a special plan for my affiliate debut stream which I'm hoping will result in a new story going over Yayoi's backstory! Until than, still mostly focusing on making affiliate! Anyone reading this can help me heading over to [[https://www.twitch.tv/yayoi_chi][Twitch]] and clicking my heart to give me a follow! Just a few more! Thankies~ Thankies~ 💜
