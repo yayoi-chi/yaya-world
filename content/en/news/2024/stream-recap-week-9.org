@@ -36,8 +36,7 @@ Mostly got through a *lot* of story scenes after the last full moon operation an
 <!--TODO add embed after video is published-->
 #+end_export
 * Next Week
-+Kicking off a three week Final Fantasy Challenge! I'm going to try and get through all the Final Fantasy games...or at least see how many I can get through until Aug!+
-(Check this, it doesn't match!)
+Next week, we continue with a few more evening streams! The week will start with a special art stream! I'll make a new frame for art streams and maybe update my other frames. I'll also work on beating Hornet and Throwback Thursday will have a special game by special request! I hope to see you there on [[https://www.twitch.tv/yayoi_chi][Twitch]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/5 - 8/11
 [[/~yayoi/images/Yayoi_Chi5Aug.png]]
 
