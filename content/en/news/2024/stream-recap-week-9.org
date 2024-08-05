@@ -33,7 +33,7 @@ Yeah, this was a four hour stream. I'm getting good at those. It was also four h
 ** Persona 3 Reload
 Mostly got through a *lot* of story scenes after the last full moon operation and worked on social links while Tartarus was unavailable. Did manage to spend an hour in there though. Decided to end in the middle of exploring so I can haz din din though. We'll finish next week!
 #+begin_export html
-<!--TODO add embed after video is published-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqRrlKqhKME?si=8R5xKdwGh26lXpKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 Next week, we continue with a few more evening streams! The week will start with a special art stream! I'll make a new frame for art streams and maybe update my other frames. I'll also work on beating Hornet and Throwback Thursday will have a special game by special request! I hope to see you there on [[https://www.twitch.tv/yayoi_chi][Twitch]]
