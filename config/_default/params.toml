@@ -23,8 +23,8 @@ enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
-hideHomeHeaderWhenMobile = false
+homeHeaderType = "img" # text, img, slide, typewriter
+hideHomeHeaderWhenMobile = true
 
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]
@@ -48,16 +48,16 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Shizumi Yayoi"
 email = "yayoi_chi@icloud.com"
-whoami = "Doctoral Student"
-bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
-useGravatar = true # we use this option highest priority
-location = "Washington, USA"
-organization = "Capella University"
-link = "https://onigirionegai.info/~yayoi/"
+whoami = "Fairy Cat Princess"
+bioImageUrl = "images/header/bio.png" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
+useGravatar = false # we use this option highest priority
+location = "City of Eternal Rain, Northwest Passage"
+organization = "Kingdom of Eternal Rain"
+link = "https://www.youtube.com/@yayoi-chi/community"
 
 # sidebar
-enableBio = false # in home page sidebar
-enableBioImage = false # in home page sidebar
+enableBio = true # in home page sidebar
+enableBioImage = true # in home page sidebar
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = true
@@ -107,7 +107,7 @@ commento = false
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/@yayoi-chi"
   medium = ""
   tumblr = ""
   linkedin = ""
@@ -129,7 +129,7 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
-  twitch = ""
+  twitch = "https://www.twitch.tv/yayoi_chi"
 
 [donationOptions]
   enable = false # if set, the donation button will show up on the single page.
@@ -148,8 +148,8 @@ commento = false
 # possible share name: "facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "whatsapp", "telegram"
 
 [[footerLinks]]
-  name = "Discussions"
+  name = "Site Discussions"
   link = "https://github.com/yayoi-chi/yaya-world/discussions"
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "YouTube Community Tab"
+  link = "https://www.youtube.com/@yayoi-chi/community"
