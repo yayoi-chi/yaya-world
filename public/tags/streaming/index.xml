@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Streaming on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/streaming/</link>
+    <link>http://localhost:1313/~yayoi/tags/streaming/</link>
     <description>Recent content in Streaming on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 09 May 2024 18:44:33 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Am a Streamer Now</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/am-a-streamer-now/</link>
         <pubDate>Thu, 09 May 2024 18:44:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 09 May 2024 18:44:33 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/am-a-streamer-now/</guid>
         <description>If you&amp;#39;ve been around my site for awhile than you probably know that I am an artist and a writer. Well, I haven&amp;#39;t really been doing much writing of late, other than school papers, but I&amp;#39;m still a writer, okay? Well, anyway, I have a new hat! A streamer hat!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Momo on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/momo/</link>
+    <link>http://localhost:1313/~yayoi/tags/momo/</link>
     <description>Recent content in Momo on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 21 Dec 2023 10:51:53 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/momo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/momo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>RE[BASE] Allana: Hello World!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
         <pubDate>Wed, 20 Sep 2023 10:41:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 20 Sep 2023 10:41:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
         <description>This is an original story which introduces a set of new characters having ADVENTURES. In this installment you will meet Momo, a girl who adores her shy classmate, but may have a bit of an attitude…not to mention, a mouth.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -62,11 +62,11 @@
       
       <item>
         <title>RE[BASE] Allana: Foreach Friend as Adventurer</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
         <pubDate>Sun, 01 Oct 2023 20:10:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Oct 2023 20:10:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
         <description>Allana convinces Momo to help her and Tabitha with a vital quest in FantasyQuest Online…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>RE[BASE] Allana: Spooky Nite!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
         <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 31 Oct 2023 21:31:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
         <description>Allana is missing out on all the Halloween fun! Neither Momo or Tabitha will stand for that! Will Allana really appriciate their efforts though?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>RE[BASE] Allana: Entertainment&#43;&#43;</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Dec 2023 10:51:53 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
         <description>Allana begins to understand how boring and lonely her life is becoming and begins to look for something to fill her time…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
