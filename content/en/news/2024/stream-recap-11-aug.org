@@ -14,7 +14,7 @@ This week I decided it was about time for a dedicated frame for art streams. I a
 #+end_export
 
 * Game Streams
-We start this week with some Persona, try again to beat hornet, and then manage to introduce my viewers to one of my favorite RPGs from the PS2! The week ended with our attempt to finally finish Final Fantasy IV, but we didn't quite make it, almost though.
+We start this week with some Persona, tried to beat hornet again, and then manage to introduce my viewers to one of my favorite RPGs from the PS2! The week ended with our attempt to finally finish Final Fantasy IV, but we didn't quite make it, almost though.
 ** Persona 3 Reload
 Mostly made a lot of progress in Tartarus. Didn't really do much to advance the story other than move a couple of days down the calendar and advance a couple of social links. Unfortunately the controller died during the stream and I had some trouble with the USB cord 😅
 #+begin_export html
@@ -26,7 +26,7 @@ Started with another attempt to beat Hornet, but didn't make it. Tried to see if
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ypjfdwLj-mc?si=z32Rt7AT3zM9a5TO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode 1
-By special request I introduced my audience to Xenosaga! This was one of my favorite RPGs growing up and it was really nice to get back to it. I've decided that Throwback Thursdays should be games like this, games I remind from when I was younger, or games I've played. I will still get back to Final Fantasy and Chrono Trigger, but they will no longer be Throwback Thursday games, except entries I played like VII and X
+By special request I introduced my audience to Xenosaga! This was one of my favorite RPGs growing up and it was really nice to get back to it. I've decided that Throwback Thursdays should be games like this, games I liked from when I was younger, or games I've played a lot (?). I will still get back to Final Fantasy and Chrono Trigger, but they will no longer be Throwback Thursday games, except for entries I played like VII and X
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B1erY73RQ5w?si=38iTrXupZSpr_AHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
