@@ -33,7 +33,7 @@ By special request I introduced my audience to Xenosaga! This was one of my favo
 ** Final Fantasy IV
 Apparently the endgame of Final Fantasy IV was a lot longer than I thought. We beat the giant, but still have one last thing to take care of. Sadly, its a very long thing 😅 I did manage to get through most of the final dungeon, just a bit more!
 #+begin_export html
-<!-- TODO add embed before this goes live -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BNy7UgQN9tc?si=uIvOENOVkGw-Ft6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 How about a week with two art streams? Maybe with two streams on the same day too! Sure! Why not? Catch this special week on [[https://www.twitch.tv/yayoi_chi][Twitch]]. I'll be doing some special illustrations, get back to Xenosaga, and, with any luck, beat Hornet and finish Final Fantasy IV! Hope to see you all there 💜
