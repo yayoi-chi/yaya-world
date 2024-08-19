@@ -1,0 +1,59 @@
+#+TITLE: Stream Recap: 18 Aug
+#+DATE: 2024-08-18T13:43:12-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Did a new thing by splitting Saturday with a game stream in the afternoon and an art stream at night. Was a little hectic and probably not worth it so I don't think I'll do something like that again unless I have a special event. Also I beat Final Fantasy IV!
+
+* Art Stream
+There were actually two art streams this week, that's different, no? The first one was starting some cat illustrations I plan on using for a special event that will celebrate affiliate (I'm getting close). The second was more of that, but also I drew Hollow Yayoi, you'll see her down in the next week section, because I put her on the schedule 😆
+
+** Sleepy Kitty
+Our first art stream was just a sleepy kitty. You /might/ recognize some features. Maybe you can guess who the kitty is? Place your guesses in the comments for this page or the video!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sW2p-CUOCwA?si=8pz_o8QsQUfvLLl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+** Hollow Yayoi
+The second kitty is the same as the first, but this time stretching. I didn't finish this one during that stream though, but I did draw Hollow Yayoi, like I mentioned above. It ended up being a super short video (not quite YouTube Short length), but I want to wait until I finish the kitty before editing it and uploading it so, I only have Hollow Yayoi up right now. I have a feeling the other kitty will be on next week's recap 🤔
+#+begin_export html
+<!--TODO add embed, not shure how this will effect publication 😅 -->
+#+end_export
+* Game Streams
+Still did some game streams and plan on continuing to do game stream, but there may be fewer of them, we'll see. For now nothing is changing there. In fact I did a game stream /and/ an art stream in one day 😲
+** Hollow Knight
+I beat Hornet!! I tanked all her hits and beat her! Then I played with acid and got a few new abilities. Hornet almost lost best gurl status, but she got it back after saving me. Anyway, I really like this game...for some reason 😝
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QG-ZiX0pd6Y?si=Q-pD8gsiwsLrpcvN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Finished the Woglinde parts, watched a bunch of cutscenes and then started the mission to rescue MOMO. I got her out of her cell, but we haven't quite made it to safety yet. Had to stop before the big boss fight. Next week though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPaUR-5-O-M?si=7BQ6ZbaIPu8jjBjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Mostly worked on some social links and moved the calendar forward. Did beat one gatekeeper, but that was...not as easy as I thought. Still, I gottem! Also went back into Tartarus for a rescue mission. All-in-all I still think it was productive stream.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrRY41vmkzU?si=jq5DMeFmJuafLqFu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy IV
+Okie, so the end game was longer than I thought, but also kind of short, at least compared to III. Of course I may have spent too much time off-stream leveling and ended up pretty overpowered, methinks. Anyway IV is done and dusted, time for V...well decided to start that next week to give me time to get my paws on the pixel remaster!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wV8mlt0SPvc?si=XQ0dvAFtvS3qxt-x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Well, I did well last week, but Saturday was a little rough. This week I will be doing only one stream a day and will be streaming Monday through Friday. There will also be an extra art stream! We will be back to Hollow Knight, and Xenosaga and start Final Fantasy V. Hope to see you live on [[https://www.twitch.tv/yayoi_chi][Twitch]] 💜
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/19 - 8/25
+[[/~yayoi/images/Yayoi_Chi19Aug.png]]
+
+| Day of the Week | What's Streaming                                                      | At What Time |
+|-----------------+-----------------------------------------------------------------------+--------------|
+| Monday          | Maker Monday:  Emotes or more cats, we'll see!                        | 7 PM PT      |
+| Tuesday         | Extra art stream! Even more cats!                                     | 7 PM PT      |
+| Wednesday       | Now that we are free of HORNET, we explore some more! (Hollow Knight) | 1 PM PT      |
+| Thursday        | Throwback Thursday: Let's finish rescuing MOMO (Xenosaga Episode 1)   | 7 PM PT      |
+| Friday          | Five Final Fantasies! I thought final meant last (Final Fantasy V)    | 1 PM PT      |
+| Saturday        |                                                                       | Offline      |
+| Sunday          |                                                                       | Offline      |
