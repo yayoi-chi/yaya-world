@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 18 Aug 2024 13:43:12 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 13:16:40 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -681,6 +681,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 25 Aug</title>
+        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</link>
+        <pubDate>Sun, 25 Aug 2024 13:16:40 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 25 Aug 2024 13:16:40 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</guid>
+        <description>Another two art streams in one week, but only one stream per day. The week was definitely not as hectic as the last week. We went back to Hollow Knight and Xenosaga, but started the next the Final Fantasy game!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3043,38 +3075,6 @@ I like that I have time now to do more frequent updates to the site. This update
           
             
               <category>ffxiv</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Make my website grow!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</link>
-        <pubDate>Sat, 17 Dec 2022 20:45:28 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sat, 17 Dec 2022 20:45:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</guid>
-        <description>New guides, new shtuff, all sorts of fun things coming just in time for Christmas!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-            
-              <category>fiesta</category>
             
           
         
