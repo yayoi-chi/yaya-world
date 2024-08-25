@@ -8,7 +8,7 @@
 #+SUMMARY: Another two art streams in one week, but only one stream per day. The week was definitely not as hectic as the last week. We went back to Hollow Knight and Xenosaga, but started the next the Final Fantasy game!
 
 * Art Stream
-Keeping up with my desire to do more art streams and draw cats, of course, I did two art stream again today. I didn't do any on the same day as a game stream this time. I kept the two separate, but still had lots of fun drawing kitties and with my kittens commenting and chatting as I drew.
+Keeping up with my desire to do more art streams and draw cats, of course. I did two art stream again this week. I didn't do any on the same day as a game stream this time. I kept the two separate, but still had lots of fun drawing kitties with my kittens commenting and chatting as I drew.
 ** Streeetching Kitty
 For this week I started by finishing the project I started in the last art stream last week. So now we have an adorable cat stretching on her favorite bed.
 #+begin_export html
@@ -32,7 +32,7 @@ I finished rescuing MOMO, but we had a lot of cutscenes to go through again, so 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rn291s8695w?si=qqKoC-q6uskEsVGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Final Fantasy V
-Just got started on this one. I beat IV so it was time add I and we all know that IV + I is V. I just got started, managed to get two sets of jobs, but I think i still have a long way to go!
+Just got started on this one. I beat IV so it was time add I and we all know that IV + I is V. I just got started, managed to get two sets of jobs, but I think I still have a long way to go!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y8MQBt5T5uU?si=Zq3guQGrggkrWpXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
