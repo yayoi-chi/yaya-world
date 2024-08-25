@@ -1,0 +1,52 @@
+#+TITLE: Stream Recap: 25 Aug
+#+DATE: 2024-08-25T13:16:40-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Another two art streams in one week, but only one stream per day. The week was definitely not as hectic as the last week. We went back to Hollow Knight and Xenosaga, but started the next the Final Fantasy game!
+
+* Art Stream
+Keeping up with my desire to do more art streams and draw cats, of course, I did two art stream again today. I didn't do any on the same day as a game stream this time. I kept the two separate, but still had lots of fun drawing kitties and with my kittens commenting and chatting as I drew.
+** Streeetching Kitty
+For this week I started by finishing the project I started in the last art stream last week. So now we have an adorable cat stretching on her favorite bed.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sWB_JB3EaNY?si=DzRf2UqYDj_QX7ZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Kitty TV
+While finishing the streeetching kitty, I started another kitty. This one is staring out a window. I call it Kitty TV, because a window can always be a TV for a cat.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7-z8dqAM1k?si=hM7uV8Bzw5sceRA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Even though I started doing more art streams, I'm not going to stop doing game streams. I started with Hollow Knight, because I'm addicted. I also had to keep going on Xenosaga, and, of course, it was time to start Final Fantasy V!
+** Hollow Knight
+For this stream, I was just exploring, but I did remember why I had to beat Hornet and, after figuring that out I got a new ability that really started to open up Hollownest. Because of my meeting, I didn't get to see much of the new stuff, but I'll get there next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlB4V92rY8o?si=N1X7NAIUxp-48gmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+I finished rescuing MOMO, but we had a lot of cutscenes to go through again, so it was a lot of popcorn time and not too much game play. Still I love this game and I hope my kittens love it to!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn291s8695w?si=qqKoC-q6uskEsVGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+Just got started on this one. I beat IV so it was time add I and we all know that IV + I is V. I just got started, managed to get two sets of jobs, but I think i still have a long way to go!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8MQBt5T5uU?si=Zq3guQGrggkrWpXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I am getting new carpet next week, so the week will be shorter. I am still planning on doing my art stream and Throwback Thursday, but I am also planning on doing Final Fantasy V and getting my Hollow Knight fix. Catch it all live on [[https://www.twitch.tv/yayoi_chi][Twitch]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/26 - 9/1
+[[/~yayoi/images/Yayoi_Chi26Aug.png]]
+
+| Day of the Week | What's Streaming                                             | At What Time |
+|-----------------+--------------------------------------------------------------+--------------|
+| Monday          | Maker Monday:  Special requests...but still cats XD          | 7 PM PT      |
+| Tuesday         | New Carpet Day!                                              | Offline      |
+| Wednesday       | We still have a long way to go in Hollownest (Hollow Knight) | 12 PM PT     |
+| Thursday        | Throwback Thursday: Dock colony time? (Xenosaga Episode 1)   | 7 PM PT      |
+| Friday          | How quick can we get through this one?                       | 1 PM PT      |
+| Saturday        |                                                              | Offline      |
+| Sunday          |                                                              | Offline      |
