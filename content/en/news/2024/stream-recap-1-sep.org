@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 1 Sep
+#+DATE: 2024-09-01T16:29:21-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Shorter week because of a carpet install. Everything is look great though and I'm loving my new room. I managed an art stream before the install and a few game streams after! Still a pretty nice week.
+
+* Art Stream
+Continued drawing some of my kittens! This week I drew my moderator as a cat and, since they are always napping, they wanted to be drawn asleep, kinda like my first picture of myself. Only I think they turned out a bit cuter. What do you think?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOq_CDx492Q?si=-ZWW5HhG4h9P41Oj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+The usual affair of games streamed this week. We continued exploring Hollowenest, met a new character in Xenosaga, and made just a bit of progress in Final Fantasy V. Check out the details below!
+** Hollow Knight
+I final unsealed the second dreamer! Headed for the third, but got stopped by some nasty rolling guards. Decided to better equip myself with maybe a stronger nail and some better abilities so it became another exploration stream! Hey, this are important because its my first time in Hollownest!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NogGSqGpZbs?si=IebaT_bb4-FXKUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+This was a bit of a shorter stream. Most of my evening ones probably will be at least for awhile. We did manage to get through the Little Master's part and even got to the dock colony. Only really watched one scene though before calling it a nite. Just means more to do next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oH04vnw2IdY?si=eUQMPV6QpsZHolS_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+As is tradition, I got a little lost when I first started this. Fortunately chat helped me get back on track, thank you chat! Managed to get to the fire crystal and our next set of jobs. This was kind a medium length stream, but we still managed to get a lot of progress, methinks.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46JhixPm1a0?si=mQKYvgdsgwscuwXW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Labor day means no work! It doesn't mean no stream though. Planning a special morning stream of Final Fantasy V followed by an evening Maker Monday. Adding Pokemon back into the bunch and getting back to Persona 3 Reload as well. Catch it all live on [[https://www.twitch.tv/yayoi_chi][Twitch]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/26 - 9/1
+[[/~yayoi/images/Yayoi_Chi2Sep.png]]
+
+| Day of the Week | What's Streaming                                                      | At What Time |
+|-----------------+-----------------------------------------------------------------------+--------------|
+| Monday #1       | FFV Labor Day Special (Final Fantasy V)                               | 10 AM PT     |
+| Monday #2       | Maker Monday: I still have more Catz to draw!                         | 7 PM PT      |
+| Tuesday         | Homework day!                                                         | Offline      |
+| Wednesday       | How long have I been down here? It feels like forever (Hollow Knight) | 7 PM PT      |
+| Thursday        | Throwback Thursday: Real dock colony sthuff! (Xenosaga Episode 1)     | 7 PM PT      |
+| Friday          | Been away so long I'm feeling like a deliquent (Persona 3 Reload)     | 1 PM PT      |
+| Saturday        | I want to be the very best...eevee trainer!                           | 10 AM PT     |
+| Sunday          |                                                                       | Offline      |
