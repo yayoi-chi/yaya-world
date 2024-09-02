@@ -15,7 +15,7 @@ Continued drawing some of my kittens! This week I drew my moderator as a cat and
 * Game Streams
 The usual affair of games streamed this week. We continued exploring Hollowenest, met a new character in Xenosaga, and made just a bit of progress in Final Fantasy V. Check out the details below!
 ** Hollow Knight
-I final unsealed the second dreamer! Headed for the third, but got stopped by some nasty rolling guards. Decided to better equip myself with maybe a stronger nail and some better abilities so it became another exploration stream! Hey, these are important because its my first time in Hollownest!
+I final unsealed the second dreamer! Headed for the third, but got stopped by some nasty rolling guards. Decided to better equip myself with maybe a stronger nail and some better abilities so it became another exploration stream! Hey, these is important because its my first time in Hollownest!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NogGSqGpZbs?si=IebaT_bb4-FXKUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
