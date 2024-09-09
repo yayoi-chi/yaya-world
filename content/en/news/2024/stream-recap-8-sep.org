@@ -1,0 +1,50 @@
+#+TITLE: Stream Recap: 8 Sep
+#+DATE: 2024-09-08T11:55:04-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Tried another day with two streams. Worked out a bit better! Well, probably because I had a holiday, but still. Really fun week that even included finishing Pokemon Sword!
+
+* Art Stream
+Started the week with my last kitten-sona (for now). This was of a special viewer of mine who had a very unique idea for their kitten. I love it and I think they do to! It was really fun to draw!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogdT3UfYiIA?si=TmJsWh251ImriWcZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Busy week this week! I managed to stream five different games o:! I was really surprised. Of course, a few of these were kind of short streams and one was on the same day as an art stream, but I still surprised myself. No embeds this week, check out the video links instead!
+** Final Fantasy V
+Made some more progress. It was a short stream, so not a lot of progress, but some progress nonetheless. I think this is becoming my favorite entry in the series and I would like to try a "Four Job Fiesta" one day, but we'll see!
+
+[[https://youtu.be/_QQ3GWz6OP4][video on YouTube]]
+** Hollow Knight
+Tried a new strat with the rolling knights, but still didn't beat them. I got closer, but I think I need some more abilities or charms or a sharper nail or something. Either way, ended with some more exploration and found another optional boss....that also kicked my behind 😅
+
+[[https://youtu.be/W8vTYdKrycc][video on YouTube]]
+** Xenosaga Episode 1
+Finished with the dock colony for now. Now we are inside a Gnosis! I also managed to prove that MOMO is a magical girl! Hopefully we'll get out of this Gnosis soon.
+
+[[https://youtu.be/LaIZT6dY_ho][video on YouTube]]
+** Persona 3 Reload
+Did a lot of school stuff and some Tartarus stuff and even saved a cat! We're right at the next full moon though. I think this might be interesting. We'll see next time!
+
+[[https://youtu.be/jiL5vyCgZKo][video on YouTube]]
+** Pokemon Sword
+Finished Pokemon Sword \ ( ^ o ^ ) / It was really special showing off my all Eevee evolution team and beating the championship with them. this will not be the last time I stream a Pokemon game, and probably not even the last time for this game!
+
+[[https://youtu.be/r8JCf_uzNcs][video on YouTube]]
+* Next Week
+The schedule that is posted on [[https://www.twitch.tv/yayoi_chi][Twitch]] only shows recurring streams now, so always come here for the full schedule! The week starts with Maker Monday and I will be doing some requests. We will move on to some Hollow Knight and Persona 3 Reload. Don't forget our Throwback Thursday with Xenosaga and the new Fantasy Friday with Final Fantasy V!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/9 - 9/15
+[[/~yayoi/images/Yayoi_Chi9Sep.png]]
+
+| Day of the Week | What's Streaming                                                       | At What Time |
+|-----------------+------------------------------------------------------------------------+--------------|
+| Monday          | Maker Monday: Icons and icon and other requests                        | 7 PM PT      |
+| Tuesday         | Homework day!                                                          | Offline      |
+| Wednesday       | More rolly-polly fights! (Hollow Knight)                               | 7 PM PT      |
+| Thursday        | Throwback Thursday: Let's get out of this Gnosis! (Xenosaga Episode 1) | 7 PM PT      |
+| Friday          | Fantasy Friday: We got a crystal left to prtotect! (Final Fantasy V)   | 1 PM PT      |
+| Saturday        | /Some/ people have Saturday school!                                    | 1 PM PT      |
+| Sunday          |                                                                        | Offline      |
