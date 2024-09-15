@@ -1,0 +1,45 @@
+#+TITLE: Stream Recap: 15 Sep
+#+DATE: 2024-09-15T16:02:00-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Mostly a normal week this week. Did a fun Maker Monday stream with elemental-themed icons and played a lot of fun games. You will not see Final Fantasy here...I had to cancel that stream.
+
+* Art Stream
+Made some elemental-themed icons for a request. I was requested to do quite a few of these little icons, so, I'll probably be devoting quite a few streams to getting them done. Still I managed to do like six of them in 2 hours so maybe it won't be too bad. Definitely have more to work on though.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-8A4k1V0zU?si=ZXJSOaNBaPLKEv9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Explored Hollwnest a bit more and think I picked up a good charm to help with those dang knights, but still didn't quite squash 'em yet. I also didn't quite get out of that Gnosis and even had to cancel my stream on Friday! I /did/ beat two more large shadows though so I accomplished /something/!
+** Hollow Knight
+Again, mostly just explored Hollownest. I did pick up that new charm that let's me throw larva at enemies and that seems to do pretty good with those knights, but I didn't manage to beat them still. I have a feeling this will be a repeat of my fights with Hornet 😅 Hopefully they don't take quite that long though! I'll be taking a break from Hollow Knight for at least a week though so I can come back fresh and try again!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CwXoJTZET8?si=qNy1k6IUIl9GP3DD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+I'm still stuck inside the Gnosis they call the Cathedral Ship. I decided to try and beat some optional sub-bosses even though I probably could have just saved them for later...same with the Unicorns, but at least I pretty much picked up everything. There's always next week to finally get out of this Gnosis!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-x-Dk5tz8g?si=yfNir8NMvuPd7-Wh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+There was no stream on Friday due to a meeting, so we'll just skip straight to Saturday School, seems like a fitting punishment, no? In all seriousness, we did beat the bosses for this month and started working on stuff for the next. We even managed to max out a social link! What will the last shadow mean for us? Stay tuned!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3fD1L2oyTY?si=tGlA8vWPpKrP3K3X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will mostly be on [[https://www.twitch.tv/yayoi_chi][Twitch]], as usual, but there is one stream that will *not* be on there! Check my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] for Saturday's stream! This will be a test to see how YouTube live streaming works. If it goes well, YouTube /may/ have more exclusive streams!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/9 - 9/15
+[[/~yayoi/images/Yayoi_Chi16Sep.png]]
+
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                          | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: More Icons and maybe spooky start spooky month prep!                   | 10 PM ET/7 PM PT   |
+| Tuesday   | Twitch              | Art: Spooky month prep! What will I be for Halloween?                       | 10 PM ET/7PM PT    |
+| Wednesday | Twitch              | Stray: Break from Hollownest! Let's play with a cat instead!                | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Different week same problem. Will we get out this time? | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Final Fantasy V: We have some time to make up! Let's do this!               | 4 PM ET/1 PM PT    |
+| Saturday  | YouTube             | Zenless Zone Zero: Its a test stream on a new platform o:!                  | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                                  | Offline            |
