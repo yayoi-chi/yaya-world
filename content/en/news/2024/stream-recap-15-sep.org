@@ -31,12 +31,12 @@ There was no stream on Friday due to a meeting, so we'll just skip straight to S
 #+end_export
 * Next Week
  Next week the streams will mostly be on [[https://www.twitch.tv/yayoi_chi][Twitch]], as usual, but there is one stream that will *not* be on there! Check my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] for Saturday's stream! This will be a test to see how YouTube live streaming works. If it goes well, YouTube /may/ have more exclusive streams!
-#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/9 - 9/15
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/16 - 9/22
 [[/~yayoi/images/Yayoi_Chi16Sep.png]]
 
 | Week Day  | Where I'm Streaming | What I'm Streaming                                                          | When I'm Streaming |
 |-----------+---------------------+-----------------------------------------------------------------------------+--------------------|
-| Monday    | Twitch              | Art: More Icons and maybe spooky start spooky month prep!                   | 10 PM ET/7 PM PT   |
+| Monday    | Twitch              | Art: More Icons and maybe start spooky month prep!                   | 10 PM ET/7 PM PT   |
 | Tuesday   | Twitch              | Art: Spooky month prep! What will I be for Halloween?                       | 10 PM ET/7PM PT    |
 | Wednesday | Twitch              | Stray: Break from Hollownest! Let's play with a cat instead!                | 3 PM ET/12 PM PT   |
 | Thursday  | Twitch              | Xenosaga Episode 1: Different week same problem. Will we get out this time? | 10 PM ET/7 PM PT   |
