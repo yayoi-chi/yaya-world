@@ -2,7 +2,16 @@
 #+DATE: 2024-09-22T13:18:03-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream site personal news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+This is just a short notice! Last week, I did a test stream on YouTube. While the game itself didn't cooperate, the stream worked very well. In fact I enjoyed it! I think my flow just works better with YouTube. I don't plan on leaving Twitch anytime soon, but I'll be doing exclusive streams on both YouTube and Twitch.
+
+* Why Am Expanding?
+I am building myself quite a brand and, while Twitch does allow some brand assets, YouTube seems to be better geared for it. Each channel on YouTube seems to be its own brand. There's also a community section and more, so I like it. I have been archiving all my streams there and I decided I wanted to try to stream directly to YouTube. That's what I did last Saturday. It worked so well I want to do more live streams there. That is it!
+* What does this mean?
+More places to watch cute streams! Really that's it. I'm not streaming more or less, but streaming in difference places. I have decided to keep my regular streams on Twitch. So Monday, Thursday, and Friday will always be on Twitch. Other streams throughout the week will be where ever I decide to do them. That could be YouTube or it could be Twitch. I'll decide each week!
+* How do I keep track?
+Honestly subscribe to [[https://www.youtube.com/@yayoi-chi?sub_confirmation=1][YouTube]]. The schedule will be the thumbnail for any scheduled live stream and posted in the community tab! The schedule will also tell you where I'm streaming! There will also be reminders in the community tab for Twitch streams. Another place you'll get all the notices, is on [[https://mastodon.world/@yaya][Mastodon]], so you can also follow me there. Hope to see you in my chats!
