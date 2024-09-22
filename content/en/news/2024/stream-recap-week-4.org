@@ -37,7 +37,7 @@ This is a game a kept starting but never getting very far in. Hopefully playing 
 #+end_export
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/10 - 6/16
-[[/~yayoi/images/Yayoi_Chi10Jun.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi10Jun.png]]
 
 | Day of the Week | What's Streaming                                           | At What Time |
 |-----------------+------------------------------------------------------------+--------------|

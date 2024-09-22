@@ -45,7 +45,7 @@ Hey we had another The Sims 4 game! To be honest, I almost forgot about it 😅 
 #+end_export
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 5/27 - 6/2
-[[/~yayoi/images/Yayoi_Chi27May.png]]
+[[/~yayoi/images/scheudles/2024/Yayoi_Chi27May.png]]
 
 | Day of the Week | What's Streaming                             | At What Time |
 |-----------------+----------------------------------------------+--------------|

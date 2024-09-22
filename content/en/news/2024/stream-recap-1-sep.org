@@ -32,7 +32,7 @@ As is tradition, I got a little lost when I first started this. Fortunately chat
 * Next Week
 Labor day means no work! It doesn't mean no stream though. Planning a special morning stream of Final Fantasy V followed by an evening Maker Monday. Adding Pokemon back into the bunch and getting back to Persona 3 Reload as well. Catch it all live on [[https://www.twitch.tv/yayoi_chi][Twitch]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/26 - 9/1
-[[/~yayoi/images/Yayoi_Chi2Sep.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi2Sep.png]]
 
 | Day of the Week | What's Streaming                                                      | At What Time |
 |-----------------+-----------------------------------------------------------------------+--------------|

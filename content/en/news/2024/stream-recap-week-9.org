@@ -38,7 +38,7 @@ Mostly got through a *lot* of story scenes after the last full moon operation an
 * Next Week
 Next week, we continue with a few more evening streams! The week will start with a special art stream! I'll make a new frame for art streams and maybe update my other frames. I'll also work on beating Hornet and Throwback Thursday will have a special game by special request! I hope to see you there on [[https://www.twitch.tv/yayoi_chi][Twitch]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/5 - 8/11
-[[/~yayoi/images/Yayoi_Chi5Aug.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi5Aug.png]]
 
 | Day of the Week | What's Streaming                                               | At What Time |
 |-----------------+----------------------------------------------------------------+--------------|

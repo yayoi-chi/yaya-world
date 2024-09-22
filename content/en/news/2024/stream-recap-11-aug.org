@@ -38,7 +38,7 @@ Apparently the endgame of Final Fantasy IV was a lot longer than I thought. We b
 * Next Week
 How about a week with two art streams? Maybe with two streams on the same day too! Sure! Why not? Catch this special week on [[https://www.twitch.tv/yayoi_chi][Twitch]]. I'll be doing some special illustrations, get back to Xenosaga, and, with any luck, beat Hornet and finish Final Fantasy IV! Hope to see you all there 💜
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/12 - 8/18
-[[/~yayoi/images/Yayoi_Chi12Aug.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi12Aug.png]]
 
 | Day of the Week | What's Streaming                                                    | At What Time |
 |-----------------+---------------------------------------------------------------------+--------------|
