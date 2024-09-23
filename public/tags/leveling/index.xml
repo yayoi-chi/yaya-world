@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Leveling on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/leveling/</link>
+    <link>http://localhost:1313/~yayoi/tags/leveling/</link>
     <description>Recent content in Leveling on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 08 Dec 2022 21:06:30 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/leveling/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/leveling/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Babies</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:00:25 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</guid>
         <description>&lt;p&gt;
 The easiest way to level these characters is to have a higher level
 character kill certain mobs for you while you are in the party. Their
@@ -65,11 +65,11 @@ FM, but it does the trick.&lt;/p&gt;</description>
       
       <item>
         <title>Newblets</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/newblets/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:00:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/newblets/</guid>
         <description>&lt;p&gt;
 If you are lucky enough to be in Flaming Mine since you were a baby, you
 can pretty much stay there until level 50. Otherwise you should do a few
@@ -108,13 +108,13 @@ level quests until you reach level 43.&lt;/p&gt;</description>
       
       <item>
         <title>Fledgling Adventurers</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/fledgling/</link>
         <pubDate>Sun, 09 Oct 2022 20:59:51 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:51 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/fledgling/</guid>
         <description>&lt;p&gt;
-If you have followed my &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/&#34;&gt;guides&lt;/a&gt; so
+If you have followed my &lt;a href=&#34;http://localhost:1313/~yayoi/guides/&#34;&gt;guides&lt;/a&gt; so
 far then you&amp;#39;ll be level 81 in no time, especially if you were power
 leveled. Things will start to go really fast or depressingly slow
 depending on the guild you are in, the money you have amassed, or the
@@ -156,13 +156,13 @@ still level, but it&amp;#39;ll be slower.&lt;/p&gt;</description>
       
       <item>
         <title>Bone-fide Adventurers</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/adventurer/</link>
         <pubDate>Sun, 09 Oct 2022 20:59:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:31 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/adventurer/</guid>
         <description>&lt;p&gt;
-After following &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/fiesta/lvling/&#34;&gt;my guide&lt;/a&gt; thus far
+After following &lt;a href=&#34;http://localhost:1313/~yayoi/guides/fiesta/lvling/&#34;&gt;my guide&lt;/a&gt; thus far
 you&amp;#39;ll notice that trying to do things solo from this point on is really
 hard if not impossible unless you pray really hard to the Gamigo Gods
 and give them plenty of offerings (by purchasing SC) 😅 So, hopefully,
@@ -196,11 +196,11 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>Social Links (aka SLinks)</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/slink/</link>
+        <link>http://localhost:1313/~yayoi/guides/p4g/slink/</link>
         <pubDate>Thu, 08 Dec 2022 21:06:30 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 08 Dec 2022 21:06:30 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/slink/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/</guid>
         <description>Guides to social links to help maximize your personas!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -232,13 +232,13 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>God-like Adventurers</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/gods/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/gods/</link>
         <pubDate>Sun, 09 Oct 2022 20:59:14 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:14 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/gods/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/gods/</guid>
         <description>&lt;p&gt;
-When I first wrote my last &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/&#34;&gt;guide&lt;/a&gt; the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. So, here&amp;#39;s some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have &lt;em&gt;not&lt;/em&gt; tried some of these suggestions alone. If you have better suggestions, though, let me know, you can comment on this page with a GitHub account, or send me an e-mail!&lt;/p&gt;</description>
+When I first wrote my last &lt;a href=&#34;http://localhost:1313/~yayoi/guides/&#34;&gt;guide&lt;/a&gt; the level cap was actually 135 so I said congratulations now figure out what to do next. Well cap is 140 now so I guess it&amp;#39;s time for an update to the guide 😉. So, here&amp;#39;s some ideas of what you can do. The same caveat exists with this guide as with the last one. My current highest level character is 140, but she is a cleric, so I have &lt;em&gt;not&lt;/em&gt; tried some of these suggestions alone. If you have better suggestions, though, let me know, you can comment on this page with a GitHub account, or send me an e-mail!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -265,11 +265,11 @@ When I first wrote my last &lt;a href=&#34;https://onigirionegai.info/~yayoi/gui
       
       <item>
         <title>Leveling</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/</link>
         <pubDate>Sun, 09 Oct 2022 20:41:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:41:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/</guid>
         <description>&lt;p&gt;
 Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main &lt;a href=&#34;../&#34;&gt;guide&lt;/a&gt; index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest. I also don&amp;#39;t mention KQs which often give a lot of experience and other rewards, but can only be done at certain times. Anyway, if you wanna level easily follow this guide, otherwise, why not just quest? Check out the &lt;a href=&#34;http://fiesta-wiki.com&#34;&gt;Fiesta Wiki&lt;/a&gt; for more information!&lt;/p&gt;</description>
         

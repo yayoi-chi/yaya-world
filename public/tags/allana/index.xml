@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Allana on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/allana/</link>
+    <link>http://localhost:1313/~yayoi/tags/allana/</link>
     <description>Recent content in Allana on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 21 Dec 2023 10:51:53 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/allana/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/allana/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>RE[BASE] Allana: Hello World!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
         <pubDate>Wed, 20 Sep 2023 10:41:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 20 Sep 2023 10:41:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
         <description>This is an original story which introduces a set of new characters having ADVENTURES. In this installment you will meet Momo, a girl who adores her shy classmate, but may have a bit of an attitude…not to mention, a mouth.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -62,11 +62,11 @@
       
       <item>
         <title>RE[BASE] Allana: First Quest</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</link>
         <pubDate>Tue, 26 Sep 2023 11:04:38 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 26 Sep 2023 11:04:38 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</guid>
         <description>Allana&amp;#39;s sisters launches a hairbrained scheme to get her sister to learn social skills in hopes of helping her break free from her adorably shy nature. It has somewhat mixed results, but Tabitha absolutely won&amp;#39;t give up on her cute sister!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -102,11 +102,11 @@
       
       <item>
         <title>RE[BASE] Allana: Foreach Friend as Adventurer</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
         <pubDate>Sun, 01 Oct 2023 20:10:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Oct 2023 20:10:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
         <description>Allana convinces Momo to help her and Tabitha with a vital quest in FantasyQuest Online…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -146,11 +146,11 @@
       
       <item>
         <title>RE[BASE] Allana: Party is Null</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep4/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep4/</link>
         <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Oct 2023 11:47:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep4/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep4/</guid>
         <description>Today we will answer the all-important question, is soloing in an MMORPG fun!? Allana tries to play FantasyQuest Online without her sister. It may go different than you&amp;#39;d expect!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -186,11 +186,11 @@
       
       <item>
         <title>RE[BASE] Allana: Spooky Nite!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
         <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 31 Oct 2023 21:31:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
         <description>Allana is missing out on all the Halloween fun! Neither Momo or Tabitha will stand for that! Will Allana really appriciate their efforts though?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -230,11 +230,11 @@
       
       <item>
         <title>RE[BASE] Allana: Entertainment&#43;&#43;</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Dec 2023 10:51:53 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
         <description>Allana begins to understand how boring and lonely her life is becoming and begins to look for something to fill her time…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>Not Just Allana</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/not-just-allana/</link>
         <pubDate>Thu, 30 Nov 2023 12:11:42 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:11:42 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/not-just-allana/</guid>
         <description>&lt;p&gt;
 Things are progressing nicely with some of the illustrations for RE[BASE] and there are already five episodes written. Only one illustration is up so far, but I am hard at working making another one. So far all five episodes center around Allana. Obviously, she is not the only character. In fact, through her story, you have been introduced to a few others, but I am here to announce another main character who will debut (there&amp;#39;s a pun in there for anyone reading this after her debut 😉) next week. Plus a few more announcements I&amp;#39;m working on!&lt;/p&gt;</description>
         
@@ -311,11 +311,11 @@ Things are progressing nicely with some of the illustrations for RE[BASE] and th
       
       <item>
         <title>RE[BASE] is Up!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/rebase-is-up/</link>
         <pubDate>Thu, 28 Sep 2023 19:31:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Sep 2023 19:31:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/rebase-is-up/</guid>
         <description>&lt;p&gt;
 Hello everypeep,&lt;/p&gt;
 &lt;p&gt;

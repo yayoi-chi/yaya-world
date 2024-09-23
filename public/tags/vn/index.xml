@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Vn on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/vn/</link>
+    <link>http://localhost:1313/~yayoi/tags/vn/</link>
     <description>Recent content in Vn on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,23 +16,23 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 14 Mar 2024 14:56:40 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/vn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/vn/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Persona 4 Golden</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
+        <link>http://localhost:1313/~yayoi/reviews/p4g/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:56:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/p4g/</guid>
         <description>&lt;a id=&#34;forums&#34; href=&#34;https://github.com/yayoi-chi/yaya-world/discussions/28&#34; target=&#34;_new&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
 &lt;/a&gt;
 &lt;div style=&#34;display:block;width:40px;height:40px;margin:auto&#34;&gt;
 &amp;nbsp;

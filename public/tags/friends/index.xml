@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Friends on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/friends/</link>
+    <link>http://localhost:1313/~yayoi/tags/friends/</link>
     <description>Recent content in Friends on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 17 Aug 2023 18:40:58 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/friends/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/friends/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>A little week</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-little-week/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-little-week/</link>
         <pubDate>Thu, 17 Aug 2023 18:40:58 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 17 Aug 2023 18:40:58 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-little-week/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-little-week/</guid>
         <description>This week was a small week. I did play a new game, but I&amp;#39;m not to a point where I&amp;#39;d feel comfortable reviewing it or writing a guide for it. This week wasn&amp;#39;t completely dead though. I have been spending some more time in Fiesta and that means some updates to the fiesta guide.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>A Commission! A Friend&#39;s ADVENTURE!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/a-commission-a-friends-adventure/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/a-commission-a-friends-adventure/</link>
         <pubDate>Thu, 03 Aug 2023 14:11:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 03 Aug 2023 14:11:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/a-commission-a-friends-adventure/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/a-commission-a-friends-adventure/</guid>
         <description>&lt;p&gt;
 Hello and welcome to another update!&lt;/p&gt;
 &lt;p&gt;
@@ -89,11 +89,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Wall o&#39; ADVENTURE</title>
-        <link>https://onigirionegai.info/~yayoi/gallery/misc/</link>
+        <link>http://localhost:1313/~yayoi/gallery/misc/</link>
         <pubDate>Sat, 15 Oct 2022 22:34:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 15 Oct 2022 22:34:31 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/gallery/misc/</guid>
+        <guid>http://localhost:1313/~yayoi/gallery/misc/</guid>
         <description>&lt;p&gt;Oh boi! I&amp;rsquo;m not really sure what to do with this one. The original plan was to have screenshots of the ADVENTURES I&amp;rsquo;ve had in past games, but, with clips on Twitch and my &lt;a href=&#34;https://www.youtube.com/playlist?list=PLkFe_D6-Ml99oIIwXaAMrMayxFG7lDdSE&#34;&gt;YouTube Archives&lt;/a&gt; I&amp;rsquo;m not really sure any more. I haven&amp;rsquo;t updated it in &lt;strong&gt;ages&lt;/strong&gt; 😅 Right now its just a random set of screenshots from one MMO I used to play. Maybe it&amp;rsquo;ll showcase ADVENTURES I have with kittens? I don&amp;rsquo;t know yet, thanks for looking though 😅&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -125,11 +125,11 @@ I like that I have time now to do more frequent updates to the site. This update
       
       <item>
         <title>Chapter 1: Where&#39;s My Baby!?</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/ch1/</link>
+        <link>http://localhost:1313/~yayoi/adventures/ch1/</link>
         <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:56:20 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/ch1/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/ch1/</guid>
         <description>&lt;p&gt;
 While on an ADVENTURE with Yayoi, Baby ended up chasing a sheep. After, finally, catching up to the sheep, Baby gave it a nice pet. It was so fluffy and soft, she couldn&amp;#39;t resist. She looked around and found that she was no longer with Yayoi. In fact, Yayoi was no where to be seen. Fortunately a party of friends was out on an ADVENTURE of their own and found her, now in Burning Hill, by herself. The friends ask baby to retrace her steps. Baby leads them back to Sea of Greed, where she last saw Yayoi, but Yayoi had already moved on. However, the group did encounter someone in Sea of Greed.&lt;/p&gt;</description>
         
