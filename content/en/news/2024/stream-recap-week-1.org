@@ -28,7 +28,7 @@ I started this game off stream, but didn't get very far. Still this is technical
 This is a brand new save! I created a self-sim and a place for her to live. That didn't take as long as I thought it would so I also got started on a new challenge. I'm going to try and complete every aspiration in the game, or die trying!
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 5/20 - 5/26
-[[/~yayoi/images/Yayoi_Chi20May.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi20May.png]]
 
 | Day of the Week | What's Streaming                              | At What Time |
 |-----------------+-----------------------------------------------+--------------|

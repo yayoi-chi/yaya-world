@@ -27,7 +27,7 @@ With the basic rigging done, I set out to show off my model! There were some gli
 I feel like this was the most unproductive Hollow Knight stream ever. Don't get me wrong I did get the super dash, which is my favorite ability, but then I just kind of wondered through Hollownest. I'm not sure where I want to go next, but I'll give it some thought and maybe have a direction to go next week!
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/17 - 6/23
-[[/~yayoi/images/Yayoi_Chi17Jun.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi17Jun.png]]
 
 | Day of the Week | What's Streaming                                           | At What Time |
 |-----------------+------------------------------------------------------------+--------------|

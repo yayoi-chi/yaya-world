@@ -1,0 +1,56 @@
+#+TITLE: Stream Recap: 22 Sep
+#+DATE: 2024-09-22T13:18:39-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A mostly normal week, with normal games, and normal things...except we tried streaming to YouTube and it went well! Also two art streams cuz, I'm an artist!
+
+* Art Stream
+Two art streams this week! The first was an icon stream and the second was getting ready for spooky day. I made smol outfits for myself and Jade!
+** Elemental Icons Batch No. 2
+Finished our second set of elemental icons. I think I've done all the ones I was requested to do, and apparently one more. I have other batches of icons to work on though. I also got feedback from the requester to implement so...more icons sometime...not next week though 😜
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EM7Mu3_w3OY?si=Jjt9Fu9AKHcRSuEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Spooky Month Smol Outfits
+Decided to start spooky month preperations! It's less than a month away people! That's not a lot of time. Started with the smol outfits which a matching set for me and Jade. I'm an eevee and they are a pikachu. I think it came out really well. I'm going to do a full outfit for myself next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-9cehyHY-0?si=P3G78v0Wwf_MUUAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+The game streams were basically normal, but I did select a couple of games to avoid some Hollow Knight and Persona 3 burnout. So, enjoy seeing new games on the list this week, but we'll be back for the usual set next week.
+** Stray
+Needed a break from Hollow Knight, so, this is our little cute break from Hollownest. Stray...is an interesting game. When I bought it, I thought it would be cuter, but... The story is a bit dark actually. Still good. I think I have a [[{{% ref 'reviews/stray.org' %}}][review]] on here somewhere.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sylB1MYheM4?si=joiNpsxV1C4jnJ3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Kept this the same! We did finally make it out of the Gnosis. Sadly, we didn't do much after that. There was mostly just a lot of scenes. We'll have more fun with this next week too!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-k_Z0IMz1E?si=ER4c01EkABQCvRu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+Made up for not having a stream last Friday! Well, not really, the stream was only about as long as they normally are, but we made looots of progress!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4JhlhEASuh8?si=PeUW4yHn_afxB8fL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Zenless Zone Zero
+This was the day! We started a little stream on YouTube, just to test it out. It went well. Well, the stream did. The game? Well it didn't really cooperate much. I probably won't play it much on stream, but I did figure out a way to keep it from freezing so much, methinks!
+
+[[https://youtube.com/live/XJALFNfi2L0?feature=share][Watch the Replay!]]
+* Next Week
+ Next week the streams will be half on [[https://www.twitch.tv/yayoi_chi][Twitch]] and half on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I'm not sure why, but I enjoyed streaming on YouTube more than Twitch, so I /might/ stream there more, but I don't plan on leaving Twitch any time soon. My recurring schedule will stay on Twitch for now. That means Maker Monday, Throwback Thursday, and Fantasy Friday. Everything else will be on either depending on how I feel. Next week, those other streams will be on YouTube.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/23 - 9/29
+[[/~yayoi/images/schedules/2024/Yayoi_Chi23Sep.png]]
+
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                       | When I'm Streaming |
+|-----------+---------------------+--------------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Let's do a full spooky month outfit!                                | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Art: We're going to need another spooky month outfit day!                | 10 PM ET/7PM PT    |
+| Wednesday | YouTube             | Hollow Knight: Back from our break! Let's get back to Hollownest         | 4 PM ET/1PM PT     |
+| Thursday  | Twitch              | Xenosaga Episode 1: We're outside the Gnosis, let get to the foundation! | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Final Fantasy V: Let's keep going! Much story left!                      | 4 PM ET/1 PM PT    |
+| Saturday  | YouTube             | Persona 3 Reload: Let's get ourselves to the next, and final, full moon  | 4 PM ET/1 PM PT    |
+| Sunday    |                     | /Rest Day/                                                               | Offline            |

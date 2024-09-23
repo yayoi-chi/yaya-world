@@ -36,7 +36,7 @@ I started this one early and decided to finish the assets I was working on in th
 #+end_export
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/24 - 6/30
-[[/~yayoi/images/Yayoi_Chi24Jun.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi24Jun.png]]
 
 | Day of the Week | What's Streaming                                                                     | At What Time |
 |-----------------+--------------------------------------------------------------------------------------+--------------|

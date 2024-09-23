@@ -37,7 +37,7 @@ Finished Pokemon Sword \ ( ^ o ^ ) / It was really special showing off my all Ee
 * Next Week
 The schedule that is posted on [[https://www.twitch.tv/yayoi_chi][Twitch]] only shows recurring streams now, so always come here for the full schedule! The week starts with Maker Monday and I will be doing some requests. We will move on to some Hollow Knight and Persona 3 Reload. Don't forget our Throwback Thursday with Xenosaga and the new Fantasy Friday with Final Fantasy V!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/9 - 9/15
-[[/~yayoi/images/Yayoi_Chi9Sep.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi9Sep.png]]
 
 | Day of the Week | What's Streaming                                                       | At What Time |
 |-----------------+------------------------------------------------------------------------+--------------|

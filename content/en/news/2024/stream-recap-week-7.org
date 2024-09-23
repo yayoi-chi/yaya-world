@@ -35,7 +35,7 @@ Lots of wondering around trying to find paths I still have access too. I did mee
 #+end_export
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/1 - 7/7
-[[/~yayoi/images/Yayoi_Chi1Jul.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi1Jul.png]]
 
 | Day of the Week | What's Streaming                              | At What Time |
 |-----------------+-----------------------------------------------+--------------|

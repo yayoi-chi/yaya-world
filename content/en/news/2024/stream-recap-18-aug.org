@@ -44,7 +44,7 @@ Okie, so the end game was longer than I thought, but also kind of short, at leas
 * Next Week
 Well, I did well last week, but Saturday was a little rough. This week I will be doing only one stream a day and will be streaming Monday through Friday. There will also be an extra art stream! We will be back to Hollow Knight, and Xenosaga and start Final Fantasy V. Hope to see you live on [[https://www.twitch.tv/yayoi_chi][Twitch]] 💜
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/19 - 8/25
-[[/~yayoi/images/Yayoi_Chi19Aug.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi19Aug.png]]
 
 | Day of the Week | What's Streaming                                                      | At What Time |
 |-----------------+-----------------------------------------------------------------------+--------------|

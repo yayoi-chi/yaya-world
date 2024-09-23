@@ -15,7 +15,7 @@ Anyway, I don't think I'm going to finish IV before the end of the week. Just ha
 * Next Week
 The Final Fantasy 3 Week challenge might be over, but July is sticking around for a few more days, so why not still do some Final Fantasy things! Monday will be a special Final Fantasy-themed art stream where I will be drawing some of my favorite characters from FFIII and FFIV in my smol style as well as requests from others and maybe even from chat! I'll be off Tuesday, but Wednesday we may be back for some more FFIV and Thursday we'll be going back to a more normal schedule with Throwback Thursday and Chrono Trigger! Check out the full schedule below!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/29 - 8/4
-[[/~yayoi/images/Yayoi_Chi29Jul.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi29Jul.png]]
 
 | Day of the Week | What's Streaming                                          | At What Time |
 |-----------------+-----------------------------------------------------------+--------------|

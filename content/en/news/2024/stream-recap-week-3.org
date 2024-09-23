@@ -39,7 +39,7 @@ Still making my way through Hollownest. I'm both surprised by how well I'm doing
 
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 6/3 - 6/9
-[[/~yayoi/images/Yayoi_Chi3Jun.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi3Jun.png]]
 
 | Day of the Week | What's Streaming                                        | At What Time |
 |-----------------+---------------------------------------------------------+--------------|

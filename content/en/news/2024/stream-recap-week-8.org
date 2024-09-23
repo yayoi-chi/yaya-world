@@ -36,7 +36,7 @@ In the second stream I made my way out of Deepnest and back to the Ancient Basin
 * Next Week
 Kicking off a three week Final Fantasy Challenge! I'm going to try and get through all the Final Fantasy games...or at least see how many I can get through until Aug!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/8 - 7/14
-[[/~yayoi/images/Yayoi_Chi8Jul.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi8Jul.png]]
 
 | Day of the Week | What's Streaming          | At What Time |
 |-----------------+---------------------------+--------------|

@@ -39,7 +39,7 @@ Just got started on this one. I beat IV so it was time add I and we all know tha
 * Next Week
 I am getting new carpet next week, so the week will be shorter. I am still planning on doing my art stream and Throwback Thursday, but I am also planning on doing Final Fantasy V and getting my Hollow Knight fix. Catch it all live on [[https://www.twitch.tv/yayoi_chi][Twitch]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 8/26 - 9/1
-[[/~yayoi/images/Yayoi_Chi26Aug.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi26Aug.png]]
 
 | Day of the Week | What's Streaming                                             | At What Time |
 |-----------------+--------------------------------------------------------------+--------------|

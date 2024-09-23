@@ -25,7 +25,7 @@ This Monday marked the beginning of the challenge. I've linked a playlist contai
 * Next Week
 The Final Fantasy Challenge continues for another week! Let's see if I make it to IV or even V? We'll see!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 7/15 - 7/21
-[[/~yayoi/images/Yayoi_Chi15Jul.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi15Jul.png]]
 
 | Day of the Week | What's Streaming                | At What Time |
 |-----------------+---------------------------------+--------------|
