@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Peekture Gallery on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/gallery/</link>
+    <link>https://onigirionegai.info/~yayoi/gallery/</link>
     <description>Recent content in Peekture Gallery on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,18 +16,18 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 17 Oct 2022 20:13:26 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Commissions</title>
-        <link>http://localhost:1313/~yayoi/gallery/commissions/</link>
+        <link>https://onigirionegai.info/~yayoi/gallery/commissions/</link>
         <pubDate>Thu, 31 Aug 2023 15:41:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 15:41:12 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/gallery/commissions/</guid>
-        <description>&lt;p&gt;I do commissions! For more information on commissioning me, you can check out the page &lt;a href=&#34;http://localhost:1313/~yayoi/commissions/&#34;&gt;about commissions&lt;/a&gt;. Please note that I only showcase commissions that the original client has given me permission to showcase!&lt;/p&gt;</description>
+        <guid>https://onigirionegai.info/~yayoi/gallery/commissions/</guid>
+        <description>&lt;p&gt;I do commissions! For more information on commissioning me, you can check out the page &lt;a href=&#34;https://onigirionegai.info/~yayoi/commissions/&#34;&gt;about commissions&lt;/a&gt;. Please note that I only showcase commissions that the original client has given me permission to showcase!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -60,11 +60,11 @@
       
       <item>
         <title>Wallpapers</title>
-        <link>http://localhost:1313/~yayoi/gallery/wallpapers/</link>
+        <link>https://onigirionegai.info/~yayoi/gallery/wallpapers/</link>
         <pubDate>Mon, 03 Apr 2023 15:43:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 03 Apr 2023 15:43:52 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/gallery/wallpapers/</guid>
+        <guid>https://onigirionegai.info/~yayoi/gallery/wallpapers/</guid>
         <description>&lt;p&gt;This is a collection of some of my favorite wallpapers. I like vector art and I like wallpapers that aren&amp;rsquo;t too busy. If you like those things too, then maybe you should download &lt;em&gt;some&lt;/em&gt; of these&amp;hellip;or not&amp;hellip;up to you 😜.&lt;/p&gt;
 &lt;p&gt;I do &lt;strong&gt;not&lt;/strong&gt; own &lt;em&gt;any&lt;/em&gt; of these wallpapers. If I have information on who created it, that information is in the caption! Also for basically all of autumn last year I rocked a very dark theme on all of my devices. This was the &lt;a href=&#34;https://draculatheme.com&#34;&gt;Dracrula Theme&lt;/a&gt; it was a really cool theme and the macOS wallpaper (there are other versions, check out the site!) for it is included below!&lt;/p&gt;</description>
         
@@ -105,11 +105,11 @@
       
       <item>
         <title>Yaya&#39;s Creations</title>
-        <link>http://localhost:1313/~yayoi/gallery/creations/</link>
+        <link>https://onigirionegai.info/~yayoi/gallery/creations/</link>
         <pubDate>Tue, 08 Nov 2022 10:35:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 08 Nov 2022 10:35:31 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/gallery/creations/</guid>
+        <guid>https://onigirionegai.info/~yayoi/gallery/creations/</guid>
         <description>&lt;p&gt;I draw too! That&amp;rsquo;s right I don&amp;rsquo;t just play games, but I also like to draw. I will even stream my art, you can check out my past art streams on &lt;a href=&#34;https://www.youtube.com/playlist?list=PLkFe_D6-Ml98xWkSINAfE8FWSVrdK2iIg&#34;&gt;YouTube&lt;/a&gt;. I try to do at least one art stream a week, so please check it out, and check out my finished works below!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -141,11 +141,11 @@
       
       <item>
         <title>Wall o&#39; ADVENTURE</title>
-        <link>http://localhost:1313/~yayoi/gallery/misc/</link>
+        <link>https://onigirionegai.info/~yayoi/gallery/misc/</link>
         <pubDate>Sat, 15 Oct 2022 22:34:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 15 Oct 2022 22:34:31 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/gallery/misc/</guid>
+        <guid>https://onigirionegai.info/~yayoi/gallery/misc/</guid>
         <description>&lt;p&gt;Oh boi! I&amp;rsquo;m not really sure what to do with this one. The original plan was to have screenshots of the ADVENTURES I&amp;rsquo;ve had in past games, but, with clips on Twitch and my &lt;a href=&#34;https://www.youtube.com/playlist?list=PLkFe_D6-Ml99oIIwXaAMrMayxFG7lDdSE&#34;&gt;YouTube Archives&lt;/a&gt; I&amp;rsquo;m not really sure any more. I haven&amp;rsquo;t updated it in &lt;strong&gt;ages&lt;/strong&gt; 😅 Right now its just a random set of screenshots from one MMO I used to play. Maybe it&amp;rsquo;ll showcase ADVENTURES I have with kittens? I don&amp;rsquo;t know yet, thanks for looking though 😅&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
