@@ -5,7 +5,7 @@
 #+TAGS[]: stream site personal news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: This is just a short notice! Last week, I did a test stream on YouTube. While the game itself didn't cooperate, the stream worked very well. In fact I enjoyed it! I think my flow just works better with YouTube. I don't plan on leaving Twitch anytime soon, but I'll be doing exclusive streams on both YouTube and Twitch.
 
 This is just a short notice! Last week, I did a test stream on YouTube. While the game itself didn't cooperate, the stream worked very well. In fact I enjoyed it! I think my flow just works better with YouTube. I don't plan on leaving Twitch anytime soon, but I'll be doing exclusive streams on both YouTube and Twitch.
 

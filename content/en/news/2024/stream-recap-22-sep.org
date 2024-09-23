@@ -22,7 +22,7 @@ Decided to start spooky month preperations! It's less than a month away people! 
 * Game Streams
 The game streams were basically normal, but I did select a couple of games to avoid some Hollow Knight and Persona 3 burnout. So, enjoy seeing new games on the list this week, but we'll be back for the usual set next week.
 ** Stray
-Needed a break from Hollow Knight, so, this is our little cute break from Hollownest. Stray...is an interesting game. When I bought it, I thought it would be cuter, but... The story is a bit dark actually. Still good. I think I have a [[{{% ref 'reviews/stray.org' %}}][review]] on here somewhere.
+Needed a break from Hollow Knight, so, this is our little cute break from Hollownest. Stray...is an interesting game. When I bought it, I thought it would be cuter, but... The story is a bit dark actually. Still good. I think I have a [[{{% ref "reviews/stray.org" %}}][review]] on here somewhere.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sylB1MYheM4?si=joiNpsxV1C4jnJ3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
