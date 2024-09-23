@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: A mostly normal week, with normal games, and normal things...except we tried streaming to YouTube and it went well! Also two art streams cuz, I'm and artist!
+#+SUMMARY: A mostly normal week, with normal games, and normal things...except we tried streaming to YouTube and it went well! Also two art streams cuz, I'm an artist!
 
 * Art Stream
 Two art streams this week! The first was an icon stream and the second was getting ready for spooky day. I made smol outfits for myself and Jade!
@@ -15,14 +15,14 @@ Finished our second set of elemental icons. I think I've done all the ones I was
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EM7Mu3_w3OY?si=Jjt9Fu9AKHcRSuEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Spooky Month Smol Outfits
-Decided to start spooky month preperations! It's less than a month away people! That's not a lot of time. Started with the smol outfits which a matching set for me and Jade. I'm an Eevee and they are a pikachu. I think it came out really well. I'm going to do a full outfit for myself next week!
+Decided to start spooky month preperations! It's less than a month away people! That's not a lot of time. Started with the smol outfits which a matching set for me and Jade. I'm an eevee and they are a pikachu. I think it came out really well. I'm going to do a full outfit for myself next week!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-9cehyHY-0?si=P3G78v0Wwf_MUUAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
 The game streams were basically normal, but I did select a couple of games to avoid some Hollow Knight and Persona 3 burnout. So, enjoy seeing new games on the list this week, but we'll be back for the usual set next week.
 ** Stray
-Needed a break from Hollow Knight, so, this is our little cute break from Hollownest. Stray...is in interesting game. When I bought it, I thought it would be cuter, but... The story is a bit dark actually. Still good. I think I have a [[{{% ref 'reviews/stray.org' %}}][review]] on here somewhere.
+Needed a break from Hollow Knight, so, this is our little cute break from Hollownest. Stray...is an interesting game. When I bought it, I thought it would be cuter, but... The story is a bit dark actually. Still good. I think I have a [[{{% ref 'reviews/stray.org' %}}][review]] on here somewhere.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sylB1MYheM4?si=joiNpsxV1C4jnJ3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -37,7 +37,7 @@ Made up for not having a stream last Friday! Well, not really, the stream was on
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4JhlhEASuh8?si=PeUW4yHn_afxB8fL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Zenless Zone Zero
-This was the day! We started a little stream on YouTube, just to test it out. It went well. Well, the stream did, the game? Well it didn't really cooperate much. I probably won't play it much on stream, but I did figure out a way to keep it from freezing so much, methinks!
+This was the day! We started a little stream on YouTube, just to test it out. It went well. Well, the stream did. The game? Well it didn't really cooperate much. I probably won't play it much on stream, but I did figure out a way to keep it from freezing so much, methinks!
 
 [[https://youtube.com/live/XJALFNfi2L0?feature=share][Watch the Replay!]]
 * Next Week
