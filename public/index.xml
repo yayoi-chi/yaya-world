@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 22 Sep 2024 13:18:39 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 13:51:32 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 29 Sep</title>
+        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-sep/</link>
+        <pubDate>Sun, 29 Sep 2024 13:51:32 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 29 Sep 2024 13:51:32 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-sep/</guid>
+        <description>I needed two art streams to do one project this week! Well, maybe only one and half, but I made it two. I also streamed a bit more on YouTube this week, and I messed around with on screen chat there. Next week will be more on Twitch, cuz I&amp;#39;m affiliate!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3216,34 +3248,6 @@ I like that I have time now to do more frequent updates to the site. This update
         <atom:modified>Sun, 09 Apr 2023 12:24:15 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2023/birthday/</guid>
         <description>I had a birthday so I updated the site!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>New Gallery!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-gallery/</link>
-        <pubDate>Mon, 03 Apr 2023 16:14:52 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Mon, 03 Apr 2023 16:14:52 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-gallery/</guid>
-        <description>Enjoy the new gallery! Also, I talk about art 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
