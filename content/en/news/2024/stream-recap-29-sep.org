@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 29 Sep
+#+DATE: 2024-09-29T13:51:32-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I needed two art streams to do one project this week! Well, maybe only one and half, but I made it two. I also streamed a bit more on YouTube this week, and I messed around with on screen chat there. Next week will be more on Twitch, cuz I'm affiliate!
+
+* Art Stream
+Spooky Month outfit time! This is the full outfit that I plan to rig for live animation and use later in Spooky Month. There was one stream on Twitch and one stream on YouTube. I combined them into one video on YouTube though for easy watching!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mcl5UsY80P8?si=71qipP_weE-uqBuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Went back to Hollow Knight and Persona this week. I also streamed more on YouTube. I actually prefer it, and I don't know why, but I'm still not leaving Twitch any time soon!
+** Hollow Knight
+After a break from Hollow Knight, I went back and finally beat those roly-poly knights! After that I got the third dreamer and spent some time trying to see if anything new had opened up. I fought a really angry guardian, but I gottem! You know what I got for it? A dumb mask? No just the fragment of one!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rCpEiNCnszg?si=AeZ8SCOq36WCHvOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Made it to the foundation and watched a *lot* more scenes. Things do pick up later, but this episode is very story-centered. I still like it though. Hopefully it isn't to boring for everyone 😅
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzJ2_oJa4UE?si=jNdwW7gZlcw9Qx-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+Made some more progress in the second world, but still just getting started. A group of enemies really started to kick my butt near the end. I'm going to grind and come back though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWsnJmrkpa8?si=A562XKA4pJ8cMZfd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+A mixture of story, Tartarus exploration and working on Social Links. Overall, a typical playthrough of a Persona game. This game has a lot of feels though! I'm getting surprised!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_Oswz7f4l8?si=FWxz14DCSmzXhGTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with one on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I'm mostly sticking to Twitch this week because I have officially been made a Twitch Affiliate! There will be a celebration event later!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/30 - 10/6
+[[/~yayoi/images/schedules/2024/Yayoi_Chi30Sep.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                     | When I'm Streaming |
+|-----------+---------------------+------------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Let's do a full spooky month outfit!                              | 10 PM ET/7 PM PT   |
+| Tuesday   | Twitch              | Corpse Party: Spooky Month Kickoff!                                    | 4 PM ET/1 PM PT    |
+| Wednesday | YouTube             | Prey: Time to get really spooky!                                       | 4 PM ET/1PM PT     |
+| Thursday  | Twitch              | Fatal Frame II: Will I actually finish this game?                      | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | A Plague Tale: Someone claims this is dark fantasy, what do you think? | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Extra Rest Day/                                                       | Offline            |
+| Sunday    |                     | /Rest Day/                                                             | Offline            |
