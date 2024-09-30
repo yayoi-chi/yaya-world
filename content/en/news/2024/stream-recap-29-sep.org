@@ -15,7 +15,7 @@ Spooky Month outfit time! This is the full outfit that I plan to rig for live an
 * Game Streams
 Went back to Hollow Knight and Persona this week. I also streamed more on YouTube. I actually prefer it, and I don't know why, but I'm still not leaving Twitch any time soon!
 ** Hollow Knight
-After a break from Hollow Knight, I went back and finally beat those roly-poly knights! After that I got the third dreamer and spent some time trying to see if anything new had opened up. I fought I really angry guardian, but I gottem! You know wut I got for it? I dum mask? No just the fragment of one!
+After a break from Hollow Knight, I went back and finally beat those roly-poly knights! After that I got the third dreamer and spent some time trying to see if anything new had opened up. I fought a really angry guardian, but I gottem! You know what I got for it? A dumb mask? No just the fragment of one!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rCpEiNCnszg?si=AeZ8SCOq36WCHvOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -35,7 +35,7 @@ A mixture of story, Tartarus exploration and working on Social Links. Overall, a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Oswz7f4l8?si=FWxz14DCSmzXhGTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
- Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with one on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I'm mostly stickng to Twitch this week because I have officially been made a Twitch Affiliate! There will be a celebration event later!
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with one on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I'm mostly sticking to Twitch this week because I have officially been made a Twitch Affiliate! There will be a celebration event later!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 9/30 - 10/6
 [[/~yayoi/images/schedules/2024/Yayoi_Chi30Sep.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                                     | When I'm Streaming |
