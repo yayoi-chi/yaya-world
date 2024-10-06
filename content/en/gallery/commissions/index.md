@@ -22,6 +22,8 @@ images: # when mode is one-by-one, images front matter works
     caption: This is the first stab at a streaming frame. I've decided, after doing the retro one to edit this a bit. That'll be done after Thanksgiving
   - image: StreamSetUp.png
     caption: This is a "Stream Starting Soon Card". My client uses it before the stream starts.
+  - image: InLovingMemory.png
+    caption: A commission for a friend to gift to their friend whose cat passed away 🥺
 ---
 
 I do commissions! For more information on commissioning me, you can check out the page [about commissions]({{% ref "/commissions.org" %}}). Please note that I only showcase commissions that the original client has given me permission to showcase!
