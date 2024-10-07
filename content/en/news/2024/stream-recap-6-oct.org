@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 6 Oct
+#+TITLE: Stream Recap: 6 Oct
 #+DATE: 2024-10-06T15:13:53-07:00
 #+DRAFT: false
 #+DESCRIPTION:
@@ -13,7 +13,7 @@ The ghost cat got cut up and ready for rigging, but I didn't do the rigging on s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDn4MD5eekQ?si=S7m3uBVQ9RNjuTZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-The beginning of Spooky Month! We did spooky things in spooky games including Corpose Party and the game the freaked me out the most, A Plague Tale: Innocence!
+The beginning of Spooky Month! We did spooky things in spooky games including Corpse Party and the game the freaked me out the most, A Plague Tale: Innocence!
 ** Corpse Party
 I've played this before, but not this version. Not much changed in terms of story or game play, but, much like Higurashi, they updated visuals are nice! Just got through chapter one and decided to stop for now. Maybe we'll visit it again later in the month!
 #+begin_export html
