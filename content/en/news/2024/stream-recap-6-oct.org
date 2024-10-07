@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 6 Oct
+#+DATE: 2024-10-06T15:13:53-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: After two art stream to design the ghost cat, I needed one more to get her ready for rigging! She's all done, but I can't use her just yet. So I debuted my smol Evee avatar this week instead!
+
+* Art Stream
+The ghost cat got cut up and ready for rigging, but I didn't do the rigging on stream. She is all rigged now, but it'll be a bit before I can use her. Hope you like watching the transformation though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDn4MD5eekQ?si=S7m3uBVQ9RNjuTZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+The beginning of Spooky Month! We did spooky things in spooky games including Corpse Party and the game the freaked me out the most, A Plague Tale: Innocence!
+** Corpse Party
+I've played this before, but not this version. Not much changed in terms of story or game play, but, much like Higurashi, they updated visuals are nice! Just got through chapter one and decided to stop for now. Maybe we'll visit it again later in the month!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2vTQA8RKQw?si=Y-D1sH0CKE78_o3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Prey
+I have also played this game before, but thought it would be a different type of spooky game for Spooky Month. I think I was right. It definitely spooked me 😆
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuIHtpe4wLg?si=RgkS0vayqKzqCvkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II: Crimson Butterfly
+For Throwback Thursday I thought one of the first horror games I ever played would be a good fit. It turns out the game is super hard to see for me and my viewers, but we powered through it and I think it'll be a bit easier to see now that I have the flashlight.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOik3uBHalo?si=1XppBeBK5PyHdL1H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** A Plague Tale: Innocence
+I wasn't expecting to be freaked out quite so much with this game, but I was. It was even worse that Corpse Party or Fatal Frame. I might be developing a rat phobia 😅 Except I still plan on playing it through Spooky Month at least so...maybe I like being freaked out 🤪
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-6hDfjQM9E?si=h4gHH3wQGto6uBHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with one on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! It is also the start of a new term at school, so we see the return of the Homework Days 🥺 There are two this week cuz, first week 😜
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 10/7 - 10/13
+[[/~yayoi/images/schedules/2024/Yayoi_Chi7Oct.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                      | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Let's Make Badges and Emotes! We're Affiliate Now! | 10 PM ET/7 PM PT   |
+| Tuesday   |                     | /Homework Day/                                          | Offline            |
+| Wednesday | YouTube             | Prey: Let's "Prey" About This!                          | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Fatal Frame II: Let's Find Sister!                      | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | A Plague Tale: Let's Get Away From All These Rats!      | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Homework Day/                                          | Offline            |
+| Sunday    |                     | /Rest Day/                                              | Offline            |
