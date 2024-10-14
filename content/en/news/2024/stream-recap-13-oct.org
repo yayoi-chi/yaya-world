@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 13 Oct
+#+DATE: 2024-10-13T17:08:38-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Not only did I create a few fairy wings and a head pat emote this week, but this was also the official debut of ghost cat! What are her intentions with my stream? Who even is she? I guess we'll have to wait and fight out!
+
+* Art Stream
+This week I wanted to start celebrating my move to Twitch affiliate by making emotes. I may have spent too much time on fairy wings for my sub badge. I did manage one and it's probably the best one! Head pats for all!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_uYPfz4ueY?si=jfrHYbHBFrmi8PQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+This weeks ghost cat took over all of my streams! I don't know what her deal is, but hopefully my viewers will be safe! We played Prey, Fatal Frame II, and A Plague Tale again.
+** Prey
+I got a lot of scares in this week, or rather I got scared a lot this time! I did manage to gain mimic powers. So now I can scare the living daylights out of other now, maybe! Didn't seem to work so well yet, but maybe later! Anyway, got stuck by a phantom, but we'll take care that next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2cEnFjMyYuk?si=yZ-B9xGyZLSdY88O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II: Crimson Butterfly
+We are still trying to locate sister. I may have spent too much time not quite understanding what I was supposed to do. I think I got it in the end though! Yes, dark came is still dark 😅 Also, the flashlight doesn't seem to work anymore...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uig9lyMLFCg?si=4DTSqEj35VRYzIn9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** A Plague Tale: Innocence
+We went to university and got a book! We didn't check it out though, and there may have been a little fire, but...uhm...its fine...I'm sure everything is fine 😅 Also, still rats!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IXXjeiY09l0?si=1txK5wbZYziRwPDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! Homework days are still here, but it seems two might have been a bit excessive, so we'll try just one this week and hopefully I'll still get everything done!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 10/14 - 10/20
+[[/~yayoi/images/schedules/2024/Yayoi_Chi14Oct.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                   | When I'm Streaming |
+|-----------+---------------------+----------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Spent too much time on badges, so we do emotes now              | 10 PM ET/7 PM PT   |
+| Tuesday   |                     | /Homework Day/                                                       | Offline            |
+| Wednesday | YouTube             | Prey: Why so many phantoms? I just wanna get outta here!             | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Fatal Frame II: Will we ever get to see sister again?                | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | A Plague Tale: Moar rats? I don’t wanna!                             | 4 PM ET/1 PM PT    |
+| Saturday  | YouTube             | Corpse Party: So Chapter 1 happened, let’s see if we’re ready for 2! | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                           | Offline            |
