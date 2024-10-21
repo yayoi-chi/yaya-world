@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 20 Oct
+#+DATE: 2024-10-20T18:19:41-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Worked on a couple of new emotes and had a lot of fun with spooky games, except Corpose Party. Let's just say, I'm glad I decided not to play it during the night 😅
+
+* Art Stream
+I worked on some more emotes! I finished one and started another. I really like doing emotes, but there's kind of a new challenge to them. You have to do shading and coloring just right to make sure that things show up at all scales. Its a new adjustment, just like learning to rig. Its fun though and I look forward to making more!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JyQzKcv0Wbc?si=2za1YNhQQFLxwEyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Normal selection and amount of games this week! Started the week with some Prey and ended with Corpse Party again. Hopefully I won't need to recover after every Corpose Party stream, but it was quite emotionally draining this time 😅
+** Prey
+Got passed on set of phantoms only to spend most of the game trying to get passed a different more power enemy. I ended up killing it with fire, no joke, check it out! There's even a clip of it!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3VE6nImqzU?si=_B_IHX8io-j5s0y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II: Crimson Butterfly
+I found my sister again and learned a lot more about the village. It has a history for sure, and not a good one. I'm kind of worried sister is going to run off again, but she is super clingy now, so maybe she won't, we'll see I guess.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njKxmA_rWFU?si=JZ_aj7AxDuffL1Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** A Plague Tale: Innocence
+The roller coaster ride continues as one character gains the ability to manipulate the rats. They aren't friends for sure, but they are useful, only they're still deadly and scary. I don't think that'll ever change.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zRkqvshhmto?si=DId2SfynWBKlCDf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party
+Yeah, this is the one I literally needed to relax for several hours after playing. A lot happens and its a *lot* to process. Its a very sad story. I'm glad I didn't go through all the victim's memoirs in this chapter this time though! Well, let's see if I do better in the next chapter!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9xvVxmfRUc?si=lgNotrYud7Mynk-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! Homework days are still here, but it seems two might have been a bit excessive, so we'll try just one this week and hopefully I'll still get everything done!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 10/21 - 10/27
+[[/~yayoi/images/schedules/2024/Yayoi_Chi21Oct.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                   | When I'm Streaming |
+|-----------+---------------------+----------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: We do more emotes! Emotes are fun!                              | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Corpse Party: These kids have been through a /lot/, let's check in!  | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Prey: Why is it so hard to blow up a space station                   | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Fatal Frame II: Sister better not run off again! I'll be very cross! | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | A Plague Tale: Rats are friends, rats are enemies, rats are scary!   | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Homework Day/                                                       | Offline            |
+| Sunday    |                     | /Rest Day/                                                           | Offline            |

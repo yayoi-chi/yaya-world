@@ -24,6 +24,8 @@ images: # when mode is one-by-one, images front matter works
     caption: This is a "Stream Starting Soon Card". My client uses it before the stream starts.
   - image: InLovingMemory.png
     caption: A commission for a friend to gift to their friend whose cat passed away 🥺
+  - image: ALittleADVENTURE.png
+    caption: A cute project commissioned by a friend to draw a friend's vTuber model as Lara Croft. One of my fave commissions!
 ---
 
 I do commissions! For more information on commissioning me, you can check out the page [about commissions]({{% ref "/commissions.org" %}}). Please note that I only showcase commissions that the original client has given me permission to showcase!
