@@ -15,7 +15,7 @@ I worked on some more emotes! I finished one and started another. I really like 
 * Game Streams
 Normal selection and amount of games this week! Started the week with some Prey and ended with Corpse Party again. Hopefully I won't need to recover after every Corpose Party stream, but it was quite emotionally draining this time 😅
 ** Prey
-Got passed on set of phantoms only to spend most of the game trying to get passed a different more power enemy. I end up killing it with fire, no joke, check it out! There's even a clip of it!
+Got passed on set of phantoms only to spend most of the game trying to get passed a different more power enemy. I ended up killing it with fire, no joke, check it out! There's even a clip of it!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3VE6nImqzU?si=_B_IHX8io-j5s0y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
