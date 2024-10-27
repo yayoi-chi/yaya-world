@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 27 Oct
+#+DATE: 2024-10-27T14:42:21-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Sick week of sickness was not fun, not fun at all. Two of my streams were canceled this week due to illness. Still, I did manage to finish the rat game, and two canceled means three went up, so that's good, right?
+
+* Art Stream
+Unfortunately, this stream, as well as one of the game streams, was canceled this week. I woke up feeling pretty bad on Monday and decided I needed some extra rest. Setting up for a stream just didn't seem like a good idea. I did rest and managed to get a bit better pretty quickly, but, that didn't last the whole week, sadly 😢
+* Game Streams
+Went from bad to good to not good pretty quickly this week. My two YouTube streams went off without any problems, but I ended up canceling again on Throwback Thursday. Still we made good progress in Prey, survived Corpse Party, and finish A Plague Tale, so yay!
+** Corpse Party
+Full disclosure, I had played these games before. I don't feel very prepared for them mentally or emotionally any more. I think I was in a different head space back then. Either way, I think we're making good progress. Didn't finish chapter 3, but I think we'll get there soon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxSLEDyp2KU?si=nwDWnW9d0qSnoXQ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Prey
+I learned more cheats and abilities and even hacks in this game now! Still wasn't able to free the elevator though, but I did beat a telepath and that's no joke! Still, its a lot harder to blow this place than I thought 😆
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lj_eLx9mOIs?si=S6msQQUGFdWK8zED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** A Plague Tale: Innocence
+We did it! We beat the rat game 🥳 I no longer have an unhealthy fear of rats (just a healthy one). Actually rats are kind of cool now!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5NzTBwCVJo?si=q_RoPPdkb-4_BqQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be mostly on [[https://www.twitch.tv/yayoi_chi][Twitch]] again, with two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! When I was younger, Saturday just seemed like the worst day for homework...guess that changed at some point 😅
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 10/28 - 11/3
+[[/~yayoi/images/schedules/2024/Yayoi_Chi28Oct.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                            | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: I still have emote ideas! Also, I need cat tweats!       | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Corpse Party: Chapter 4 or bust!                              | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Prey: "Prey" I finish, please and thank you!                  | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Special: Spooky Month Finale! This is going to be a long one! | 3 PM ET/12 PM PT   |
+| Friday    | Twitch              | Special: Twitch Affiliate Celebration and back to FFV!        | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                                | Offline            |
+| Sunday    |                     | /Rest Day/                                                    | Offline            |

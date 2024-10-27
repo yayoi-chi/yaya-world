@@ -1,0 +1,24 @@
+#+TITLE: Announcing an Announcement
+#+DATE: 2024-10-27T14:41:53-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+There is nothing in the world quite as much fun as an announcement, except, maybe, and announcement to announce an announcement! Basically, I don't want to give away too much details because this will be a part of a celebration event so I'm just going to say something is coming soon! Suspense!
+
+* Twitch Affiliate Celebration
+#+attr_html: :align center :width 100% :alt You are invited to an event!
+[[/~yayoi/images/YayoiInvitation.png]]
+
+On the first of November at noon pacific time I will be starting a very brief celebration. Just before we began or Spooky Month celebration I reached affiliate status on Twitch. I got a little caught up in the whole Spooky Month thing and pushed this pretty important accomplishment aside. Now that Spooky Month is over I am /not/ doing to forget the efforts we all took in making this happen. This is as much your accomplishment as it is mine. I'll spend at least a few moment celebrating our accomplishment with you So please come early!
+
+* A Special Project Will be Coming Soon
+I don't want to spoil too much before the event, but I also don't want to be entirely cryptic. Basically, with me now affiliate, I think it is time that I explain a little bit about why you don't hear me speak during streams and are instead treated to a synthetic voice. So I'm working on a sort of motion comic or something that will explain all of that. The comic itself will probably not be out until next year. I am planning to release it as a YouTube video. I'm just going to have to get timings right for next on the screen. I don't want people to have to feel rushed trying to read everything even though they can't really control how long text is on screen without pausing the video, which will ruin the experience.
+
+I may work with my web partner and see if there is another form it can take that will be easier for people to read on different device or have screen reader assistance, but I'm looking into those still. I would love to be inclusive of everyone's needs as that is a core part of my brand and the reason I'm silent, but I also need to think about what I /can/ do. That said, I will be discussing these things and will likely have a version with better control on this website. I'll keep everyone informed!
+
+* A Sneak Peek!
+The project itself is going to take a while, but I'm writing it out on my [[https://discord.gg/3qW8efhqBH][Discord server]]. I'm looking into integration with Twitch and hoping to offer VIPs and subscribers a little sneak peek to the lore as I work on it. I'll keep you informed when that integration is working. For now go ahead a join the server! Come chat with other kittens! We like to have fun! You'll also hear this announcements a lot sooner. The website needs to go through a few hoops before my web partner publishes things, which is why I stick to once-a-week updates. I can just post whatever on the Discord though, typos and everything! This means I announce little things and even big things there basically as soon as I think of them!
