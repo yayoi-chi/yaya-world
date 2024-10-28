@@ -10,11 +10,13 @@
 
 I've decided to create a guide for some of the special events in Fiesta. Currently I'm hoping to keep this to one page and just have a few helpful tricks and hints to completing the events. This will be far from a complete guide to everything about the event, but should be enough for you to have looots of good fun!
 * Maze of Madness
-#+ATTR_HTML: :alt image showing the maze routes
+#+ATTR_HTML: :alt image showing the old maze routes
 #+ATTR_HTML: :width 50%
 #+ATTR_HTML: :align left
-#+ATTR_HTML: :title Maze routes!
+#+ATTR_HTML: :title Old Maze routes!
 [[/~yayoi/images/MazeGuide.png]]
+
+**The Halloween Event was updated in 2024!** This information is no longer up to date! I do not play Fiesta much and have not taken the time to track down new maps. If anything though, the maze seems easier now 😅
 
 First up is the frustratingly fun Maze of Madness! The Maze of Madness comes about around Halloween time each year. Halloween is celebrated in the US on the 31 of October every year and is all about spooky things! It also happens to be one of my favorite holidays because there is nothing quite as fun as spooky shenanigans. Fortunately the maze is pretty spooky, though kind of more in a juvenile since, but I degrees.
 
