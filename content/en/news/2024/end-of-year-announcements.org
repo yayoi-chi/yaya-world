@@ -7,7 +7,7 @@
 #+SLUG:
 #+SUMMARY:
 
-Last week I [[{{% ref 'news/2024/announcing-announcement.org' %}}][announced some announcements]], well it is finally time to actually make those announcements. Technically, I already made them they were in a stream that is available on the YouTube channel, but I thought I should also right them out here and in the Discord. Though I already wrote them out in the Discord. It's much easier to post things quickly there, which I may have also mentioned last week. Anyway what I announced was:
+Last week I [[{{% ref "news/2024/announcing-announcement.org" %}}][announced some announcements]], well it is finally time to actually make those announcements. Technically, I already made them they were in a stream that is available on the YouTube channel, but I thought I should also right them out here and in the Discord. Though I already wrote them out in the Discord. It's much easier to post things quickly there, which I may have also mentioned last week. Anyway what I announced was:
 1. New Emoji available on Discord and Twitch
 2. A new outfit is coming!
 3. Fantasy Friday is going away for now

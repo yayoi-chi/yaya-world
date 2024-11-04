@@ -37,7 +37,7 @@ We finished Chapter 4 and moved on into Chapter 5. We basically solved the myste
 <iframe width="560" height="315" src="https://www.youtube.com/embed/df-W1Kt4zGw?si=7pgBHI7eYNFBQg5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Twitch Affiliate Celebration and Final Fantasy Friday
-I spent an hour going over some [[{{% ref 'news/2024/end-of-year-announcements.org' %}}][announcements]] and thanking everyone for their support in getting me to affiliate! It was also time to get back to our regular games, so I decided to play Final Fantasy V again as a last Fantasy Friday game for now.
+I spent an hour going over some [[{{% ref "news/2024/end-of-year-announcements.org" %}}][announcements]] and thanking everyone for their support in getting me to affiliate! It was also time to get back to our regular games, so I decided to play Final Fantasy V again as a last Fantasy Friday game for now.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8oB2qcV14s?si=GaRBGIBndMzK6ScN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
