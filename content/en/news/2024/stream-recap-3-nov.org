@@ -1,0 +1,56 @@
+#+TITLE: Stream Recap: 3 Nov
+#+DATE: 2024-11-03T15:41:06-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: After banishing Ghost Cat for the year, I have returned to a more normal lineup of wonderful games. Well, so far I really just did some announcements and played Final Fantasy V, but it was a nice change of pace. I hope everyone enjoyed Spooky Month!
+
+* Art Stream
+Finished a couple more emotes! We now have quite a few of my favorite emotions in the form of emotes to use on Twitch and the Discord server! I hope everyone likes them and please use them lots, okay?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3kB1yTlfBQ?si=rRKpNaGVlxrQ8g-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+This was a far more busy week then usual. I mean it was the last week of Spooky Month and we had to make sure it went out with a bang! I think it did! I certainly never streamed for 8 hours in one day before! Maybe I'll do it again, probably not though 😅
+** Corpse Party
+Okay, we did a *lot* of Corpse Party. This first session, we finished up chapter 3 and started chapter 4. The story really picks up in these chapters, but still a lot of mystery all the way until the end. It was almost worth all the horrible descriptions and experiences we suffered through up until now...almost.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qaw738CSdbw?si=NqrLVy1tmvZZTcxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Prey
+Small spoiler, we never did blow up the station. Things just kept getting in the way, including Nightmares! I think that's something that only appears on hard mode, but it is no joke! Also, lots of other twists, but I can take care of phantoms pretty easily now, and even got another telepath. Still, wish I had finished, but there is always next year...a vibe that repeats below!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNRyVkbW7t0?si=yTpMaCcKvDF_7zXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Spooky Month Finale!
+I had to split this into two parts because I had never streamed for this long straight before. Still, it ended up being over 8 hours total! That is impressive, I think, for one day!
+*** Part 1
+In the first five hours, we continued chapter four of Corpse Party and brought it near its conclusion. Everything really starts coming together here and I was almost excited to get to the end and not just because I really wanted to finish this game before the end of the month!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FyrLKLYVJ10?si=AzmCXGcf0P8iH8ru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Part 2
+We finished Chapter 4 and moved on into Chapter 5. We basically solved the mystery of Heavenly Host Elementary School and found out who was responsible for everything. There were some interesting twists, but, we couldn't quite finish. Chapter 5 is incredibly long and I just couldn't keep going. There are two more games in the series, so I'll finish next year and start the next, perhaps!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/df-W1Kt4zGw?si=7pgBHI7eYNFBQg5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Twitch Affiliate Celebration and Final Fantasy Friday
+I spent an hour going over some [[{{% ref 'news/2024/end-of-year-announcements.org' %}}][announcements]] and thanking everyone for their support in getting me to affiliate! It was also time to get back to our regular games, so I decided to play Final Fantasy V again as a last Fantasy Friday game for now.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8oB2qcV14s?si=GaRBGIBndMzK6ScN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Next week the streams will be split evenly between [[https://www.twitch.tv/yayoi_chi][Twitch]], and my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! It is also the first week without Fantasy Friday. I'm going to, instead, have another day to do homework, both for the channel and for school! I have comic to put together and a new outfit to make, you know?
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 11/4 - 11/10
+[[/~yayoi/images/schedules/2024/Yayoi_Chi4Nov.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                             | When I'm Streaming |
+|-----------+---------------------+----------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Starting some comic panels!                               | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: At least /this/ school isn't haunted, right? | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Final Fantasy V: We keel Exdeath now?                          | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: We're innocent! We swear!                  | 10 PM ET/7 PM PT   |
+| Friday    |                     | /Homework Day/                                                 | Offline            |
+| Saturday  |                     | /Homework Day/                                                 | Offline            |
+| Sunday    |                     | /Rest Day/                                                     | Offline            |
