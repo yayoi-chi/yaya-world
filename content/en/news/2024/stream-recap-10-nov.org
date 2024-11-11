@@ -1,0 +1,47 @@
+#+TITLE: Stream Recap: 10 Nov
+#+DATE: 2024-11-10T12:27:35-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Well I tried to be responsible by starting my comic project and scheduling and extra homework day. I did try that. I just can't stay away from my kittens...
+
+* Art Stream
+It was time to start my comic! I had an idea of what I wanted to do in my head. It kinda just stayed in my head and no amount of staring at a blank canvas was going to help. I did get something down that I'm proud of in the end though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3LtEqzqiddA?si=3_OXgAXZzfFlqald" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+We had one little problem child this week, but it was kind of a big one. You will not see a video from Xenosaga this week. I had major issues with that, but I think I made up for it with a surprise Genshin Impact Stream!
+** Persona 3 Reload
+I came to a sudden realization that I'm at the last full moon! I mean there's still some time to explore and maximize some social links, but we're nearing the end! I seem to /not/ take so long with Persona games!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxxKhbPBd7M?si=X6xpN8oSVtxqQkFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+So, I thought we were getting close, but I guess I still have one whole big section left. Lots to do! Hopefully I'll get it done soon. I seem to take forever with these Final Fantasy games, huh?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MXKbxzo7-Ys?si=mnoRH47cvmvg8IqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Well we made some good progress. We got to KOS-MOS and tried to dive in to retrieve the data we need to prove our innocence, but she had other plans. Now we are in Miltia reliving the past. Sadly the audio was not streamed correctly...I decided not to archive this stream. Sorry
+
+** Genshin Impact
+I got done with homework, mostly, and got bored. I decided I was going to play a little Genshin Impact. I also decided I didn't want to be away from my kittens for three days straight so I streamed it! Hope you enjoyed the surprise!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdDiou54f-o?si=oAQBDzF6-8ak1Bsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ So, it turns out I can't stay away from my kittens for very long. This week will have five streams! Three on [[https://www.twitch.tv/yayoi_chi][Twitch]], and two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I don't have an assignment this week, so I think we'll be okay!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 11/11 - 11/17
+[[/~yayoi/images/schedules/2024/Yayoi_Chi11Nov.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                               | When I'm Streaming |
+|-----------+---------------------+------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Same page? New page? I decide when we get there!            | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: We're getting close!                           | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Final Fantasy V: Why do I take so long with Final Fantasy games? | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Little detour through the past               | 10 PM ET/7 PM PT   |
+| Friday    |                     | /Homework Day/                                                   | Offline            |
+| Saturday  | Twitch              | Genshin Impact: Its been awhile Traveler!                        | 3 PM ET/7 PM PT    |
+| Sunday    |                     | /Rest Day/                                                       | Offline            |
