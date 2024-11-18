@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 17 Nov
+#+DATE: 2024-11-17T18:07:21-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A pretty normal week. I am reaching the end of both Persona 3 Reload and Final Fantasy V! Continued working on my comic too! I think it was a pretty fun week!
+
+* Art Stream
+Finished what I think will be the first page of my comic and set up another page. I did start a panel, but decided to scrap that part so I don't have a video with the set up on it because that would be boring by itself. You'll see the result when I start the panels next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5hj4IFj2PM?si=joe1DKJDilcNxA3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Just a typical set of games. I am reaching the end of both Persona 3 Reload and Final Fantasy V. I also got sucked into a quest off stream in Genshin Impact, and opened a whole line of quests that I spent four hours on, on stream.
+** Persona 3 Reload
+Reached as far as we could go in Tartarus and beat the rival Persona users. I stopped just short of fighting the final shadow. Look forward to that next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIN18DvzPOU?si=qT6yU4gOuhX3jqna" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+Did a few new dungeons on my quest to open the way to the legendary weapons we need to defeat Exdeath. Now we just have the one last part and we should be about ready!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGpYex6uIcc?si=03zBMx49b_gqyURK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Took a trip through our memories. I also fought one of the trickiest bosses in the game. I managed to do a pretty good job on it though! Now things are about to really pick up. Catch more on the next Throwback Thursday!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sz7HrIMF_cQ?si=NomLO69U6eZ48nfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+I mentioned above that I got sucked into a quest. It happened off stream and I'm not kidding I was literally sucked in while exploring Liyue. I spent this entire stream on it, and almost cleared it, but I stopped after four hours. I think I need to work on my party a bit anyway! I'll focus on that next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_E3V8JVrQlU?si=V3NU5cS5UWq7BnhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ This week seems pretty much like last week with three streams on [[https://www.twitch.tv/yayoi_chi][Twitch]], and two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. However, It is pretty special with a collab stream with my friend [[https://www.twitch.tv/bsparkx][Bsparkx]]! We'll be having an ADVENTURE in Genshin Impact together!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 11/18 - 11/24
+[[/~yayoi/images/schedules/2024/18Nov.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                          | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Let's try this page again!                                             | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: We're at the last shadow, but I don't think it's over!    | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: There is so much art left to do!                                       | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Back from the past...I have a baaad feeling about this! | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Let's ADVENTURE together with @Bsparkx                      | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                                              | Offline            |
+| Sunday    |                     | /Rest Day/                                                                  | Offline            |
