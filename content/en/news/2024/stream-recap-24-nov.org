@@ -24,7 +24,7 @@ Made it back from the past! Then they played "that song" and things went wonky..
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfxlJsEuPsY?si=nPN33kMejZZIZIXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-Me and [[https://www.youtube.com/@Bsparkx][Bsparkx]] hunted beeg baddies together and poked a couple domains. I mean there was a lot of poking and a lot of fun ( * o * ). We'll be collaborating again sometime! Don't forget to also check out [[https://youtu.be/_rYaYLmy7xY?si=6fkuW4cafD-FtzTq][her perspective]]!
+Me and [[https://www.youtube.com/@Bsparkx][Bsparkx]] hunted beeg baddies together and poked a couple domains. I mean there was a lot of poking and a lot of fun [supposed to be emoji?]( * o * ). We'll be collaborating again sometime! Don't forget to also check out [[https://youtu.be/_rYaYLmy7xY?si=6fkuW4cafD-FtzTq][her perspective]]!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AUq7VJvzNdI?si=_0A-adPHirNk3bMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
