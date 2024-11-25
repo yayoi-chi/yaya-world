@@ -1,0 +1,43 @@
+#+TITLE: Stream Recap: 24 Nov
+#+DATE: 2024-11-24T14:29:53-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I had my first collabrative stream ever! It was a lot of fun! I hope for more of these in the future, especially with the awesome Bsparkx! In other news, there was also two art streams, and there probably will be for near future!
+
+* Art Streams
+Two, not one, but two art streams this week! You will not find an embed for either of them though. I was doing individual timelapses for each stream mostly so I could have something to showcase each week. I decided that I wanted to change that though. I'd rather show the entire project from start-to-finish, so you may not see videos here each week, but I'm hoping what you do see will be amazing!
+
+This weeks streams focused on finishing up the panel I started last time. I still have to finish Ya-ma, which I will do next week before moving on to the second and third panels. Hopefully I get a good pace going here, but I have my annual Christmas picture to do so some of the streams will be focused on that. Also, we may need three a week, but don't worry I've always wanted to be more of an art streamer 😝
+* Game Streams
+Having two art streams this week did mean that I had to cut a game stream. I decided to cut Final Fantasy this week. I'll probably alternate Persona 3 Reload and Final Fantasy V until I either finish one or the end of the year!
+** Persona 3 Reload
+A big spoiler filled with spoilers! I beat a shadow, the twelfth big one. That's all you need to know. Of course, you'll see below that the video is 2:27:25 long! That shadow didn't take that long to beat, so what happened in the rest of the video? Guess you'll have to watch to find out 😉
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atdSPhhjklM?si=EaMS5jB7ot4Sg2yK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Made it back from the past! Then they played "that song" and things went wonky...very wonky. I started helping with the evacuation but than tried to face a special boss that I was pretty sure I wasn't really ready for. Haven't finished that evacuation yet 😅
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfxlJsEuPsY?si=nPN33kMejZZIZIXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Me and [[https://www.youtube.com/@Bsparkx][Bsparkx]] hunted beeg baddies together and poked a couple domains. I mean there was a lot of poking and a lot of fun 🤩. We'll be collaborating again sometime! Don't forget to also check out [[https://youtu.be/_rYaYLmy7xY?si=6fkuW4cafD-FtzTq][her perspective]]!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AUq7VJvzNdI?si=_0A-adPHirNk3bMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Because of Thanksgiving in the US, I am losing a day of streaming! So, there will be two streams on [[https://www.twitch.tv/yayoi_chi][Twitch]], and two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. This also means that Throwback Thursday will be moved to Saturday, because that's my decree!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 11/25 - 12/1
+[[/~yayoi/images/schedules/2024/25Nov.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                    | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Finish first panel and move to the second?                       | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Final Fantasy V: Didn’t do Final Fantasy last week, let’s do it now!  | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: Let’s make even more progress on the comic!                      | 10 PM ET/7 PM PT   |
+| Thursday  |                     | /Holiday: Thanksgiving/                                               | Offline            |
+| Friday    |                     | /Homework Day/                                                        | Offline            |
+| Saturday  | Twitch              | Xenosaga Episode 1: Throwback Thursday, but on a Saturday, how crazy? | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                            | Offline            |
