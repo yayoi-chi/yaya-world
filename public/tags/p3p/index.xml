@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>P3p on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/p3p/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/p3p/</link>
     <description>Recent content in P3p on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 21 Mar 2024 11:35:24 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/p3p/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/p3p/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Walkthrough</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/walkthrough/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</link>
         <pubDate>Tue, 19 Mar 2024 09:34:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 09:34:39 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/walkthrough/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</guid>
         <description>This will walk you through everything that is available to you in your every day life in Persona 3 Portable</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Where Do Breaks Go</title>
-        <link>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</link>
+        <link>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</link>
         <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Mar 2024 11:35:24 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</guid>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</guid>
         <description>&lt;p&gt;
 Okay maybe that&amp;#39;s not really that fair of a question, especially considering spring break literally just started, but, hey, it&amp;#39;s already Thursday! I mean come on I only get three weeks so what&amp;#39;s up with that!? I always come up with all sorts of things that I want to do accomplish during my breaks. Things that I don&amp;#39;t think I would have time to work on while I&amp;#39;m in class. However, its already Thursday of the first week and I haven&amp;#39;t really made much of a dent. That said, there are still quite a few things I &lt;em&gt;have&lt;/em&gt; worked on this week!&lt;/p&gt;</description>
         
@@ -99,11 +99,11 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
       
       <item>
         <title>Persona 3 Portable</title>
-        <link>http://localhost:1313/~yayoi/guides/p3p/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
         <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 21 Jan 2023 21:40:18 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/p3p/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/p3p/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Portable. Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
