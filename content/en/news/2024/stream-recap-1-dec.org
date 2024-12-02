@@ -27,7 +27,7 @@ Hey! I'm getting close to the end of this one too! Moving it to Saturday this we
 * Next Week
  Back to normal stream operations! So, there will be three streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] (including another collab with the awesome Bsparkx!), and two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. Also means that Throwback Thursday is now back to actually being on Thursday 😝
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/2 - 12/8
-[[/~yayoi/images/schedules/2024/1Dec.png]]
+[[/~yayoi/images/schedules/2024/2Dec.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                           | When I'm Streaming |
 |-----------+---------------------+--------------------------------------------------------------+--------------------|
 | Monday    | Twitch              | Art: Time for page 3, or something...special?                | 10 PM ET/7 PM PT   |

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Social_networks on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/social_networks/</link>
+    <link>http://localhost:1313/~yayoi/tags/social_networks/</link>
     <description>Recent content in Social_networks on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,25 +16,25 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 28 Mar 2024 11:44:17 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/social_networks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/social_networks/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/social-links/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Mar 2024 11:44:17 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/social-links/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/social-links/</guid>
         <description>&lt;p&gt;
-Working on my Persona guides, especially the Persona 4 Golden &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/slink/&#34;&gt;Social Link guides&lt;/a&gt; and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.&lt;/p&gt;
+Working on my Persona guides, especially the Persona 4 Golden &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/slink/&#34;&gt;Social Link guides&lt;/a&gt; and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Progress!
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into &lt;a href=&#34;https://onigirionegai.info/~yayoi/adventures/keyrie/&#34;&gt;Keyrie&amp;#39;s Journal&lt;/a&gt;. I wasn&amp;#39;t really aware of how much we actually manage to do per session even if it seems like the sessions just fly by 😅 So this is a bit more of an undertaking than I originally thought it would be. I think it&amp;#39;ll be worth it in the end even if I still only have the first chapter available right now.&lt;/p&gt;</description>
+&lt;p&gt;Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into &lt;a href=&#34;http://localhost:1313/~yayoi/adventures/keyrie/&#34;&gt;Keyrie&amp;#39;s Journal&lt;/a&gt;. I wasn&amp;#39;t really aware of how much we actually manage to do per session even if it seems like the sessions just fly by 😅 So this is a bit more of an undertaking than I originally thought it would be. I think it&amp;#39;ll be worth it in the end even if I still only have the first chapter available right now.&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
