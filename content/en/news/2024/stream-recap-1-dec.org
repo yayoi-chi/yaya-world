@@ -15,7 +15,7 @@ Final two streams putting together the second page of my comic! I'm not a profes
 * Game Streams
 Thanksgiving week so I moved Throwback Thursday to Saturday, but still lost a day of streaming. Only two game streams this week, but still a fun week!
 ** Final Fantasy V
-Alternating Final Fantasy V and Persona 3 Reload until I finish one or I re-evaluate my life choices XD Made a bit more progress, but now I feel very under leveled. Even if I don't stream it this next week, I'll probably try to grind a bit off stream. Still I think I'm close to the end, so there's that!
+Alternating Final Fantasy V and Persona 3 Reload until I finish one or I re-evaluate my life choices 😆 Made a bit more progress, but now I feel very under leveled. Even if I don't stream it this next week, I'll probably try to grind a bit off stream. Still I think I'm close to the end, so there's that!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CGZmAuTvy4?si=idGmVk2QEPzGjo9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -35,5 +35,5 @@ Hey! I'm getting close to the end of this one too! Moving it to Saturday this we
 | Wednesday | YouTube             | Art: Continue what we started!                               | 10 PM ET/7 PM PT   |
 | Thursday  | Twitch              | Xenosaga Episode 1: Its the “Song”! The “Song of Nephilim”!! | 10 PM ET/7 PM PT   |
 | Friday    |                     | /Homework Day/                                               | Offline            |
-| Saturday  | Twitch              | Genshin Impact: Exploration and ADVENTURE with @Bsparkx!     | 3 PM ET/12 PM PT   |
+| Saturday  | Twitch              | Genshin Impact: Exploration and ADVENTURE with [[https://www.twitch.tv/bsparkx][@Bsparkx]]!     | 3 PM ET/12 PM PT   |
 | Sunday    |                     | /Rest Day/                                                   | Offline            |
