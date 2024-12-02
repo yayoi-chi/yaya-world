@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 1 Dec
+#+DATE: 2024-12-01T15:49:12-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Two art streams are going the norm for awhile, methinks. Also, due to Thanksgiving in the US, I only had two game streams. Two and two!
+
+* Art Streams
+Final two streams putting together the second page of my comic! I'm not a professional comic artist, but I do like how this turned out! Since I finished it this week you can watch the whole thing below!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aWUARrimIas?si=j7VIZAHoEZgEhEsN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Thanksgiving week so I moved Throwback Thursday to Saturday, but still lost a day of streaming. Only two game streams this week, but still a fun week!
+** Final Fantasy V
+Alternating Final Fantasy V and Persona 3 Reload until I finish one or I re-evaluate my life choices XD Made a bit more progress, but now I feel very under leveled. Even if I don't stream it this next week, I'll probably try to grind a bit off stream. Still I think I'm close to the end, so there's that!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CGZmAuTvy4?si=idGmVk2QEPzGjo9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Hey! I'm getting close to the end of this one too! Moving it to Saturday this week meant I had a bit more time so we finished the evacuation, watched all those cutscenes and got started on "The Song". I did forget how crazy Albedo really was...I think he mellows a bit in 2, but we'll see!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lTaj5oeteRE?si=1qlal23pB7ZhunCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Back to normal stream operations! So, there will be three streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] (including another collab with the awesome Bsparkx!), and two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. Also means that Throwback Thursday is now back to actually being on Thursday 😝
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/2 - 12/8
+[[/~yayoi/images/schedules/2024/1Dec.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                           | When I'm Streaming |
+|-----------+---------------------+--------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Time for page 3, or something...special?                | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: What happens now!?                         | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: Continue what we started!                               | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Its the “Song”! The “Song of Nephilim”!! | 10 PM ET/7 PM PT   |
+| Friday    |                     | /Homework Day/                                               | Offline            |
+| Saturday  | Twitch              | Genshin Impact: Exploration and ADVENTURE with @Bsparkx!     | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                   | Offline            |
