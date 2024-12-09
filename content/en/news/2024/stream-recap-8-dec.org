@@ -10,9 +10,9 @@
 * Art Streams
 It is /that/ time of year! You know the time where people give gifts, well some people. I give a gift every year and it is always a brand-new illustration for Ya-Ma and Ya-Pa! I started this year's present this week rather than work more on the comic. I'll get back to that after the Holiday! Though I think I made pretty good progress this week, so, maybe another page soon? We'll see!
 * Game Streams
-The usual fare this week. Started the week with some Persona 3 Reload and finished with another fun and awesome collabe with [[https://www.youtube.com/@Bsparkx][@Bsparkx]]!
+The usual fare this week. Started the week with some Persona 3 Reload and finished with another fun and awesome collab with [[https://www.youtube.com/@Bsparkx][@Bsparkx]]!
 ** Persona 3 Reload
-In terms of advancing the calendar and story, not much happened in this stream. We're still talking with the newest transfer student and spending time with the dog as well as nuturing social links. I also spent a /lot/ of time in Tartarus. Still, some progress was made...
+In terms of advancing the calendar and story, not much happened in this stream. We're still talking with the newest transfer student and spending time with the dog as well as nurturing social links. I also spent a /lot/ of time in Tartarus. Still, some progress was made...
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vENkXPuVtZA?si=cAuVQpyGInU8K6ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
