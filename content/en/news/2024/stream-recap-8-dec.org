@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 8 Dec
+#+DATE: 2024-12-08T12:26:16-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This week I started a special project that serves as a Christmas present for Ya-Ma and Ya-Pa! I also made more progress in Persona 3 Reload and Xenosaga, but I ended the week with another fun collab with Bsparkx!
+
+* Art Streams
+It is /that/ time of year! You know the time where people give gifts, well some people. I give a gift every year and it is always a brand-new illustration for Ya-Ma and Ya-Pa! I started this year's present this week rather than work more on the comic. I'll get back to that after the Holiday! Though I think I made pretty good progress this week, so, maybe another page soon? We'll see!
+* Game Streams
+The usual fare this week. Started the week with some Persona 3 Reload and finished with another fun and awesome collabe with [[https://www.youtube.com/@Bsparkx][@Bsparkx]]!
+** Persona 3 Reload
+In terms of advancing the calendar and story, not much happened in this stream. We're still talking with the newest transfer student and spending time with the dog as well as nuturing social links. I also spent a /lot/ of time in Tartarus. Still, some progress was made...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vENkXPuVtZA?si=cAuVQpyGInU8K6ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+We're still in "The Song"! I managed to open the second and third tower, but spent a long time being lost and fighting the boss in the second tower. Doesn't seem like much happened especially with the lack of cutscenes, but I did make progress!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H48rS-YJXYg?si=qzMUZ2kpi38-GNzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Spent most of the stream poking all sorts of things with B. I probably should have had a better plan, but kinda wanted it to be a zero-stress collab for the both of us! B had to leave after a while, but I stuck around this time and did some solo exploring. Thank you so much to [[https://www.youtube.com/@Bsparkx][@Bsparkx]] for the collab!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISgvQDIIxUA?si=AWhf77d5qN1Aagrr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Still trying new things! Going to do two streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and three on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. Not sure I'll keep it up long-term, but we'll see. That's why we experiment!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/9 - 12/15
+[[/~yayoi/images/schedules/2024/9Dec.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                             | When I'm Streaming |
+|-----------+---------------------+----------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: We have more work to do on our special project!           | 10 PM ET/7 PM PT   |
+| Tuesday   |                     | /Homework Day/                                                 | Offline            |
+| Wednesday | YouTube             | Art: Time to finish our special project, or start another?      | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Will we start to fair better in "The Song" | 10 PM ET/7 PM PT   |
+| Friday    | YouTube             | Persona 3 Reload: How far will we go in Tartarus?              | 3 PM ET/12 PM PT   |
+| Saturday  | YouTube             | Final Fantasy V: Special End of Quarter FF Celebration!        | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                     | Offline            |
