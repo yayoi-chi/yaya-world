@@ -5,14 +5,14 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Two art stream! I really like being an art streamer! Finished the project though. In other news, games happened. We played Xenosaga, Persona, and Final Fantasy. Classic games for me! Almost done with pretty much all three!
+#+SUMMARY: Two art streams! I really like being an art streamer! Finished the project though. In other news, games happened. We played Xenosaga, Persona, and Final Fantasy. Classic games for me! Almost done with pretty much all three!
 
 * Art Streams
-Two art streams, because I /am/ and art streamer! I finished this project, but, its a Christmas gift so the video isn't up yet (and that's the only reason, totally didn't forget!). I will have it up in a couple weeks, so check this page again or [[][subscribe on YouTube]] to see the whole process once its out!
+Two art streams, because I /am/ and art streamer! I finished this project, but, its a Christmas gift so the video isn't up yet (and that's the only reason, totally didn't forget!). I will have it up in a couple weeks, so check this page again or [[https://www.youtube.com/@yayoi-chi?sub_confirmation=1][subscribe on YouTube]] to see the whole process once its out!
 * Game Streams
-In other news: games happened. We played Xenosaga, Final Fantasy V, and Persona 3 Reload! They've become classics on this channel, but I'm almost done with all three so we'll have to try new things soon. Maybe get back to Hollow Knight?
+In other news: games happened. We played Xenosaga Episode 1, Final Fantasy V, and Persona 3 Reload! They've become classics on this channel, but I'm almost done with all three so we'll have to try new things soon. Maybe get back to Hollow Knight?
 ** Xenosaga Episode 1
-Getting close to the end. Technically there is one more dungeon after this, but we made a lot of progress and, if I remember right, we're almost done with "The Song". I'll be dragging it out by looking for some segmant addresses to make the end game easier...
+Getting close to the end. Technically there is one more dungeon after this, but we made a lot of progress and, if I remember right, we're almost done with "The Song". I'll be dragging it out by looking for some segment addresses to make the end game easier...
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qc3ZlLz64do?si=oJ7V5gsyJpst1z46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
