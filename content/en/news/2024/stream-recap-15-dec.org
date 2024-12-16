@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 15 Dec
+#+DATE: 2024-12-15T15:11:27-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Two art streams! I really like being an art streamer! Finished the project though. In other news, games happened. We played Xenosaga, Persona, and Final Fantasy. Classic games for me! Almost done with pretty much all three!
+
+* Art Streams
+Two art streams, because I /am/ and art streamer! I finished this project, but, its a Christmas gift so the video isn't up yet (and that's the only reason, totally didn't forget!). I will have it up in a couple weeks, so check this page again or [[https://www.youtube.com/@yayoi-chi?sub_confirmation=1][subscribe on YouTube]] to see the whole process once its out!
+* Game Streams
+In other news: games happened. We played Xenosaga Episode 1, Final Fantasy V, and Persona 3 Reload! They've become classics on this channel, but I'm almost done with all three so we'll have to try new things soon. Maybe get back to Hollow Knight?
+** Xenosaga Episode 1
+Getting close to the end. Technically there is one more dungeon after this, but we made a lot of progress and, if I remember right, we're almost done with "The Song". I'll be dragging it out by looking for some segment addresses to make the end game easier...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qc3ZlLz64do?si=oJ7V5gsyJpst1z46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+Tartarus is over 200 Floors and we haven't even made it there! I'm at like 196 or something, getting there. Still not sure what is supposed to happen now. Had a bit of a surprise, but, well it could have been worse...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/whf2E_HVAu8?si=IKTYlzjbpCLrNJ1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+Nice long Final Fantasy stream! I did try the final boss, but, mayhap not quite ready. Had to go and get the legendary weapons I may or may not have forgotten completely. I got them though so now we level and try again!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYySHnrHnjs?si=qT0qClqtesBEXXht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Experiment went fairly well, but I do still get more interaction on [[https://www.twitch.tv/yayoi_chi][Twitch]] than on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. I'm going to play it by ear for a bit. Its largely going to depend on if I have collaboration since those will all be on Twitch. Just keep looking for my little colored banners on the schedule or paying attention to the "Where I'm Streaming" column below!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/16 - 12/22
+[[/~yayoi/images/schedules/2024/16Dec.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                   | When I'm Streaming |
+|-----------+---------------------+----------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Time to get back to our comic!                                  | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Final Fantasy V:  We found the weapons! Let's get ready for Exdeath! | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Persona 3 Reload:  4 Days until the next full moon! Wut will happen? | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1:   On the hunt! The hunt for a giant robot!       | 10 PM ET/7 PM PT   |
+| Friday    |                     | /Homework Day/                                                       | Offline            |
+| Saturday  | Twitch              | Portal 2:  Can two cat girls think in Portals together?              | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                           | Offline            |
