@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 22 Dec
+#+DATE: 2024-12-22T12:05:30-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: With the special project done, I returned to my comic! We laid out the third page and started the first panel. I only did the one art stream though so that meant we did both Final Fantasy and Persona this week! I also ended the week with co-op in Portal 2 for the first time!
+
+* Art Streams
+With the special project done, I returned to my comic! We laid out the third page and started the first panel. It was fun actually laying it out during stream, because a couple of kittens helped me! Its one of my favorite parts of streaming my art. Its not just me drawing, the kittens get to be a part of it too! The first panel also saw a bit of help from the kittens who helped me decide how to frame it! I hope everyone has as much fun with them as I do~
+* Game Streams
+Just one art stream this week so we had a full roaster of games! That means both Final Fantasy V and Persona 3 Reload as well as Xenosaga Episode 1! I even got to end the week with a Portal 2 Co-op stream with the awesome [[][@Bsparkx]]!
+** Final Fantasy V
+Tried to get stronger and fight those pesky bosses again, including Exdeath. I got pretty close in two of them, in fact we got down to one part of Neo Exdeath, but I'm still not quite strong enough. Maybe we'll get there in the next stream?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6rNeCHuSsU?si=uK1jJcHnNOHe6qfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+With the 12 shadow defeated and the mysterious boy gone, a new person showed up. We found out what his deal is and got some ominous news! Now we have a few weeks to process all of this! What will we decide to do? I don't know, but, for now, we live our lives!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GHEBnScs3M?si=2P8f16UNFPL_Ladi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+We might not have gotten to the giant robot I wanted to get to, but we did fight Simeon, and its kinda like a giant robot, right? There were a lot of scenes this time around, and a two-phase fight after Simeon, but MOMO is back to normal!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MP7IxvZJymQ?si=J_EDVILcTBoMwXj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Portal 2
+Fun co-op science with the best science partner! We completed so many tests together! Some of them really made us think, think in portals, but it was loads of fun! I look forward to more co-op next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-bsLgakJ-Q?si=polV-7HZ5R564_RR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Welcome to the end of the year! Over the next two weeks, I'm going to be busy with final preparations for the New Year and with Holidays. For the next week I will not be missing my usual streams on [[https://www.twitch.tv/yayoi_chi][Twitch]], and will be doing another Portal 2 Co-op with @Bsparkx! On my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]], however, there will be only one stream! I can't stay away from Persona 3 Reload when we are so close to the end. If we finish it, great, I still need to finish Final Fantasy V!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/23 - 12/29
+[[/~yayoi/images/schedules/2024/23Dec.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                         | When I'm Streaming |
+|-----------+---------------------+------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Let's finish the first panel in Page 3!               | 10 PM ET/7 PM PT   |
+| Tuesday   |                     | /Holiday/                                                  | Offline            |
+| Wednesday |                     | /Holiday/                                                  | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 1: Time for a different giant robot hunt! | 10 PM ET/7 PM PT   |
+| Friday    | YouTube             | Persona 3 Reload: Do we just submit to fate?               | 3 PM ET/12 PM PT   |
+| Saturday  | Twitch              | Portal 2: Cat girl cooperative science initiative!         | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                 | Offline            |
