@@ -67,7 +67,7 @@
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -79,23 +79,20 @@
                 href="https://onigirionegai.info/~yayoi/"
                 />
   </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/announcement/</loc>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
+  </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-dec/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -106,6 +103,18 @@
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/tags/"
                 />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</loc>
+    <lastmod>2024-12-22T12:06:28-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
+    <lastmod>2024-12-22T12:05:30-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-dec/</loc>
+    <lastmod>2024-12-22T12:05:30-08:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-dec/</loc>
+    <lastmod>2024-12-15T15:11:27-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-dec/</loc>
     <lastmod>2024-12-08T12:26:16-08:00</lastmod>
@@ -507,9 +516,6 @@
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/tags/about/"
                 />
-  </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/announcement/</loc>
-    <lastmod>2023-08-24T15:00:57-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2023/commissions-are-open/</loc>
     <lastmod>2023-08-24T15:00:57-07:00</lastmod>

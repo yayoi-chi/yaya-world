@@ -5,9 +5,9 @@
 #+TAGS[]: stream announcement news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: The Holiday session is upon us and, even though most of them will be over there is one last thing every kitten has to look forward to! You may recall, from [[{{%ref "news/2024/end-of-year-announcements.org" %}}][my last announcements]] that I promised you a special stream! Well ta-da~ More information!
 
-The Holiday session is upon us and, even though most of them will be over there is one last thing every kitten has to look forward to! You may recall, from [[{{%ref "news/2024/end-f-year-announcements.org %"}}][my last announcements]] that I promised you a special stream! Well ta-da~ More information!
+The Holiday session is upon us and, even though most of them will be over there is one last thing every kitten has to look forward to! You may recall, from [[{{%ref "news/2024/end-of-year-announcements.org" %}}][my last announcements]] that I promised you a special stream! Well ta-da~ More information!
 
 #+attr_html: :align center :width 100% :alt Winter 2025 Outfit reveal 3 Jan 6 PM ET/3 PM PT
 [[/~yayoi/images/winter-2025-outfit-reveal.png]]
