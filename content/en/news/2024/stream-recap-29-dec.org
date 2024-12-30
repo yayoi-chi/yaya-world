@@ -21,7 +21,7 @@ I decided it was time to start opening some of those red doors. In hindsight, I 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2zvNMe_pMmM?si=MKsgYAslZ9PqlKDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Persona 3 Reload
-While the characters in the story have been debating whether they should just accept their fate or try to fight it, I...went about normal school life. Mostly focused on maxing out social links and social stats. We did some exploration in Tartarus and a rescued a cat. Most of the characters seems to have expressed their resolve. What will happen on the next full moon?
+While the characters in the story have been debating whether they should just accept their fate or try to fight it, I...went about normal school life. Mostly focused on maxing out social links and social stats. We did some exploration in Tartarus and rescued a cat. Most of the characters seems to have expressed their resolve. What will happen on the next full moon?
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zugX5h26GgA?si=jYDMfjJAX3OENyA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
