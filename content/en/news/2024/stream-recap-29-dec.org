@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 29 Dec
+#+DATE: 2024-12-29T11:56:32-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We did some art and we did a bit of gaming. The week was sort because of the holidays. Also a lot of personal thing happened and, well, Portal 2 somehow turned into Genshin here! Still managed to have fun though!
+
+* Art Streams
+This week we finished the first panel for the third page of our motion comic! Not really much to talk about there, but I also finally finished editing the timelapse for this year's Christmas picture. I probably should've went ahead and started it sooner, but here it is!
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONlT3bzz22I?si=DMJinJ4oWA9UY7Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Because of the holidays, the week was a little shorter, also, if you jump down below, you'll see next week will also be shorter, but we still managed a few streams. Just uhm...don't look at last week's schedule...if you did, well Portal 2 became Genshin Impact, it happens.
+** Xenosaga Episode 1
+I decided it was time to start opening some of those red doors. In hindsight, I probably should have waited. A lot of the doors and keys are probably in the last dungeon. Still it was a nice chill stream seeing how stronk my party has become!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zvNMe_pMmM?si=MKsgYAslZ9PqlKDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+While the characters in the story have been debating whether they should just accept their fate or try to fight it, I...went about normal school life. Mostly focused on maxing out social links and social stats. We did some exploration in Tartarus and a rescued a cat. Most of the characters seems to have expressed their resolve. What will happen on the next full moon?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zugX5h26GgA?si=jYDMfjJAX3OENyA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Originally a Portal 2 co-op stream, a lot of personal things happened to both me and my science partner and we decided to cancel. I also thought of cancelling this stream completely, but changed it to Genshin Impact instead. I mostly did dendro archon quest shtuff. It was a good stream, methinks!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/luSFHNx_MPM?si=IjPUEXEXn91IXpw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+There is something very special to look forward to this coming week. Its the new year! 2025! That's not all though! While I will be offline on New Year's Eve and New Years I will be back for Throwback Thursday on [[https://www.twitch.tv/yayoi_chi][Twitch]], but that's not new or special. What is really special happens on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]!! I will be debuting a new outfit! Come check it out!!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/30 - 1/5
+[[/~yayoi/images/schedules/2024/29Dec.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                        | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------------------------------+--------------------|
+| Monday    | Twitch              | Art: Next panel, plz!                                                     | 10 PM ET/7 PM PT   |
+| Tuesday   |                     | /Holiday/                                                                 | Offline            |
+| Wednesday |                     | /Holiday/                                                                 | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 1: Moar doors, rematch with Mintia, giant robots, oh my! | 10 PM ET/7 PM PT   |
+| Friday #1 | YouTube             | Event: Winter 2025 Outfit Reveal!                                         | 6 PM ET/3 PM PT    |
+| Friday #2 | Twitch              | Genshin Impact: New Year's Celebration!                                   | 10 PM ET/7 PM PT   |
+| Saturday  | YouTube             | Final Fantasy V: EXDEATH!!!                                               | 3 PM ET/12 PM PT   |
+| Sunday    |                     | /Rest Day/                                                                | Offline            |
