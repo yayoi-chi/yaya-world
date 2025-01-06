@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 22 Dec 2024 12:06:28 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 11:56:32 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,90 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 29 Dec</title>
+        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</link>
+        <pubDate>Sun, 29 Dec 2024 11:56:32 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 29 Dec 2024 11:56:32 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</guid>
+        <description>We did some art and we did a bit of gaming. The week was sort because of the holidays. Also a lot of personal thing happened and, well, Portal 2 somehow turned into Genshin here! Still managed to have fun though!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>2024 Annual Recap</title>
+        <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
+        <pubDate>Sun, 29 Dec 2024 11:51:20 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 29 Dec 2024 11:51:20 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/recap/</guid>
+        <description>As the year comes to a close, Yayoi Shizumi, your fairy cat princess, looks takes a chance to look back and see where she has grown, opportunities she&amp;#39;s had, misteps, and more! What will she learn to help her in 2025!?</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>site</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>reviews</category>
+            
+          
+            
+              <category>guide</category>
+            
+          
+            
+              <category>D&amp;D</category>
+            
+          
+            
+              <category>school</category>
             
           
         
@@ -3233,49 +3317,6 @@ I come bearing some bad news. There will be no content update this week. I am, a
               <category>news</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>I wrote a thing!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</link>
-        <pubDate>Thu, 07 Sep 2023 17:46:55 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 07 Sep 2023 17:46:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</guid>
-        <description>&lt;p&gt;
-Well, as of writing this I am still technically &lt;em&gt;writing&lt;/em&gt; a thing. I started it thought so, yeah…😆 Anyway, aside from writing a new &lt;a href=&#34;https://onigirionegai.info/~yayoi/adventures/baby-back2school/&#34;&gt;ADVENTURE&lt;/a&gt;, I also made a few more adjustments to my &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/fiesta/lvling/&#34;&gt;fiesta leveling guide&lt;/a&gt;. This week though it is mostly about writing!&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-About the adjustments
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;After racking my brain for a bit and looking at some Hugo documentation and found a way to re-order the list for the individual leveling guides. It seemed like all the guides were kind of just in whatever order they were created or something and that made it a bit difficult for me to find the write guide. They should all be in the right order though. Babies on top all the way to God-like Adventurer&amp;#39;s at the bottom. Of course the level range for each guide is still available in its description so you&amp;#39;ll know which guide to open based on what level your characters are.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Baby Goes Back 2 School</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/baby-back2school/</link>
-        <pubDate>Wed, 06 Sep 2023 21:19:06 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Wed, 06 Sep 2023 21:19:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/baby-back2school/</guid>
-        <description>Nights are getting shorter, the air is getting crisper, apple cider is appearing on store shelves…all signs that summer is coming to an end.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
         
         
         

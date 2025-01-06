@@ -33,7 +33,7 @@ Originally a Portal 2 co-op stream, a lot of personal things happened to both me
 * Next Week
 There is something very special to look forward to this coming week. Its the new year! 2025! That's not all though! While I will be offline on New Year's Eve and New Years I will be back for Throwback Thursday on [[https://www.twitch.tv/yayoi_chi][Twitch]], but that's not new or special. What is really special happens on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]!! I will be debuting a new outfit! Come check it out!!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 12/30 - 1/5
-[[/~yayoi/images/schedules/2024/29Dec.png]]
+[[/~yayoi/images/schedules/2024/30Dec.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                                        | When I'm Streaming |
 |-----------+---------------------+---------------------------------------------------------------------------+--------------------|
 | Monday    | Twitch              | Art: Next panel, plz!                                                     | 10 PM ET/7 PM PT   |

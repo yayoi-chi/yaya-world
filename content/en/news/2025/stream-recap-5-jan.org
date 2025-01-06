@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 5 Jan
+#+DATE: 2025-01-05T10:59:20-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I revealed a new outfit! That's pretty much the most exciting thing about this week. I mean sure, it was the first week of 2025, but that's not all that exciting, no? I mean we did play Xenosaga and we did beat Exdeath and finish Final Fantasy V, but that wasn't that exciting either, right? A new outfit though...
+
+* Art Streams
+Finished the second panel for our third page of the comic! We're making progress. I can't wait for this all to come together for everyone. I'm hoping it will be a good introduction to me and help you see my story. I'm going to have to pace myself though so I don't burn out. That said, I think the next two panels will be pretty easy and will flow together so I /might/ finish this page next week...we'll see...
+* Game Streams
+Didn't make a lot of progress in Xenosaga, but we did do some archon quest shtuff in Genshin and...I BEAT EXDEATH!! Yep we'll be taking a break for Final Fantasy for a bit, because I finally finished V.
+** Xenosaga Episode 1
+I found one robot part, just one. All that searching and we only found an arm. I think we can at least do the side story chapter with the two arms, but I'm going to need to find more keys and doors! We'll get there though. I will make sure the last fight is quick and easy!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0aG0JPsYuM?si=Xtqj_7a6pDlwFlWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We did a lot of stuff, but most of it was related to dailies. That said, we did also continue the dendro archon quests. I learned some sad stuff too. Hopefully things will be nicer for our poor archon soon. It does make me appreciate and love her even more though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0156subfR74?si=OxuC8Y0IX5ohCH2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy V
+I'll say it again here! I BEAT EXDEATH!!! It made for a somewhat short stream, but we finished Final Fantasy V. I'm so excited. I started with three a long while ago, but now five is finally done. I'm going to take a break from Final Fantasy for a little bit though. Seems we'll be back to Hollow Knight and, of course, I still need to finish Persona 3 Reload, but FFV is complete! Thank you for watching my journey kittens!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MnWeX8kvkGI?si=rsUuW7nLnSkzbeg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] is taking a bit of a back seat compared to my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. I'm doing two art streams both on YouTube and one game stream also there. Xenosaga and Genshin will be on Twitch though! I swear I'm not leaving!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/6 - 1/12
+[[/~yayoi/images/schedules/2024/6Jan.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                        | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Last two panels of the page!?                        | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Hollow Knight: Do I even remember Hollownest!?            | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: New Illustration!?                                   | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Okay, rematch and then next dungeon!  | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Let's learn more about the dendro archon! | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                            | Offline            |
+| Sunday    |                     | /Rest Day/                                                | Offline            |
