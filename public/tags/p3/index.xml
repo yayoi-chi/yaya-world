@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>P3 on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/p3/</link>
+    <link>http://localhost:1313/~yayoi/tags/p3/</link>
     <description>Recent content in P3 on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 10:59:52 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/p3/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/p3/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3reload/walkthrough/</link>
         <pubDate>Tue, 19 Mar 2024 10:59:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 10:59:52 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3reload/walkthrough/</guid>
         <description>This will walk you through everything that is available to you in your every day life in Persona 3 Reload</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Persona 3 Reload</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3reload/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3reload/</link>
         <pubDate>Tue, 19 Mar 2024 09:30:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 09:30:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3reload/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3reload/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Reload. Some information in these guides is not likely to apply to either P3P or the original PS2 version of P3</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

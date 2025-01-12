@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 12 Jan
+#+DATE: 2025-01-12T09:58:38-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A much more typical week after taking so much time off for holidays! We finished another page, started another illustration, went back to Hollownest, and more! I enjoyed getting to spend more time with the kittens! Hope you enjoyed it too~ 💜
+
+* Art Streams
+Did two art streams this week. I mentioned this before, but I really do like doing art streams and will probably continue to do more. For this week, I completed page three of my (still unnamed) comic. I wanted to take a bit of a break from it though, so I started a new illustration. Honestly, I was hoping that illustration would be done in one stream, but I guess I'm not that good yet. Maybe one or two more stream. I want to use it on a schedule next week (please don't look at the image for this coming week's schedule). Maybe I'll start getting faster as I continue to practice!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XpQyPaAYgNs?si=S0lUtlgmbDHldUU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Two art stream does mean one less game stream. I promise I won't quit doing them though. I like sharing my art with you, and I get more chances to chat when I do, but I also like playing games for you. I'll keep doing both as long as I can! This week we went back to Hollow Knight. I need a bit more direction on where to go next though (any hints? 😉). I also fed my Genshin addiction by continuing the dendro archon quest...for a bit...until I got sucked into another side quest 😅
+** Hollow Knight
+I'm so lost! I mean I've seemingly explored most of Hollownest, but there is still at least one spot I can't get to! I spent much of this stream trying to find a way over there, but never did make it. I found a few other small things I missed, but nothing helpful. I think I'll need to turn to you, my kittens, or the interwebs for direction!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pY558p3pVek?si=tnesU6OhDf96G6R-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Our rematch with Mintia got a little hairy when I forgot that she can take someone down to 1 HP and use that the heal herself that amount. We managed to get passed that with boosts though. After we got the Dark Scepter tech attack and the new rod, we moved on to Proto Merkabah. Wasn't there very long though! We'll get through more of it next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyyS4a3DVNQ?si=lsr6glHUnCGXJzAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Started back with dendro archon quests. I really intended to /only/ do that, but, I guess I'm a sucker for the side quests 😅 At least this one seems sort of related maybe. I don't know, I think I'm just making excuses. Oh well, maybe we'll be back on track next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3GdFbgWbxAw?si=Ofxgw3P3YlTTazXK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] is taking a back-seat again. There will be two streams there next week, but the majority will be on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. This is probably going to be the norm for a bit unless I get other streamers wanting to collab again. Until then I encourage you to subscribe on YouTube so you don't miss anything!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/13 - 1/19
+[[/~yayoi/images/schedules/2025/13Jan.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                          | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: I'm no one's pet - Part 2              | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Will we tempt fate?       | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: I'm no one's pet - Part 3?             | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Proto Merkabah is beeg! | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Will we get back on track?  | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                              | Offline            |
+| Sunday    |                     | /Rest Day/                                  | Offline            |

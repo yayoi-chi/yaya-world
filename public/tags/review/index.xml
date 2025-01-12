@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Review on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/review/</link>
+    <link>http://localhost:1313/~yayoi/tags/review/</link>
     <description>Recent content in Review on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,23 +16,23 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 14 Mar 2024 14:56:40 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/review/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/review/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Persona 4 Golden</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
+        <link>http://localhost:1313/~yayoi/reviews/p4g/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:56:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/p4g/</guid>
         <description>&lt;a id=&#34;forums&#34; href=&#34;https://github.com/yayoi-chi/yaya-world/discussions/28&#34; target=&#34;_new&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
 &lt;/a&gt;
 &lt;div style=&#34;display:block;width:40px;height:40px;margin:auto&#34;&gt;
 &amp;nbsp;
@@ -68,11 +68,11 @@
       
       <item>
         <title>Lost Ruins (2/5)</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/lost-ruins/</link>
+        <link>http://localhost:1313/~yayoi/reviews/lost-ruins/</link>
         <pubDate>Wed, 03 Jan 2024 15:58:39 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 03 Jan 2024 15:58:39 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/lost-ruins/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/lost-ruins/</guid>
         <description>This is a pretty good action platformer, with pretty good art and a predicatable and mediocre story.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -100,11 +100,11 @@
       
       <item>
         <title>No Man&#39;s Sky (First Impressions)</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/no-mans-sky/</link>
+        <link>http://localhost:1313/~yayoi/reviews/no-mans-sky/</link>
         <pubDate>Wed, 23 Aug 2023 16:31:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 23 Aug 2023 16:31:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/no-mans-sky/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/no-mans-sky/</guid>
         <description>First No Man&amp;#39;s Sky actually has a story! I know this came as a bit of a surprise to me too. Basically you are a Traveller and you wake up on a planet with no memory of how you got there, just your exosuit and your starship. You will go through and explore the world, build a base, and try to learn what happened to you. It is this last part that provides us with a surprisingly deep story that I was really not prepared for, but am pleasantly surprised is there!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -136,11 +136,11 @@
       
       <item>
         <title>Little Witch Nobeta [3/5]</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/little-witch-nobeta/</link>
+        <link>http://localhost:1313/~yayoi/reviews/little-witch-nobeta/</link>
         <pubDate>Wed, 09 Aug 2023 18:54:41 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 09 Aug 2023 18:54:41 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/little-witch-nobeta/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/little-witch-nobeta/</guid>
         <description>In Little Witch Nobeta you play as a little witch who lost her memory. She goes on a journey to the one place she remembers, a throne in a giant castle, in hopes of finding her memory. Along the way she meets a cat who is very insistent that she makes it to the throne!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -172,11 +172,11 @@
       
       <item>
         <title>Stray [2.5/5]</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/stray/</link>
+        <link>http://localhost:1313/~yayoi/reviews/stray/</link>
         <pubDate>Mon, 24 Jul 2023 18:21:01 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 24 Jul 2023 18:21:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/stray/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/stray/</guid>
         <description>Stray is a very cute game where you play as a cat, but it isn&amp;#39;t exactly long and my not be exactly what you&amp;#39;re expecting</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

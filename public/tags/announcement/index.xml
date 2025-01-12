@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Announcement on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/announcement/</link>
+    <link>http://localhost:1313/~yayoi/tags/announcement/</link>
     <description>Recent content in Announcement on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 22 Dec 2024 12:06:28 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Winter 2025 Outfit Reveal</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/winter-2025-outfit-reveal/</link>
         <pubDate>Sun, 22 Dec 2024 12:06:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Dec 2024 12:06:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/winter-2025-outfit-reveal/</guid>
         <description>The Holiday session is upon us and, even though most of them will be over there is one last thing every kitten has to look forward to! You may recall, from &lt;a href=&#34;{{%ref &amp;#34;news/2024/end-of-year-announcements.org&amp;#34; %}}&#34;&gt;my last announcements&lt;/a&gt; that I promised you a special stream! Well ta-da~ More information!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>Commissions are OPEN!!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/commissions-are-open/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/commissions-are-open/</link>
         <pubDate>Thu, 24 Aug 2023 15:00:57 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 24 Aug 2023 15:00:57 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/commissions-are-open/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/commissions-are-open/</guid>
         <description>This week was not as small as last week, but the updates are still few. One thing is that I&amp;#39;ve been doing a lot of thinking and I have decided to open up commissions! Other than that, and, as far as this site goes, I have also decided not to wait until I have completed No Man&amp;#39;s Sky to write about it. You can consider this my first impressions of the game. As I said, I am planning on writing a full review once I have completed the main story missions, but I didn&amp;#39;t want to wait that long because I really like the game!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

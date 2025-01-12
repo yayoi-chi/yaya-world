@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Cat on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/cat/</link>
+    <link>http://localhost:1313/~yayoi/tags/cat/</link>
     <description>Recent content in Cat on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 09 Aug 2023 18:54:41 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/cat/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Little Witch Nobeta [3/5]</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/little-witch-nobeta/</link>
+        <link>http://localhost:1313/~yayoi/reviews/little-witch-nobeta/</link>
         <pubDate>Wed, 09 Aug 2023 18:54:41 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 09 Aug 2023 18:54:41 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/little-witch-nobeta/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/little-witch-nobeta/</guid>
         <description>In Little Witch Nobeta you play as a little witch who lost her memory. She goes on a journey to the one place she remembers, a throne in a giant castle, in hopes of finding her memory. Along the way she meets a cat who is very insistent that she makes it to the throne!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Stray [2.5/5]</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/stray/</link>
+        <link>http://localhost:1313/~yayoi/reviews/stray/</link>
         <pubDate>Mon, 24 Jul 2023 18:21:01 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 24 Jul 2023 18:21:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/stray/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/stray/</guid>
         <description>Stray is a very cute game where you play as a cat, but it isn&amp;#39;t exactly long and my not be exactly what you&amp;#39;re expecting</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
