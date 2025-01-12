@@ -29,7 +29,7 @@ I'll say it again here! I BEAT EXDEATH!!! It made for a somewhat short stream, b
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] is taking a bit of a back seat compared to my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. I'm doing two art streams both on YouTube and one game stream also there. Xenosaga and Genshin will be on Twitch though! I swear I'm not leaving!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/6 - 1/12
-[[/~yayoi/images/schedules/2024/6Jan.png]]
+[[/~yayoi/images/schedules/2025/6Jan.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                        | When I'm Streaming |
 |-----------+---------------------+-----------------------------------------------------------+--------------------|
 | Monday    | YouTube             | Art: Last two panels of the page!?                        | 10 PM ET/7 PM PT   |

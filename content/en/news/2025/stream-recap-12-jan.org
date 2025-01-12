@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 12 Jan
+#+DATE: 2025-01-12T09:58:38-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+* Art Streams
+
+* Game Streams
+
+** Hollow Knight
+
+#+begin_export html
+
+#+end_export
+** Xenosaga Episode 1
+
+#+begin_export html
+
+#+end_export
+** Genshin Impact
+
+#+begin_export html
+
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/13 - 1/19
+[[/~yayoi/images/schedules/2025/13Jan.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                          | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: I'm no one's pet - Part 2              | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Will we tempt fate?       | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Art: I'm no one's pet - Part 3?             | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Proto Merkabah is beeg! | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Will we get back on track?  | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                              | Offline            |
+| Sunday    |                     | /Rest Day/                                  | Offline            |
