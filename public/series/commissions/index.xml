@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Commissions on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/series/commissions/</link>
+    <link>https://onigirionegai.info/~yayoi/series/commissions/</link>
     <description>Recent content in Commissions on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,18 +16,18 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Aug 2023 15:41:12 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/series/commissions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/series/commissions/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Commissions</title>
-        <link>http://localhost:1313/~yayoi/gallery/commissions/</link>
+        <link>https://onigirionegai.info/~yayoi/gallery/commissions/</link>
         <pubDate>Thu, 31 Aug 2023 15:41:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 15:41:12 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/gallery/commissions/</guid>
-        <description>&lt;p&gt;I do commissions! For more information on commissioning me, you can check out the page &lt;a href=&#34;http://localhost:1313/~yayoi/commissions/&#34;&gt;about commissions&lt;/a&gt;. Please note that I only showcase commissions that the original client has given me permission to showcase!&lt;/p&gt;</description>
+        <guid>https://onigirionegai.info/~yayoi/gallery/commissions/</guid>
+        <description>&lt;p&gt;I do commissions! For more information on commissioning me, you can check out the page &lt;a href=&#34;https://onigirionegai.info/~yayoi/commissions/&#34;&gt;about commissions&lt;/a&gt;. Please note that I only showcase commissions that the original client has given me permission to showcase!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         

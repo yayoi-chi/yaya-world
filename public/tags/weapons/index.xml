@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Weapons on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/weapons/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/weapons/</link>
     <description>Recent content in Weapons on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 20:54:48 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/weapons/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/weapons/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Enhancement Guide</title>
-        <link>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</link>
+        <link>https://onigirionegai.info/~yayoi/guides/fiesta/enhancement/</link>
         <pubDate>Sun, 09 Oct 2022 20:54:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:54:48 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/guides/fiesta/enhancement/</guid>
+        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/enhancement/</guid>
         <description>&lt;p&gt;
 Before we begin, it is important to understand that everything in Fiesta
 is divided into tiers, this includes weapons, armor, and jewlery. Since

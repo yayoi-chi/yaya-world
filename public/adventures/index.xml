@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Adventures on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/adventures/</link>
+    <link>https://onigirionegai.info/~yayoi/adventures/</link>
     <description>Recent content in Adventures on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,18 +16,18 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 21:49:45 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/adventures/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/adventures/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>The Journal of Keyrie Cildor</title>
-        <link>http://localhost:1313/~yayoi/adventures/keyrie/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/</link>
         <pubDate>Sun, 14 Jan 2024 17:28:29 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:28:29 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/keyrie/</guid>
-        <description>&lt;img src=&#34;http://localhost:1313/~yayoi/~yayoi/gallery/creations/KeyriePP.png&#34; alt=&#34;Keyrie&amp;#39;s Portrait&#34; title=&#34;Keyrie Cildor&#34; align=&#34;left&#34; width=&#34;35%&#34;/&gt;
+        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/</guid>
+        <description>&lt;img src=&#34;https://onigirionegai.info/~yayoi/~yayoi/gallery/creations/KeyriePP.png&#34; alt=&#34;Keyrie&amp;#39;s Portrait&#34; title=&#34;Keyrie Cildor&#34; align=&#34;left&#34; width=&#34;35%&#34;/&gt;
 &lt;p&gt;
 I am Keyrie Cildor. I come from a privileged and noble line of wood elves. I am not large of stature, standing at only five feet and a single inch as measured by the humans, but I have a fierce heart for adventure.&lt;/p&gt;
 &lt;p&gt;
@@ -54,11 +54,11 @@ My eloquent flattery makes everyone I talk to feel like the most wonderful and i
       
       <item>
         <title>Baby Goes Back 2 School</title>
-        <link>http://localhost:1313/~yayoi/adventures/baby-back2school/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/baby-back2school/</link>
         <pubDate>Wed, 06 Sep 2023 21:19:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 06 Sep 2023 21:19:06 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/baby-back2school/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/baby-back2school/</guid>
         <description>Nights are getting shorter, the air is getting crisper, apple cider is appearing on store shelves…all signs that summer is coming to an end.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -72,11 +72,11 @@ My eloquent flattery makes everyone I talk to feel like the most wonderful and i
       
       <item>
         <title>The Ultimate Yolk</title>
-        <link>http://localhost:1313/~yayoi/adventures/friends/the-ultimate-yolk/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</link>
         <pubDate>Mon, 31 Jul 2023 21:16:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 31 Jul 2023 21:16:45 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/friends/the-ultimate-yolk/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/friends/the-ultimate-yolk/</guid>
         <description>The year is 2021, the month is November, and the setting is the game we all know and love: Fiesta Online. An idea hatched to create a character by the name of _Egg.</description>
         
         <dc:creator>michelle.bsparkx</dc:creator>
@@ -108,11 +108,11 @@ My eloquent flattery makes everyone I talk to feel like the most wonderful and i
       
       <item>
         <title>Non-gaming Adventures (General Fiction)</title>
-        <link>http://localhost:1313/~yayoi/adventures/fiction/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/fiction/</link>
         <pubDate>Mon, 24 Jul 2023 16:36:49 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 24 Jul 2023 16:36:49 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/fiction/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/</guid>
         <description>I write things that are more original just like my art</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -136,11 +136,11 @@ My eloquent flattery makes everyone I talk to feel like the most wonderful and i
       
       <item>
         <title>Chapter 1: Where&#39;s My Baby!?</title>
-        <link>http://localhost:1313/~yayoi/adventures/ch1/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/ch1/</link>
         <pubDate>Sun, 09 Oct 2022 21:56:20 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:56:20 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/ch1/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/ch1/</guid>
         <description>&lt;p&gt;
 While on an ADVENTURE with Yayoi, Baby ended up chasing a sheep. After, finally, catching up to the sheep, Baby gave it a nice pet. It was so fluffy and soft, she couldn&amp;#39;t resist. She looked around and found that she was no longer with Yayoi. In fact, Yayoi was no where to be seen. Fortunately a party of friends was out on an ADVENTURE of their own and found her, now in Burning Hill, by herself. The friends ask baby to retrace her steps. Baby leads them back to Sea of Greed, where she last saw Yayoi, but Yayoi had already moved on. However, the group did encounter someone in Sea of Greed.&lt;/p&gt;</description>
         
