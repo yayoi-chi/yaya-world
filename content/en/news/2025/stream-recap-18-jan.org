@@ -27,7 +27,7 @@ Spent a good chunk of this on one boss! This boss has two helpers with over 2000
 ** Genshin Impact
 We got back on track! I was lucky that the side quest I was on wasn't a hugely like inter-connected quest line. There are new things for me to do and explore from it, but I can do those on my own. Love seeing things come together with the dendro archon quests. Also met Dori, that was something! Anyway, I'm wondering if we do get to meet this archon. Seems like there are just no answers to be had. Guess I'll just have to keep playing so we can find out 😆
 #+begin_export html
-<!-- Video Still Private! Replace with embed once it is up! -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q79W_H5howA?si=Uvg84F_o9tTDfYyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] is back in the front seat for a week. There will be three streams there and only two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! There are still going to be two art streams, but I put one on Twitch because I'm not sure if I'll do it very long yet and its easier to switch categories there.
