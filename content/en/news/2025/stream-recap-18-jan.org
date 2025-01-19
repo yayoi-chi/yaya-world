@@ -8,7 +8,7 @@
 #+SUMMARY: Completed another art project! I have something for the schedule graphic next week and a new addition to my gallery! Also, we played some fun games including more Genshin 😅
 
 * Art Streams
-We completed another project! This one was a lot of fun. I just wanted something I could use for my schedule graphic because I ran out of old art to use for them a while ago and didn't like recycling things. I will probably need to recycle some again, cuz I haven't learned to be quick yet, but we'll see. I have plans for the next one that I already started in secret though, maybe that'll help!
+We completed another project! This one was a lot of fun. I just wanted something I could use for my schedule graphic because I ran out of old art to use for them a while ago and didn't like recycling things. I will probably need to recycle some again, 'cuz I haven't learned to be quick yet, but we'll see. I have plans for the next one that I already started in secret though, maybe that'll help!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2tipQ8FYYM?si=wG9royQ5Q8beJgw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -25,7 +25,7 @@ Spent a good chunk of this on one boss! This boss has two helpers with over 2000
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ux6JdYB2QuE?si=L8Pg27uQfeJrs6wB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-We got back on track! I was lucky that the side quest I was on wasn't a hugely like inter-connected quest line. There are new things for me to do and explore from it, but I can do those on my own. Love seeing things come together with the dendro archon quests. Also met Dori, that was something! Anyway, I'm wondering if we do get to meet this archon. Seems like there are just no answers to be had. Guess I'll just have to keep playing so we can find out 😆
+We got back on track! I was lucky that the side quest I was on wasn't a hugely inter-connected quest line. There are new things for me to do and explore from it, but I can do those on my own. Love seeing things come together with the dendro archon quests. Also met Dori, that was something! Anyway, I'm wondering if we do get to meet this archon. Seems like there are just no answers to be had. Guess I'll just have to keep playing so we can find out 😆
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q79W_H5howA?si=Uvg84F_o9tTDfYyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
