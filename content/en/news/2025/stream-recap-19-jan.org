@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 19 Jan
+#+DATE: 2025-01-18T09:57:26-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Completed another art project! I have something for the schedule graphic next week and a new addition to my gallery! Also, we played some fun games including more Genshin 😅
+
+* Art Streams
+We completed another project! This one was a lot of fun. I just wanted something I could use for my schedule graphic because I ran out of old art to use for them a while ago and didn't like recycling things. I will probably need to recycle some again, 'cuz I haven't learned to be quick yet, but we'll see. I have plans for the next one that I already started in secret though, maybe that'll help!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2tipQ8FYYM?si=wG9royQ5Q8beJgw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+We gamed too! It was the usual. A little Persona 3 Reload, with some Xenosaga, and Genshin. We're getting pretty close to the end of Xenosaga, but that's just the first of three episodes! We'll probably move right into Episode 2. I want to get it out of the way as quickly as possible to get to 3. I'd skip it, but, the kittens need to see it!
+** Persona 3 Reload
+I think I ended up a bit stuck on this one. Didn't make it as far as I wanted. We're very close to the new year though. I did finally fuse Alice and I'm very happy I did. Sadly, I hadn't reached a good point in my relationships to have a date for Christmas, maybe some other playthrough though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CefNX05X7c?si=fyvWFyUVtUDyoays" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+Spent a good chunk of this on one boss! This boss has two helpers with over 2000 HP and the boss itself has over 12000! This was not helped by the fact that this particular fight was difficult to render even on original hardware, so it was a lot of dropped frames and slide show frame rates. We got through it though! We're almost to the end!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ux6JdYB2QuE?si=L8Pg27uQfeJrs6wB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We got back on track! I was lucky that the side quest I was on wasn't a hugely inter-connected quest line. There are new things for me to do and explore from it, but I can do those on my own. Love seeing things come together with the dendro archon quests. Also met Dori, that was something! Anyway, I'm wondering if we do get to meet this archon. Seems like there are just no answers to be had. Guess I'll just have to keep playing so we can find out 😆
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q79W_H5howA?si=Uvg84F_o9tTDfYyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] is back in the front seat for a week. There will be three streams there and only two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! There are still going to be two art streams, but I put one on Twitch because I'm not sure if I'll do it very long yet and its easier to switch categories there.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/20 - 1/26
+[[/~yayoi/images/schedules/2025/20Jan.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                    | When I'm Streaming |
+|-----------+---------------------+-------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: A fourth page!?                                  | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Is it time to test our resolve?     | 3 PM ET/12 PM PT   |
+| Wednesday | Twitch              | Art: Random art practice?                             | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: MOMO's got this!                  | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: I'm not addicted to Genshin, you are! | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                        | Offline            |
+| Sunday    |                     | /Rest Day/                                            | Offline            |
