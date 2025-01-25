@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 26 Jan
+#+DATE: 2025-01-25T12:55:13-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I did a practice thing! You won't find this practice thing here, or anywhere, you had to be there live! I did it though. You know something you can see though? I started a new comic page! Also I got myself stuck in Genshin 😅
+
+* Art Streams
+There were two art streams this week, one of them is completely unarchived! That one was just a bit of practice. What did I practice? I'm not going to tell you! The other one was also not archived, but was recorded and I will be putting it into a timelapse. I do that with many of my streams as They are done in multiple parts. This was the first part of my fourth comic page. More parts to come!
+* Game Streams
+There were three game streams too! We started the new year in Persona 3 Reload and are getting close to the end in Xenosaga Episode 1 as well. I did kind of get myself a little stuck in Genshin though as I had to stop in the middle of a fun part of the dendro archon quest because of work, stoopit work 😠
+** Persona 3 Reload
+It took us some time, but we finally made it to the new year! I made my decision and we are heading toward the top of Tartarus! I don't know what lies at the top, but we're going to face it. I don't care if they tell us we can't win, we're going to try!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WDn4aXJkhAc?si=hPTeR6c_xqCaZwSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+We continued exploring Proto Merkabah! MOMO has done extremely well. We're getting close to the end, but I still have doors to find! Let's hope I find them before the final boss so it can be easy peasie!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFtREQwEJbQ?si=oJnPa1BPkX5xie_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+I am now trapped in Sumeru City. The dendro archon questline is far more interesting than I expected and I really didn't expect to meet Nahida this way, but meet her we did! Hopefully, we'll be able to break free of this dream soon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTP8uhy1pRU?si=goPyF0g-CyNbDnzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] is back in the front seat for another week! There will be three streams there and only two on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! Instead of two art streams there will be two Genshin streams though! I have to get myself out of Sumeru City somehow!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 1/27 - 2/2
+[[/~yayoi/images/schedules/2025/27Jan.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: A fourth page!? - Part 2                     | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Its a new year in Persona!!     | 3 PM ET/12 PM PT   |
+| Wednesday | Twitch              | Genshin Impact: I can't wait another day!         | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Is this end of the beginning? | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Exploring Lantern Rite?           | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                    | Offline            |
+| Sunday    |                     | /Rest Day/                                        | Offline            |
