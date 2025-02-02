@@ -24,11 +24,10 @@ I focused on climbing Tartarus. The story is getting close to its true climax an
 ** Genshin Impact
 This is where we started this year's Lantern Rite. I'm a little late, but I managed to get some of the first act of the event quests done and did some of the fun activities! I really like the Immortal Battle thing with the rattan figures though, that was a bit too much fun!
 #+begin_export html
-<!-- TODO: Add embed once video is public-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DUwP0jTfMJI?si=pHwMf3ySyAn6lLPy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-TODO: Need more of a description for next week!
-[[https://www.twitch.tv/yayoi_chi][Twitch]] [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]!
+A pretty normal week on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. One art stream next week with more game streams. Mostly, I have to try and finish Lantern Rite shtuff before the even ends! Very important! Maybe I'll get back to more art streams soon though.
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 2/3 - 2/9
 [[/~yayoi/images/schedules/2025/3Feb.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                        | When I'm Streaming |
