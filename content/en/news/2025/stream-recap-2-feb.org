@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 2 Feb
+#+DATE: 2025-02-01T10:02:34-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A complicated week! Rather than two art streams, I did two Genshin streams, but I ended up canceling my Throwback Thursday 😅 Still managed to get out of Sumeru City and on to this years Lantern Rite!
+
+* Art Streams
+Only one art stream this week! I worked a little more on the largest panel in page four of my comic. I'm not sure I'm entirely proud of it, but we'll move on to the other panels and see if I end up completely redoing it!
+* Game Streams
+Yes, you're not seeing things there really are two Genshin Impact sections down there. This is probably the first time I've done the same game twice in one week, but I needed to get Lantern Rite started and had to get myself free from the Sumeru dream first! So, yeah, two Genshin streams! You do not see Xenosaga either, that was the original plan, but I had to cancel as I was not able to focus on providing a good stream for the kittens that day 🥺
+** Genshin Impact
+Our first Genshin stream was more dendro archon quest stuff. Last time, I had to stop stream in the middle of the story and was kind of trapped. Like that time I realized I was literally one door away from a savepoint in Xenosaga, I was probably 10 or 15 minutes away from getting unstuck. Well, we did some more fun archon quests though, so it was okay!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWt2C0r-OVc?si=G-6EYYTMUyuER8Sy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Persona 3 Reload
+I focused on climbing Tartarus. The story is getting close to its true climax and final boss fight. We've climbed so many floors and fought half the gatekeepers in this section. Many of our social links are also maxing out, so we'll be getting closer to the end game next week too! I'm really excited. I played P3 on PS2, but never made it this far (actually, on PS2, I think I only made it until like June or July), so I'm excited for the end! Not excited to be done with P3 though, but we can always do P5!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JV0N1LhUg3Y?si=hckFVB_tVtuoQpVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+This is where we started this year's Lantern Rite. I'm a little late, but I managed to get some of the first act of the event quests done and did some of the fun activities! I really like the Immortal Battle thing with the rattan figures though, that was a bit too much fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DUwP0jTfMJI?si=pHwMf3ySyAn6lLPy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+A pretty normal week on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. One art stream next week with more game streams. Mostly, I have to try and finish Lantern Rite shtuff before the event ends! Very important! Maybe I'll get back to more art streams soon though.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 2/3 - 2/9
+[[/~yayoi/images/schedules/2025/3Feb.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                        | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: A Fourth Page - Part 3                               | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: We'll continue climbing toward destiny! | 3 PM ET/12 PM PT   |
+| Wednesday | Twitch              | Genshin Impact: Exploring Lantern Rite - Part 2           | 10 PM ET/7 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Is this the end of the beginning?     | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Hollow Knight: Maybe we're done exploring Hollownest?     | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                            | Offline            |
+| Sunday    |                     | /Rest Day/                                                | Offline            |
