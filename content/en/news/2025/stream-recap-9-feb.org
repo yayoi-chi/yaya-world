@@ -1,0 +1,50 @@
+#+TITLE: Stream Recap: 9 Feb
+#+DATE: 2025-02-07T16:10:47-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+* Art Streams
+
+* Game Streams
+
+** Persona 3 Reload
+
+#+begin_export html
+
+#+end_export
+** Genshin Impact
+
+#+begin_export html
+
+#+end_export
+
+#+begin_export html
+
+#+end_export
+** Xenosaga Episode 1
+
+#+begin_export html
+
+#+end_export
+** Hollow Knight
+
+#+begin_export html
+
+#+end_export
+* Next Week
+ [[https://www.twitch.tv/yayoi_chi][Twitch]] and my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 2/10 - 2/16
+[[/~yayoi/images/schedules/2025/10Feb.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                  | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: A Fourth Page - Part 4                         | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Waiting until the Promised Day... | 10 PM ET/7 PM PT   |
+| Wednesday | Twitch              | Genshin Impact: Exploring Tevat again with @Bsparkx | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Back to the giant robot hunt!   | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Sonic Generations: We must go fast!                 | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                      | Offline            |
+| Sunday    |                     | /Rest Day/                                          | Offline            |
