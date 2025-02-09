@@ -1,0 +1,54 @@
+#+TITLE: Stream Recap: 9 Feb
+#+DATE: 2025-02-07T16:10:47-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was supposed to be a typical four game streams and one art stream week, but guess what? Things took an exciting turn! We got an extra Genshin stream! I was so excited because I needed it to finish Lantern Rite quests, and I’m happy to say I did it!
+
+* Art Streams
+Not much to report here, sadly. I'm still working on the fourth page of the comic. Who knew five panels would be so hard! Fortunately, this was the first stream where I did a panel from start to finish and even started one more panel all in one stream! Was it the biggest panel, no, but that doesn't matter! Let's see how much more we can do this week!
+* Game Streams
+Been playing a few more games lately as I've been doing some practice art and I don't want to stream that. So, its not that I'm doing less art, just streaming it less, but that means more games for us to play together! This week we even got five game streams thanks to an extra Genshin Impact stream!
+** Persona 3 Reload
+I think I made the mistake I made a lot in Persona 4 Golden, getting the dungeon stuff done too early! I spent a lot of the stream in Tartarus, because I wanted to climb the tower quickly, but I also quickly ran into another border floor! Now I have to wait. Well I do still have a few social links to work on, so I guess we won't get too bored.
+
+In this section, they threw a lot of Gate Keepers at us and we got several of them back-to-back. It made for some crazy and difficult fights. I think I'm lucky I'm playing it on normal. I also came up with a new rule. Always teleport back and save when there is a teleporter even if it is just a one-way one! Anyone who plays, remember this!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAbjjtWcaqA?si=s8XNwEWEIwkJgCvv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+I started Lantern Rite stuff last week after I got myself unstuck from Sumeru. This may have been a little too late to start though as this week was the last week of the event. I only managed one act of the even story quests in the scheduled stream so...we did an extra stream and finished!
+*** Day 1
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAVDYbnRg3U?si=cC085n27yv2sVRW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Day 2
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbhVQEsgM9w?si=NMDaVUNJfF2jQmq3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+Don't forget to check out the [[https://youtu.be/DUwP0jTfMJI][the first part]] too!
+** Xenosaga Episode 1
+In the spirit of finishing things I tried to finish Xenosaga Episode 1 😆 I did go straight for the final boss, but that was mostly because I forgot it went right from Albedo and into the last boss fight 😅 I thought I had it though even though I didn't have our secret weapon yet. I have beaten this boss without, but, not this time. So, we're back to look for red doors!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o6b2oOlWr-4?si=1kkVIE5-nbsS-HZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Since I tried to finish Xenosaga, I figured, why not try to finish Hollow Knight. In terms of all the lore and the true ending, we're not there, but I did fight The Hollow Knight and, after some trail and error combining the right charms, I did beat him. This unlocked the bad ending, but it was an ending nonetheless. I'll probably come back for the other endings at some future time, but we'll move on to other things for now!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FMAiesAB4D4?si=TG81wnjykIqGU0wH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ [[https://www.twitch.tv/yayoi_chi][Twitch]] will be the place to catch the most streams again this week and will be hosting a collab with the awesome [[https://www.twitch.tv/bsparkx][@Bsparkx]] again! There will still be two streams on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] though, so don't forget to check those out too!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 2/10 - 2/16
+[[/~yayoi/images/schedules/2025/10Feb.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                  | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: A Fourth Page - Part 4                         | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Waiting until the Promised Day... | 10 PM ET/7 PM PT   |
+| Wednesday | Twitch              | Genshin Impact: Exploring Tevat again with @Bsparkx | 3 PM ET/12 PM PT   |
+| Thursday  | Twitch              | Xenosaga Episode 1: Back to the giant robot hunt!   | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Sonic Generations: We must go fast!                 | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                      | Offline            |
+| Sunday    |                     | /Rest Day/                                          | Offline            |
