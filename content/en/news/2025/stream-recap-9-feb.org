@@ -37,7 +37,7 @@ In the spirit of finishing things I tried to finish Xenosaga Episode 1 😆 I di
 ** Hollow Knight
 Since I tried to finish Xenosaga, I figured, why not try to finish Hollow Knight. In terms of all the lore and the true ending, we're not there, but I did fight The Hollow Knight and, after some trail and error combining the right charms, I did beat him. This unlocked the bad ending, but it was an ending nonetheless. I'll probably come back for the other endings at some future time, but we'll move on to other things for now!
 #+begin_export html
-<!-- TODO add embed once video is published -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FMAiesAB4D4?si=TG81wnjykIqGU0wH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
  [[https://www.twitch.tv/yayoi_chi][Twitch]] will be the place to catch the most streams again this week and will be hosting a collab with the awesome [[https://www.twitch.tv/bsparkx][@Bsparkx]] again! There will still be two streams on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] though, so don't forget to check those out too!
