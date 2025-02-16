@@ -8,7 +8,7 @@
 #+SUMMARY: Collab with @Bsparkx went super well! I always end up spending a lot of resin when I play with her, but it is because we have so much fun poking things! I also completed the giant robot in Xenosaga! We're almost ready for the end. Still trudging along on page 4 of the comic too! Almost done there as well.
 
 * Art Streams
-Page four is coming along! We finished the third panel and moved on to the fourth. Hopefully they turn out pretty good. I'm also hopeful that the fifth panel is pretty quick. I don't want to rush these pages, but have so many raw recorded parts is eating a bit of space on my drive. It will be nice to finish so I can free up that space. At least I got rid of the duplicates....don't ask me why it records twice 😅
+Page four is coming along! We finished the third panel and moved on to the fourth. Hopefully they turn out pretty good. I'm also hopeful that the fifth panel is pretty quick. I don't want to rush these pages, but having so many raw recorded parts is eating a bit of space on my drive. It will be nice to finish so I can free up that space. At least I got rid of the duplicates....don't ask me why it records twice 😅
 * Game Streams
 Four game week again! We have lots of waiting ahead of us in Persona 3 Reload. I managed to take the wait down a bit, but still some waiting left. We had an awesome collab in Genshin Impact. We assembled Erde Kaiser in Xenosaga. Finally, we started a new game! Sonic Generations.
 ** Persona 3 Reload
@@ -17,7 +17,7 @@ Waiting...waiting...more waiting. The stream wasn't too boring though because th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cy6wWX0kSKo?si=6WvqY0d1z0y-PJZn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-Mayhap spent quiet a lot of resin, but I had so much fun poking bosses and domains with the awesome [[][@Bsparkx]]. It is always fun doing co-op things with her. I think we're quite a good team and I hope I managed to help her as much as she helped me.
+Mayhap spent quiet a lot of resin, but I had so much fun poking bosses and domains with the awesome [[https://www.twitch.tv/bsparkx][@Bsparkx]]. It is always fun doing co-op things with her. I think we're quite a good team and I hope I managed to help her as much as she helped me.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X8jp1V-MDBI?si=j_Xkcb-7pMO78b74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -27,7 +27,7 @@ Thanks to digging out (and dusting off) my old strategy guide, I quickly found t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/182ut4X2QxM?si=cZQfJbiHVUl7QLs5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Sonic Generations
-New game, who did!? Kidding! I had played Sonic Generations a long while ago, but this is the first time playing it for the kittens. I know I have to go fast so chatting is difficult. I hope you at least have fun watching though. I'll be coming back to it again!
+New game, who 'dis!? Kidding! I had played Sonic Generations a long while ago, but this is the first time playing it for the kittens. I know I have to go fast so chatting is difficult. I hope you at least have fun watching though. I'll be coming back to it again!
 #+begin_export html
 
 #+end_export
