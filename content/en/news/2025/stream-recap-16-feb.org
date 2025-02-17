@@ -29,7 +29,7 @@ Thanks to digging out (and dusting off) my old strategy guide, I quickly found t
 ** Sonic Generations
 New game, who 'dis!? Kidding! I had played Sonic Generations a long while ago, but this is the first time playing it for the kittens. I know I have to go fast so chatting is difficult. I hope you at least have fun watching though. I'll be coming back to it again!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RornMyI1NA?si=GLub7RNLkv0JAgIq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
  [[https://www.twitch.tv/yayoi_chi][Twitch]] gets the backseat again! I'm going to experiment with live streaming Genshin Impact on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] just to see if I can make numbers make sense 😆 Other than that, pretty standard week.
