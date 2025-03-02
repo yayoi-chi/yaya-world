@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 2 Mar
+#+DATE: 2025-03-01T11:23:34-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Took a small break from the comic to do a new outfit for my smol pngtuber! I kinda just wanted something I could do in one stream, and I did 🎉 I also played a new game, Kirby Star Allies, and continued the fun in both Persona 3 Reload and Xenosaga Episode 2. Also, some more Genshin stuff! Was a pretty good week, methinks.
+
+* Art Streams
+After a five part, five panel, comic page, I decided a break would be nice. I wasn't sure what I would do instead, but kinda wanted something that would only take one stream. I realized that I /could/ make a Genshin-inspired outfit for my smol avatar so I could use it in my YouTube thumbnails during the actual live stream. So I did that. It took less than two hours so we can go back to comic stuff next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Xy62AeDqu8?si=qOfAnU5BbLr7yr6O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Started a new game, Kirby Star Allies. Its about as long as Sonic Generations, but its cute and its Kirby, so its a lot of fun. Not sure what I'll do after it, but we got at least one more stream for it, methinks. Also met Nyx in Persona 3 Reload, and made more progress in Xenosaga Episode 2 and Genshin Impact.
+** Persona 3 Reload
+The Promised Day has come! We had a few floors left to climb, but we managed to get up them, even if Streta tried to stop us. We met up with Nyx and I think I was doing pretty good, but....we didn't quite get em 😅 Lots of Arcana to get through. We'll try again next time though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddDe-J4vuCI?si=WLyiUpYsvpIGuEdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We're wandering the desert trying to understand what those sages are up to. Lots of twists and turns! We couldn't get help Nahida much though. Maybe we'll be able to help more next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kySt4YOT2Ws?si=4ChSdlpnXKM2eNZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+We met up with another person named Uzuki last time and we fought alongside him for a bit. Turns out we were just remembering something that happened 14 years ago. Now we're back in the present trying to keep people for kidnapping MOMO again. When will these people learn?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbAAkXPRw6A?si=mn47_XX9pn1cnhQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Kirby Star Allies
+I picked this game because Kirby is cute. What other reason do we need to play a game, right? It was fun playing it and I love all the adorable places and friends. Seems it is not very long though. I'll probably complete it next time. Not sure what I'll do after it, maybe another Sonic game? Maybe I'll go back to Stray? We'll see!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qGJVhYqaZY?si=OdmTfeYdcKSzzM3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be equal partners! This might seem happier than it is. I've been emotionally bogged down the past couple weeks and have decided to take an extra rest day. I'm hoping this will help me recenter a bit. Also, sadly, next week is a bit up in the air because I apparently have civil duties to take care of 😮‍💨
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/3 - 3/9
+[[/~yayoi/images/schedules/2025/3Mar.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                              | When I'm Streaming |
+|-----------+---------------------+-----------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Are we ready for a 5th page?                               | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Let's Nix Nyx!                                | 3 PM ET/12 PM PT   |
+| Wednesday |                     | /Rest Day/                                                      | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 2: We're just going wonder Miltia for a bit... | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Kirby Star Allies: Let's look for missing puzzle pieces!        | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                                  | Offline            |
+| Sunday    |                     | /Rest Day/                                                      | Offline            |
