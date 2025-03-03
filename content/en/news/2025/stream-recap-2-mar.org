@@ -15,12 +15,12 @@ After a five part, five panel, comic page, I decided a break would be nice. I wa
 * Game Streams
 Started a new game, Kirby Star Allies. Its about as long as Sonic Generations, but its cute and its Kirby, so its a lot of fun. Not sure what I'll do after it, but we got at least one more stream for it, methinks. Also met Nyx in Persona 3 Reload, and made more progress in Xenosaga Episode 2 and Genshin Impact.
 ** Persona 3 Reload
-The Promised Day has come! We had a few floors left to climb, but we managed to get up them, even if Streta tried to stop us. We met up with Nyx and I think I was doing pretty good, but....we didn't quite get em 😅 Lots of Arcana to get through. We'll try again next time though!
+The Promised Day has come! We had a few floors left to climb, but we managed to get up them, even if Strega tried to stop us. We met up with Nyx and I think I was doing pretty good, but....we didn't quite get em 😅 Lots of Arcana to get through. We'll try again next time though!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddDe-J4vuCI?si=WLyiUpYsvpIGuEdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-We're wandering the desert trying to understand what those sages are up to. Lots of twists and turns! We couldn't get help Nahida much though. Maybe we'll be able to help more next time!
+We're wandering the desert trying to understand what those sages are up to. Lots of twists and turns! We couldn't help Nahida much though. Maybe we'll be able to help more next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kySt4YOT2Ws?si=4ChSdlpnXKM2eNZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export

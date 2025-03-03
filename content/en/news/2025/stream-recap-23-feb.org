@@ -8,7 +8,7 @@
 #+SUMMARY: The experiment...didn't help. I think maybe I just don't have enough data points. We did finish quite a few things this week though! Xenosaga Episode 1, Sonic Generations, and the fourth comic page 🎉 Overall, not a bad week. Just need to figure out how to handle Genshin Impact...
 
 * Art Streams
-Okay, so I /did/ finish the fourth page of the comic this week, but... there are *five* recordings to go through, timelapse, and edit 😵‍💫 I managed to edit it though, there were more cuts than I thought there would be, but its up. I'm not sure if I'm going to start the next page next week or maybe do something else. Even if I do something else though, I'm not sure what yet. In other words, next week's art stream is a bit up in the air, but, we have four /completed/ comic pages 🎉
+Okay, so I /did/ finish the fourth page of the comic this week, but... there were *five* recordings to go through, timelapse, and edit 😵‍💫 I managed to edit it though, there were more cuts than I thought there would be, but its up. I'm not sure if I'm going to start the next page next week or maybe do something else. Even if I do something else though, I'm not sure what yet. In other words, next week's art stream is a bit up in the air, but, we have four /completed/ comic pages 🎉
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ehZncDA3U34?si=c8Pm_76YeO89jwJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
