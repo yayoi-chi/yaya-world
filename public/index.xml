@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 08:25:45 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 11:23:34 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 2 Mar</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</link>
+        <pubDate>Sat, 01 Mar 2025 11:23:34 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sat, 01 Mar 2025 11:23:34 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</guid>
+        <description>Took a small break from the comic to do a new outfit for my smol pngtuber! I kinda just wanted something I could do in one stream, and I did 🎉 I also played a new game, Kirby Star Allies, and continued the fun in both Persona 3 Reload and Xenosaga Episode 2. Also, some more Genshin stuff! Was a pretty good week, methinks.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3358,31 +3390,6 @@ New Position
               <category>commissions</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>New News</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/new-news/</link>
-        <pubDate>Thu, 09 Nov 2023 17:52:22 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 09 Nov 2023 17:52:22 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/new-news/</guid>
-        <description>&lt;p&gt;
-This site now has a &lt;strong&gt;lot&lt;/strong&gt; of news articles! I guess one article each week for almost a year will do that. As a result, I made a few changes to how the news section is organized. You probably won&amp;#39;t notice anything, unless you link to an article. Sorry for all the links I just broke 😅&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-What Changed!?
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;All articles in this section used to just be in the &amp;#39;news&amp;#39; folder with the date as the file name. So, in the old way this article would have just been &lt;code&gt;news/2023-11-09/&lt;/code&gt;. If you look in your URL bar though you should see something like &lt;code&gt;news/2023/new-news/&lt;/code&gt;. This means that, more consistent with other pages on the site, the file name is now based on the title of the article and articles from 2023 are in one folder while articles from 2022 are in another folder. As I said, it won&amp;#39;t effect much as the index page will still basically look the same, but it will effect links, so keep that in mind! Once again, I do apologize for breaking any of those, but this will help keep the site source more organized for me.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
         
         
         

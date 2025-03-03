@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 23 Feb
+#+DATE: 2025-02-23T08:25:45-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: The experiment...didn't help. I think maybe I just don't have enough data points. We did finish quite a few things this week though! Xenosaga Episode 1, Sonic Generations, and the fourth comic page 🎉 Overall, not a bad week. Just need to figure out how to handle Genshin Impact...
+
+* Art Streams
+Okay, so I /did/ finish the fourth page of the comic this week, but... there were *five* recordings to go through, timelapse, and edit 😵‍💫 I managed to edit it though, there were more cuts than I thought there would be, but its up. I'm not sure if I'm going to start the next page next week or maybe do something else. Even if I do something else though, I'm not sure what yet. In other words, next week's art stream is a bit up in the air, but, we have four /completed/ comic pages 🎉
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehZncDA3U34?si=c8Pm_76YeO89jwJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Aside from completing that page, we managed to finish not one but two games. Okay one was short, but its complete nonetheless. The other, is also just the first game in a series, but also, complete, so that three total things done. Maybe this week we finish Persona 3 Reload? We'll see!
+** Persona 3 Reload
+Didn't quite make it to the Promised Day yet. Almost there, maybe next stream. I feel like we've accomplished a lot. Maybe its because I didn't make it quite this far in P3 before, or I didn't do as well with Persona 5 or something, but I have a lot of social links maxed and all but one social stat (dumb Academics 😠). I think it has been a good run though. Let's see if we can get to that final fight next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNGDwxEWV4E?si=T9AltNK4Q89-219Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Lantern Rite really was fun, but its time to go back to our dendro archon quests! Which we did, and now Nahida seems even more trapped and we're just wandering around a desert! Will we get to free Nahida, or will she just be trapped forever? Also, does Sumeru have their Katheryne back? I guess we'll answer those questions next time when we play Genshin again 😆
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnLdp4VYY4Q?si=dYgp8gVLi6mIKquY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 1
+We finished it! Yep, Erde Kaiser came through! Not only did the giant robot help with that final fight, but also took Albedo out in one shot, meaning we were basically at the same strength as when we started that fight. Sadly, I did miscalculate and Shion was knocked out in her AWGS, but that didn't stop us from winning! I even started Episode 2! Look forward to this section being titled "Xenosaga Episode 2" next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_E-JEXTKQY?si=WiusIp6113uLc8VB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Sonic Generations
+Sonic Generations proved to be a good distraction after Hollow Knight. I don't plan on going back to Hollow Knight for awhile, but maybe I'll do the true ending /some time/. We did finish this though, but we'll keep up with some cute games for a bit!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQU--f1ADTg?si=y7ZD8iqwVWQ-d8Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ [[https://www.twitch.tv/yayoi_chi][Twitch]] gets the backseat once more! I'm going to experiment with live streaming Genshin Impact on my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] again, numbers still aren't making sense, but maybe a different time would help?
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 2/24 - 3/2
+[[/~yayoi/images/schedules/2025/24Feb.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                           | When I'm Streaming |
+|-----------+---------------------+--------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Something something... art....                          | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 3 Reload: Time for the Promised Day?                 | 3 PM ET/12 PM PT   |
+| Wednesday | YouTube             | Genshin Impact: Do we get to free Nahida?                    | 10 PM PT/7 PM ET   |
+| Thursday  | Twitch              | Xenosaga Episode 2: Uzuki? That name sounds familiar...      | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Kirby Star Allies: We're not just allies, we're star allies! | 3 PM ET/12 PM PT   |
+| Saturday  |                     | /Homework Day/                                               | Offline            |
+| Sunday    |                     | /Rest Day/                                                   | Offline            |
