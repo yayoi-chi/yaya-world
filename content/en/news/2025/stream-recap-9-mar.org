@@ -1,0 +1,18 @@
+#+TITLE: Stream Recap: 9 Mar
+#+DATE: 2025-03-09T16:49:47-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A very short week this week. Lots of things happened outside of my life as a streamer. It was all kind of overwhelming. I did manage a good art stream and we finished Persona 3 Reload. That was all though. Also, there's more bad news, but I'll leave it out of this summary!
+
+* Art Streams
+This week in art I started the fifth page in my comic. I think we did fairly well all things considered. I managed to complete an entire panel in this stream. Of course, like all my art live streams, this one was unarchived. You'll have to wait for me to put together a timelapse for all the parts once the page is complete. It'll worth the wait though, methinks!
+* Game Stream
+I did it! I was much more careful and analyzed Nyx's avatar's moves much more closely and I managed to counter just about every one of them at least on the leader. This actually made the fight pretty easy, but it was still basically a fourteen phase fight so it was very long. I did it though! The rest of the stream is some final story stuff and the ending. I found out after the stream that we even managed the good ending! Next time we see a Persona stream, it'll be Persona 5 Royal!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6a7hxJosX8?si=ut1nSKV8mEcwvGrz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Now for the bad news! Both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be taking a backseat this week as I have been summoned for jury duty and things work very bad where I live. Basically, all I know for sure right now is that I will not be reporting Monday (10 Mar) so I could possibly do an art stream this week. It is highly likely I will. However, I don't know if I'll be required to report some other day during the week. This means there will be no posted schedule! The best place to see if I'm streaming will be my [[//discord.gg/3qW8efhqBH][Fairy Circle (Discord Server)]] you can also check my [[https://mastodon.world/@yaya][Matsodon]] or the [[https://www.youtube.com/@yayoi-chi/community][YouTube Community Tab]]. Again *there is /no/ set schedule* next week!
