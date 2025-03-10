@@ -67,7 +67,7 @@
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -79,23 +79,23 @@
                 href="https://onigirionegai.info/~yayoi/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
-  </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</loc>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
+    <lastmod>2025-03-09T16:49:47-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -106,6 +106,9 @@
                 hreflang="en"
                 href="https://onigirionegai.info/~yayoi/tags/"
                 />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</loc>
+    <lastmod>2025-03-01T11:23:34-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-feb/</loc>
     <lastmod>2025-02-23T08:25:45-08:00</lastmod>
@@ -515,10 +518,10 @@
     <loc>https://onigirionegai.info/~yayoi/news/2023/added-a-few-things/</loc>
     <lastmod>2023-08-31T16:20:15-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/series/commissions/</loc>
+    <loc>https://onigirionegai.info/~yayoi/gallery/commissions/</loc>
     <lastmod>2023-08-31T15:41:12-07:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/gallery/commissions/</loc>
+    <loc>https://onigirionegai.info/~yayoi/series/commissions/</loc>
     <lastmod>2023-08-31T15:41:12-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/me/</loc>
@@ -676,10 +679,10 @@
     <loc>https://onigirionegai.info/~yayoi/news/2023/make-my-website-grow/</loc>
     <lastmod>2022-12-17T20:45:28-08:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/tags/quests/</loc>
+    <loc>https://onigirionegai.info/~yayoi/guides/p4g/quests/</loc>
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/guides/p4g/quests/</loc>
+    <loc>https://onigirionegai.info/~yayoi/tags/quests/</loc>
     <lastmod>2022-12-08T21:08:03-08:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/skills/</loc>
