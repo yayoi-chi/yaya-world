@@ -30,12 +30,12 @@ I thought I was so close to the end when I finished last time, but, turns out, I
  Thank you every kitten for you patience this week! I'll be back to normal operations on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] next week. I have some errands to take care of though so I won't be streaming Wednesday, however, there will be a special collab stream on Saturday to make up for it!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/17 - 3/23
 [[/~yayoi/images/schedules/2025/17Mar.png]]
-| Week Day  | Where I'm Streaming | What I'm Streaming                                   | When I'm Streaming |
-|-----------+---------------------+------------------------------------------------------+--------------------|
-| Monday    | YouTube             | Art: Are we ready for a 5th page?                    | 10 PM ET/7 PM PT   |
-| Tuesday   | YouTube             | Persona 5 Royal: Jokers wild?                        | 4 PM ET/1 PM PT    |
-| Wednesday |                     | /Rest Day/                                           | Offline            |
-| Thursday  | Twitch              | Xenosaga Episode 2: How to make a beach NOT fun 101  | 10 PM ET/7 PM PT   |
-| Friday    | Twitch              | Lego Star Wars: Its a Bee and a fairy, with droids!? | 4 PM ET/1 PM PT    |
-| Saturday  | Twitch              | Kirby Star Allies: Wondering if I can 100% Kirby...  | 4 PM ET/1 PM PT    |
-| Sunday    |                     | /Rest Day/                                           | Offline            |
+| Week Day  | Where I'm Streaming | What I'm Streaming                                          | When I'm Streaming |
+|-----------+---------------------+-------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Are we ready for a 5th page?                           | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 5 Royal: Jokers wild?                               | 4 PM ET/1 PM PT    |
+| Wednesday |                     | /Rest Day/                                                  | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 2: How to make a beach NOT in 1 easy step  | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Lego Star Wars: Its a Bee and a fairy, with droids!?        | 4 PM ET/1 PM PT    |
+| Saturday  | Twitch              | Kirby Star Allies: Wondering if I can 100% Kirby...         | 4 PM ET/1 PM PT    |
+| Sunday    |                     | /Rest Day/                                                  | Offline            |
