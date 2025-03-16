@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 16 Mar
+#+DATE: 2025-03-15T11:28:57-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Well, the scary uncertainty of last week is all over and done with and we even managed a fairly normal stream week even without a schedule. We had an art stream and even went back to Xenosaga and Kirby! Not bad for not knowing if and when I could stream, no?
+
+* Art Streams
+Once I found out I could stream on Monday there was a bit of a debate. I was still not sure what other days I'd be able to stream, but I decided pretty early that I couldn't miss an art stream! I still needed to decide what to draw, but eventually decided to go back to my comic! I'm liking how this is going. Hope the kittens like it too!
+* Game Streams
+It turned out that I was never called to report for Jury duty so I got to do three game streams. I still took one extra day off, but we got back to some fun games like Genshin Impact (poor Nahida), Xenosaga Episode 2, and Kirby Star Allies. I didn't finished Kirby like I thought I would though. That game is a tad longer than I remember 😅
+** Genshin Impact
+Went through the desert a bit more. I think we're still trying to find a way to help Nahida, but end up learning more about how she's treated by her "followers". Poor girl. She deserves love! Give Nahida all the love! Also, the plans for Sumeru are diabolical!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h2iHEpQ_w0?si=pSrWDwwaL8meSSuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+Aside from one quick area at the very start of the game, the beginning is kind of boring. Lots of, walk here and walk over there kind of stuff. I think I am finally passed all of that now though so we should get more actual game play next time. Poor MOMO though.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JyL3BxyUnNA?si=q_C05ETLKIH11k4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Kirby Star Allies
+I thought I was so close to the end when I finished last time, but, turns out, I forgot a whole area! Well, we had that to do this stream though so that was cool. One of my longer streams and the longest this week. One more Kirby stream next week! Unless they throw something else out of left field 😆
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipJ_nQXOR3k?si=eimC6OySG-OC8Z29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+ Thank you every kitten for you patience this week! I'll be back to normal operations on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] next week. I have some errands to take care of though so I won't be streaming Wednesday, however, there will be a special collab stream on Friday to make up for it!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/17 - 3/23
+[[/~yayoi/images/schedules/2025/17Mar.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                          | When I'm Streaming |
+|-----------+---------------------+-------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Are we ready for a 5th page?                           | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 5 Royal: Jokers wild?                               | 4 PM ET/1 PM PT    |
+| Wednesday |                     | /Rest Day/                                                  | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 2: How to make a beach NOT in 1 easy step  | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Lego Star Wars: Its a Bee and a fairy, with droids!?        | 4 PM ET/1 PM PT    |
+| Saturday  | Twitch              | Kirby Star Allies: Wondering if I can 100% Kirby...         | 4 PM ET/1 PM PT    |
+| Sunday    |                     | /Rest Day/                                                  | Offline            |
