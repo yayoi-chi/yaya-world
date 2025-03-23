@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 23 Mar
+#+DATE: 2025-03-22T11:58:13-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: New week, new collab! Tried to get it so everyone could hear my collab partner (Bsparkx), but was still good. Also started Persona 5. I was reminded how much I like that game and am very excited to share it with the Kittens!
+
+* Art Streams
+Did another panel and a half of my comic. Wish I had more to talk about, but you'll see it when its all done. I know I keep saying it, but I think it is really turning out good. For my first ever comic, I think I'm doing fairly well. Hopefully I will also learn a lot and make even better ones in the future.
+* Game Streams
+Fun collabs are fun! I /had/ planned on doing a new game with Bsparkx, but I didn't do research so we changed it kinda last minute. I always have fun though, so it was okay. Maybe new game next week. Started Persona 5 Royal as well and I was reminded how much I love that game! Made progress in Xenosaga and Kirby as well, but no 100% yet. Maybe some other time. Another new game next week!
+** Persona 5 Royal
+I love this game! Have I said I love this game? We're just getting started too, but I reminded of when I first played it on PS4. I have a steelbook edition and I think that restarted my love of Persona. In fact, I don't think I would have gone back to Persona 3 (let alone bought Reload) if it wasn't for this game. I look forward to sharing more of it with my kittens!
+#+begin_export html
+
+#+end_export
+** Xenosaga Episode 2
+We just dove straight into MOMO's brain, but things do kind of get complicated when people do that in Xenosaga. She's around, but I guess we get to see how Junior fell for Sakura, or something. Oh! Junior visited a beach for the first time, but it wasn't all that fun 😜
+#+begin_export html
+
+#+end_export
+** Genshin Impact
+We had lots of fun poking things again! We mostly poked the same domain over-and-over, but I think we got most of a set for Bsparkx's Sucrose. Above all we had fun. Was it as much fun as Lego Star Wars, we won't know, but it was still lots of fun!
+#+begin_export html
+
+#+end_export
+** Kirby Star Allies
+I knew I was finally close to the end so I thought about setting a goal to 100% it. I didn't manage that though. I think you have to explore all the modes and stuff, which I did manage to do some of, but 100% is a long ways away still. We have other games to explore, but mayhap we try to 100% this again sometime!
+#+begin_export html
+
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both have a very similar schedule as they did this week. There will be another collab on Friday, but we'll either be exploring Wutheing Waves or Zenless Zone Zero together just for a change. We'll also continue the art stream, Throwback Thursday, and Persona 5 Royal! Hope every kitten has as much fun as I do!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/24 - 3/30
+[[/~yayoi/images/schedules/20XX/24Mar.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                             | When I'm Streaming |
+|-----------+---------------------+--------------------------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Are we ready for a 5th page? - Part 4                                     | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 5 Royal: I'm telling you, I'm not a bad guy!                           | 4 PM ET/1 PM PT    |
+| Wednesday |                     | /Rest Day/                                                                     | Offline            |
+| Thursday  | Twitch              | Xenosaga Episode 2: Its not all about MOMO, I swear!                           | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Zenless Zone Zero/Wutheing Waves: The bee and the fairy explore other worlds!? | 4 PM ET/1 PM PT    |
+| Saturday  | Twitch              | Neptunia Sisters vs Sisters: Sisters shouldn't fight.....right?                | 4 PM ET/1 PM PT    |
+| Sunday    |                     | /Rest Day/                                                                     | Offline            |
