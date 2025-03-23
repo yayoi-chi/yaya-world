@@ -14,22 +14,22 @@ Fun collabs are fun! I /had/ planned on doing a new game with Bsparkx, but I did
 ** Persona 5 Royal
 I love this game! Have I said I love this game? We're just getting started too, but I reminded of when I first played it on PS4. I have a steelbook edition and I think that restarted my love of Persona. In fact, I don't think I would have gone back to Persona 3 (let alone bought Reload) if it wasn't for this game. I look forward to sharing more of it with my kittens!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPI6T1klcGU?si=p071ZaPf2w420QJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode 2
 We just dove straight into MOMO's brain, but things do kind of get complicated when people do that in Xenosaga. She's around, but I guess we get to see how Junior fell for Sakura, or something. Oh! Junior visited a beach for the first time, but it wasn't all that fun 😜
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5vgX9I67sg?si=kfyuKGPgVHqGN1FQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
 We had lots of fun poking things again! We mostly poked the same domain over-and-over, but I think we got most of a set for Bsparkx's Sucrose. Above all we had fun. Was it as much fun as Lego Star Wars, we won't know, but it was still lots of fun!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-puNoWi1NK0?si=VZJ56ND9Mh4w4aNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Kirby Star Allies
 I knew I was finally close to the end so I thought about setting a goal to 100% it. I didn't manage that though. I think you have to explore all the modes and stuff, which I did manage to do some of, but 100% is a long ways away still. We have other games to explore, but mayhap we try to 100% this again sometime!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkY3P2m2w6E?si=a552FXvQMbxo13fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both have a very similar schedule as they did this week. There will be another collab on Friday, but we'll either be exploring Wutheing Waves or Zenless Zone Zero together just for a change. We'll also continue the art stream, Throwback Thursday, and Persona 5 Royal! Hope every kitten has as much fun as I do!
