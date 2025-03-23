@@ -34,7 +34,7 @@ I knew I was finally close to the end so I thought about setting a goal to 100% 
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both have a very similar schedule as they did this week. There will be another collab on Friday, but we'll either be exploring Wutheing Waves or Zenless Zone Zero together just for a change. We'll also continue the art stream, Throwback Thursday, and Persona 5 Royal! Hope every kitten has as much fun as I do!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/24 - 3/30
-[[/~yayoi/images/schedules/20XX/24Mar.png]]
+[[/~yayoi/images/schedules/2025/24Mar.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                                             | When I'm Streaming |
 |-----------+---------------------+--------------------------------------------------------------------------------+--------------------|
 | Monday    | YouTube             | Art: Are we ready for a 5th page? - Part 4                                     | 10 PM ET/7 PM PT   |
