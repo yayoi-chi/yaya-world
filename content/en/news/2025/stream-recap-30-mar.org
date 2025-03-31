@@ -32,7 +32,7 @@ Booted into the world of Gameindustri for the first time in a very long time, th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEMbLCVU7qk?si=dk6-YJt_Nd2hVkhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] have plenty of action for you next week! We'll fnally finish the fifth page of the comic and head back to Persona 5. No collab this week, but we will be exploring main story quests solo in Wuthering Waves. Also let's Nep on friday!
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] have plenty of action for you next week! We'll finally finish the fifth page of the comic and head back to Persona 5. No collab this week, but we will be exploring main story quests solo in Wuthering Waves. Also let's Nep on friday!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/31 - 4/6
 [[/~yayoi/images/schedules/2025/31Mar.png]]
 | Week Day  | Where I'm Streaming | What I'm Streaming                                                 | When I'm Streaming |
