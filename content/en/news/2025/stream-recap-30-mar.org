@@ -17,7 +17,7 @@ We got like three new confidants this stream! Turns out one of them is Igor! I w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mAs0tjhvKUg?si=UBooIJPoRjn5Wo7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode 2
-We dove into the winter area in the encephelon! This area is a bit different from how it was in summer, and I don't just mean the snow. Its a lot bigger with a few more enemies. We got everything though and we managed to beat it. MOMO is awake now, let's see how we do next week!
+We dove into the winter area in the encephelon! This area is a bit different from how it was in summer, and I don't just mean the snow. Its a lot bigger with a few more enemies. We got everything though and we managed to beat it. MOMO is awake now. Let's see how we do next week!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FLtQPxNUR8?si=VYS8Gw6oXR00WqrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
