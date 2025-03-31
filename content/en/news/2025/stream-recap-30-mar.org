@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 30 Mar
+#+DATE: 2025-03-29T21:42:55-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A typical art stream and a wonderful collab with Bsparkx playing Wuthering Waves. Well it would have been wonderful if my frames didn't drop so hard. We made it through and we even managed to start Neptunia: Sisters vs Sisters this week!
+
+* Art Streams
+I managed another one and half panels! This means were almost done with this page. It does seem like each page takes quite awhile, but I /am/ liking the product so far! Hopefully it all turns out well and is worth the wait. Not too many more pages left in this chapter either! I'm excited to finalize it and put everything together. Gotta finish these pages first though!
+* Game Streams
+I think we had a pretty good week. I was able to play Wuthering Waves on my Mac, but it struggled with playing the game /and/ hosting the stream along with a call. We'll be trying again next week, but with solo stuff. I also enjoyed sharing Persona 5 Royal with the kittens as well as exloring Neptunia: Sisters vs Sisters together!
+** Persona 5 Royal
+We got like three new confidants this stream! Turns out one of them is Igor! I won't spoil the rest, the archive will be embedded below! Still have a bit to go before all the games features are introduced, but getting there. We will clean that room up!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAs0tjhvKUg?si=UBooIJPoRjn5Wo7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+We dove into the winter area in the encephelon! This area is a bit different from how it was in summer, and I don't just mean the snow. Its a lot bigger with a few more enemies. We got everything though and we managed to beat it. MOMO is awake now. Let's see how we do next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FLtQPxNUR8?si=VYS8Gw6oXR00WqrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We did stuff together! Mostly we were grabbing some ascension materials for Encore and Varina so I can get caught up. We also poked a few red mists together, including one that was over 110! We died once, but, all things considered, that's not bad! Thank you so much to Bsparkx for the fun collab!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BkJs3IpU_fc?si=Yg5er8hJg8pWYaI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Neptunia: Sisters Vs Sisters
+Booted into the world of Gameindustri for the first time in a very long time, this time with the new Neptunia: Sisters vs Sisters! I think we're just getting started. I only did the tutorial and first dungeon. I did manage to start a third on stream, but we'll have to finish that next week! Overall, it was fun sharing this one with the kittens!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEMbLCVU7qk?si=dk6-YJt_Nd2hVkhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] have plenty of action for you next week! We'll finally finish the fifth page of the comic and head back to Persona 5. No collab this week, but we will be exploring main story quests solo in Wuthering Waves. Also let's Nep on friday!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 3/31 - 4/6
+[[/~yayoi/images/schedules/2025/31Mar.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                 | When I'm Streaming |
+|-----------+---------------------+--------------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: Are we read for a 5th page? - Part 5                          | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 5 Royal: Can we really steal one's desires?                | 4 PM ET/1 PM PT    |
+| Wednesday | Twitch              | Wuthering Waves: There are good things ahead, let's get caught up! | 4 PM ET/1 PM PT    |
+| Thursday  | Twitch              | Xenosaga Episode 2: Had Albedo won!?                               | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Neptunia Sisters vs Sisters: It's a Nep Nep kinda Friday!          | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Rest Day/                                                         | Offline            |
+| Sunday    |                     | /Rest Day/                                                         | Offline            |
