@@ -29,7 +29,7 @@ We did stuff together! Mostly we were grabbing some ascension materials for Enco
 ** Neptunia: Sisters Vs Sisters
 Booted into the world of Gameindustri for the first time in a very long time, this time with the new Neptunia: Sisters vs Sisters! I think we're just getting started. I only did the tutorial and first dungeon. I did manage to start a third on stream, but we'll have to finish that next week! Overall, it was fun sharing this one with the kittens!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEMbLCVU7qk?si=dk6-YJt_Nd2hVkhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] have plenty of action for you next week! We'll fnally finish the fifth page of the comic and head back to Persona 5. No collab this week, but we will be exploring main story quests solo in Wuthering Waves. Also let's Nep on friday!
