@@ -8,12 +8,12 @@
 #+SUMMARY: Lots of fun this week! I did a really fun April Fool's prank on Tuesday and had a much better Wuthering Waves stream on Wednesday. We made more progress in Xenosaga Episode 2, and even nepped a lot of neps on Friday! Great times!
 
 * Art Streams
-Completed page 5 of the comic! It didn't take very long because I didn't have much to do. We finished some shading, the the simple background and put up some dialog. That was all I had left on the last panel. You can watch the entire process timelapsed now though!
+Completed page 5 of the comic! It didn't take very long because I didn't have much to do. We finished some shading, the simple background and put up some dialog. That was all I had left on the last panel. You can watch the entire process timelapsed now though!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-jX-Q6yQD8?si=JGaPpa4CQwrftTeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-Lots of fun with games too! Kicked everything off by turning the world upside down for April Fool's and beating exploring the castle in Persona 5 Royal (don't worry I do right the game window at least). We also did Wuthering Waves. I'm still not able to use the live model with that game and TTS still struggles, but the game played fine. I am still going to play it. Now that it is on Mac, I have to admit its more fun than Genshin Impact. Progress was made in Xenosaga Episode 2 and we had a lot of fun nepping neps too!
+Lots of fun with games too! Kicked everything off by turning the world upside down for April Fool's and exploring the castle in Persona 5 Royal (don't worry I do right the game window at least). We also did Wuthering Waves. I'm still not able to use the live model with that game and TTS still struggles, but the game played fine. I am still going to play it. Now that it is on Mac, I have to admit its more fun than Genshin Impact. Progress was made in Xenosaga Episode 2 and we had a lot of fun nepping neps too!
 ** Persona 5 Royal
 It was an April Fool's stream! While the game was still Persona 5 Royal and the progress we made in it was real, everything else was just a lot of fun! Speaking of progress, we have a complete map of the first palace and have unlocked a new confidant. I think we are all set for next time!
 #+begin_export html
