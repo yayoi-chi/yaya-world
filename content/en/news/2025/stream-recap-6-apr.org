@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 6 Apr
+#+DATE: 2025-04-06T11:39:44-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Lots of fun this week! I did a really fun April Fool's prank on Tuesday and had a much better Wuthering Waves stream on Wednesday. We made more progress in Xenosaga Episode 2, and even nepped a lot of neps on Friday! Great times!
+
+* Art Streams
+Completed page 5 of the comic! It didn't take very long because I didn't have much to do. We finished some shading, the simple background and put up some dialog. That was all I had left on the last panel. You can watch the entire process timelapsed now though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S-jX-Q6yQD8?si=JGaPpa4CQwrftTeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Lots of fun with games too! Kicked everything off by turning the world upside down for April Fool's and exploring the castle in Persona 5 Royal (don't worry I do right the game window at least). We also did Wuthering Waves. I'm still not able to use the live model with that game and TTS still struggles, but the game played fine. I am still going to play it. Now that it is on Mac, I have to admit its more fun than Genshin Impact. Progress was made in Xenosaga Episode 2 and we had a lot of fun nepping neps too!
+** Persona 5 Royal
+It was an April Fool's stream! While the game was still Persona 5 Royal and the progress we made in it was real, everything else was just a lot of fun! Speaking of progress, we have a complete map of the first palace and have unlocked a new confidant. I think we are all set for next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWToNeUXMks?si=zheYXniPsqdy1Oj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+I started by testing how well the Mac would handle the game by fighting a challenge boss! I failed the challenge, but it proved that the Mac could do much better if the game stays focused and I don't have so many things opened! I did poke another challenge while we did some main story quests, but I mostly stuck to those for the remainder of stream. Oh! I upgraded echoes, now we're stronger 😈
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWWmFRMMMVk?si=z6KbcUOzcRQayRkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+We finished the scene, turns out I need Disc 2 now, but that was an easy fix. There is a part with just Shion. The fights were easy though so we did well. Many a puzzle! Other than that, the Elsa is looking nice and we are back in E.S.s but just getting started!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVFTltCj4cg?si=5G2uZFeN1TW2Rb8e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Neptunia: Sisters vs Sisters
+We nepped a lot of neps! Seems we met a new person who is not a person but is named Aneeta Job! Was Vert playing hookie again? Seems like she was. Oh well it kept Aneeta from wanting to destroy humanity for a bit at least. Let's try and finish this dungeon next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPBvnv5Cc_Q?si=iP-2IyYaEO3oGBw_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+The [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting a special event for my birthday on Tuesday. It will include a new outfit reveal! We will also not be doing Maker Monday this week, but will be trying to finish that castle in Persona 5 Royal instead. [[https://www.twitch.tv/yayoi_chi][Twitch]] won't be left out as it will hold the new outfit's game stream debut with more Wuthering Waves. There will be two other streams including Throwback Thursday! As always, full schedule below! 
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 4/7 - 4/13
+[[/~yayoi/images/schedules/2025/7Apr.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                        | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Persona 5 Royal: This is a beeg castle!                                   | 4 PM ET/1 PM PT    |
+| Tuesday   | YouTube             | Birthday Celebration and Outfit Reveal - 2025                             | 5 PM ET/2 PM PT    |
+| Wednesday | Twitch              | Wuthering Waves: Wanna poke an event quest?                               | 4 PM ET/1 PM PT    |
+| Thursday  | Twitch              | Xenosaga Episode 2: Aren't black holes dangerous?                         | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Neptunia Sisters vs Sisters: Aneeta Job doesn't really need a job, right? | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Homework Day/                                                            | Offline            |
+| Sunday    |                     | /Rest Day/                                                                | Offline            |
