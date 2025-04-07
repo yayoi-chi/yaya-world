@@ -38,12 +38,12 @@ We nepped a lot of neps! Seems we met a new person who is not a person but is na
 The [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting a special event for my birthday on Tuesday. It will include a new outfit reveal! We will also not be doing Maker Monday this week, but will be trying to finish that castle in Persona 5 Royal instead. [[https://www.twitch.tv/yayoi_chi][Twitch]] won't be left out as it will hold the new outfit's game stream debut with more Wuthering Waves. There will be two other streams including Throwback Thursday! As always, full schedule below! 
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 4/7 - 4/13
 [[/~yayoi/images/schedules/2025/7Apr.png]]
-| Week Day  | Where I'm Streaming | What I'm Streaming                            | When I'm Streaming |
-|-----------+---------------------+-----------------------------------------------+--------------------|
-| Monday    | YouTube             | This is a beeg castle!                        | 4 PM ET/1 PM PT    |
-| Tuesday   | YouTube             | Birthday Celebration and Outfit Reveal - 2025 | 5 PM ET/2 PM PT    |
-| Wednesday | Twitch              | Wanna poke an event quest?                    | 4 PM ET/1 PM PT    |
-| Thursday  | Twitch              | Aren't black holes dangerous?                 | 10 PM ET/7 PM PT   |
-| Friday    | Twitch              | Aneeta Job doesn't really need a job, right?  | 4 PM ET/1 PM PT    |
-| Saturday  |                     | /Homework Day/                                | Offline            |
-| Sunday    |                     | /Rest Day/                                    | Offline            |
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                        | When I'm Streaming |
+|-----------+---------------------+---------------------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Persona 5 Royal: This is a beeg castle!                                   | 4 PM ET/1 PM PT    |
+| Tuesday   | YouTube             | Birthday Celebration and Outfit Reveal - 2025                             | 5 PM ET/2 PM PT    |
+| Wednesday | Twitch              | Wuthering Waves: Wanna poke an event quest?                               | 4 PM ET/1 PM PT    |
+| Thursday  | Twitch              | Xenosaga Episode 2: Aren't black holes dangerous?                         | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Neptunia Sisters vs Sisters: Aneeta Job doesn't really need a job, right? | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Homework Day/                                                            | Offline            |
+| Sunday    |                     | /Rest Day/                                                                | Offline            |
