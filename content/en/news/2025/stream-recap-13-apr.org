@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 13 Apr
+#+DATE: 2025-04-13T13:58:48-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: No art stream this week, but we did reveal a new outfit! Other than that, it was a good week of game streams. We found out that Aneeta Job doesn't need that same job, and we got her something new to do. We also had some fun with event quests in Wuthering Waves, and even finished the castle in Persona 5 Royal. See, not a bad week!
+
+* Birthday Stream
+Because it was my birthday this week, I decided not to do an art stream so we could still manage to get some Persona 5 Royal. We celebrated my birthday with some fun questions for chat and I also revealed a new outfit that I'll be using far more often than the last one! I think it might have been a bit shorter than an art stream, but it was still fun.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-emARyuY80?si=LjQh8HBUzVBeOT0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Even without an art stream, we still had a good roster of games! The first was Persona 5 Royal, which was really why I didn't do an art stream, because it happened on Monday. I also poked some event stuff in Wuthering Waves and figured out what to do about Aneeta in Neptunia. Overall, I liked this week. I'm back in school, but still streaming strong!
+** Persona 5 Royal
+We got the treasure! It turned out to be a crown, or maybe it turns out to be something else in the real world, but it is something. We needed to send a calling card before we could see it though. That seems a bit risky and we ended up having to fight the king himself! We won though. Now we just need to wait!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TTP3tMJgCc?si=EkZjOSRKDv6URqHv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We did poke some event shtuff. They had a few new simulation challenges that turned out to be a lot of fun! The last ones were long though, one of my records was 11 minutes! I decided, if I want to improve my records, I'll do them off stream, so we managed to do a tacet field and some main story quests too! Game did struggle a bit, but I think it wasn't too bad.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2zGl-7nnG8?si=aw5LD9QggBDoz7Z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+More fun in the fortress ship that decided it was a good idea to park itself between two black holes! We beat one boss, but there are a lot of puzzles in this dungeon and we may have backtracked more often than I care to admit. Still, we did make progress!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMJEu9ca8vE?si=BydUlx7m4ixh1V3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Neptunia: Sisters vs Sisters
+Story is moving along nicely! We finished up with Leanbox and Vert is now on our side. We headed off to Lestation, but I'm a bit worried about Noire. Seems things were rough with her. Of course, sometimes Uni can be a little self-centered and that doesn't help, but is it really wrong to want just a little attention from the sister you admire? In her hear Uni is a good girl though, she'll always love her sister!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xx9eDOJxp0M?si=VMDpdwLYIpkeVFIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] are back for a more normal week! I will be doing an art stream this week. Not moving on to the next comic page yet because there's something else I want to draw, but art nonetheless. I'm switching out Wuthering Waves for Genshin Impact this week and we will have a special collab with @Bsparkx! I hope this week will be as good as last if not better!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 4/14 - 4/20
+[[/~yayoi/images/schedules/2025/14Apr.png]]
+| Week Day  | Where I'm Streaming | What I'm Streaming                                                | When I'm Streaming |
+|-----------+---------------------+-------------------------------------------------------------------+--------------------|
+| Monday    | YouTube             | Art: We need a smol school girl PNG!                              | 10 PM ET/7 PM PT   |
+| Tuesday   | YouTube             | Persona 5 Royal: Did we win!?                                     | 3 PM ET/12 PM PT   |
+| Wednesday | Twitch              | Stardew Valley: Farming and fishing, or fishing and farming?      | 4 PM ET/1 PM PT    |
+| Thursday  | Twitch              | Xenosaga Episode 2: I guess its not called a fortress for nothing | 10 PM ET/7 PM PT   |
+| Friday    | Twitch              | Genshin Impact: Let's get back to Archon quests!                  | 4 PM ET/1 PM PT    |
+| Saturday  |                     | /Homework Day/                                                    | Offline            |
+| Sunday    |                     | /Rest Day/                                                        | Offline            |
