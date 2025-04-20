@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 09:30:34 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/jrpg/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Persona 3 Reload</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3reload/</link>
@@ -63,7 +63,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Persona 4 Golden</title>
         <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
@@ -109,7 +109,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>The First Layer</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</link>
@@ -153,7 +153,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Maps of The Abyss</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/</link>
@@ -197,7 +197,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Cave Raiding Tips</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/tips/</link>
@@ -241,7 +241,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Made in Abyss: Binary Star Falling into Darkness</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/</link>
@@ -285,7 +285,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Portable</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
@@ -329,7 +329,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Persona 4 Golden</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
@@ -373,8 +373,6 @@
         
         
       </item>
-      
-
     
   </channel>
 </rss>

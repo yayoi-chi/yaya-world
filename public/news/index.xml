@@ -14,11 +14,43 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 13:58:48 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 18:12:34 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Stream Recap: 20 Apr</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</link>
+        <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sat, 19 Apr 2025 18:12:34 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</guid>
+        <description>Overall a good week this week! I didn&amp;#39;t get back to my comic just yet, but I did create a new PNGTuber for when I stream things on the Mac and it can&amp;#39;t handle everything (looking at you Wuthering Waves). I also got back to Persona 5 Royal, where we discovered it is possible to change someone&amp;#39;s heart. I ended the week by finally rescuing Nahida!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Stream Recap: 13 Apr</title>
@@ -3158,38 +3190,6 @@ I like that I have time now to do more frequent updates to the site. This update
           
             
               <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>More time!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/more-time/</link>
-        <pubDate>Sun, 09 Jul 2023 20:15:32 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Jul 2023 20:15:32 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/more-time/</guid>
-        <description>Some changes are coming and those changes may leave me with more time to do fun things!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>news</category>
-            
-          
-            
-              <category>personal</category>
-            
-          
-            
-              <category>site</category>
             
           
         

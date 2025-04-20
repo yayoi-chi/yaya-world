@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 20 Dec 2023 18:37:02 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Ready for the New Year</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/ready-for-the-new-year/</link>
@@ -60,7 +60,7 @@ I hope you all are looking forward to Christmas! If not, well maybe I can give y
         
         
       </item>
-      
+    
       <item>
         <title>Its Almost Time 🎄</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/its-almost-time/</link>
@@ -101,8 +101,6 @@ Things were going so smoothly with all my other things that I was bound to almos
         
         
       </item>
-      
-
     
   </channel>
 </rss>

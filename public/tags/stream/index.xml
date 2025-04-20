@@ -13,13 +13,45 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 13:58:48 -0700</lastBuildDate>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 18:12:34 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/stream/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
+      <item>
+        <title>Stream Recap: 20 Apr</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</link>
+        <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sat, 19 Apr 2025 18:12:34 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</guid>
+        <description>Overall a good week this week! I didn&amp;#39;t get back to my comic just yet, but I did create a new PNGTuber for when I stream things on the Mac and it can&amp;#39;t handle everything (looking at you Wuthering Waves). I also got back to Persona 5 Royal, where we discovered it is possible to change someone&amp;#39;s heart. I ended the week by finally rescuing Nahida!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
+    
       <item>
         <title>Stream Recap: 13 Apr</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-13-apr/</link>
@@ -51,7 +83,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 6 Apr</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-6-apr/</link>
@@ -83,7 +115,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 30 Mar</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-30-mar/</link>
@@ -115,7 +147,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 23 Mar</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-mar/</link>
@@ -147,7 +179,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 16 Mar</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-mar/</link>
@@ -179,7 +211,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 9 Mar</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</link>
@@ -211,7 +243,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 2 Mar</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</link>
@@ -243,7 +275,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 23 Feb</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-feb/</link>
@@ -275,7 +307,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 16 Feb</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-feb/</link>
@@ -307,7 +339,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 9 Feb</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-feb/</link>
@@ -339,7 +371,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 2 Feb</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-feb/</link>
@@ -371,7 +403,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 26 Jan</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-26-jan/</link>
@@ -403,7 +435,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 19 Jan</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-19-jan/</link>
@@ -435,7 +467,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 12 Jan</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-12-jan/</link>
@@ -467,7 +499,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 5 Jan</title>
         <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-5-jan/</link>
@@ -499,7 +531,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 29 Dec</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</link>
@@ -531,7 +563,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>2024 Annual Recap</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
@@ -583,7 +615,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Winter 2025 Outfit Reveal</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</link>
@@ -615,7 +647,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 22 Dec</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-dec/</link>
@@ -647,7 +679,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 15 Dec</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-dec/</link>
@@ -679,7 +711,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 8 Dec</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-dec/</link>
@@ -711,7 +743,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 1 Dec</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-dec/</link>
@@ -743,7 +775,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 24 Nov</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-24-nov/</link>
@@ -775,7 +807,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 17 Nov</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-17-nov/</link>
@@ -807,7 +839,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 10 Nov</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-10-nov/</link>
@@ -839,7 +871,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 3 Nov</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-3-nov/</link>
@@ -871,7 +903,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>End of Year Announcements</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/end-of-year-announcements/</link>
@@ -904,7 +936,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 27 Oct</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-27-oct/</link>
@@ -936,7 +968,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 20 Oct</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-20-oct/</link>
@@ -968,7 +1000,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 13 Oct</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-13-oct/</link>
@@ -1000,7 +1032,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 6 Oct</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-6-oct/</link>
@@ -1032,7 +1064,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 29 Sep</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-sep/</link>
@@ -1064,7 +1096,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 22 Sep</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-sep/</link>
@@ -1096,7 +1128,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Expanding Stream Operations</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/expanding-stream-operations/</link>
@@ -1132,7 +1164,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 15 Sep</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-sep/</link>
@@ -1164,7 +1196,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 8 Sep</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-sep/</link>
@@ -1196,7 +1228,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 1 Sep</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-sep/</link>
@@ -1228,7 +1260,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 25 Aug</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</link>
@@ -1260,7 +1292,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 18 Aug</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-18-aug/</link>
@@ -1292,7 +1324,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: 11 Aug</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-11-aug/</link>
@@ -1324,7 +1356,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 9</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-9/</link>
@@ -1356,7 +1388,7 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         
         
       </item>
-      
+    
       <item>
         <title>Schedule Changes</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/schedule-changes/</link>
@@ -1389,7 +1421,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Final Fantasy Challenge: Final Week</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-final-week/</link>
@@ -1429,7 +1461,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Final Fantasy Challenge: Week 2</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-2/</link>
@@ -1469,7 +1501,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Final Fantasy Challenge: Week 1</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
@@ -1509,7 +1541,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 8</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-8/</link>
@@ -1541,7 +1573,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 7</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-7/</link>
@@ -1573,7 +1605,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 6</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-6/</link>
@@ -1605,7 +1637,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 5</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-5/</link>
@@ -1637,7 +1669,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 4</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</link>
@@ -1669,7 +1701,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 3</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-3/</link>
@@ -1701,7 +1733,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 2</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</link>
@@ -1733,7 +1765,7 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
         
         
       </item>
-      
+    
       <item>
         <title>Stream Recap: Week 1</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</link>
@@ -1770,8 +1802,6 @@ Art Stream
         
         
       </item>
-      
-
     
   </channel>
 </rss>

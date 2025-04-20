@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 15 Oct 2022 15:38:00 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/help/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Japanese Translation</title>
         <link>https://onigirionegai.info/~yayoi/news/2022/japanese-translation/</link>
@@ -54,8 +54,6 @@ During my undergraduate studies I have decided to take a few extra courses to fi
         
         
       </item>
-      
-
     
   </channel>
 </rss>

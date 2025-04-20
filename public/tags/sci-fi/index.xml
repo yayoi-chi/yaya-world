@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 23 Aug 2023 16:31:53 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>No Man&#39;s Sky (First Impressions)</title>
         <link>https://onigirionegai.info/~yayoi/reviews/no-mans-sky/</link>
@@ -55,8 +55,6 @@
         
         
       </item>
-      
-
     
   </channel>
 </rss>

@@ -13,17 +13,17 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 13:58:48 -0700</lastBuildDate>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 18:12:34 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>News</title>
         <link>https://onigirionegai.info/~yayoi/tags/news/</link>
-        <pubDate>Sun, 13 Apr 2025 13:58:48 -0700</pubDate>
+        <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/news/</guid>
@@ -37,11 +37,11 @@
         
         
       </item>
-      
+    
       <item>
         <title>Recap</title>
         <link>https://onigirionegai.info/~yayoi/tags/recap/</link>
-        <pubDate>Sun, 13 Apr 2025 13:58:48 -0700</pubDate>
+        <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/recap/</guid>
@@ -55,11 +55,11 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stream</title>
         <link>https://onigirionegai.info/~yayoi/tags/stream/</link>
-        <pubDate>Sun, 13 Apr 2025 13:58:48 -0700</pubDate>
+        <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         
         <guid>https://onigirionegai.info/~yayoi/tags/stream/</guid>
@@ -73,7 +73,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>D&amp;D</title>
         <link>https://onigirionegai.info/~yayoi/tags/dd/</link>
@@ -91,7 +91,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Guide</title>
         <link>https://onigirionegai.info/~yayoi/tags/guide/</link>
@@ -109,7 +109,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Reviews</title>
         <link>https://onigirionegai.info/~yayoi/tags/reviews/</link>
@@ -127,7 +127,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>School</title>
         <link>https://onigirionegai.info/~yayoi/tags/school/</link>
@@ -145,7 +145,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Site</title>
         <link>https://onigirionegai.info/~yayoi/tags/site/</link>
@@ -163,7 +163,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Announcement</title>
         <link>https://onigirionegai.info/~yayoi/tags/announcement/</link>
@@ -181,7 +181,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Personal</title>
         <link>https://onigirionegai.info/~yayoi/tags/personal/</link>
@@ -199,7 +199,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Challenge</title>
         <link>https://onigirionegai.info/~yayoi/tags/challenge/</link>
@@ -217,7 +217,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Final_fantasy</title>
         <link>https://onigirionegai.info/~yayoi/tags/final_fantasy/</link>
@@ -235,7 +235,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Art</title>
         <link>https://onigirionegai.info/~yayoi/tags/art/</link>
@@ -253,7 +253,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Streaming</title>
         <link>https://onigirionegai.info/~yayoi/tags/streaming/</link>
@@ -271,7 +271,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Rant</title>
         <link>https://onigirionegai.info/~yayoi/tags/rant/</link>
@@ -289,7 +289,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>P4g</title>
         <link>https://onigirionegai.info/~yayoi/tags/p4g/</link>
@@ -307,7 +307,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Persona</title>
         <link>https://onigirionegai.info/~yayoi/tags/persona/</link>
@@ -325,7 +325,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Social_networks</title>
         <link>https://onigirionegai.info/~yayoi/tags/social_networks/</link>
@@ -343,7 +343,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>P3p</title>
         <link>https://onigirionegai.info/~yayoi/tags/p3p/</link>
@@ -361,7 +361,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>P3reload</title>
         <link>https://onigirionegai.info/~yayoi/tags/p3reload/</link>
@@ -379,7 +379,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>P3</title>
         <link>https://onigirionegai.info/~yayoi/tags/p3/</link>
@@ -397,7 +397,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/tags/walkthrough/</link>
@@ -415,7 +415,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Jrpg</title>
         <link>https://onigirionegai.info/~yayoi/tags/jrpg/</link>
@@ -433,7 +433,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Rpg</title>
         <link>https://onigirionegai.info/~yayoi/tags/rpg/</link>
@@ -451,7 +451,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Game</title>
         <link>https://onigirionegai.info/~yayoi/tags/game/</link>
@@ -469,7 +469,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Review</title>
         <link>https://onigirionegai.info/~yayoi/tags/review/</link>
@@ -487,7 +487,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Vn</title>
         <link>https://onigirionegai.info/~yayoi/tags/vn/</link>
@@ -505,7 +505,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Anime</title>
         <link>https://onigirionegai.info/~yayoi/tags/anime/</link>
@@ -523,7 +523,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Adventures</title>
         <link>https://onigirionegai.info/~yayoi/tags/adventures/</link>
@@ -541,7 +541,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Keyrie</title>
         <link>https://onigirionegai.info/~yayoi/tags/keyrie/</link>
@@ -559,7 +559,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Stories</title>
         <link>https://onigirionegai.info/~yayoi/tags/stories/</link>
@@ -577,7 +577,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Guides</title>
         <link>https://onigirionegai.info/~yayoi/tags/guides/</link>
@@ -595,7 +595,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Cute</title>
         <link>https://onigirionegai.info/~yayoi/tags/cute/</link>
@@ -613,7 +613,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Holiday</title>
         <link>https://onigirionegai.info/~yayoi/tags/holiday/</link>
@@ -631,7 +631,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Adventure</title>
         <link>https://onigirionegai.info/~yayoi/tags/adventure/</link>
@@ -649,7 +649,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Allana</title>
         <link>https://onigirionegai.info/~yayoi/tags/allana/</link>
@@ -667,7 +667,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Momo</title>
         <link>https://onigirionegai.info/~yayoi/tags/momo/</link>
@@ -685,7 +685,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Original</title>
         <link>https://onigirionegai.info/~yayoi/tags/original/</link>
@@ -703,7 +703,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Rebase</title>
         <link>https://onigirionegai.info/~yayoi/tags/rebase/</link>
@@ -721,7 +721,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Tabitha</title>
         <link>https://onigirionegai.info/~yayoi/tags/tabitha/</link>
@@ -739,7 +739,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Christmas</title>
         <link>https://onigirionegai.info/~yayoi/tags/christmas/</link>
@@ -757,7 +757,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Work</title>
         <link>https://onigirionegai.info/~yayoi/tags/work/</link>
@@ -775,7 +775,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Nagisa</title>
         <link>https://onigirionegai.info/~yayoi/tags/nagisa/</link>
@@ -793,7 +793,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Commissions</title>
         <link>https://onigirionegai.info/~yayoi/tags/commissions/</link>
@@ -811,7 +811,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Me</title>
         <link>https://onigirionegai.info/~yayoi/tags/me/</link>
@@ -829,7 +829,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>About</title>
         <link>https://onigirionegai.info/~yayoi/tags/about/</link>
@@ -847,7 +847,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Exploration</title>
         <link>https://onigirionegai.info/~yayoi/tags/exploration/</link>
@@ -865,7 +865,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Sci-Fi</title>
         <link>https://onigirionegai.info/~yayoi/tags/sci-fi/</link>
@@ -883,7 +883,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Friends</title>
         <link>https://onigirionegai.info/~yayoi/tags/friends/</link>
@@ -901,7 +901,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Cat</title>
         <link>https://onigirionegai.info/~yayoi/tags/cat/</link>
@@ -919,7 +919,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>_Egg</title>
         <link>https://onigirionegai.info/~yayoi/tags/_egg/</link>
@@ -937,7 +937,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Friend</title>
         <link>https://onigirionegai.info/~yayoi/tags/friend/</link>
@@ -955,7 +955,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Story</title>
         <link>https://onigirionegai.info/~yayoi/tags/story/</link>
@@ -973,7 +973,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Forum</title>
         <link>https://onigirionegai.info/~yayoi/tags/forum/</link>
@@ -991,7 +991,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Computers</title>
         <link>https://onigirionegai.info/~yayoi/tags/computers/</link>
@@ -1009,7 +1009,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Desktop</title>
         <link>https://onigirionegai.info/~yayoi/tags/desktop/</link>
@@ -1027,7 +1027,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Fun</title>
         <link>https://onigirionegai.info/~yayoi/tags/fun/</link>
@@ -1045,7 +1045,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Wallpaper</title>
         <link>https://onigirionegai.info/~yayoi/tags/wallpaper/</link>
@@ -1063,7 +1063,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Mia</title>
         <link>https://onigirionegai.info/~yayoi/tags/mia/</link>
@@ -1081,7 +1081,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Survival</title>
         <link>https://onigirionegai.info/~yayoi/tags/survival/</link>
@@ -1099,7 +1099,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Tips</title>
         <link>https://onigirionegai.info/~yayoi/tags/tips/</link>
@@ -1117,7 +1117,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Ffxiv</title>
         <link>https://onigirionegai.info/~yayoi/tags/ffxiv/</link>
@@ -1135,7 +1135,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Fiesta</title>
         <link>https://onigirionegai.info/~yayoi/tags/fiesta/</link>
@@ -1153,7 +1153,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Quests</title>
         <link>https://onigirionegai.info/~yayoi/tags/quests/</link>
@@ -1171,7 +1171,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Skills</title>
         <link>https://onigirionegai.info/~yayoi/tags/skills/</link>
@@ -1189,7 +1189,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Wip</title>
         <link>https://onigirionegai.info/~yayoi/tags/wip/</link>
@@ -1207,7 +1207,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Leveling</title>
         <link>https://onigirionegai.info/~yayoi/tags/leveling/</link>
@@ -1225,7 +1225,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Help</title>
         <link>https://onigirionegai.info/~yayoi/tags/help/</link>
@@ -1243,7 +1243,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Gear</title>
         <link>https://onigirionegai.info/~yayoi/tags/gear/</link>
@@ -1261,7 +1261,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Weapons</title>
         <link>https://onigirionegai.info/~yayoi/tags/weapons/</link>
@@ -1279,8 +1279,6 @@
         
         
       </item>
-      
-
     
   </channel>
 </rss>

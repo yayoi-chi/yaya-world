@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 03 Jan 2024 15:33:51 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>First Article of 2024</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
@@ -64,7 +64,7 @@ Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this fir
         
         
       </item>
-      
+    
       <item>
         <title>Happy Turkey Day 🦃</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/happy-turkey-day/</link>
@@ -101,8 +101,6 @@ Spooky month is over, Christmas is not yet here, so that must mean its harvest t
         
         
       </item>
-      
-
     
   </channel>
 </rss>

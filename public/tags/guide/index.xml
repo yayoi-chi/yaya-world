@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 11:51:20 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</link>
@@ -55,7 +55,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</link>
@@ -91,7 +91,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</link>
@@ -127,7 +127,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Babies</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</link>
@@ -170,7 +170,7 @@ FM, but it does the trick.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Newblets</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</link>
@@ -213,7 +213,7 @@ level quests until you reach level 43.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Fledgling Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</link>
@@ -261,7 +261,7 @@ still level, but it&amp;#39;ll be slower.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Bone-fide Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</link>
@@ -301,7 +301,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>2024 Annual Recap</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
@@ -353,7 +353,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Reload</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3reload/</link>
@@ -397,7 +397,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>The First Layer</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</link>
@@ -441,7 +441,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Maps of The Abyss</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/</link>
@@ -485,7 +485,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Cave Raiding Tips</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/tips/</link>
@@ -529,7 +529,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Made in Abyss: Binary Star Falling into Darkness</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/</link>
@@ -573,7 +573,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Portable</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
@@ -617,7 +617,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Quests</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
@@ -657,7 +657,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Social Links (aka SLinks)</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/slink/</link>
@@ -693,7 +693,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Persona 4 Golden</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
@@ -737,7 +737,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Special Events</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/events/</link>
@@ -765,7 +765,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>God-like Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/gods/</link>
@@ -798,7 +798,7 @@ When I first wrote my last &lt;a href=&#34;https://onigirionegai.info/~yayoi/gui
         
         
       </item>
-      
+    
       <item>
         <title>Enhancement Guide</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/enhancement/</link>
@@ -836,7 +836,7 @@ shield will need tier 5 stones. For your reference:&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Lucky House</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/luckyhouse/</link>
@@ -878,7 +878,7 @@ follows.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Daily Quests</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/dailies/</link>
@@ -912,7 +912,7 @@ pick up the quest. You will also turn in your quests to him.&lt;/p&gt;</descript
         
         
       </item>
-      
+    
       <item>
         <title>Builds</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/builds/</link>
@@ -936,8 +936,6 @@ pick up the quest. You will also turn in your quests to him.&lt;/p&gt;</descript
         
         
       </item>
-      
-
     
   </channel>
 </rss>
