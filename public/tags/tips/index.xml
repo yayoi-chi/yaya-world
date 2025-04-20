@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 12 Mar 2023 19:19:05 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>The First Layer</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</link>
@@ -63,7 +63,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Maps of The Abyss</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/maps/</link>
@@ -107,7 +107,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Cave Raiding Tips</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/tips/</link>
@@ -151,7 +151,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Made in Abyss: Binary Star Falling into Darkness</title>
         <link>https://onigirionegai.info/~yayoi/guides/mia/</link>
@@ -195,8 +195,6 @@
         
         
       </item>
-      
-
     
   </channel>
 </rss>

@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 21 Mar 2024 11:35:24 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/p3p/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</link>
@@ -55,7 +55,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Where Do Breaks Go</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</link>
@@ -96,7 +96,7 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Portable</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
@@ -140,8 +140,6 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
         
         
       </item>
-      
-
     
   </channel>
 </rss>

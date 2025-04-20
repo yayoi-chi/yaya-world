@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 08 Feb 2024 18:15:42 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/anime/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>On Localizations</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/on-localizations/</link>
@@ -60,8 +60,6 @@ I have 10 max S-Links in Persona 4 Golden \ ( ^ o ^ ) / Just had to say it, lol.
         
         
       </item>
-      
-
     
   </channel>
 </rss>

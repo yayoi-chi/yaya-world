@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 21 Dec 2023 10:51:53 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/rebase/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>RE[BASE] Nagisa: Debut!</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
@@ -55,7 +55,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: Hello World!</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
@@ -95,7 +95,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: First Quest</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</link>
@@ -135,7 +135,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: Foreach Friend as Adventurer</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
@@ -179,7 +179,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: Party is Null</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep4/</link>
@@ -219,7 +219,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Nagisa: More Than a Voice</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep2/</link>
@@ -255,7 +255,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: Spooky Nite!</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
@@ -299,7 +299,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] Allana: Entertainment&#43;&#43;</title>
         <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
@@ -343,7 +343,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Actually on Track</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/actually-on-track/</link>
@@ -380,7 +380,7 @@ For the past several months, I have fell behind on a lot of things. My school wo
         
         
       </item>
-      
+    
       <item>
         <title>Not Just Allana</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/not-just-allana/</link>
@@ -417,7 +417,7 @@ Things are progressing nicely with some of the illustrations for RE[BASE] and th
         
         
       </item>
-      
+    
       <item>
         <title>RE[BASE] is Up!</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/rebase-is-up/</link>
@@ -456,8 +456,6 @@ It&amp;#39;s been another week and with another week another update. This time I
         
         
       </item>
-      
-
     
   </channel>
 </rss>

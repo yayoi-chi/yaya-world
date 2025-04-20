@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 28 Mar 2024 11:44:17 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/persona/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</link>
@@ -55,7 +55,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</link>
@@ -91,7 +91,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Walkthrough</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</link>
@@ -127,7 +127,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
@@ -174,7 +174,7 @@ Progress!
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Reload</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3reload/</link>
@@ -218,7 +218,7 @@ Progress!
         
         
       </item>
-      
+    
       <item>
         <title>Ready for a New Game!</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/ready-for-a-new-game/</link>
@@ -254,7 +254,7 @@ Progress!
         
         
       </item>
-      
+    
       <item>
         <title>Persona 3 Portable</title>
         <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
@@ -298,7 +298,7 @@ Progress!
         
         
       </item>
-      
+    
       <item>
         <title>Persona 4 Golden</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
@@ -342,8 +342,6 @@ Progress!
         
         
       </item>
-      
-
     
   </channel>
 </rss>

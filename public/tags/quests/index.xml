@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 08 Dec 2022 21:08:03 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/quests/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Babies</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</link>
@@ -62,7 +62,7 @@ FM, but it does the trick.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Newblets</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</link>
@@ -105,7 +105,7 @@ level quests until you reach level 43.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Fledgling Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</link>
@@ -153,7 +153,7 @@ still level, but it&amp;#39;ll be slower.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Bone-fide Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</link>
@@ -193,7 +193,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Quests</title>
         <link>https://onigirionegai.info/~yayoi/guides/p4g/quests/</link>
@@ -233,7 +233,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>Special Events</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/events/</link>
@@ -261,7 +261,7 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
         
         
       </item>
-      
+    
       <item>
         <title>God-like Adventurers</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/gods/</link>
@@ -294,7 +294,7 @@ When I first wrote my last &lt;a href=&#34;https://onigirionegai.info/~yayoi/gui
         
         
       </item>
-      
+    
       <item>
         <title>Daily Quests</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/dailies/</link>
@@ -328,7 +328,7 @@ pick up the quest. You will also turn in your quests to him.&lt;/p&gt;</descript
         
         
       </item>
-      
+    
       <item>
         <title>Leveling</title>
         <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</link>
@@ -361,8 +361,6 @@ Welcome to my leveling guides to Fiesta Online. This is just a parsed down versi
         
         
       </item>
-      
-
     
   </channel>
 </rss>

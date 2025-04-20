@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 11:51:20 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>2024 Annual Recap</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
@@ -71,7 +71,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>First Article of 2024</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
@@ -116,7 +116,7 @@ Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this fir
         
         
       </item>
-      
+    
       <item>
         <title>Reviews</title>
         <link>https://onigirionegai.info/~yayoi/reviews/</link>
@@ -140,8 +140,6 @@ Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this fir
         
         
       </item>
-      
-
     
   </channel>
 </rss>

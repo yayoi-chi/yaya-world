@@ -13,13 +13,11 @@
     <language>jp</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://onigirionegai.info/~yayoi/jp/series/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
-
+    
     
   </channel>
 </rss>

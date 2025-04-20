@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 22 Sep 2024 13:18:03 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Expanding Stream Operations</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/expanding-stream-operations/</link>
@@ -55,7 +55,7 @@
         
         
       </item>
-      
+    
       <item>
         <title>Still Haven&#39;t Broken It</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/still-havent-broken-it/</link>
@@ -92,7 +92,7 @@ I know &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/case-of-the-m
         
         
       </item>
-      
+    
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
@@ -139,7 +139,7 @@ Progress!
         
         
       </item>
-      
+    
       <item>
         <title>Where Do Breaks Go</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</link>
@@ -180,7 +180,7 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
         
         
       </item>
-      
+    
       <item>
         <title>Why Hugo Why</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/why-hugo-why/</link>
@@ -217,7 +217,7 @@ Well, this was going to be a totally different and probably much shorter post, b
         
         
       </item>
-      
+    
       <item>
         <title>Needing Support is Not Being Lazy</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/need-not-equal-to-laziness/</link>
@@ -254,7 +254,7 @@ This is going to be a bit of a rant. If that is not why you&amp;#39;re here and 
         
         
       </item>
-      
+    
       <item>
         <title>Am Not Lazy Am Busy</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/am-not-lazy-am-busy/</link>
@@ -289,7 +289,7 @@ Only a News Article?
         
         
       </item>
-      
+    
       <item>
         <title>Ready for the New Year</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/ready-for-the-new-year/</link>
@@ -330,7 +330,7 @@ I hope you all are looking forward to Christmas! If not, well maybe I can give y
         
         
       </item>
-      
+    
       <item>
         <title>Actually on Track</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/actually-on-track/</link>
@@ -367,7 +367,7 @@ For the past several months, I have fell behind on a lot of things. My school wo
         
         
       </item>
-      
+    
       <item>
         <title>More time!</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/more-time/</link>
@@ -399,7 +399,7 @@ For the past several months, I have fell behind on a lot of things. My school wo
         
         
       </item>
-      
+    
       <item>
         <title>Covid Visit!</title>
         <link>https://onigirionegai.info/~yayoi/news/2023/covid-visit/</link>
@@ -427,8 +427,6 @@ For the past several months, I have fell behind on a lot of things. My school wo
         
         
       </item>
-      
-
     
   </channel>
 </rss>

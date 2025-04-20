@@ -13,13 +13,13 @@
     <language>en</language>
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
-    <copyright>©2025, All Rights Reserved</copyright>
+    <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 28 Mar 2024 11:44:17 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/tags/social_networks/index.xml" rel="self" type="application/rss+xml" />
     
-
-      
+    
+    
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
         <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
@@ -66,8 +66,6 @@ Progress!
         
         
       </item>
-      
-
     
   </channel>
 </rss>
