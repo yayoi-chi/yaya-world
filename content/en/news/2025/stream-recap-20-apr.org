@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 20 Apr
+#+DATE: 2025-04-19T18:12:34-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Overall a good week this week! I didn't get back to my comic just yet, but I did create a new PNGTuber for when I stream things on the Mac and it can't handle everything (looking at you Wuthering Waves). I also got back to Persona 5 Royal, where we discovered it is possible to change someone's heart. I ended the week by finally rescuing Nahida!
+
+* Art Streams
+We drew a school girl outfit based on my current live model's outfit but for my static PNGTuber! It went very well and I like the way it looks. Looks just like the full model, but in smol form! Planning on using it for game streams on the Mac, so won't make its real debut until some other week. Probably see it on a schedule graphic though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hmB8_w6__Lw?si=0_011WjmZl5nZtIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Wasn't just a good week for art, but also for gaming! We may not have made a whole lot of progress in Xenosaga Episode 2 this week, but we did discover that we can change someone's heart in Persona 5 Royal. I also had a fun collab with Stardew Valley co-op. I ended the week by finally rescuing Nahida!
+** Persona 5 Royal
+We got the treasure last stream and spent the first half of this stream waiting for a change of heart. Remind me to pace myself more in the next palaces, maybe we can reduce the waiting a bit. Either way we spent the rest of the time trying to find a new target. Maybe we'll get to the next dungeon next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qXSGOc117As?si=Z--lC4Ci42UBTgad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+We did some farming. We did some fishing. We did some mining. We did a little bit of everything. Also, green rain is a thing apparently. You know what we forgot to do though? We didn't investigate the earthquake that happened. I guess its okay though. Lots of fun collabing with @Bsparkx!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uAzGfJS0z9s?si=PDrfMwZXCzGmHIEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode 2
+We did get to the end of this fortress, but we hit a couple of walls. One wall we knocked down, but the other one we just ran straight into. First we got to the boss fight and it was rough! It took over 45 minutes to get through, but we made it. Next we set off the self destruct without too much trouble, but we didn't manage to escape. 30 minutes isn't a lot of time when a fight takes 4+ minutes. We'll get it next time though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfOH7RcO-XI?si=vuxYrWOvhxiSUV2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We rescued Nahida! She's out and she's not happy! We still have to do something about that whole "god creation plan" but we'll save that. There was a story quest we had to start, but it was a very small detour. I'm really loving this story far more than the electro archon's story! Nahida is 💚
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yw_-wfy8350?si=Zor0wDMW7KkcptFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have a bit of new look on streams! That's right, next week I'm debuting new art assets for streaming on both channels. The goal is for you to be able enjoy the game/art more with fewer distractions. I hope you enjoy the changes! Oh! Also, new schedule graphic layout!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/21Apr.png]]
+| Date   | Time             | What's streaming   | Where its streaming |
+|--------+------------------+--------------------+---------------------|
+| 21 Apr | 10 PM ET/7 PM PT | Maker Monday       | YouTube             |
+| 22 Apr | 3 PM ET/12 PM PT | Persona 5 Royal    | YouTube             |
+| 24 Apr | 10 PM ET/7 PM PT | Xenosaga Episode 2 | Twitch              |
+| 25 Apr | 4 PM ET/1 PM PT  | Wuthering Waves    | Twitch              |
