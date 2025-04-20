@@ -8,7 +8,7 @@
 #+SUMMARY: Overall a good week this week! I didn't get back to my comic just yet, but I did create a new PNGTuber for when I stream things on the Mac and it can't handle everything (looking at you Wuthering Waves). I also got back to Persona 5 Royal, where we discovered it is possible to change someone's heart. I ended the week by finally rescuing Nahida!
 
 * Art Streams
-We drew a school girl outfit based on my current live model's outfit but for my static PNGTuber! It went very well and I like the way it looks. Looks just like the full model, but in smol form! Planning on using it for game streams on the Mac, so won't make its real debut until some other week. Probably see it on a schedule graphic though!
+We drew a school girl outfit based on my current live model's outfit but for my static PNGTuber! It went very well and I like the way it looks. Looks just like the full model, but in smol form! Planning on using it for game streams on the Mac, so it won't make its real debut until some other week. You'll probably see it on a schedule graphic though!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmB8_w6__Lw?si=0_011WjmZl5nZtIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
