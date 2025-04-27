@@ -8,11 +8,11 @@
 #+SUMMARY: Pretty normal week. I went down to four streams this week and I think that went pretty well. I technically have two days set aside for collabs, but decided for this week (and next) to just leave those days open. Still had great fun with Wuthering Waves, Persona 5 Royal, and Xenosaga. Also Page 6 let's go!
 
 * Art Streams
-We started the sixth page of the comic! Things are moving along in the story now and I think we'll have the first chapter done in just a few more pages. This page is another five panels though. Most of these panels are just background shots though so should be easier than last time. Though making a room look burnt isn't easy, apparently. I think I did a pretty good job in the end.
+We started the sixth page of the comic! Things are moving along in the story now and I think we'll have the first chapter done in just a few more pages. This page is another five panels though. Most of these panels are just background shots, so should be easier than last time. Making a room look burnt isn't easy, apparently, but think I did a pretty good job in the end.
 * Game Streams
 Currently have Neptunia on pause while I switch between getting caught up in both Wuthering Waves and Genshin Impact. The other two games are a given. Throwback Thursday will be Xenosaga and the other is Persona 5 Royal. I love that game so we'll be doing it once a week until we complete it 😆
 ** Persona 5 Royal
-New stream scenes continue. Now games on YouTube are full screen for you viewing enjoyment! Aside from that we looked at trying to find a new target, but so far only small-fries have popped up. We are looking into a new area called Momentoes that is basically this entry's version of Tartarus. We also met an NPC I'm not sure what in the game when I played on on PS4. Lots of fun surprises!
+New stream scenes continue. Now games on YouTube are full screen for you viewing enjoyment! Aside from that we looked at trying to find a new target, but so far only small-fries have popped up. We are looking into a new area called Momentoes that is basically this entry's version of Tartarus. We also met an NPC I'm not sure was in the game when I played it on PS4. Lots of fun surprises!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJ1h3nONbkk?si=MRwU28Pwhsfi04Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -22,12 +22,12 @@ We ran and fought and still managed to get out of the fortress. I may have forgo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W8eN54i0vmc?si=td2iTA7mavOZeKj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Wuthering Waves
-It seems we have finished with the first part of the main story and have mobed on to the Black Shores! Mostly we just focused on main story stuff, but started with some daily quests and stuff. Now that we are on the Black Shores its time to really get things moving, but not next week 😜
+It seems we have finished with the first part of the main story and have moved on to the Black Shores! Mostly we just focused on main story quests, but started with some daily quests and stuff. Now that we are on the Black Shores its time to really get things moving, but not next week 😜
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXJ-0RvwbLs?si=LonM_C84Kyv4pogC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be kind of chill this week two. I'll be doing a total of four stream again this week unless a surprise collab happens. I am technically keeping a couple days open just for that. Be sure to watch my socials for any surprises!
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be kind of chill this week too. I'll be doing a total of four stream again this week unless a surprise collab happens. I am technically keeping a couple days open just for that. Be sure to watch my socials for any surprises!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/28Apr.png]]
 | Date   | Time             | What's streaming    | Where its streaming |
