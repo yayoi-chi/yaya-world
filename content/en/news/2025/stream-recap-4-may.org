@@ -5,29 +5,29 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: A pretty normal week. Hope every kitten is getting used to the new routine. We had a great art stream working on new panels for page six of my comic. We also found a new target in Persona 5 Royal and made it to Laborythos in Xenosaga Episode II. My favorite though was probably our Genshin stream where I got to trail Nahida.
 
 * Art Streams
-
+We finished the panel we started last week and moved on to a new panel this week. I had fun drawing a flooded library and my catself trying to get out of that mess. We'll be moving on to another room ruined by irrate magic next week then there will be a couple easy panels and the page will be done!
 * Game Streams
-
+ We found a new target in Persona 5 Royal and made it to Laborythos in Xenosaga Episode II. My favorite though was probably our Genshin stream where I got to trail Nahida. Of course trailing Nahida was a highlight but this part of her archon quest was also so sad and yet so heartwarming. Extra love for Nahida 💜
 ** Persona 5 Royal
 We finally had enough small fries! We got ourselves a meal! Well, that is to say, we found a good target and a new palace. This one isn't going to be easy. I'm also pacing myself more in the palace so streams are more interesting. Meant some more social link time! Let's see if we can do Mementos and a Palace next time!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jMEKhwa0YbE?si=aJBZSh02CoJFcSuK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode II
 We got passed the ES part of Old Miltia and travelled to Laborythos! Its a bit of a labryth though. Lots of twists turns and puzzles. We'll get through it next week!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSHhpAS534U?si=MxAnTlPBfY7ITogI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
 We did it! We fought the "fake god" and we won! Also we got trail Nahida! It was soo nice, but boy this story is sad. Nahida is such a good archon and she needs more love!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5qC08W-e5I?si=ZqXXJkyiPFP5qQMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams (put a summary here!)
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have be following the recent schedule, each having two streams. This week we will be back to Wuthering Waves on friday though!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/5Mon.png]]
 | Date  | Time             | What's streaming    | Where its streaming |
