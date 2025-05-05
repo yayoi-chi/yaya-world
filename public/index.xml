@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 27 Apr 2025 14:34:26 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 07:37:01 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -115,11 +115,11 @@
       
       <item>
         <title>1. Meeting at Yawning Portal</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/1/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:52:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/1/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
         <description>&lt;p&gt;
 All of my servants told me the Yawning Portal would be the best place to seek adventure. While I was not entirely sheltered by my parents, being my father&amp;#39;s youngest daughter, ensured that I was not treated with the same freedom or independence as my eldest sister or my older brothers, but living under the shadow of my father&amp;#39;s station, was cold and lonesome and I desired to see more of the world than our small keep. So I set out to the Yawning Portal in search of adventure, for only by setting out on my own would I be able to prove myself and earn respect and independence.&lt;/p&gt;</description>
         
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 4 May</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</link>
+        <pubDate>Sun, 04 May 2025 07:37:01 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 04 May 2025 07:37:01 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</guid>
+        <description>A pretty normal week. Hope every kitten is getting used to the new routine. We had a great art stream working on new panels for page six of my comic. We also found a new target in Persona 5 Royal and made it to Laborythos in Xenosaga Episode II. My favorite though was probably our Genshin stream where I got to trail Nahida.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3292,38 +3324,6 @@ It seems I have completed the last main dungeon for Persona 4 Golden. I&amp;#39;
           
             
               <category>guides</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Lost Ruins (2/5)</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/lost-ruins/</link>
-        <pubDate>Wed, 03 Jan 2024 15:58:39 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Wed, 03 Jan 2024 15:58:39 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/lost-ruins/</guid>
-        <description>This is a pretty good action platformer, with pretty good art and a predicatable and mediocre story.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>review</category>
-            
-          
-            
-              <category>game</category>
-            
-          
-            
-              <category>cute</category>
             
           
         
