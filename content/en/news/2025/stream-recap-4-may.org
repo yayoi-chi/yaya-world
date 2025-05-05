@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 4 May
+#+TITLE: Stream Recap: 4 May
 #+DATE: 2025-05-04T07:37:01-07:00
 #+DRAFT: false
 #+DESCRIPTION:
@@ -29,7 +29,7 @@ We did it! We fought the "fake god" and we won! Also we got to trail Nahida! It 
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be following the recent schedule, each having two streams. This week we will be back to Wuthering Waves on friday though!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
-[[/~yayoi/images/schedules/2025/5Mon.png]]
+[[/~yayoi/images/schedules/2025/5May.png]]
 | Date  | Time             | What's streaming    | Where its streaming |
 |-------+------------------+---------------------+---------------------|
 | 5 May | 10 PM ET/7 PM PT | Maker Monday        | YouTube             |
