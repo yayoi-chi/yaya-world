@@ -22,12 +22,12 @@ We got passed the ES part of Old Miltia and travelled to Laborythos! Its a bit o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSHhpAS534U?si=MxAnTlPBfY7ITogI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-We did it! We fought the "fake god" and we won! Also we got trail Nahida! It was soo nice, but boy this story is sad. Nahida is such a good archon and she needs more love!
+We did it! We fought the "fake god" and we won! Also we got to trail Nahida! It was soo nice, but boy this story is sad. Nahida is such a good archon and she needs more love!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5qC08W-e5I?si=ZqXXJkyiPFP5qQMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have be following the recent schedule, each having two streams. This week we will be back to Wuthering Waves on friday though!
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be following the recent schedule, each having two streams. This week we will be back to Wuthering Waves on friday though!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/5Mon.png]]
 | Date  | Time             | What's streaming    | Where its streaming |
