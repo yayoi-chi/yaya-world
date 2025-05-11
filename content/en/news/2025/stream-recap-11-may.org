@@ -14,17 +14,17 @@ We found the next treasure in Persona 5 Royal (though our route isn't secure yet
 ** Persona 5 Royal
 We managed to recruit a fox! Our numbers are really growing. We also found the treasure, but haven't yet secured a good route to it. I think we're doing a good job pacing ourselves though. Maybe we'll do some Momentoes stuff to level up for next time!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BxOaMLtPARc?si=1TdnGmzlybopbj-F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode II
-
-#+begin_export html
 We got to the Zohar and had yet another rematch with Margulus. Heart string were pulled once we found Cecily and Cathe and had to end their suffering. I'm sure you know what that means. We stopped right after that scene, which involved the destruction of miltia as well. More game left for next week! Xenosaga III, when? Soon, methinks!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6F3Mt2qf6kg?si=IK2M2MgjX4BDmj3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Wuthering Waves
 We did lots of stuff this stream! We rolled some dice. Helped Encore and ended up meeting Abbowser. We even watched Shorekeeper descend into a black hole. I think it was a very productive and fun stream!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/87yWiQiWYgM?si=Gt6flsLo4hAtnV66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 We're shaking things up on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] please pay attention to the times! I'm trying some different times for streams to see if I can get them to work a little better with my school and work schedules. Also, we're back with a collab with Bsparkx! I'm so excited!
