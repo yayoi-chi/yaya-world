@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 04 May 2025 07:37:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 14:52:13 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 11 May</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-11-may/</link>
+        <pubDate>Sun, 11 May 2025 14:52:13 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 11 May 2025 14:52:13 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-11-may/</guid>
+        <description>Another shorter week, but a lot happened. We found the next treasure in Persona 5 Royal (though our route isn&amp;#39;t secure yet). We got through Labyrinthos in Xenosaga Episode II. We even managed not only a few main story quests in Wuthering Waves, but also a couple event quests! Busy busy week!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3283,47 +3315,6 @@ Only a News Article?
           
             
               <category>personal</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Persona 4 Golden is Over... Maybe?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</link>
-        <pubDate>Wed, 10 Jan 2024 15:29:47 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Wed, 10 Jan 2024 15:29:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</guid>
-        <description>&lt;p&gt;
-It seems I have completed the last main dungeon for Persona 4 Golden. I&amp;#39;m planning on bringing my walkthrough up to that point today or tomorrow. Now, there is still the matter of, what I believe is, the Golden content. This is the part about finding Marie that, if memory serves (as I don&amp;#39;t think she was even in the original) was added for the Golden re-release. So I still have content to work through, but its almost there. Also, I would like to point out that I have a reference generated for a new personal project and I plan on starting that tonight or tomorrow.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-            
-              <category>art</category>
-            
-          
-            
-              <category>p4g</category>
-            
-          
-            
-              <category>guides</category>
             
           
         
