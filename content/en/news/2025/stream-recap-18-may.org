@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 18 May
+#+DATE: 2025-05-18T14:01:11-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Back to four game streams this week and (spoiler warning) probably next week too. This week included a fun and exciting collab with Bsparkx in Genshin and a Wuthering Waves stream. We're also very close to finishing Xenosaga Episode II!
+
+* Art Streams
+Another stream, another panel. I did this stream at a new time to help ensure that I was able to schedule everything I needed to get done and some self-care time. It also led to a bit of a longer stream. Though it didn't lead to finishing the panel. Almost done though! We got this!
+* Game Streams
+Back to four game streams this week and (spoiler warning) probably next week too. This week included a fun and exciting collab with Bsparkx in Genshin and a Wuthering Waves stream. We're also very close to finishing Xenosaga Episode II!
+** Persona 5 Royal
+We did it! We found all the will seeds! We also secured out route to the treasure and even explored Mementos. It was one heck of a day for Persona 5! Decided to wait until next time to actually send the calling card, but that means you we get to start of with a good boss fight next time! It'll be loads of fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GB-0aw7o2MU?si=jvN0U40ODbi-poFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We did some domains and fought some bosses! We had lots of fun. I may have got sucked into a quest trying to catch up with Bsparkx at one point, but we got through it, after much talking and clicking 😅 Love playing with Bsparkx!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-CLmr6wqXc?si=eNVs-s8-INSlPW3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode II
+I may have gotten distracted with GS stuff, but it didn't take that much time...methinks. We did still finish the cutscene for last time and we did open the next area. Got through a tough ES fight too. Still more left. I will get that puzzle! I will!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I45-S4A8LQs?si=qObnjF9QO-TG64LT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+May have gotten sucked into Changli's story quest 😅 I promised cubies though and I at least delivered cubies! In fact I might actually be a pretty good delivery girl. At least the daily quest seemed to think I was. The daily quest that got us into Changli's story. Oh! We also got through level 10 in Abbowser's Castle! Not sure I'll do all 21 levels, but we'll see.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIIx9iH2rgw?si=IODI6FbiXLw0er5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+We are back to another full week of streams spread across [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] No collab this week, but we will still have a day for both Genshin and Wuthering Waves. Also, I think we may be starting Xenosaga Episode III this week, we'll see!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/19May.png]]
+| Date   | Time             | What's streaming    | Where its streaming |
+|--------+------------------+---------------------+---------------------|
+| 19 May | 5 PM ET/2 PM PT  | Maker Monday (Art)  | YouTube             |
+| 20 May | 3 PM ET/12 PM PT | Persona 5 Royal     | YouTube             |
+| 21 May | 3 PM ET/12 PM PT | Genshin Impact      | Twitch              |
+| 22 May | 3 PM ET/12 PM PT | Xenosaga Episode II | Twitch              |
+| 23 May | 4 PM ET/1 PM PT  | Wuthering Waves     | Twitch              |
