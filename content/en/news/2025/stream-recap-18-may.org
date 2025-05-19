@@ -12,7 +12,7 @@ Another stream, another panel. I did this stream at a new time to help ensure th
 * Game Streams
 Back to four game streams this week and (spoiler warning) probably next week too. This week included a fun and exciting collab with Bsparkx in Genshin and a Wuthering Waves stream. We're also very close to finishing Xenosaga Episode II!
 ** Persona 5 Royal
-We did it! We found all the will seeds! We also secured out route to the treasure and even explored Mementos. It was one heck of a day for Persona 5! Decided to wait until next time to actually send the calling card, but that means you we get to start of with a good boss fight next time! It'll be loads of fun!
+We did it! We found all the will seeds! We also secured our route to the treasure and even explored Mementos. It was one heck of a great day for Persona 5! Decided to wait until next time to actually send the calling card, but that means you we get to start of with a good boss fight next time! It'll be loads of fun!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GB-0aw7o2MU?si=jvN0U40ODbi-poFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -32,7 +32,7 @@ May have gotten sucked into Changli's story quest 😅 I promised cubies though 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HIIx9iH2rgw?si=IODI6FbiXLw0er5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-We are back to another full week of streams spread across [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] No collab this week, but we will still have a day for both Genshin and Wuthering Waves. Also, I think we may be starting Xenosaga Episode III this week, we'll see!
+We are back to another full week of streams spread across [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. No collab this week, but we will still have a day for both Genshin and Wuthering Waves. Also, I think we may be starting Xenosaga Episode III this week, we'll see!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/19May.png]]
 | Date   | Time             | What's streaming    | Where its streaming |
