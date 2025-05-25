@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 25 May
+#+DATE: 2025-05-25T14:30:30-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Lots of good stuff happened this week. We did two panels so now we just have one left for Page 6. We also finished Xenosage Episode II in one of my longest streams since Ghost Cat's takeover. We got distracted a couple of time too. Lots of good and fun stuff!
+
+* Art Streams
+Thanks to our new time I was able to do quite a lot on this part of our comic creation/art livestream thingy! We finished one panel, went on to the next and... (wait for it)... finished that panel too! We only have one panel left in Page 6 of the comic. Its rather large, but I think we can get it done next stream, let's see.
+* Game Streams
+We finished Xenosaga Episode II in one of my longest streams since Ghost Cat took over on Holloween day. I just couldn't end things before we finished. Aside from that, we also got a little distracted by Changli and, uhm, also Camellya wanted to play too. Oh, we finished something else! We finished the Dendron Archon quests! We'll be on Hydro Archon quests after a short intermission!
+** Persona 5 Royal
+We did it! We completed the museum hiest and learned more about Fox and the "Sayuri" The fight with the artist was quite easy once we figured it out. Luckily it seems he could only revive one painting at a time. After that fight, we still had a lot of time so we explored Mementos a bit, and opened a new area. There was also a lot of story and skill and social building! I call this a successful play session!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbrM3u9BX7Q?si=Z_GAahwdKqP-wKrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We did it! We finished up our business with the Dendron Archon. Still, we haven't quite finished up everything in Sumeru. We're left investigating more things concerning Hirlichurls and the Abyss Order. Also, where's Paimon?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4vxDGirqPE?si=d6LduIsJ-C9zUvrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode II
+We did it! We got through the final three fights. Actually they weren't too hard until the second phase of the the not so real final boss. Turns out Albedo was our final boss, and that was an interesting fight. I may have forgotten just how long the ending was. Good thing I stopped when I did last time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMl5Ax_J2AQ?si=RVSfJJ31osOIwG6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+Bitty Changli was sooo adorable! I wish I could take her home, but she's all grown up and is a dependable adult now. She's pretty awesome. You know who else is awesome? Shorekeeper, but that Camellya....There's just something about her...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/in7eU7P036M?si=gauKS6nwgD5R8TwD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be splitting things a bit differently. Due to some of the technical issues and wanting a bit more variety on YouTube, I've decided to see how streaming Wuthering Waves to YouTube works this week. That means three streams on YouTube and two to Twitch just for this week... unless Wuthering Waves does exceptionally well on YouTube... then we'll see.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/26May.png]]
+| Date   | Time             | What's streaming     | Where its streaming |
+|--------+------------------+----------------------+---------------------|
+| 26 May | 5 PM ET/2 PM PT  | Maker Monday (Art)   | YouTube             |
+| 27 May | 3 PM ET/12 PM PT | Persona 5 Royal      | YouTube             |
+| 28 May | 3 PM ET/12 PM PT | Wuthering Waves      | YouTube             |
+| 29 May | 3 PM ET/12 PM PT | Xenosaga Episode III | Twitch              |
+| 30 May | 4 PM ET/1 PM PT  | Genshin Impact       | Twitch              |
