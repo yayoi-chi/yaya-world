@@ -35,9 +35,9 @@ We finished what we needed to do in Sumeru for now and set off to the Nation of 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z67QU0UfoIQ?si=eo-bdtD-_Z72VfI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams (put a summary here!)
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be down to two streams each again this week. Been feeling a bit extra eepy lately, so I'm taking an extra day to rest this week so I can be your best princess! Also Maker Monday will still be art, but I'll be working on smaller projects this week. Still going to be doing WuWa, Xenosaga, and Genshin. No Persona stream, but those should be back soon!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
-[[/~yayoi/images/schedules/20XX/XMon.png]]
+[[/~yayoi/images/schedules/2025/02Jun.png]]
 | Date  | Time             | What's streaming     | Where its streaming |
 |-------+------------------+----------------------+---------------------|
 | 2 Jun | 5 PM ET/2 PM PT  | Maker Monday (Art)   | YouTube             |
