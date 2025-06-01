@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 1 Jun
+#+DATE: 2025-06-01T14:32:40-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Wow! Our little experiment with Wuthering Waves was a good success! Also, look at that, we made it to Xenosaga Episode III. In terms of story, I is my favorite, but I like how III plays. We also made it to Fontaine. It was a good week!
+
+* Art Streams
+We finished another page! Page six is all complete and ready. I thought this page would be pretty easy since it had no dialog until the last panel, but it proved a *lot* more difficult than I thought. You'll see the timelapse below. I went through over 10 hours of footage to create that! This probably ended up being the most complex page yet!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCuMzFeYGrY?si=9B_fr5Wb-Iul83Zl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Our little experiment with Wuthering Waves was a good success! Also, look at that, we made it to Xenosaga Episode III. In terms of story, I is my favorite, but I like how III plays. We also made it to Fontaine. It was a good week!
+** Persona 5 Royal
+There was a /lot/ of story here today! The good news is, we can now go on outings with the twins and we have a new target, sort of. You see, we don't actually know the guy's name. So far we've spent like four days just trying to get that intel. We'll have to see what we can dig up though! Not much time left!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPF6dpg-15g?si=wrcPsT9IMZ0ssti8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We met a bunch of Camellya's from different timelines as well as from the past. I actually wasn't expecting her story to be so sweet. The end was great. With stuff taken care of on the Black Shores, we headed off to a new ADVENTURE!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMwTwQG88mA?si=T1ZlPkn7mh15q2AB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+We went up to three! We saw all the main characters in some form or another, but the story is just getting started. Compared to two, the story moves a bit slower in the beginning, but things pick up. I hope every kitten will enjoy it!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PucVvvB5nuY?si=HkL7z983ZKZ1RVmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We finished what we needed to do in Sumeru for now and set off to the Nation of Justice, Fontaine! Wouldn't you know it, we met the archon right away and Nahida was not wrong about her, she certainly has a unique personality. We have suddenly found ourselves in the midst of a whodunit! Will we find out the answer? Only time will tell!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z67QU0UfoIQ?si=eo-bdtD-_Z72VfI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams (put a summary here!)
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/20XX/XMon.png]]
+| Date  | Time             | What's streaming     | Where its streaming |
+|-------+------------------+----------------------+---------------------|
+| 2 Jun | 5 PM ET/2 PM PT  | Maker Monday (Art)   | YouTube             |
+| 3 Jun | 3 PM ET/12 PM PT | Wuthering Waves      | YouTube             |
+| 5 Jun | 3 PM ET/12 PM PT | Xenosaga Episode III | Twitch              |
+| 6 Jun | 4 PM ET/1 PM PT  | Genshin Impact       | Twitch              |
