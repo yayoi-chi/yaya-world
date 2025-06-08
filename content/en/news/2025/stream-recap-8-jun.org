@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 8 Jun
+#+DATE: 2025-06-08T09:45:14-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Took a bit of an extra break this week so we only did three game streams. We also began the great experiment to multistream. This started with the art stream and continued for most streams. We streamed Wuthering Waves, Xenosaga Episode III (actual gameplay), and Genshin Impact. Hope every kitten had fun!
+
+* Art Streams
+This week's art stream was the first stream that went out to both Twitch and YouTube. It was just a random stream that ended up being eaten by attempts to update my "love/hug" emote. I do plan on updating some of the other emotes with wings!
+* Game Streams
+While technical limitations prevented me from multistreaming Wuthering Waves, the other two games also went out to both Twitch and YouTube. We managed to show off some actual gameplay for Xenosaga Episode III and solve one mystery in Genshin Impact. There appears to be many more mysteries to solve though!
+** Wuthering Waves
+Phoebe rejoined us for an investigation and led us straight to Lorelei. We had to defeat the poor echo, but it was needed to purify it. Unfortunately Lorelei had a lot of information that Phoebe had trouble processing and she left us. We picked up Carlotta though! Overall lots of fun in Regunna City!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHr1d4P3Au8?si=bct9UWEfsU_3cKJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+The government thinks KOS-MOS is obsolete, but we can't just let her go that easily, right? She's more than just a machine after all. Let's ignore the fact we need her to rescue the Elsa, okay? She's family, so we got to rescue her! We started a rescue mission, but things didn't quite go so smoothly. I have lots of bad feelings about the rest of this mission.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/izzOo-Bv_0I?si=dJ9q3FlFgVVSnfMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We solved the murder mystery and we know that the culprit was in fact the victim. That was a shocking twist. Of course, there were even more shocking twists and this case turned out to be just the tip of the iceberg. Will we have a new career as Fontaine detectives now?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDAv0O_-rpE?si=tz2DlmQ5JAgzzZmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have a full roaster of streams next week. The FEESH Farm will return in our Stardew Valley collab with [[https://www.youtube.com/@Bsparkx][@Bsparkx]] and will be exclusive to Twitch. Wuthering Waves also returns where I'm hoping to pull Cartethyia, it will be exclusive to YouTube. All other streams will be on either platform!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/9Jun.png]]
+| Date   | Time             | What's streaming           | Where its streaming |
+|--------+------------------+----------------------------+---------------------|
+| 9 Jun  | 5 PM ET/2 PM PT  | 2025 Summer Outfit Reveal! |                     |
+| 10 Jun | 4 PM ET/1 PM PT  | Art!                       |                     |
+| 11 Jun | 4 PM ET/1 PM PT  | [Collab] Stardew Valley    | Twitch              |
+| 12 Jun | 3 PM ET/12 PM PT | Xenosaga Episode III       |                     |
+| 13 Jun | 4 PM ET/1 PM PT  | Wuthering Waves            | YouTube             |
