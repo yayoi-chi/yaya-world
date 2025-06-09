@@ -10,7 +10,7 @@
 * Art Streams
 This week's art stream was the first stream that went out to both Twitch and YouTube. It was just a random stream that ended up being eaten by attempts to update my "love/hug" emote. I do plan on updating some of the other emotes with wings!
 * Game Streams
-While technical limitations prevented me from multistreaming Wuthering Waves, the other two games also went out to both Twitch and YouTube. We managed to show off some actual gameplay for Xenosaga Episode III and solve one mystery in Genshin Impact. There appears to be many more mysteries to solve though!
+While technical limitations prevented me from multistreaming Wuthering Waves, the other two games went out to both Twitch and YouTube. We managed to show off some actual gameplay for Xenosaga Episode III and solve one mystery in Genshin Impact. There appears to be many more mysteries to solve though!
 ** Wuthering Waves
 Phoebe rejoined us for an investigation and led us straight to Lorelei. We had to defeat the poor echo, but it was needed to purify it. Unfortunately Lorelei had a lot of information that Phoebe had trouble processing and she left us. We picked up Carlotta though! Overall lots of fun in Regunna City!
 #+begin_export html
