@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 15 Jun
+#+DATE: 2025-06-15T14:16:24-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Transforming back into mostly an art streamer, slowly. We had an outfit reveal this week, but I also did some random art then and I did some more random art the next day. This left only three days for game streams, but I think that's okay. I like the art streams and, we did get our paws on Cartethyia!!
+
+* Art Streams
+Two random art streams and two channels. Don't worry both art streams were streamed to both channels. One of them started with an outfit reveal and the other continued some random art we started. Both were quite fun.
+** 2025 Summer Outfit Reveal
+Starting with and outfit reveal and moving on to updating more emotes, this was a good showcase of artistic talent. Hello summer. I hope you all like my new beach going outfit. I wanted to do more of a swimsuit and maybe I will show that off one day, but am not sure how Twitch will react to that, so I'm being cautious.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Y6_NQyDC0M?si=UtjIm6kTLWH-izK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Random Art
+I have been working on updating my emotes in preparation for the next version of my model. Mostly I've been updating the wings to look a bit more magical. I started with a new boop emote last week than moved on to a new hug emote after my summer outfit reveal and this stream focused on a new blushing emote. I think, aside from the new wings, redrawing this has allowed me to improve the way the face and expressions are done too!
+* Game Streams
+I took my vary own Cartethyia home! I dropped Persona 5 in favor of more art and swapped out Genshin with Wuthering Waves to celebrate the 2.4 release. I managed to pull Cartethyia first try and even pulled her weapon (though that took more than one try). I also had a *lot* of fun on the FEESH Farm with my friends. It was a great week!
+** Stardew Valley (co-op)
+It rained quite a bit! Rain is nice, because we don't have to water our crops but it also can make lightening appear right next to us! Still we had a lot of fun in the mines keeling red slimes and more. We also appear to be accumulating a lot of wealth. Maybe there will be ponds filled with Steve fish soon? We'll see!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvBMe5jYNM0?si=PkbXC7f1ZLgR01Q7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+We found KOS-MOS literally thrown away like she's trash! We got her out of there though and over to where the Elsa was. Things are a little less straightforward than just going in there and getting out. Our E.S. craft stopped working and we met T-elos in some caves! In the middle of that fight we suddenly found ourselves back on Miltia 15 years ago! What the beep is going on!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXb1zwOCNpo?si=0i2NvxoEjtlAZH-L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We got CARTETHYIA on the first pull! I had prepared a bunch of astrite and had 40 total free pulls, but I didn't need em. I did use some of my astrite and managed to also pull her weapon. After that I realized I needed to open more around Raguna and Rinnacita to find the boss to get ascension drops so we continued the main story quest around that area. Saw Carlotta and Cartethyia standing next to each other and that was fun! Am still shocked I have Cartethyia...SQUEE~~~
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8IwIPA2GM6M?si=G-3W-OsCkbIMJP7p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting every stream. Let me say that again in case its not clear! Every stream will be on both channels this week! We will also have two art streams again, but I am bringing back Persona 5. We'll be working on more Fontaine mystery stuff in Genshin as well instead of trying to advance the story so I can level Cartethyia just for this week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/16Jun.png]]
+| Date   | Time             | What's streaming     |
+|--------+------------------+----------------------|
+| 16 Jun | 5 PM ET/2 PM PT  | Maker Monday (Art)   |
+| 17 Jun | 3 PM ET/12 PM PT | Persona 5 Royal      |
+| 18 Jun | 5 PM ET/2 PM PT  | Art                  |
+| 19 Jun | 3 PM ET/12 PM PT | Xenosaga Episode III |
+| 20 Jun | 4 PM ET/1 PM PT  | Genshin Impact       |
