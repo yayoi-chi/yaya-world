@@ -14,11 +14,43 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 08 Jun 2025 09:45:14 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 14:16:24 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Stream Recap: 15 Jun</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-15-jun/</link>
+        <pubDate>Sun, 15 Jun 2025 14:16:24 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Sun, 15 Jun 2025 14:16:24 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-15-jun/</guid>
+        <description>Transforming back into mostly an art streamer, slowly. We had an outfit reveal this week, but I also did some random art then and I did some more random art the next day. This left only three days for game streams, but I think that&amp;#39;s okay. I like the art streams and, we did get our paws on Cartethyia!!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Stream Recap: 8 Jun</title>
@@ -3169,31 +3201,6 @@ I come bearing some bad news. There will be no content update this week. I am, a
               <category>news</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>I wrote a thing!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</link>
-        <pubDate>Thu, 07 Sep 2023 17:46:55 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 07 Sep 2023 17:46:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/i-wrote-a-thing/</guid>
-        <description>&lt;p&gt;
-Well, as of writing this I am still technically &lt;em&gt;writing&lt;/em&gt; a thing. I started it thought so, yeah…😆 Anyway, aside from writing a new &lt;a href=&#34;https://onigirionegai.info/~yayoi/adventures/baby-back2school/&#34;&gt;ADVENTURE&lt;/a&gt;, I also made a few more adjustments to my &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/fiesta/lvling/&#34;&gt;fiesta leveling guide&lt;/a&gt;. This week though it is mostly about writing!&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-About the adjustments
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;After racking my brain for a bit and looking at some Hugo documentation and found a way to re-order the list for the individual leveling guides. It seemed like all the guides were kind of just in whatever order they were created or something and that made it a bit difficult for me to find the write guide. They should all be in the right order though. Babies on top all the way to God-like Adventurer&amp;#39;s at the bottom. Of course the level range for each guide is still available in its description so you&amp;#39;ll know which guide to open based on what level your characters are.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
         
         
         
