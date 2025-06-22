@@ -1,0 +1,43 @@
+#+TITLE: Stream Recap: 22 Jun
+#+DATE: 2025-06-22T14:20:13-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Art streams are going very well! I really like getting the opportunity to chat while working on random art projects or my comic. I still play games though, because I like playing games too! This week we located some intel in Persona 5, solved more mysteries in Genshin Impact, and uncovered the past in Xenosaga Episode III. I didn't realize it was such a mystery-filled week! Much fun though, methinks
+
+* Art Streams
+Two, not one, two art streams this week. I may have mentioned how this will probably be the norm for a while. It was fun working on the comic and I hope I'll be able to share the full thing soon, but it was also a *lot* of fun working on new sub-badges for Twitch!
+** Maker Monday
+First stream this week was starting the seventh and final page of chapter one of this comic. I decided to release the story in smaller chunks, or chapters, rather than work on the whole thing before release. This way I can get *something* out next year at the latest. I did the layout and first panel in this stream. To be honest, I knew I had another art stream scheduled, so I thought about continuing it this week, but I did something different instead. Don't want to burn out on the comic 😅
+** Random Art
+As I mentioned, I thought about continuing the comic page in this stream, but ultimately decided to work on some new sub-badges. I like the comic, but it is very involved and I think having a nice, chill art stream every now-and-then is a good thing. I hope you also think so!
+* Game Streams
+I didn't know this would be a mystery week! We discovered that we have indeed traveled 15 years in the past and uncovered the truth of love and courage awakening KOS-MOS once again. We managed to identity out target in Persona 5 and even entered a flying bank! More mysteries were solved and evidence collected in Genshin Impact. We even ended up in prison for eating a cake mant for Furina (don't worry its part of a plan, I think). It was an overall entertaining week!
+** Persona 5 Royal
+We found a name and that was apparently all we needed. I mean there are three things we need to figure out, name, location, and distortion. It was oddly easy to figure out two of those things and now we're ready! Getting up to the palace (yeah, up to it) was not easy, but we managed, and, hey, deadline extension!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnSpXas12ic?si=nyskbF7XcmXpFiPi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+Shion met her father! Yeah, we really do seem to be 15 years in the past. Its all kind of confusing. We also witnessed how much bitty Shion seemed to affect Kevin. Also, there was a fight with a testament. Turns out it was just what we needed to wake up KOS-MOS though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrU1Y28O2Vg?si=aaiUMhDaHKk_w0hj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We may have uncovered the truth behind the disappearances, but that didn't save Childe from a guilty verdict for some reason. Now it seems we have yet another mystery to unravel. For that we have been charged with the heinous crime of stealing Furina's cake (don't worry its a part of our plan). Now we are in prison looking for answers!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dBsJl42AumE?si=pXhcvPvth96MyJw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Going to keep the double art streams coming this week, but also continuing our game streams with Genshin, Xenosaga, and Persona. [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both be hosting all streams again this week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/23Jun.png]]
+| Date   | Time             | What's streaming     |
+|--------+------------------+----------------------|
+| 23 Jun | 5 PM ET/2 PM PT  | Maker Monday (Art)   |
+| 24 Jun | 3 PM ET/12 PM PT | Persona 5 Royal      |
+| 25 Jun | 3 PM ET/12 PM PT | Genshin Impact       |
+| 26 Jun | 3 PM ET/12 PM PT | Xenosaga Episode III |
+| 28 Jun | 5 PM ET/2 PM PT  | Random Art           |
