@@ -5,18 +5,18 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Two art stream fun again! We first worked on page 7 of my comic then we played a few games, including Xenosaga and Genxhin, then I finished up some wings for sub-badges and worked a bit more on page seven of the comic. Overall it was a fun week delving into timey-whimey and mysterious shtuff. More mysteries soon, but hopefully we will get back to our own time in Xenosaga too! Also, let's rob a bank, doesn't that sound fun?
+#+SUMMARY: Two art stream fun again! We first worked on page 7 of my comic then we played a few games, including Xenosaga and Genshin, then I finished up some wings for sub-badges and worked a bit more on page seven of the comic. Overall it was a fun week delving into timey-whimey and mysterious shtuff. More mysteries soon, but hopefully we will get back to our own time in Xenosaga too! Also, let's rob a bank, doesn't that sound fun?
 
 * Art Streams
-We had lots of fun! We started this week working on the seventh and final page of this chapter of my comic. Once this is done I can start looking into adding some motion and kenetic typography and making a fun web comic out of it. The story isn't done, but I think I'll tell in parts because its important to understanding who I am. We also finished some wings in a random art stream!
+We had lots of fun! We started this week working on the seventh and final page of this chapter of my comic. Once this is done I can start looking into adding some motion and kenetic typography and making a fun web comic out of it. The story isn't done, but I think I'll tell it in parts because its important to understanding who I am. We also finished some wings in a random art stream!
 ** Maker Monday
-Very close to being able to release a web comic and motion comic for so you can all enjoy it and learn more about who your fairy cat princess is and how she got here. We finished the first panel of this final page and started the second. Its a pretty big page, but I got this!
+Very close to being able to release a web comic and motion comic so you can all enjoy it and learn more about who your fairy cat princess is and how she got here. We finished the first panel of this final page and started the second. Its a pretty big page, but I got this!
 ** Random Art
 Finished the wings we started during our last random art stream. New sub-badges are now live on Twitch so check them out! I think I'll work on some other random graphics and stuff in future random art streams. How about some badge flairs for tier 2 and 3 subs, or maybe we can work on new backgrounds and screens for streaming? We'll see!
 * Game Streams
-The fun continued with some games this week. We're still solving mysteries in Genshin Impact and we were working on our infultration plan in Genshin. We ended this week's games by dealing with more timey-whimey stuff in Xenosaga. Hopefully, we'll be back to our own time soon!
+The fun continued with some games this week. We're still solving mysteries in Genshin Impact and we were working on our infiltration plan in Genshin. We ended this week's games by dealing with more timey-whimey stuff in Xenosaga. Hopefully, we'll be back to our own time soon!
 ** Persona 5 Royal
-Even if its a flying bank, its still a bank. So what if he had a giant vault that also serves as a huge lock or a bunch of convoluted codes and ciphers? A bank is a bank, dangit! We did manage to get to the treasure and find two will seeds. I'm saving the last one because I have a feeling its near the treasure. Next time, we finish our heist!
+Even if its a flying bank, its still a bank. So what if there is a giant vault that also serves as a huge lock or a bunch of convoluted codes and ciphers? A bank is a bank, dangit! We did manage to get to the treasure and find two will seeds. I'm saving the last one because I have a feeling its near the treasure. Next time, we finish our heist!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKDNUJcmFiM?si=DqF3XTJNIcLU9nT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -31,7 +31,7 @@ KOS-MOS is back now and it is time for us to find new reactors for our E.S. craf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yiwU1gy_F4I?si=jemWjtLqt_FyMIeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-Bit of a shorter week because of the holiday coming up. [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both be hosting most of the streams. Do note though that, due to technical limitations, Wuhtering Waves will still be exclusive to YouTube so hop over there wednesday the second of July for that stream, otherwise catch my streams where ever you feel most comfy!
+Bit of a shorter week because of the holiday coming up. [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both be hosting most of the streams. Do note though that, due to technical limitations, Wuthering Waves will still be exclusive to YouTube so hop over there Wednesday the second of July for that stream, otherwise catch my streams where ever you feel most comfy!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/30Jun.png]]
 | Date   | Time             | What's streaming     | Where its streaming |
