@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: A slightly shorter week this week because of a holiday. We still managed to work on our comic page during Maker Monday and managed and exclusive stream on YouTube. Other than that we finished our bank heist and even got back to the future (sort of). So a good week, methinks!
+#+SUMMARY: A slightly shorter week this week because of a holiday. We still managed to work on our comic page during Maker Monday and managed an exclusive stream on YouTube. Other than that we finished our bank heist and even got back to the future (sort of). So a good week, methinks!
 
 * Art Stream
 We're doing what we can to make progress on this comic. It is the last page of the chapter and I'm super excited for the opportunity to have something to show off very soon. Hopefully everyone will soon understand the struggles I had and will know that I wasn't just your average princess. I have a few more panels left, but we're getting there!
@@ -22,7 +22,7 @@ We had a nice performance with Carlotta and learned of Cartethyia's current plig
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQqt3r_FoQw?si=R11brSoOpeTXYfQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Xenosaga Episode III
-We discovered that we weren't really in the past. I mean, with this game you never know, but we have explored these events before. Those times it was quite so "real" though. Anyway, Shion discovered a lot about her past and so did MOMO. She also was faced with an impossible choice and is now kind of acting like a spoiled brat. Hopefully she'll learn soon that her friends are really there to help her!
+We discovered that we weren't really in the past. I mean, with this game you never know, but we have explored these events before. Those times it wasn't quite so "real" though. Anyway, Shion discovered a lot about her past and so did MOMO. She also was faced with an impossible choice and is now kind of acting like a spoiled brat. Hopefully she'll learn soon that her friends are really there to help her!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbvdZy3_ugI?si=A4k3AvHN-dNRp7go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
