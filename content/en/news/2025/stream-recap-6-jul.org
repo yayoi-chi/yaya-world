@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 6 Jul
+#+DATE: 2025-07-06T13:52:59-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: A slightly shorter week this week because of a holiday. We still managed to work on our comic page during Maker Monday and managed an exclusive stream on YouTube. Other than that we finished our bank heist and even got back to the future (sort of). So a good week, methinks!
+
+* Art Stream
+We're doing what we can to make progress on this comic. It is the last page of the chapter and I'm super excited for the opportunity to have something to show off very soon. Hopefully everyone will soon understand the struggles I had and will know that I wasn't just your average princess. I have a few more panels left, but we're getting there!
+* Game Streams
+We finished our bank heist and got the money. Yeah, the treasure was really gold bars, which is just so fitting. I also did and exclusive stream on YouTube where we made some more story progress in Wuthering Waves getting us a few steps closer to being able to get Cartethyia caught up. Aside from that, I also got back to the present in Xenosaga Episode III and completed the first disc!
+** Persona 5 Royal
+Who knew robbing a bank would be so much fun. I kind of figured it would be hard and confusing. The last part was a bit of a maze, but we not only managed to get the treasure, but nabbed all three will seeds again! Also, apparently Makoto and Ryuji make a good team? Kind of weird if you ask me!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UN3Xl5JVj0k?si=52Ll44kyI1Xfrfaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We had a nice performance with Carlotta and learned of Cartethyia's current plight. Now we're working with Canterella to try and free Cartethyia thanks to some help from Ciconna's resonance ability. You know what, that is a lot of names that start with "C" in one story! Anyway, there was a lot of silent squeeing by the way. Cartethyia is just soo elegant, cute, pretty, and amazing!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQqt3r_FoQw?si=R11brSoOpeTXYfQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+We discovered that we weren't really in the past. I mean, with this game you never know, but we have explored these events before. Those times it wasn't quite so "real" though. Anyway, Shion discovered a lot about her past and so did MOMO. She also was faced with an impossible choice and is now kind of acting like a spoiled brat. Hopefully she'll learn soon that her friends are really there to help her!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbvdZy3_ugI?si=A4k3AvHN-dNRp7go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will each have an exclusive stream this week. First, we'll be back to Wuthering Waves on YouTube then we'll be doing a collab stream with my good friend @Bpsarkx on Twitch. This also means *two* Genshin Impact streams this week, one exclusive and one simulcasted. We will actually start the week with Art on both channels and round everything out with Xenosaga Episode III. Hope every kitten enjoys!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/7Jul.png]]
+| Date   | Time             | What's streaming           | Where its streaming |
+|--------+------------------+----------------------------+---------------------|
+| 7 Jul  | 5 PM ET/2 PM PT  | Maker Monday (Art)         |                     |
+| 8 Jul  | 3 PM ET/12 PM PT | Genshin Impact             |                     |
+| 9 Jul  | 3 PM ET/12 PM PT | Wuthering Waves            | YouTube             |
+| 10 Jul | 3 PM ET/12 PM PT | Xenosaga Episode III       |                     |
+| 11 Jul | 4 PM ET/1 PM PT  | Genshin Impact  w/@Bpsarkx | Twitch              |
