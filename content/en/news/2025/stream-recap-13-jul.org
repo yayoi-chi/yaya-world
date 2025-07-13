@@ -1,8 +1,35 @@
-#+TITLE: Stream Recap 13 Jul
+#+TITLE: Stream Recap: 13 Jul
 #+DATE: 2025-07-13T14:18:53-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: Made more progress on my comic and had a lot of fun in Genshin and Wuthering Waves. Xenosaga too, but that one led to a bit of a headache and some heartbreak and sadness and not because of the story. We worked through it though! I appreciate the patience of my kittens!
+
+* Art Streams
+Almost there! I managed to almost finish the panel we just barely started last week. Now I need to just finish some shading. Its all these books, lots of work getting all the books shaded. If I do the comic on Maker Monday this week, we should be able to get started on the second to last panel and then just one panel left in this entire chapter! Of course, after that, is figuring out how I want to publish it on this website, but we'll discuss that when that panel is done!
+* Game Streams
+So both Genshin streams went very well as did my Wuthering Waves stream. Lots of story progression in both and another awesome collab with Bsparkx! Xenosaga...well that didn't go as well. We had some tech issues when I was originally going to play it that made the game unplayable and forced me to cancel that stream. Good news though, I was able to make it up so there is a summary of it this week!
+** Genshin Impact
+I was right to be suspicious! We did get some answers, but we also ended up with more questions. In fact, many of the answers just led to more questions, but I guess that's just how things go in these kinds of stories. Hopefully all will be revealed in the end so it won't be like the German mystery novels I read. More, but different questions to be answered soon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F-PYJMVxQlY?si=6adn4a5qVKulyRSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We saved Cartethyia! We also happened to learn a lot about her and she feels like such a nice girl to know even though her past is less than rosy. It was really emotional exploring with her and I just love her to pieces even more! All love to Cartethyia, she's perfect!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3Hzc5CLoTk?si=1y8TF-IdWRkV2rNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Xenosaga Episode III
+Jr.'s old man is up to no good and got the Durandal in a bad state all so he could become a God, or something. Honestly I thought Albedo was crazy but I think Dimitri really takes the cake. At least Albedo was somewhat predictable. Anyway, we made a lot of good progress and everything worked really well. I still plan on playing this even during exams. Wish me luck!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnS1OO4wY2c?si=TWnD00F6gKi8us4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact Collab with B
+Collabing with B is always a tonne of fun! We fought a boss and keeled enemies in a domain and even explored Sumeru a bit together. I mean we were farming materials, but also exploring and it was a lot of fun. I hope for more exploration and fun with B in the future. She's so awesome!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSEhVYbRxes?si=vcTC74mjj5-c6sbn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I'm hoping [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will at least host two streams next week I will be starting my comprehensive examinations as I prepare to become a [[{{% ref "news/2025/becoming-a-phd-candidate.org" %}}][PhD Candidate]]. I am at least going to do a Maker Monday stream though what I'm drawing is going to depend on how stressed I feel. I am also hoping for a Xenosaga stream, but watch the YouTube Channel for waiting rooms and my socials for notices. There will be **no schedules** during this period.
