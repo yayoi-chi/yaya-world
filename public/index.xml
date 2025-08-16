@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/</link>
+    <link>http://localhost:1313/~yayoi/</link>
     <description>Recent content on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 10 Aug 2025 09:39:44 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -43,11 +43,11 @@
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3reload/walkthrough/</link>
         <pubDate>Tue, 19 Mar 2024 10:59:52 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 10:59:52 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3reload/walkthrough/</guid>
         <description>This will walk you through everything that is available to you in your every day life in Persona 3 Reload</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -79,11 +79,11 @@
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3p/walkthrough/</link>
         <pubDate>Tue, 19 Mar 2024 09:34:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 09:34:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3p/walkthrough/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3p/walkthrough/</guid>
         <description>This will walk you through everything that is available to you in your every day life in Persona 3 Portable</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -115,11 +115,11 @@
       
       <item>
         <title>1. Meeting at Yawning Portal</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
+        <link>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</link>
         <pubDate>Sun, 14 Jan 2024 17:52:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 14 Jan 2024 17:52:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/keyrie/1.meeting-at-yawning-portal/</guid>
         <description>&lt;p&gt;
 All of my servants told me the Yawning Portal would be the best place to seek adventure. While I was not entirely sheltered by my parents, being my father&amp;#39;s youngest daughter, ensured that I was not treated with the same freedom or independence as my eldest sister or my older brothers, but living under the shadow of my father&amp;#39;s station, was cold and lonesome and I desired to see more of the world than our small keep. So I set out to the Yawning Portal in search of adventure, for only by setting out on my own would I be able to prove myself and earn respect and independence.&lt;/p&gt;</description>
         
@@ -152,11 +152,11 @@ All of my servants told me the Yawning Portal would be the best place to seek ad
       
       <item>
         <title>RE[BASE] Nagisa: Debut!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
         <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:50:00 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep1/</guid>
         <description>Nagisa is a little nervous about her online debut. Hopefully everything goes well.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -188,11 +188,11 @@ All of my servants told me the Yawning Portal would be the best place to seek ad
       
       <item>
         <title>RE[BASE] Allana: Hello World!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</link>
         <pubDate>Wed, 20 Sep 2023 10:41:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 20 Sep 2023 10:41:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep1/</guid>
         <description>This is an original story which introduces a set of new characters having ADVENTURES. In this installment you will meet Momo, a girl who adores her shy classmate, but may have a bit of an attitude…not to mention, a mouth.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -228,11 +228,11 @@ All of my servants told me the Yawning Portal would be the best place to seek ad
       
       <item>
         <title>Walkthrough</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</link>
+        <link>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</link>
         <pubDate>Tue, 06 Dec 2022 21:38:37 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:38:37 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/walkthrough/</guid>
         <description>This will walk you through everything you need to do in Persona 4 Golden!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -264,11 +264,11 @@ All of my servants told me the Yawning Portal would be the best place to seek ad
       
       <item>
         <title>Babies</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:25 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:00:25 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/babies/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/babies/</guid>
         <description>&lt;p&gt;
 The easiest way to level these characters is to have a higher level
 character kill certain mobs for you while you are in the party. Their
@@ -307,11 +307,11 @@ FM, but it does the trick.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Allana: First Quest</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</link>
         <pubDate>Tue, 26 Sep 2023 11:04:38 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 26 Sep 2023 11:04:38 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep2/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep2/</guid>
         <description>Allana&amp;#39;s sisters launches a hairbrained scheme to get her sister to learn social skills in hopes of helping her break free from her adorably shy nature. It has somewhat mixed results, but Tabitha absolutely won&amp;#39;t give up on her cute sister!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -347,11 +347,11 @@ FM, but it does the trick.&lt;/p&gt;</description>
       
       <item>
         <title>Newblets</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/newblets/</link>
         <pubDate>Sun, 09 Oct 2022 21:00:07 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:00:07 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/newblets/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/newblets/</guid>
         <description>&lt;p&gt;
 If you are lucky enough to be in Flaming Mine since you were a baby, you
 can pretty much stay there until level 50. Otherwise you should do a few
@@ -390,11 +390,11 @@ level quests until you reach level 43.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Allana: Foreach Friend as Adventurer</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</link>
         <pubDate>Sun, 01 Oct 2023 20:10:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Oct 2023 20:10:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep3/</guid>
         <description>Allana convinces Momo to help her and Tabitha with a vital quest in FantasyQuest Online…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -434,13 +434,13 @@ level quests until you reach level 43.&lt;/p&gt;</description>
       
       <item>
         <title>Fledgling Adventurers</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/fledgling/</link>
         <pubDate>Sun, 09 Oct 2022 20:59:51 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:51 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/fledgling/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/fledgling/</guid>
         <description>&lt;p&gt;
-If you have followed my &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/&#34;&gt;guides&lt;/a&gt; so
+If you have followed my &lt;a href=&#34;http://localhost:1313/~yayoi/guides/&#34;&gt;guides&lt;/a&gt; so
 far then you&amp;#39;ll be level 81 in no time, especially if you were power
 leveled. Things will start to go really fast or depressingly slow
 depending on the guild you are in, the money you have amassed, or the
@@ -482,11 +482,11 @@ still level, but it&amp;#39;ll be slower.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Allana: Party is Null</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep4/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep4/</link>
         <pubDate>Sun, 22 Oct 2023 11:47:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Oct 2023 11:47:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep4/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep4/</guid>
         <description>Today we will answer the all-important question, is soloing in an MMORPG fun!? Allana tries to play FantasyQuest Online without her sister. It may go different than you&amp;#39;d expect!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -522,13 +522,13 @@ still level, but it&amp;#39;ll be slower.&lt;/p&gt;</description>
       
       <item>
         <title>Bone-fide Adventurers</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/adventurer/</link>
         <pubDate>Sun, 09 Oct 2022 20:59:31 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:59:31 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/adventurer/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/adventurer/</guid>
         <description>&lt;p&gt;
-After following &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/fiesta/lvling/&#34;&gt;my guide&lt;/a&gt; thus far
+After following &lt;a href=&#34;http://localhost:1313/~yayoi/guides/fiesta/lvling/&#34;&gt;my guide&lt;/a&gt; thus far
 you&amp;#39;ll notice that trying to do things solo from this point on is really
 hard if not impossible unless you pray really hard to the Gamigo Gods
 and give them plenty of offerings (by purchasing SC) 😅 So, hopefully,
@@ -562,11 +562,11 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Nagisa: More Than a Voice</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep2/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep2/</link>
         <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:50:00 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep2/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep2/</guid>
         <description>Nagisa is a little nervous about her online debut. Hopefully everything goes well.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -598,11 +598,11 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Allana: Spooky Nite!</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</link>
         <pubDate>Tue, 31 Oct 2023 21:31:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 31 Oct 2023 21:31:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep5/</guid>
         <description>Allana is missing out on all the Halloween fun! Neither Momo or Tabitha will stand for that! Will Allana really appriciate their efforts though?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -642,11 +642,11 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>RE[BASE] Allana: Entertainment&#43;&#43;</title>
-        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
+        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</link>
         <pubDate>Thu, 21 Dec 2023 10:51:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Dec 2023 10:51:53 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
+        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/allana_ep6/</guid>
         <description>Allana begins to understand how boring and lonely her life is becoming and begins to look for something to fill her time…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -686,11 +686,11 @@ so onward to ADVENTURE.&lt;/p&gt;</description>
       
       <item>
         <title>Introduction</title>
-        <link>https://onigirionegai.info/~yayoi/introduction/</link>
+        <link>http://localhost:1313/~yayoi/introduction/</link>
         <pubDate>Sun, 09 Oct 2022 21:44:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 21:44:28 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/introduction/</guid>
+        <guid>http://localhost:1313/~yayoi/introduction/</guid>
         <description>&lt;p&gt;
 Hewwo hewwo nyaoo nyaoo~~&lt;/p&gt;
 &lt;p&gt;
@@ -713,11 +713,11 @@ My name is Yayoi Shizumi (静海やよい in Japanese) and I am a magical fairy 
       
       <item>
         <title>About Commissions</title>
-        <link>https://onigirionegai.info/~yayoi/commissions/</link>
+        <link>http://localhost:1313/~yayoi/commissions/</link>
         <pubDate>Thu, 31 Aug 2023 15:20:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 31 Aug 2023 15:20:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/commissions/</guid>
+        <guid>http://localhost:1313/~yayoi/commissions/</guid>
         <description>&lt;p&gt;
 Hewwo peeps and kittens!&lt;/p&gt;
 &lt;p&gt;
@@ -740,11 +740,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Initial Exam Report</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/initial-exam-report/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/initial-exam-report/</link>
         <pubDate>Sun, 10 Aug 2025 09:39:44 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 10 Aug 2025 09:39:44 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/initial-exam-report/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/initial-exam-report/</guid>
         <description>Hello every kitten! It has been four weeks since I started exams and I think its time for an update. I know I&amp;#39;ve been giving little mini-updates on stream, but thought maybe something a bit more formal would be nice. Also, some changes are coming!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -758,11 +758,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 13 Jul</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-13-jul/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-13-jul/</link>
         <pubDate>Sun, 13 Jul 2025 14:18:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 13 Jul 2025 14:18:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-13-jul/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-13-jul/</guid>
         <description>Made more progress on my comic and had a lot of fun in Genshin and Wuthering Waves. Xenosaga too, but that one led to a bit of a headache and some heartbreak and sadness and not because of the story. We worked through it though! I appreciate the patience of my kittens!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -790,11 +790,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Becoming a PhD Candidate</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/becoming-a-phd-candidate/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/becoming-a-phd-candidate/</link>
         <pubDate>Sun, 13 Jul 2025 14:18:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 13 Jul 2025 14:18:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/becoming-a-phd-candidate/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/becoming-a-phd-candidate/</guid>
         <description>A long while ago I happened upon an anime entitled Candidate for Goddess. To be honest I don&amp;#39;t remember much about the anime only that it was kind of like a mech anime but it had some cute girl or something that got me interested. Now though I&amp;#39;m reminded of my vague memory of this anime as I make a very important transition from doctoral learner to PhD Candidate.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -808,11 +808,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 6 Jul</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-6-jul/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-6-jul/</link>
         <pubDate>Sun, 06 Jul 2025 13:52:59 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 06 Jul 2025 13:52:59 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-6-jul/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-6-jul/</guid>
         <description>A slightly shorter week this week because of a holiday. We still managed to work on our comic page during Maker Monday and managed an exclusive stream on YouTube. Other than that we finished our bank heist and even got back to the future (sort of). So a good week, methinks!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -840,11 +840,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream: Recap 29 Jun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-29-jun/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-29-jun/</link>
         <pubDate>Sun, 29 Jun 2025 14:39:28 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 29 Jun 2025 14:39:28 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-29-jun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-29-jun/</guid>
         <description>Two art stream fun again! We first worked on page 7 of my comic then we played a few games, including Xenosaga and Genshin, then I finished up some wings for sub-badges and worked a bit more on page seven of the comic. Overall it was a fun week delving into timey-whimey and mysterious shtuff. More mysteries soon, but hopefully we will get back to our own time in Xenosaga too! Also, let&amp;#39;s rob a bank, doesn&amp;#39;t that sound fun?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -872,11 +872,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 22 Jun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-22-jun/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-22-jun/</link>
         <pubDate>Sun, 22 Jun 2025 14:20:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Jun 2025 14:20:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-22-jun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-22-jun/</guid>
         <description>Art streams are going very well! I really like getting the opportunity to chat while working on random art projects or my comic. I still play games though, because I like playing games too! This week we located some intel in Persona 5, solved more mysteries in Genshin Impact, and uncovered the past in Xenosaga Episode III. I didn&amp;#39;t realize it was such a mystery-filled week! Much fun though, methinks</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -904,11 +904,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 15 Jun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-15-jun/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-15-jun/</link>
         <pubDate>Sun, 15 Jun 2025 14:16:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 15 Jun 2025 14:16:24 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-15-jun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-15-jun/</guid>
         <description>Transforming back into mostly an art streamer, slowly. We had an outfit reveal this week, but I also did some random art then and I did some more random art the next day. This left only three days for game streams, but I think that&amp;#39;s okay. I like the art streams and, we did get our paws on Cartethyia!!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -936,11 +936,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 8 Jun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-8-jun/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-8-jun/</link>
         <pubDate>Sun, 08 Jun 2025 09:45:14 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 08 Jun 2025 09:45:14 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-8-jun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-8-jun/</guid>
         <description>Took a bit of an extra break this week so we only did three game streams. We also began the great experiment to multistream. This started with the art stream and continued for most streams. We streamed Wuthering Waves, Xenosaga Episode III (actual gameplay), and Genshin Impact. Hope every kitten had fun!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -968,11 +968,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 1 Jun</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-1-jun/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-1-jun/</link>
         <pubDate>Sun, 01 Jun 2025 14:32:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Jun 2025 14:32:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-1-jun/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-1-jun/</guid>
         <description>Wow! Our little experiment with Wuthering Waves was a good success! Also, look at that, we made it to Xenosaga Episode III. In terms of story, Episode I is my favorite, but I like how III plays. We also made it to Fontaine. It was a good week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1000,11 +1000,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 25 May</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-25-may/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-25-may/</link>
         <pubDate>Sun, 25 May 2025 14:30:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 25 May 2025 14:30:30 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-25-may/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-25-may/</guid>
         <description>Lots of good stuff happened this week. We did two panels so now we just have one left for Page 6. We also finished Xenosage Episode II in one of my longest streams since Ghost Cat&amp;#39;s takeover. We got distracted a couple of time too. Lots of good and fun stuff!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1032,11 +1032,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 18 May</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-18-may/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-18-may/</link>
         <pubDate>Sun, 18 May 2025 14:01:11 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 18 May 2025 14:01:11 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-18-may/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-18-may/</guid>
         <description>Back to four game streams this week and (spoiler warning) probably next week too. This week included a fun and exciting collab with Bsparkx in Genshin and a Wuthering Waves stream. We&amp;#39;re also very close to finishing Xenosaga Episode II!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1064,11 +1064,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 11 May</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-11-may/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-11-may/</link>
         <pubDate>Sun, 11 May 2025 14:52:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 11 May 2025 14:52:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-11-may/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-11-may/</guid>
         <description>Another shorter week, but a lot happened. We found the next treasure in Persona 5 Royal (though our route isn&amp;#39;t secure yet). We got through Labyrinthos in Xenosaga Episode II. We even managed not only a few main story quests in Wuthering Waves, but also a couple event quests! Busy busy week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1096,11 +1096,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 4 May</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-4-may/</link>
         <pubDate>Sun, 04 May 2025 07:37:01 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 04 May 2025 07:37:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-4-may/</guid>
         <description>A pretty normal week. Hope every kitten is getting used to the new routine. We had a great art stream working on new panels for page six of my comic. We also found a new target in Persona 5 Royal and made it to Laborythos in Xenosaga Episode II. My favorite though was probably our Genshin stream where I got to trail Nahida.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1128,11 +1128,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 27 Apr</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-27-apr/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-27-apr/</link>
         <pubDate>Sun, 27 Apr 2025 14:34:26 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 27 Apr 2025 14:34:26 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-27-apr/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-27-apr/</guid>
         <description>Pretty normal week. I went down to four streams this week and I think that went pretty well. I technically have two days set aside for collabs, but decided for this week (and next) to just leave those days open. Still had great fun with Wuthering Waves, Persona 5 Royal, and Xenosaga. Also Page 6 let&amp;#39;s go!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1160,11 +1160,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 20 Apr</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-20-apr/</link>
         <pubDate>Sat, 19 Apr 2025 18:12:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 19 Apr 2025 18:12:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-20-apr/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-20-apr/</guid>
         <description>Overall a good week this week! I didn&amp;#39;t get back to my comic just yet, but I did create a new PNGTuber for when I stream things on the Mac and it can&amp;#39;t handle everything (looking at you Wuthering Waves). I also got back to Persona 5 Royal, where we discovered it is possible to change someone&amp;#39;s heart. I ended the week by finally rescuing Nahida!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1192,11 +1192,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 13 Apr</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-13-apr/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-13-apr/</link>
         <pubDate>Sun, 13 Apr 2025 13:58:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 13 Apr 2025 13:58:48 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-13-apr/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-13-apr/</guid>
         <description>No art stream this week, but we did reveal a new outfit! Other than that, it was a good week of game streams. We found out that Aneeta Job doesn&amp;#39;t need that same job, and we got her something new to do. We also had some fun with event quests in Wuthering Waves, and even finished the castle in Persona 5 Royal. See, not a bad week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1224,11 +1224,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 6 Apr</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-6-apr/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-6-apr/</link>
         <pubDate>Sun, 06 Apr 2025 11:39:44 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 06 Apr 2025 11:39:44 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-6-apr/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-6-apr/</guid>
         <description>Lots of fun this week! I did a really fun April Fool&amp;#39;s prank on Tuesday and had a much better Wuthering Waves stream on Wednesday. We made more progress in Xenosaga Episode 2, and even nepped a lot of neps on Friday! Great times!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1256,11 +1256,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 30 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-30-mar/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-30-mar/</link>
         <pubDate>Sat, 29 Mar 2025 21:42:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 29 Mar 2025 21:42:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-30-mar/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-30-mar/</guid>
         <description>A typical art stream and a wonderful collab with Bsparkx playing Wuthering Waves. Well it would have been wonderful if my frames didn&amp;#39;t drop so hard. We made it through and we even managed to start Neptunia: Sisters vs Sisters this week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1288,11 +1288,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 23 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-mar/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-23-mar/</link>
         <pubDate>Sat, 22 Mar 2025 11:58:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 22 Mar 2025 11:58:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-mar/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-23-mar/</guid>
         <description>New week, new collab! Tried to get it so everyone could hear my collab partner (Bsparkx), but was still good. Also started Persona 5. I was reminded how much I like that game and am very excited to share it with the Kittens!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1320,11 +1320,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 16 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-mar/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-16-mar/</link>
         <pubDate>Sat, 15 Mar 2025 11:28:57 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 15 Mar 2025 11:28:57 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-mar/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-16-mar/</guid>
         <description>Well, the scary uncertainty of last week is all over and done with and we even managed a fairly normal stream week even without a schedule. We had an art stream and even went back to Xenosaga and Kirby! Not bad for not knowing if and when I could stream, no?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1352,11 +1352,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 9 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-9-mar/</link>
         <pubDate>Sun, 09 Mar 2025 16:49:47 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Mar 2025 16:49:47 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-9-mar/</guid>
         <description>A very short week this week. Lots of things happened outside of my life as a streamer. It was all kind of overwhelming. I did manage a good art stream and we finished Persona 3 Reload. That was all though. Also, there&amp;#39;s more bad news, but I&amp;#39;ll leave it out of this summary!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1384,11 +1384,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 2 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-2-mar/</link>
         <pubDate>Sat, 01 Mar 2025 11:23:34 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 01 Mar 2025 11:23:34 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-mar/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-2-mar/</guid>
         <description>Took a small break from the comic to do a new outfit for my smol pngtuber! I kinda just wanted something I could do in one stream, and I did 🎉 I also played a new game, Kirby Star Allies, and continued the fun in both Persona 3 Reload and Xenosaga Episode 2. Also, some more Genshin stuff! Was a pretty good week, methinks.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1416,11 +1416,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 23 Feb</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-feb/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-23-feb/</link>
         <pubDate>Sun, 23 Feb 2025 08:25:45 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 23 Feb 2025 08:25:45 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-23-feb/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-23-feb/</guid>
         <description>The experiment…didn&amp;#39;t help. I think maybe I just don&amp;#39;t have enough data points. We did finish quite a few things this week though! Xenosaga Episode 1, Sonic Generations, and the fourth comic page 🎉 Overall, not a bad week. Just need to figure out how to handle Genshin Impact…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1448,11 +1448,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 16 Feb</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-feb/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-16-feb/</link>
         <pubDate>Sat, 15 Feb 2025 10:27:14 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 15 Feb 2025 10:27:14 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-feb/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-16-feb/</guid>
         <description>Collab with @Bsparkx went super well! I always end up spending a lot of resin when I play with her, but it is because we have so much fun poking things! I also completed the giant robot in Xenosaga! We&amp;#39;re almost ready for the end. Still trudging along on page 4 of the comic too! Almost done there as well.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1480,11 +1480,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 9 Feb</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-feb/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-9-feb/</link>
         <pubDate>Fri, 07 Feb 2025 16:10:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Fri, 07 Feb 2025 16:10:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-feb/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-9-feb/</guid>
         <description>This was supposed to be a typical four game streams and one art stream week, but guess what? Things took an exciting turn! We got an extra Genshin stream! I was so excited because I needed it to finish Lantern Rite quests, and I’m happy to say I did it!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1512,11 +1512,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 2 Feb</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-feb/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-2-feb/</link>
         <pubDate>Sat, 01 Feb 2025 10:02:34 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 01 Feb 2025 10:02:34 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-2-feb/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-2-feb/</guid>
         <description>A complicated week! Rather than two art streams, I did two Genshin streams, but I ended up canceling my Throwback Thursday 😅 Still managed to get out of Sumeru City and on to this years Lantern Rite!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1544,11 +1544,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 26 Jan</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-26-jan/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-26-jan/</link>
         <pubDate>Sat, 25 Jan 2025 12:55:13 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 25 Jan 2025 12:55:13 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-26-jan/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-26-jan/</guid>
         <description>I did a practice thing! You won&amp;#39;t find this practice thing here, or anywhere, you had to be there live! I did it though. You know something you can see though? I started a new comic page! Also I got myself stuck in Genshin 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1576,11 +1576,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 19 Jan</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-19-jan/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-19-jan/</link>
         <pubDate>Sat, 18 Jan 2025 09:57:26 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 18 Jan 2025 09:57:26 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-19-jan/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-19-jan/</guid>
         <description>Completed another art project! I have something for the schedule graphic next week and a new addition to my gallery! Also, we played some fun games including more Genshin 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1608,11 +1608,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 12 Jan</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-12-jan/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-12-jan/</link>
         <pubDate>Sun, 12 Jan 2025 09:58:38 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Jan 2025 09:58:38 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-12-jan/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-12-jan/</guid>
         <description>A much more typical week after taking so much time off for holidays! We finished another page, started another illustration, went back to Hollownest, and more! I enjoyed getting to spend more time with the kittens! Hope you enjoyed it too~ 💜</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1640,11 +1640,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 5 Jan</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-5-jan/</link>
+        <link>http://localhost:1313/~yayoi/news/2025/stream-recap-5-jan/</link>
         <pubDate>Sun, 05 Jan 2025 10:59:20 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 05 Jan 2025 10:59:20 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-5-jan/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2025/stream-recap-5-jan/</guid>
         <description>I revealed a new outfit! That&amp;#39;s pretty much the most exciting thing about this week. I mean sure, it was the first week of 2025, but that&amp;#39;s not all that exciting, no? I mean we did play Xenosaga and we did beat Exdeath and finish Final Fantasy V, but that wasn&amp;#39;t that exciting either, right? A new outfit though…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1672,11 +1672,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 29 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-29-dec/</link>
         <pubDate>Sun, 29 Dec 2024 11:56:32 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 29 Dec 2024 11:56:32 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-29-dec/</guid>
         <description>We did some art and we did a bit of gaming. The week was sort because of the holidays. Also a lot of personal thing happened and, well, Portal 2 somehow turned into Genshin here! Still managed to have fun though!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1704,11 +1704,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>2024 Annual Recap</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/recap/</link>
         <pubDate>Sun, 29 Dec 2024 11:51:20 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 29 Dec 2024 11:51:20 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/recap/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/recap/</guid>
         <description>As the year comes to a close, Yayoi Shizumi, your fairy cat princess, looks takes a chance to look back and see where she has grown, opportunities she&amp;#39;s had, misteps, and more! What will she learn to help her in 2025!?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1756,11 +1756,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Winter 2025 Outfit Reveal</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/winter-2025-outfit-reveal/</link>
         <pubDate>Sun, 22 Dec 2024 12:06:28 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Dec 2024 12:06:28 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/winter-2025-outfit-reveal/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/winter-2025-outfit-reveal/</guid>
         <description>The Holiday session is upon us and, even though most of them will be over there is one last thing every kitten has to look forward to! You may recall, from &lt;a href=&#34;{{%ref &amp;#34;news/2024/end-of-year-announcements.org&amp;#34; %}}&#34;&gt;my last announcements&lt;/a&gt; that I promised you a special stream! Well ta-da~ More information!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1788,11 +1788,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 22 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-dec/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-22-dec/</link>
         <pubDate>Sun, 22 Dec 2024 12:05:30 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Dec 2024 12:05:30 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-dec/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-22-dec/</guid>
         <description>With the special project done, I returned to my comic! We laid out the third page and started the first panel. I only did the one art stream though so that meant we did both Final Fantasy and Persona this week! I also ended the week with co-op in Portal 2 for the first time!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1820,11 +1820,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 15 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-dec/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-15-dec/</link>
         <pubDate>Sun, 15 Dec 2024 15:11:27 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 15 Dec 2024 15:11:27 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-dec/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-15-dec/</guid>
         <description>Two art streams! I really like being an art streamer! Finished the project though. In other news, games happened. We played Xenosaga, Persona, and Final Fantasy. Classic games for me! Almost done with pretty much all three!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1852,11 +1852,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 8 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-dec/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-8-dec/</link>
         <pubDate>Sun, 08 Dec 2024 12:26:16 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 08 Dec 2024 12:26:16 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-dec/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-8-dec/</guid>
         <description>This week I started a special project that serves as a Christmas present for Ya-Ma and Ya-Pa! I also made more progress in Persona 3 Reload and Xenosaga, but I ended the week with another fun collab with Bsparkx!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1884,11 +1884,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 1 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-dec/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-1-dec/</link>
         <pubDate>Sun, 01 Dec 2024 15:49:12 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Dec 2024 15:49:12 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-dec/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-1-dec/</guid>
         <description>Two art streams are going the norm for awhile, methinks. Also, due to Thanksgiving in the US, I only had two game streams. Two and two!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1916,11 +1916,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 24 Nov</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-24-nov/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-24-nov/</link>
         <pubDate>Sun, 24 Nov 2024 14:29:53 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 24 Nov 2024 14:29:53 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-24-nov/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-24-nov/</guid>
         <description>I had my first collabrative stream ever! It was a lot of fun! I hope for more of these in the future, especially with the awesome Bsparkx! In other news, there was also two art streams, and there probably will be for near future!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1948,11 +1948,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 17 Nov</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-17-nov/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-17-nov/</link>
         <pubDate>Sun, 17 Nov 2024 18:07:21 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 17 Nov 2024 18:07:21 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-17-nov/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-17-nov/</guid>
         <description>A pretty normal week. I am reaching the end of both Persona 3 Reload and Final Fantasy V! Continued working on my comic too! I think it was a pretty fun week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -1980,11 +1980,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 10 Nov</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-10-nov/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-10-nov/</link>
         <pubDate>Sun, 10 Nov 2024 12:27:35 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 10 Nov 2024 12:27:35 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-10-nov/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-10-nov/</guid>
         <description>Well I tried to be responsible by starting my comic project and scheduling an extra homework day. I did try that. I just can&amp;#39;t stay away from my kittens…</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2012,11 +2012,11 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>Stream Recap: 3 Nov</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-3-nov/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-3-nov/</link>
         <pubDate>Sun, 03 Nov 2024 15:41:06 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 03 Nov 2024 15:41:06 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-3-nov/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-3-nov/</guid>
         <description>After banishing Ghost Cat for the year, I have returned to a more normal lineup of wonderful games. Well, so far I really just did some announcements and played Final Fantasy V, but it was a nice change of pace. I hope everyone enjoyed Spooky Month!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2044,13 +2044,13 @@ I want to do more than just stream games, and for that I need to show off my art
       
       <item>
         <title>End of Year Announcements</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/end-of-year-announcements/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/end-of-year-announcements/</link>
         <pubDate>Sun, 03 Nov 2024 15:40:42 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 03 Nov 2024 15:40:42 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/end-of-year-announcements/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/end-of-year-announcements/</guid>
         <description>&lt;p&gt;
-Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announcing-announcement/&#34;&gt;announced some announcements&lt;/a&gt;, well it is finally time to actually make those announcements. Technically, I already made them they were in a stream that is available on the YouTube channel, but I thought I should also right them out here and in the Discord. Though I already wrote them out in the Discord. It&amp;#39;s much easier to post things quickly there, which I may have also mentioned last week. Anyway what I announced was:&lt;/p&gt;</description>
+Last week I &lt;a href=&#34;http://localhost:1313/~yayoi/news/2024/announcing-announcement/&#34;&gt;announced some announcements&lt;/a&gt;, well it is finally time to actually make those announcements. Technically, I already made them they were in a stream that is available on the YouTube channel, but I thought I should also right them out here and in the Discord. Though I already wrote them out in the Discord. It&amp;#39;s much easier to post things quickly there, which I may have also mentioned last week. Anyway what I announced was:&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -2077,11 +2077,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 27 Oct</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-27-oct/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-27-oct/</link>
         <pubDate>Sun, 27 Oct 2024 14:42:21 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 27 Oct 2024 14:42:21 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-27-oct/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-27-oct/</guid>
         <description>Sick week of sickness was not fun, not fun at all. Two of my streams were canceled this week due to illness. Still, I did manage to finish the rat game, and two canceled means three went up, so that&amp;#39;s good, right?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2109,11 +2109,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Announcing an Announcement</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/announcing-announcement/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/announcing-announcement/</link>
         <pubDate>Sun, 27 Oct 2024 14:41:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 27 Oct 2024 14:41:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/announcing-announcement/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/announcing-announcement/</guid>
         <description>There is nothing in the world quite as much fun as an announcement, except, maybe, and announcement to announce an announcement! Basically, I don&amp;#39;t want to give away too much detail, because this will be a part of a celebration event so I&amp;#39;m just going to say something is coming soon! Suspense!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2127,11 +2127,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 20 Oct</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-20-oct/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-20-oct/</link>
         <pubDate>Sun, 20 Oct 2024 18:19:41 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 20 Oct 2024 18:19:41 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-20-oct/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-20-oct/</guid>
         <description>Worked on a couple of new emotes and had a lot of fun with spooky games, except Corpose Party. Let&amp;#39;s just say, I&amp;#39;m glad I decided not to play it during the night 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2159,11 +2159,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 13 Oct</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-13-oct/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-13-oct/</link>
         <pubDate>Sun, 13 Oct 2024 17:08:38 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 13 Oct 2024 17:08:38 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-13-oct/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-13-oct/</guid>
         <description>Not only did I create a few fairy wings and a head pat emote this week, but this was also the official debut of ghost cat! What are her intentions with my stream? Who even is she? I guess we&amp;#39;ll have to wait and find out!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2191,11 +2191,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 6 Oct</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-6-oct/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-6-oct/</link>
         <pubDate>Sun, 06 Oct 2024 15:13:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 06 Oct 2024 15:13:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-6-oct/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-6-oct/</guid>
         <description>After two art stream to design the ghost cat, I needed one more to get her ready for rigging! She&amp;#39;s all done, but I can&amp;#39;t use her just yet. So I debuted my smol Evee avatar this week instead!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2223,11 +2223,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 29 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-sep/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-29-sep/</link>
         <pubDate>Sun, 29 Sep 2024 13:51:32 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 29 Sep 2024 13:51:32 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-sep/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-29-sep/</guid>
         <description>I needed two art streams to do one project this week! Well, maybe only one and half, but I made it two. I also streamed a bit more on YouTube this week, and I messed around with on screen chat there. Next week will be more on Twitch, cuz I&amp;#39;m affiliate!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2255,11 +2255,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 22 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-sep/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-22-sep/</link>
         <pubDate>Sun, 22 Sep 2024 13:18:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Sep 2024 13:18:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-22-sep/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-22-sep/</guid>
         <description>A mostly normal week, with normal games, and normal things…except we tried streaming to YouTube and it went well! Also two art streams cuz, I&amp;#39;m an artist!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2287,11 +2287,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Expanding Stream Operations</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/expanding-stream-operations/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/expanding-stream-operations/</link>
         <pubDate>Sun, 22 Sep 2024 13:18:03 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 22 Sep 2024 13:18:03 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/expanding-stream-operations/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/expanding-stream-operations/</guid>
         <description>This is just a short notice! Last week, I did a test stream on YouTube. While the game itself didn&amp;#39;t cooperate, the stream worked very well. In fact I enjoyed it! I think my flow just works better with YouTube. I don&amp;#39;t plan on leaving Twitch anytime soon, but I&amp;#39;ll be doing exclusive streams on both YouTube and Twitch.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2323,11 +2323,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 15 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-sep/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-15-sep/</link>
         <pubDate>Sun, 15 Sep 2024 16:02:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 15 Sep 2024 16:02:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-sep/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-15-sep/</guid>
         <description>Mostly a normal week this week. Did a fun Maker Monday stream with elemental-themed icons and played a lot of fun games. You will not see Final Fantasy here…I had to cancel that stream.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2355,11 +2355,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 8 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-sep/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-8-sep/</link>
         <pubDate>Sun, 08 Sep 2024 11:55:04 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 08 Sep 2024 11:55:04 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-sep/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-8-sep/</guid>
         <description>Tried another day with two streams. Worked out a bit better! Well, probably because I had a holiday, but still. Really fun week that even included finishing Pokemon Sword!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2387,11 +2387,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 1 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-sep/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-1-sep/</link>
         <pubDate>Sun, 01 Sep 2024 16:29:21 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 01 Sep 2024 16:29:21 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-sep/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-1-sep/</guid>
         <description>Shorter week because of a carpet install. Everything is looking great though and I&amp;#39;m loving my new room. I managed an art stream before the install and a few game streams after! Still a pretty nice week.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2419,11 +2419,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 25 Aug</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-25-aug/</link>
         <pubDate>Sun, 25 Aug 2024 13:16:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 25 Aug 2024 13:16:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-25-aug/</guid>
         <description>Another two art streams in one week, but only one stream per day. The week was definitely not as hectic as the last week. We went back to Hollow Knight and Xenosaga, but started the next the Final Fantasy game!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2451,11 +2451,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 18 Aug</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-18-aug/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-18-aug/</link>
         <pubDate>Sun, 18 Aug 2024 13:43:12 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 18 Aug 2024 13:43:12 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-18-aug/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-18-aug/</guid>
         <description>Did a new thing by splitting Saturday with a game stream in the afternoon and an art stream at night. Was a little hectic and probably not worth it so I don&amp;#39;t think I&amp;#39;ll do something like that again unless I have a special event. Also I beat Final Fantasy IV!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2483,11 +2483,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: 11 Aug</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-11-aug/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-11-aug/</link>
         <pubDate>Fri, 09 Aug 2024 20:07:36 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Fri, 09 Aug 2024 20:07:36 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-11-aug/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-11-aug/</guid>
         <description>A week of new things! Started the week making a new frame for art streams and a new pngtuber for them too. Off stream I created a new game stream frame which debuted during a Persona stream and I even played a new game (well new for the channel)!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2515,11 +2515,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Stream Recap: Week 9</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-9/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-9/</link>
         <pubDate>Sat, 03 Aug 2024 12:36:46 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 03 Aug 2024 12:36:46 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-9/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-9/</guid>
         <description>Back to a regular stream schedule and not just streamining Final Fantasy games. I mean the first two streams were still kinda Final Fantasy-themed including a really fun art stream drawing some of my friends and kittens in Final Fantasy III/V jobs. It was a lot of fun! I also got passed the demon wall in IV and am actually nearing the end game now! I think I&amp;#39;ll try to beat it this week!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2547,11 +2547,11 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
       
       <item>
         <title>Schedule Changes</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/schedule-changes/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/schedule-changes/</link>
         <pubDate>Sat, 03 Aug 2024 12:17:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 03 Aug 2024 12:17:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/schedule-changes/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/schedule-changes/</guid>
         <description>&lt;p&gt;
 You may notice that this is coming out late and, if you&amp;#39;re really observant it was created &lt;em&gt;before&lt;/em&gt; the stream recap for this week. I had originally been trying to get the recaps out on Thursday, but this meant some weirdness in what was covered in the recaps and what was scheduled because a Thursday release meant I would work on them on Wednesday, in the middle of the week, and my schedule was (and still is) written for Monday through Sunday. I moved the release to Friday, but that still doesn&amp;#39;t really work, so I&amp;#39;m making another change.&lt;/p&gt;</description>
         
@@ -2580,11 +2580,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Final Fantasy Challenge: Final Week</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-final-week/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-final-week/</link>
         <pubDate>Thu, 25 Jul 2024 18:27:03 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 25 Jul 2024 18:27:03 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-final-week/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-final-week/</guid>
         <description>This is the final full week of my Final Fantasy 3 Week Challenge, but it is not the last we&amp;#39;ll see of Final Fantasy! Catch the playlist and see how we did!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2620,11 +2620,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Final Fantasy Challenge: Week 2</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-2/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</link>
         <pubDate>Thu, 18 Jul 2024 18:17:11 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 18 Jul 2024 18:17:11 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-2/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-2/</guid>
         <description>The second week of a three week Final Fantasy Special! Haven&amp;#39;t made it passed Final Fantasy III. Had to do a lot of short streams and it is really kicking my behind. Maybe I&amp;#39;ll finally beat the cloud of darkness tomorrow!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2660,11 +2660,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Final Fantasy Challenge: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</link>
         <pubDate>Thu, 11 Jul 2024 20:03:11 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 11 Jul 2024 20:03:11 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/final-fantasy-challenge-week-1/</guid>
         <description>This week begins the first of three special weeks! A fellow streamer had decided to do a final fantasy month and I decided to join in…sort of. I already did the schedule for the first week of July, so I&amp;#39;m only doing the last three weeks, but its still a special three weeks of Final Fantasy!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2700,11 +2700,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Stream Recap: Week 8</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-8/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-8/</link>
         <pubDate>Thu, 04 Jul 2024 10:43:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 04 Jul 2024 10:43:33 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-8/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-8/</guid>
         <description>I&amp;#39;ve been streaming for two months and haven&amp;#39;t technically had a full debut o:! I do plan on fixing that…just don&amp;#39;t know when. I just worked on finishing my BRB card this week and played some Hollow Knight…I mean LOTS of Hollow Knight 😆</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2732,11 +2732,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Stream Recap: Week 7</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-7/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</link>
         <pubDate>Thu, 27 Jun 2024 11:58:16 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 27 Jun 2024 11:58:16 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-7/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-7/</guid>
         <description>It was finally time for a new card for OBS. After turning off my model too many times so I can take a break, I decided, I needed a BRB card 😝 I also went back to Hello Kitty Island Adventure and Persona!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2764,11 +2764,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Stream Recap: Week 6</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-6/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</link>
         <pubDate>Thu, 20 Jun 2024 20:54:51 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 20 Jun 2024 20:54:51 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-6/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-6/</guid>
         <description>A fun mixed-bag of streams. Started the week with an art stream where I worked on a banner that would eventually also be turned into a new profile picture. Played only four games this week instead of five! Yay for embeds! Went back to FANTASIAN and other faves!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2796,11 +2796,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Stream Recap: Week 5</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-5/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</link>
         <pubDate>Thu, 13 Jun 2024 16:08:55 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 13 Jun 2024 16:08:55 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-5/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-5/</guid>
         <description>I streamed all seven days this week…I don&amp;#39;t think I&amp;#39;m going to do that again 😅</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2828,11 +2828,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>Stream Recap: Week 4</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-4/</link>
         <pubDate>Thu, 06 Jun 2024 14:47:10 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 06 Jun 2024 14:47:10 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-4/</guid>
         <description>Busy week is just about over! My first week streaming almost every day is almost over! I&amp;#39;m not sure I&amp;#39;m going to do another week like this, it was a lot, but I now I can do it!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2860,11 +2860,11 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
       
       <item>
         <title>New Template</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/new-template/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/new-template/</link>
         <pubDate>Fri, 31 May 2024 19:11:04 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Fri, 31 May 2024 19:11:04 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/new-template/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/new-template/</guid>
         <description>&lt;p&gt;
 As I work on various art assets, like stream overlays, frames, cards, and my vTubing model, I have settled on a kind of brand for myself that revolves around a few colors. While I &lt;em&gt;love&lt;/em&gt; this site, its design, and the various color schemes available for it, I wonder if it will serve this kind of &amp;#34;brand&amp;#34; that I am building for myself on &lt;a href=&#34;https://www.twitch.tv/yayoi_chi&#34;&gt;Twitch&lt;/a&gt;. I&amp;#39;m thinking it would be best to make this site an extension of the brand.&lt;/p&gt;</description>
         
@@ -2889,11 +2889,11 @@ As I work on various art assets, like stream overlays, frames, cards, and my vTu
       
       <item>
         <title>Stream Recap: Week 3</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-3/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-3/</link>
         <pubDate>Thu, 30 May 2024 15:45:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 May 2024 15:45:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-3/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-3/</guid>
         <description>I&amp;#39;ve begun to ramp up my stream schedule just a bit so there are some were a few more streams this week than there had been in the last two weeks. As I mentioned, though, last week had two art streams, but I&amp;#39;ll be putting the second one as the first for this week. Hope that&amp;#39;s not too confusing. We also had a few game streams including my first throwback thursday!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2921,11 +2921,11 @@ As I work on various art assets, like stream overlays, frames, cards, and my vTu
       
       <item>
         <title>Stream Recap: Week 2</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-2/</link>
         <pubDate>Thu, 23 May 2024 15:33:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 23 May 2024 15:33:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-2/</guid>
         <description>Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week&amp;#39;s recap, were a total of three game streams including a suprise stream testing Persona 3 Reload!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -2953,13 +2953,13 @@ As I work on various art assets, like stream overlays, frames, cards, and my vTu
       
       <item>
         <title>Working on P3!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/working-on-p3/</link>
         <pubDate>Fri, 17 May 2024 19:14:27 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Fri, 17 May 2024 19:14:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/working-on-p3/</guid>
         <description>&lt;p&gt;
-In my &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/&#34;&gt;Stream Recap&lt;/a&gt; for this week you won&amp;#39;t find a Persona 3 stream, but I &lt;em&gt;did&lt;/em&gt; have one. It was a surprise stream and you can catch it on my Twitch page. I&amp;#39;ll also be in next week&amp;#39;s recap, probably. Anyway, I also worked a bit on the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/&#34;&gt;Persona 3 Reload Walkthrough&lt;/a&gt; this week.&lt;/p&gt;
+In my &lt;a href=&#34;http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/&#34;&gt;Stream Recap&lt;/a&gt; for this week you won&amp;#39;t find a Persona 3 stream, but I &lt;em&gt;did&lt;/em&gt; have one. It was a surprise stream and you can catch it on my Twitch page. I&amp;#39;ll also be in next week&amp;#39;s recap, probably. Anyway, I also worked a bit on the &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p3reload/walkthrough/&#34;&gt;Persona 3 Reload Walkthrough&lt;/a&gt; this week.&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 The Stream Recap!
@@ -2988,17 +2988,17 @@ The Stream Recap!
       
       <item>
         <title>Stream Recap: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/</link>
         <pubDate>Wed, 15 May 2024 14:49:00 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 15 May 2024 14:49:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/stream-recap-week-1/</guid>
         <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Art Stream
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;If you want to see my first art stream, you can catch it in &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/&#34;&gt;last week&amp;#39;s&lt;/a&gt; news article! This week though, I started simple again by designing a template to use for schedule images and then put it to the test by creating this week&amp;#39;s schedule! I think I&amp;#39;m getting used to making art on stream. Not very many people watch the stream so maybe that has something to do with it, but I&amp;#39;m not sure. I guess the only way to know is to see how I am with more viewers 😅 I still had fun though. You&amp;#39;ll be able to catch it on YouTube.&lt;/p&gt;</description>
+&lt;p&gt;If you want to see my first art stream, you can catch it in &lt;a href=&#34;http://localhost:1313/~yayoi/news/2024/am-a-streamer-now/&#34;&gt;last week&amp;#39;s&lt;/a&gt; news article! This week though, I started simple again by designing a template to use for schedule images and then put it to the test by creating this week&amp;#39;s schedule! I think I&amp;#39;m getting used to making art on stream. Not very many people watch the stream so maybe that has something to do with it, but I&amp;#39;m not sure. I guess the only way to know is to see how I am with more viewers 😅 I still had fun though. You&amp;#39;ll be able to catch it on YouTube.&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -3025,11 +3025,11 @@ Art Stream
       
       <item>
         <title>Am a Streamer Now</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/am-a-streamer-now/</link>
         <pubDate>Thu, 09 May 2024 18:44:33 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 09 May 2024 18:44:33 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/am-a-streamer-now/</guid>
         <description>If you&amp;#39;ve been around my site for awhile than you probably know that I am an artist and a writer. Well, I haven&amp;#39;t really been doing much writing of late, other than school papers, but I&amp;#39;m still a writer, okay? Well, anyway, I have a new hat! A streamer hat!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -3061,13 +3061,13 @@ Art Stream
       
       <item>
         <title>Still Haven&#39;t Broken It</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/still-havent-broken-it/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/still-havent-broken-it/</link>
         <pubDate>Thu, 02 May 2024 18:35:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 02 May 2024 18:35:30 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/still-havent-broken-it/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/still-havent-broken-it/</guid>
         <description>&lt;p&gt;
-I know &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/case-of-the-mehs/&#34;&gt;last week&amp;#39;s&lt;/a&gt; new article sounded a little bleak and I even told you not to expect weekly updates any more, but, well here I am! I wanted to give myself a bit of an &amp;#34;out&amp;#34; because of how I was feeling. I&amp;#39;m still not feeling great, but I&amp;#39;m here and I &lt;em&gt;am&lt;/em&gt; working on updates. Unfortunately, the one you will see will look like a removal of something and not updating or adding anything. Don&amp;#39;t worry, it will be back later and in greater numbers 😆&lt;/p&gt;</description>
+I know &lt;a href=&#34;http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/&#34;&gt;last week&amp;#39;s&lt;/a&gt; new article sounded a little bleak and I even told you not to expect weekly updates any more, but, well here I am! I wanted to give myself a bit of an &amp;#34;out&amp;#34; because of how I was feeling. I&amp;#39;m still not feeling great, but I&amp;#39;m here and I &lt;em&gt;am&lt;/em&gt; working on updates. Unfortunately, the one you will see will look like a removal of something and not updating or adding anything. Don&amp;#39;t worry, it will be back later and in greater numbers 😆&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -3098,11 +3098,11 @@ I know &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/case-of-the-m
       
       <item>
         <title>A Case of the &#34;Mehs&#34;</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/case-of-the-mehs/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/</link>
         <pubDate>Thu, 25 Apr 2024 16:03:18 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 25 Apr 2024 16:03:18 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/case-of-the-mehs/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/case-of-the-mehs/</guid>
         <description>&lt;p&gt;
 Do you ever just have times in your life, or maybe just a day or a few hours, where you just don&amp;#39;t want to do &lt;em&gt;anything&lt;/em&gt;? Like no matter what it is you are doing, even if its something that usually brings you a lot of joy or something you&amp;#39;re normally really passionate about, you just can&amp;#39;t seem to enjoy doing it. I&amp;#39;d honestly like to know if I&amp;#39;m the only one 😅 Well this has happened a few days this week and rather than coming up with something to update the site with, I decided I&amp;#39;d talk about this a little and the struggle with this one is so real for me.&lt;/p&gt;</description>
         
@@ -3117,11 +3117,11 @@ Do you ever just have times in your life, or maybe just a day or a few hours, wh
       
       <item>
         <title>Moar Persona News</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/moar-persona-news/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</link>
         <pubDate>Thu, 18 Apr 2024 18:03:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 18 Apr 2024 18:03:05 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/moar-persona-news/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/moar-persona-news/</guid>
         <description>&lt;p&gt;
 After finishing the easiest S-Link guide ever, I have to admit I have not really gone back 😅 I have mostly been playing through Persona3 Reload and P3P. Of course I still have work to do. Fortunately, it seems that the amount of work as decreased a bit since I am more used to the new processes. I also am still working on some stories and ADVENTURES, but most of that work isn&amp;#39;t seen until I&amp;#39;m ready to release it 😅&lt;/p&gt;</description>
         
@@ -3136,11 +3136,11 @@ After finishing the easiest S-Link guide ever, I have to admit I have not really
       
       <item>
         <title>New Quarter More Work</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/new-quarter-more-work/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/new-quarter-more-work/</link>
         <pubDate>Thu, 11 Apr 2024 12:37:30 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 11 Apr 2024 12:37:30 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/new-quarter-more-work/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/new-quarter-more-work/</guid>
         <description>&lt;p&gt;
 I think they underworked me last quarter and now this quarter they decided to overwork me 😆 I&amp;#39;m kidding though, but only a little. I &lt;em&gt;do&lt;/em&gt; have a lot more work to do this quarter each work than I did last quarter, but its not a terrible amount. I am hoping it gives me a little bit more hours and more money though. I&amp;#39;ll find this out on my next pay check.&lt;/p&gt;</description>
         
@@ -3155,11 +3155,11 @@ I think they underworked me last quarter and now this quarter they decided to ov
       
       <item>
         <title>Spring Break Over</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/spring-break-over/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/spring-break-over/</link>
         <pubDate>Thu, 04 Apr 2024 12:22:45 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 04 Apr 2024 12:22:45 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/spring-break-over/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/spring-break-over/</guid>
         <description>&lt;p&gt;
 Forgive me for not having much to update this week. We did have a little fun with April Fool&amp;#39;s Day this year and that&amp;#39;s good enough for me, but I need to put out a bit of an update to see if I can clear that and I &lt;em&gt;do&lt;/em&gt; have a few things to talk about so I figured I&amp;#39;d put out a small news article this week and focus on getting my work and shtuff ready for the next quarter.&lt;/p&gt;</description>
         
@@ -3174,19 +3174,19 @@ Forgive me for not having much to update this week. We did have a little fun wit
       
       <item>
         <title>Social Links (er...I mean Social Networking)</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/social-links/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/social-links/</link>
         <pubDate>Thu, 28 Mar 2024 11:44:17 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Mar 2024 11:44:17 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/social-links/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/social-links/</guid>
         <description>&lt;p&gt;
-Working on my Persona guides, especially the Persona 4 Golden &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/slink/&#34;&gt;Social Link guides&lt;/a&gt; and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.&lt;/p&gt;
+Working on my Persona guides, especially the Persona 4 Golden &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/slink/&#34;&gt;Social Link guides&lt;/a&gt; and working on my own professional development at the same time has got me thinking a little bit about the subject of building Social Networks. I&amp;#39;m not talking about Facebook, or Twitter, or even Mastodon, I&amp;#39;m talking about the relationships we build with each other over time much like the protagonists in a Persona game.&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Progress!
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into &lt;a href=&#34;https://onigirionegai.info/~yayoi/adventures/keyrie/&#34;&gt;Keyrie&amp;#39;s Journal&lt;/a&gt;. I wasn&amp;#39;t really aware of how much we actually manage to do per session even if it seems like the sessions just fly by 😅 So this is a bit more of an undertaking than I originally thought it would be. I think it&amp;#39;ll be worth it in the end even if I still only have the first chapter available right now.&lt;/p&gt;</description>
+&lt;p&gt;Before I go into that topic though I just wanted to let everyone know that I am making progress on transcribing my DnD adventures into &lt;a href=&#34;http://localhost:1313/~yayoi/adventures/keyrie/&#34;&gt;Keyrie&amp;#39;s Journal&lt;/a&gt;. I wasn&amp;#39;t really aware of how much we actually manage to do per session even if it seems like the sessions just fly by 😅 So this is a bit more of an undertaking than I originally thought it would be. I think it&amp;#39;ll be worth it in the end even if I still only have the first chapter available right now.&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -3221,11 +3221,11 @@ Progress!
       
       <item>
         <title>Where Do Breaks Go</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</link>
         <pubDate>Thu, 21 Mar 2024 11:35:24 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 21 Mar 2024 11:35:24 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/where-do-breaks-go/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/where-do-breaks-go/</guid>
         <description>&lt;p&gt;
 Okay maybe that&amp;#39;s not really that fair of a question, especially considering spring break literally just started, but, hey, it&amp;#39;s already Thursday! I mean come on I only get three weeks so what&amp;#39;s up with that!? I always come up with all sorts of things that I want to do accomplish during my breaks. Things that I don&amp;#39;t think I would have time to work on while I&amp;#39;m in class. However, its already Thursday of the first week and I haven&amp;#39;t really made much of a dent. That said, there are still quite a few things I &lt;em&gt;have&lt;/em&gt; worked on this week!&lt;/p&gt;</description>
         
@@ -3262,17 +3262,17 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
       
       <item>
         <title>Persona 4 Golden</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
+        <link>http://localhost:1313/~yayoi/reviews/p4g/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:56:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/p4g/</guid>
         <description>&lt;a id=&#34;forums&#34; href=&#34;https://github.com/yayoi-chi/yaya-world/discussions/28&#34; target=&#34;_new&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
 &lt;/a&gt;
 &lt;div style=&#34;display:block;width:40px;height:40px;margin:auto&#34;&gt;
 &amp;nbsp;
@@ -3308,13 +3308,13 @@ Okay maybe that&amp;#39;s not really that fair of a question, especially conside
       
       <item>
         <title>Bring on P3 Reload!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/bring-on-p3-reload/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/bring-on-p3-reload/</link>
         <pubDate>Thu, 14 Mar 2024 14:22:03 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:22:03 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/bring-on-p3-reload/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/bring-on-p3-reload/</guid>
         <description>&lt;p&gt;
-Well, I had finished the main story of Persona 4 Golden. I have even managed to get the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/&#34;&gt;walkthrough&lt;/a&gt; down a bit and I think it fits okay in on part now, so I went and removed the second part. I also have started some work on the other guide sections. Mostly just got Marie up. So yeah I feel accomplished! After finishing P4G, I started P3P, but, before I even started writing this, I managed to get my hands on P3 Reload! So I went ahead and started that too!&lt;/p&gt;</description>
+Well, I had finished the main story of Persona 4 Golden. I have even managed to get the &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/walkthrough/&#34;&gt;walkthrough&lt;/a&gt; down a bit and I think it fits okay in on part now, so I went and removed the second part. I also have started some work on the other guide sections. Mostly just got Marie up. So yeah I feel accomplished! After finishing P4G, I started P3P, but, before I even started writing this, I managed to get my hands on P3 Reload! So I went ahead and started that too!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -3327,11 +3327,11 @@ Well, I had finished the main story of Persona 4 Golden. I have even managed to 
       
       <item>
         <title>Teddie (Star)</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/slink/teddie/</link>
+        <link>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</link>
         <pubDate>Tue, 12 Mar 2024 18:33:48 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 12 Mar 2024 18:33:48 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/slink/teddie/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/slink/teddie/</guid>
         <description>&lt;p&gt;
 I won&amp;#39;t give too much information about Teddie. Teddie is Teddie and Teddie is a party member and persona-user, somehow. You&amp;#39;ll automatically start and rank this social link during the story.&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Jrpg on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/jrpg/</link>
+    <link>http://localhost:1313/~yayoi/tags/jrpg/</link>
     <description>Recent content in Jrpg on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 09:30:34 -0700</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/jrpg/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/jrpg/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Persona 3 Reload</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3reload/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3reload/</link>
         <pubDate>Tue, 19 Mar 2024 09:30:34 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 19 Mar 2024 09:30:34 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3reload/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3reload/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Reload. Some information in these guides is not likely to apply to either P3P or the original PS2 version of P3</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -66,17 +66,17 @@
     
       <item>
         <title>Persona 4 Golden</title>
-        <link>https://onigirionegai.info/~yayoi/reviews/p4g/</link>
+        <link>http://localhost:1313/~yayoi/reviews/p4g/</link>
         <pubDate>Thu, 14 Mar 2024 14:56:40 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 14 Mar 2024 14:56:40 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/reviews/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/reviews/p4g/</guid>
         <description>&lt;a id=&#34;forums&#34; href=&#34;https://github.com/yayoi-chi/yaya-world/discussions/28&#34; target=&#34;_new&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
-&lt;img src=&#34;https://onigirionegai.info/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-full.png&#34; align=&#34;left&#34; alt=&#34;full star&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/~yayoi/images/rating-empty.png&#34; align=&#34;left&#34; alt=&#34;half star&#34;&gt;
 &lt;/a&gt;
 &lt;div style=&#34;display:block;width:40px;height:40px;margin:auto&#34;&gt;
 &amp;nbsp;
@@ -112,11 +112,11 @@
     
       <item>
         <title>The First Layer</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/maps/1/</link>
         <pubDate>Sun, 12 Mar 2023 19:19:05 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 19:19:05 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/maps/1/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/maps/1/</guid>
         <description>Maps of the first layer of The Abyss</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -156,11 +156,11 @@
     
       <item>
         <title>Maps of The Abyss</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/maps/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/maps/</link>
         <pubDate>Sun, 12 Mar 2023 19:02:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 19:02:53 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/maps/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/maps/</guid>
         <description>Some tips to help you survive your next cave raid!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -200,11 +200,11 @@
     
       <item>
         <title>Cave Raiding Tips</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/tips/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/tips/</link>
         <pubDate>Sun, 12 Mar 2023 17:57:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 17:57:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/tips/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/tips/</guid>
         <description>Some tips to help you survive your next cave raid!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -244,11 +244,11 @@
     
       <item>
         <title>Made in Abyss: Binary Star Falling into Darkness</title>
-        <link>https://onigirionegai.info/~yayoi/guides/mia/</link>
+        <link>http://localhost:1313/~yayoi/guides/mia/</link>
         <pubDate>Sun, 12 Mar 2023 17:57:06 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 12 Mar 2023 17:57:06 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/mia/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/mia/</guid>
         <description>Maps of the Abyss and general tips to help you survive!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -288,11 +288,11 @@
     
       <item>
         <title>Persona 3 Portable</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p3p/</link>
+        <link>http://localhost:1313/~yayoi/guides/p3p/</link>
         <pubDate>Sat, 21 Jan 2023 21:40:18 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sat, 21 Jan 2023 21:40:18 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p3p/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p3p/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 3 Portable. Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -332,11 +332,11 @@
     
       <item>
         <title>Persona 4 Golden</title>
-        <link>https://onigirionegai.info/~yayoi/guides/p4g/</link>
+        <link>http://localhost:1313/~yayoi/guides/p4g/</link>
         <pubDate>Tue, 06 Dec 2022 21:17:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 21:17:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/p4g/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/p4g/</guid>
         <description>Guides for social links, and dungeons as well as general walkthroughs for the remake version of Persona 4 (Persona 4: Golden). Some information in these guides may be applicable to the original PS2 version, but this is not guaranteed</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
