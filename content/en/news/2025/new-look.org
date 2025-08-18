@@ -13,7 +13,11 @@ This site has always had five color schemes or themes you could choose from in t
 
 You might not see them right away depending on your browser, but I worked hard to match my new colors and get rid of colors that just don't make sense any more. If you don't see any changes then try refreshing your tab. If that doesn't work than you maybe have to refresh from origin (or something like that, that's what its called in Safari at least) otherwise just wait a bit for the browser to realize the stylesheets have changed. I've included a screenshot of both light and dark below
 
-<!-- light screenshot -->
-<!-- dark screenshot -->
+#+ATTR_HTML: :alt screenshot of the new dark theme
+#+ATTR_HTML: :align left
+[[/~yayoi/images/darkstyle2025.png]]
+#+ATTR_HTML: :alt screenshot of the new light theme
+#+ATTR_HTML: :align left
+[[/~yayoi/images/lightstyle2025.png]]
 
 Sometime in the future I'm planning on either adding new theme options or replacing existing ones with two new themes based on the [[catppuccin][https://catppuccin.com/]] color set, because I also like that theme and use it wherever I can! So look at the themes in the navigation bar for those changes. I hope you enjoy the new themes! 😄
