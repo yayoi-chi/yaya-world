@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/categories/</link>
+    <link>https://onigirionegai.info/~yayoi/categories/</link>
     <description>Recent content in Categories on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://localhost:1313/~yayoi/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
