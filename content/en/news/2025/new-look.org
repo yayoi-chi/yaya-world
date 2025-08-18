@@ -1,0 +1,23 @@
+#+TITLE: New Look
+#+DATE: 2025-08-17T14:27:48-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I am trying to keep my brand identity the same so any kitten will be able to recognize me no matter where they find me. It is for this reason that I changed not only the banner and bio pictures, but also both the "light" (sorry I use this a bit loosely), and "dark" themes of this blog. I've worked hard on these and I hope they look good to all the kittens out there, but, I also hope they better represent the new colors I've chosen for my banner, overlays, and profile pcitures.
+
+I am trying to keep my brand identity the same so any kitten will be able to recognize me no matter where they find me. It is for this reason that I changed not only the banner and bio pictures, but also both the "light" (sorry I use this a bit loosely), and "dark" themes of this blog. I've worked hard on these and I hope they look good to all the kittens out there, but, I also hope they better represent the new colors I've chosen for my banner, overlays, and profile pcitures.
+
+This site has always had five color schemes or themes you could choose from in the top navigation bar. The three themes that are based on existing and widely used color schemes have *not* changed. If you are using one of those themes (your theme preference saves, btw 😉) then you will not see any difference. The "light" and "dark" themes, however, have changed.
+
+You might not see them right away depending on your browser, but I worked hard to match my new colors and get rid of colors that just don't make sense any more. If you don't see any changes then try refreshing your tab. If that doesn't work than you maybe have to refresh from origin (or something like that, that's what its called in Safari at least) otherwise just wait a bit for the browser to realize the stylesheets have changed. I've included a screenshot of both light and dark below
+
+#+ATTR_HTML: :alt screenshot of the new dark theme
+#+ATTR_HTML: :align left
+[[/~yayoi/images/darkstyle2025.png]]
+#+ATTR_HTML: :alt screenshot of the new light theme
+#+ATTR_HTML: :align left
+[[/~yayoi/images/lightstyle2025.png]]
+
+Sometime in the future I'm planning on either adding new theme options or replacing existing ones with two new themes based on the [[catppuccin][https://catppuccin.com/]] color set, because I also like that theme and use it wherever I can! So look at the themes in the navigation bar for those changes. I hope you enjoy the new themes! 😄
