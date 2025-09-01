@@ -1,0 +1,42 @@
+#+TITLE: Stream Recap: 1 Sep
+#+DATE: 2025-08-31T18:05:03-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It's good to be back to regular stream recaps! These are far more manageable than giant four-week recaps. This week we had a good normal week where we started by designing a uniform and a lab coat for Yayai. We also finished Fontaine in Genshin Impact and returned to the farm where we started constructing a coop. Persona saw more exploration of Futaba's Tomb and we even managed to get into the Wise Owl Forest in Dark Cloud!
+
+* Art Streams
+Yayai has clothes! I drew a simply sailor-style uniform for her that I mostly covered with a lab coat. A lab coat is perfect for my assistant I think. I didn't finished all the details, but we'll be able to get it done next time. Yayai is adorable and I really like how she's turning out, even her funky furturistic wings!
+* Game Streams
+We finished Fontaine in Genshin Impact and returned to the farm in Stardew Valley where we started constructing a coop. Persona saw more exploration of Futaba's Tomb and we even managed to get into the Wise Owl Forest in Dark Cloud!
+** Persona 5 Royal
+We made it to the top of Futaba's tomb! I was expecting to see the treasure, but got another door instead. This one has the signs that are on Futaba's door in reality. Her shadow says we have to get her to let us in, but just how do we do that? A mystery for the next stream though. Am proud of the progress we made!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSU7B3U9BQI?si=vFKa43TSy8X-tlqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+We got the coop! Well, we started construction. I think it takes a few days to build. While we waited we got to lvl 50 of the mines and did a lot of fishing. I actually think am doing pretty good at that. Maybe I should get a smoker next! We'll see.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nrPKe1ejTY?si=yWc09XyNzCgGnALn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+Just a brief stream this time. We met a new character that we named "Fatcat" and we made it to the next village and dungeon. This is one of my least favorite dungeons so I tried to get Neko some new weapons, but, she's still stuck with her first slingshot. Wish me luck in finding something better!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhLtIomk_FI?si=GDJpVtcgyaBcR9Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Everyone in Fontaine isn't just fine, they're actually real people now. After we said our goodbyes to everyone, we headed back to Sumeru for a bit of an odd commission and I got to be reunited with by brother. It was certainly an interesting reunion too. Only, I don't remember it at all, all I have is a picture! Well, anyway, its off to Natlan next!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRqMztkKnWo?si=p5qwtnAf8LjyvYcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I've put a schedule here, but its only to give every kitten an idea of what to expect. Waiting rooms will up within 24 hours on [[https://www.youtube.com/@yayoi-chi/streams][YouTube]], but check [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] for an up-to-date schedule.
+| Date  | Time             | What's streaming |
+|-------+------------------+------------------|
+| 1 Sep | 5 PM ET/2 PM PT  | Maker Monday     |
+| 2 Sep | 3 PM ET/12 PM PT | Persona 5 Royal  |
+| 3 Sep | 3 PM ET/12 PM PT | Stardew Valley   |
+| 4 Sep | 3 PM ET/12 PM PT | Dark Cloud       |
+| 5 Sep | 4 PM ET/1 PM PT  | Genshin Impact   |
