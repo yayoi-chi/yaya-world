@@ -8,7 +8,7 @@
 #+SUMMARY: It's good to be back to regular stream recaps! These are far more manageable than giant four-week recaps. This week we had a good normal week where we started by designing a uniform and a lab coat for Yayai. We also finished Fontaine in Genshin Impact and returned to the farm where we started constructing a coop. Persona saw more exploration of Futaba's Tomb and we even managed to get into the Wise Owl Forest in Dark Cloud!
 
 * Art Streams
-Yayai has clothes! I drew a simply sailor-style uniform for her that I mostly covered with a lab coat. A lab coat is perfect for my assistant I think. I didn't finished all the details, but we'll be able to get it done next time. Yayai is adorable and I really like how she's turning out, even her funky furturistic wings!
+Yayai has clothes! I drew a simply sailor-style uniform for her that I mostly covered with a lab coat. A lab coat is perfect for my assistant I think. I didn't finish all the details, but we'll be able to get it done next time. Yayai is adorable and I really like how she's turning out, even her funky furturistic wings!
 * Game Streams
 We finished Fontaine in Genshin Impact and returned to the farm in Stardew Valley where we started constructing a coop. Persona saw more exploration of Futaba's Tomb and we even managed to get into the Wise Owl Forest in Dark Cloud!
 ** Persona 5 Royal
@@ -27,12 +27,12 @@ Just a brief stream this time. We met a new character that we named "Fatcat" and
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhLtIomk_FI?si=GDJpVtcgyaBcR9Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-Everyone in Fontaine isn't just fine, they're actually real people now. After we said our goodbyes to everyone, we headed back to Sumeru for a bit of an odd commission and I got to be reunited with by brother. It was certainly an interesting reunion too. Only, I don't remember it at all, all I have is a picture! Well, anyway, its off to Natlan next!
+Everyone in Fontaine isn't just fine, they're actually real people now. After we said our goodbyes to everyone, we headed back to Sumeru for a bit of an odd commission and I got to be reunited with my brother. It was certainly an interesting reunion too. Only, I don't remember it at all, all I have is a picture! Well, anyway, its off to Natlan next!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pRqMztkKnWo?si=p5qwtnAf8LjyvYcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-I've put a schedule here, but its only to give every kitten an idea of what to expect. Waiting rooms will up within 24 hours on [[https://www.youtube.com/@yayoi-chi/streams][YouTube]], but check [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] for an up-to-date schedule.
+I've put a schedule here, but it's only to give every kitten an idea of what to expect. Waiting rooms will up within 24 hours on [[https://www.youtube.com/@yayoi-chi/streams][YouTube]], but check [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] for an up-to-date schedule.
 | Date  | Time             | What's streaming |
 |-------+------------------+------------------|
 | 1 Sep | 5 PM ET/2 PM PT  | Maker Monday     |
