@@ -1,0 +1,41 @@
+#+TITLE: Stream Recap: 7 Sep
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It's been an interesting last few weeks for sure! I felt so busy in the beginning and now, well let's just say I didn't think I'd have this much time to stream and work on my channels. It's been great though! We went back to Futaba's Tomb and managed to complete it. The treasure was Futaba herself! I also made it to Natlan and invited Kachina to my team! So, yeah, pretty good week.
+
+* Art Streams
+Yayai is done! We finished her design and even gave her a little lab coat. She's so cute. I really love her. I still have to get her sitting on my grimiore, but little steps. I'm probably going to call her finished for now though and move on to another art project. I need more emotes!
+* Game Streams
+Started our week with Persona where we went back to Futaba's Tomb and got the treasure. Wouldn't you know it? The treasure was Futaba herself! We also went back to the farm and started working on our goal of getting a fish smoker while also delving deeper into the mines. We managed to get our new party member in Dark Cloud to and even picked Kachina up in Genshin. I guess I made quite a few new friends, eh?
+** Persona 5
+Spent some time working on my relationships and that sent me in to Mementos a couple of times. We also managed to work on a few social stats and I got kindness caught up before ranking up two more stats. That wasn't the big part of stream though! I also completed Futaba's tomb. We have to wait for her to wake up, but she's a persona user now so seems like she might join our team!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm5FXp0008M?si=0CLQxL_YqQk3DvEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+To mine! I did go into the mine and got to level 55. On my way to level 60, I didn't bring enough food (sketti just isn't as good as I thought), so I passed out on level 59. Spirits were pretty angry after that so we spent a bit more time fishing than I thought. Still almost half way to being able to buy a fish smoker recipe!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kBWac2xafYc?si=Q8ovy-7UjOz_7Hxr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We did quiet a lot actually. We found out about Fatcat's dad and also talked to the Treant. We fought and killed the Killer Snake. This is of course not mentioning all the territories in the Wise Owl Forest we bounded through. So yeah, lots of progress and a new party member! Still have more Wise Owl Forest to explore though.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIfp8voQ3Nk?si=BCVU6J2OUKQap3-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We have made the long trek from Fontaine, through the desert of Sumeru and into Natlan! We met Kachina there right away. Seems she was involved in some sort of team competition, but her teammates bailed on her. Now she's left alone. We offer to help, but it only for Natlan residents. Our kindness, however, doesn't go unrewarded as she takes it upon herself to be our guide in Natlan! This brought her right into our party! She's so nice.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93OSuyAyc2o?si=bcjq7O97Vyjo7mx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Just like last week [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] will be in charge of keeping my schedule, but I'll still be streaming to [[https://www.youtube.com/@yayoi-chi][YouTube]] as well. I'm having a bit of a falling out with YouTube, but I'll still stream over their for my kittens so keep checking for waiting rooms. We're going to shake things up a bit with some Blue Archive and Wuthering Waves. Also, like last week, I've included a tentative schedule below. Keep checking Twitch though for updates!
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 8 Sep  | 5 PM ET/2 PM PT  | Maker Monday     |
+| 9 Sep  | 3 PM ET/12 PM PT | Blue Archive     |
+| 10 Sep | 3 PM ET/12 PM PT | Stardew Valley   |
+| 11 Sep | 3 PM ET/12 PM PT | Dark Cloud       |
+| 12 Sep | 4 PM ET/1 PM PT  | Wuthering Waves  |
