@@ -16,7 +16,7 @@ Spent some time working on my relationships and that sent me in to Mementos a co
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fm5FXp0008M?si=0CLQxL_YqQk3DvEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Stardew Valley
-To mine! I did go into the mine and got to level 55. On my way to level 60, I didn't bring enough food (sketti just isn't as good as I thought), so I passed out on level 59. Spirits were pretty angry after that so we spent a bit more time fishing than I thought. Still almost half way to being able to buy a fish smoker recipe!
+I went into the mine and got to level 55. On my way to level 60, I didn't bring enough food (sketti just isn't as good as I thought), so I passed out on level 59. Spirits were pretty angry after that, so we spent a bit more time fishing than I thought. Still almost halfway to being able to buy a fish smoker recipe!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kBWac2xafYc?si=Q8ovy-7UjOz_7Hxr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -26,12 +26,12 @@ We did quiet a lot actually. We found out about Fatcat's dad and also talked to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RIfp8voQ3Nk?si=BCVU6J2OUKQap3-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-We have made the long trek from Fontaine, through the desert of Sumeru and into Natlan! We met Kachina there right away. Seems she was involved in some sort of team competition, but her teammates bailed on her. Now she's left alone. We offer to help, but it only for Natlan residents. Our kindness, however, doesn't go unrewarded as she takes it upon herself to be our guide in Natlan! This brought her right into our party! She's so nice.
+We have made the long trek from Fontaine, through the desert of Sumeru and into Natlan! We met Kachina there right away. Seems she was involved in some sort of team competition, but her teammates bailed on her. Now she's left alone. We offer to help, but it's only for Natlan residents. Our kindness, however, doesn't go unrewarded as she takes it upon herself to be our guide in Natlan! This brought her right into our party! She's so nice.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93OSuyAyc2o?si=bcjq7O97Vyjo7mx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-Just like last week [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] will be in charge of keeping my schedule, but I'll still be streaming to [[https://www.youtube.com/@yayoi-chi][YouTube]] as well. I'm having a bit of a falling out with YouTube, but I'll still stream over their for my kittens so keep checking for waiting rooms. We're going to shake things up a bit with some Blue Archive and Wuthering Waves. Also, like last week, I've included a tentative schedule below. Keep checking Twitch though for updates!
+Just like last week [[https://www.twitch.tv/yayoi_chi/schedule][Twitch]] will be in charge of keeping my schedule, but I'll still be streaming to [[https://www.youtube.com/@yayoi-chi][YouTube]] as well. I'm having a bit of a falling out with YouTube, but I'll still stream over there for my kittens so keep checking for waiting rooms. We're going to shake things up a bit with some Blue Archive and Wuthering Waves. Also, like last week, I've included a tentative schedule below. Keep checking Twitch for updates though!
 | Date   | Time             | What's streaming |
 |--------+------------------+------------------|
 | 8 Sep  | 5 PM ET/2 PM PT  | Maker Monday     |
