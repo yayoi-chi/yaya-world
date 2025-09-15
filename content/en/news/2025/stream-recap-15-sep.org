@@ -1,0 +1,42 @@
+#+TITLE: Stream Recap: 15 Sep
+#+DATE: 2025-09-14T21:15:43-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I thought it might be time to expand my emotes. I also went back to Blue Archive instead of continuing with Persona this week and headed back to Septimont in Wuthering Waves instead of Genshin. I had fun though!
+
+* Art Streams
+I thought it might be time to expand my emotes. I need more than just the four I did.  So I set off to make some more. Sadly, I only managed to start one, a peeking emote. I think it's really almost done. Maybe I'll be able to do more next week!
+* Game Streams
+I think we're at a good point in Persona to give it a little be of a rest, so I decided to stream Blue Archive instead. We stayed with Dark Cloud on Throwback Thursday of course and I went back to my farm on Wednesday, but we did not continue through Natlan this week, instead I returned to Septimont in Wuthering Waves.
+** Blue Archive
+We headed over to Millennium Science Academy where we got a game console dropped on us and met a set of twins that are very much in to game development. They have only produced one game and it was a bit of a flop. We find out why, but we also met an android girl designated AR-1S who we call Aris and she got herself one heck of a gun! We managed to delay the shut down of the club, but they actually need results to stay up for longer than a month!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tccvJoE4CBA?si=oZuekuEV6-95hZhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+We did a LOT of fishing this time around, but I did manage to make it to level 65 of the mines. That's further than I was trying to go. Spirits got angry and the trout derby came to town so...yeah...much fishing. I am on my way to making a fish smoker though! I hath acquired the recipe and some jellies!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5T7dRqwb1wg?si=cG2nyjkNYWBa5Vaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We got 100% on everything first try for the Mitataki Village! We even got Fatcat's battle ax! It's a pretty powerful weapon and really came in handy fighting the boss. It was even more helpful when we made it to DA SHIIIP. Well, the shipwreck really. We have to find that moon orb now though, but don't worry, I got this!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q6LTyPdF9rg?si=rk0LxPMyrRPoXNP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We got a little side-tracked going back to Septimont. Phrolova and Fenrico had other plans for us. We did learn a lot about her past and even something we forgot. What happened to Phrolova though, and what is the anomaly that we need to investigate, because there's more at work here than just a Gem. I guess the mystery deepens!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2gkiAsV1z0?si=ZLsHImj-d5t4grOu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have most streams, but Wednesday is a special collab with the awesome and adorable Bsparkx. For this reason, it will be exclusive to Twitch. Keep in mind that the schedule below should be taken as tentative. Please watch for waiting rooms on YouTube or check my Twitch schedule throughout the week.
+| Date   | Time             | What's streaming | Where its streaming    |
+|--------+------------------+------------------+------------------------|
+| 15 Sep | 5 PM ET/2 PM PT  | Maker Monday     |                        |
+| 16 Sep | 3 PM ET/12 PM PT | Blue Archive     |                        |
+| 17 Sep | 4 PM ET/1 PM PT  | Genshin Impact   | Twitch (Collab with B) |
+| 18 Sep | 3 PM ET/12 PM PT | Dark Cloud       |                        |
+| 19 Sep | 4 PM ET/1 PM PT  | Wuthering Waves  |                        |
