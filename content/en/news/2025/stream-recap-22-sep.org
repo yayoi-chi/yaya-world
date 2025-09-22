@@ -1,0 +1,42 @@
+#+TITLE: Stream Recap 22 Sep
+#+DATE: 2025-09-21T18:30:30-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was not a normal week. I mean we did do our usual Maker Monday and Throwback Thursday stuff, but all other streams were gacha games! It's almost like I had a theme! Oh and we had a special stream on Wednesday. Still a gacha game, but a gacha game with Bsparkx.
+
+* Art Streams
+It turns out that the peeking emote I was working on was done. So we did a /second/ peeking emote with me in my full cat form and I started on a cozy comfy blanket emote. It was a tonne of unexpected fun. I still have some work left on that blanket emote, like I didn't actually draw the blanket yet 😅 Next week though!
+* Game Streams
+Aside from the art stream and our usual Throwback Thursday stuff, I decided wouldn't it be fun if we did a gacha game week!? So we did. I started the gaming portion of the week with Blue Archive where we helped Momoi and Midori some more and then we had a fun collab with Bsparkx in Genshin Impact. I finished the week with some Wuthering Waves story where we ended on a bit of a cliffhanger!
+** Blue Archive
+We got the G.BIBLE, but it cost Momoi all of her save files. Also it turns out that we needed help to unlock it. Help that put us at odds with the student council and a dangerous group of maids. We managed to give 'em a good fight, but in the end I'm not sure what we found in the G.BIBLE was worth all the effort...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2sXtf1yZQE?si=wc05ZvBvv7sV55r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact (Collab)
+We got Nahida!! Am so happy to have her now! I don't know who else I am going to want to pull for. I guess I could go for Sigewinne next, but we'll see. Anyway, lots of fun with Bsparkx!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byONtCCX9cQ?si=6K4OJPmIr9TphZ0P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+The is one BEEG shipwreck. I think I mentioned that before. We did explore many a layer, but it seems we are a bit stuck. Even our new friend, Fifi, can't seem to help us with this one. I guess we'll have to work on completing the town and maybe then we'll be able to get to the next layer! We got this! Oh, and we did our first weapon evolution. Neko is the strongest in the game now. At least she is right now.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3o2kNCilBmY?si=JBePHQd5i074XS8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+I didn't get Iuno yet. Am a little bummed especially after seeing her in the story a bit more. The good news is, I still have time, and doing all these story quests do help us get more astrite. Maybe I'll get another shot in a few weeks. Still we did some event stuff and I progressed through an interesting way of telling Augusta's backstory. Ended on a bit of a cliffhanger, so you'll just have to come back for more next time I stream Wuthering Waves 😜
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfotLnZ17WE?si=FJwYEvHw6G2XdGbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will hold all the streams again. I have another tentative schedule below. I've been pretty good at keeping to these, but it's also been freeing calling 'em tentative. I think I'll be reevaluating schedule graphics for next month though.
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 22 Sep | 5 PM ET/2 PM PT  | Maker Monday     |
+| 23 Sep | 3 PM ET/12 PM PT | Blue Archive     |
+| 24 Sep | 3 PM ET/12 PM PT | Stardew Valley   |
+| 25 Sep | 3 PM ET/12 PM PT | Dark Cloud       |
+| 26 Sep | 4 PM ET/1 PM PT  | Wuthering Waves  |
