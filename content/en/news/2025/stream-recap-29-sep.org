@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 29 Sep
+#+DATE: 2025-09-29T10:54:01-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This last week was a lot of fun. We decided on doing one more blanket emote, for Yayai, who needs more representation in emotes. We also found out how the Game Development Department did and expanded our farm. We even examined the sun! It was a good week!
+
+* Art Streams
+We finished the blanket emote for myself, but decided Yayai needs some emotes. So I am doing a second blanket emote for her. We just got it started though, but hopefully we'll have time to finish it next week.
+* Game Streams
+We learned that the Game Development Department did so well that they needed a new award for them. No it wasn't "Worst Game". We also went back to our farm and did some expanding and exploring. We rebuilt Queens, and even examined the sun. It was a lot of fun!
+** Blue Archive
+It turns out that the Game Development Department did well. The reviews might be mixed, but that's not all that matters. Enough people having fun is the all that matters, right? Well I don't want to spoil things to much, but they got another year as a club. Also, we checked in on the Make-up Work Club and a new set of railroad conductor twins! Lots of fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-t2tVCTEw2E?si=62Td6bR4dGtXSsmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+Remember! Your princess is purfect and never-ever died in the mines. Not once! Not once! Got it!? Okay. We did expand the farm a bit and switched over to fall crops. I'm keeping track of things and need to harvest and forage better for the community center too. We completed two bundles already! Just remember, I never died!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TqDbE7GkYN4?si=meOndirBjcfON-yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We put Queens back together and put the Queen and her love back together while we were at it! Turns out the guy we met when we first arrived had a secret and was keeping the Moon Orb from us too! Well, we got it only DA SHIIP wouldn't come when it was called!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EW3VHeOzY54?si=lLMuaWuSH3AiP26Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+We have concluded our examination of the sun! Turns out she's pretty cool, which is kind of weird I guess, aren't suns supposed to be hot? Or is that she's so hot she's cool? Well any way, we learned a lot about Augusta and a bit about Iuno and had an epic battle with the False Sovereign. Only there seems to be more questions than answers now. What will we find out next?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/unQUEauplWM?si=T2mR1dDNH6Xm_ljE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+It is my [[https://www.twitch.tv/yayoi_chi][Twitch]] affiliate anniversary this week! That's not all though, it's also the start of my favorite month! Twitch and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting a celebration and all other streams the week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/29Sep.png]]
+| Date   | Time             | What's streaming                     |
+|--------+------------------+--------------------------------------|
+| 29 Sep | 4 PM ET/1 PM PT  | Special Affiliate Anniversary Stream |
+| 30 Sep | 3 PM ET/12 PM PT | Blue Archive                         |
+| 1 Oct  | 10 PM ET/7 PM PT | Hollow Knight                        |
+| 2 Oct  | 10 PM ET/7 PM PT | DOOM 3                               |
+| 3 Oct  | 10 PM ET/7 PM PT | Higurashi no Naku Koro Ni            |
