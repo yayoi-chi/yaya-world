@@ -17,7 +17,7 @@ It turns out that the Game Development Department did well. The reviews might be
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-t2tVCTEw2E?si=62Td6bR4dGtXSsmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Stardew Valley
-Remember! Your princess is purfect and never-ever died in the mines. Not once! Not once! Got it!? Okay. We did expand the farm a bit and switched over to fall crops. I'm keeping track of things and need to harvest and forage better for the community center too. We completed two bundles already! Just remember, I never died!
+Remember! Your princess is purfect and never-ever died in the mines. Not once! Not once! Got it!? Okay. We did expand the farm a bit and switched over to fall crops. I'm keeping track of things I need to harvest and forage better for the community center too. We completed two bundles already! Just remember, I never died!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TqDbE7GkYN4?si=meOndirBjcfON-yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
