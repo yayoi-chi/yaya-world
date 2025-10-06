@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 6 Oct
+#+TITLE: Stream Recap: 6 Oct
 #+DATE: 2025-10-06T14:20:47-07:00
 #+DRAFT: false
 #+DESCRIPTION:
