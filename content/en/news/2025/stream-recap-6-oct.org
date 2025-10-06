@@ -1,0 +1,47 @@
+#+TITLE: Stream Recap 6 Oct
+#+DATE: 2025-10-06T14:20:47-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was a very awesome week! Not only was it the beginning of one of my favorite months of the year (Spooooky Month!), but it was also my first affiliate anniversary on Twitch. Naturally, I started the week with a special stream to celebrate, then we finished the runaway train event in Blue Archive before switching to my spooky month schedule and set of games. I hope every kitten has fun this month!
+
+* 1st Affiliate Anniversary Special
+While art did happen near the end of the stream (we had to finish Yayai's cozy emote) that was actually a small part of the stream. Before the art I decided to take a look back at the previous year. I highlighted some special moments and shared a few of my favorite clips and my picks for some of the favorite thumbnails. I really enjoyed chatting with all of you and hope you enjoyed it too!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8KbB7XaYBY?si=3fiwnJW3liNsDgu7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+While the first game stream this week was kind of more along the lines of my usual fare and at the usual time, the rest were different. Ya-nee used to love DOOM and I had planned to play the original DOOM for 1993, but I seem to have lost my copy so I tried DOOM 3, and that was an experience. I also played Hollow Knight again (started over on chat's direction), and we explored the Higurashi no Naku Koro Ni visual novel. More spooky month streams happening next week too!
+** Blue Archive
+I've never seen a train go through quite as much as this train did. Ultimately, it's all Hikari and Nozomi's fault, but they were just doing their job, I suppose. I also didn't think we'd spend so much time chasing it. We went on subways, busses, and more just to catch up. Well the story was a lot of silly fun at least!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hk0lfBAu1kM?si=oB_qb9EKBM-6foKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+The kittens said, start over! So we did. New save game new challenges. I remembered sometimes and didn't remember others. I may have gotten a bit lost. I got there in the end and now we are chasing Hornet! Good progress!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrguRLU3z0c?si=w9bxHYmPDxXIkaaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** DOOM 3
+Well, I gave it a shot. It wasn't too bad and I got a lot of help from kittens. We made some progress figuring out what's happening on Mars and its very odd and scary. I am a bit invested in the story now, so I kinda think I'll do more, but we'll see.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/arbmSgqV44Y?si=9CHkEKHXnuST8UyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro Ni
+First VN and it was a bit of an interesting stream. Had lots of fun chatting with everyone and going through the story. I think we made some good progress too. Got through the first two chapters and met a good amount of characters. It was fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-A83mSNmlI?si=c18IJ-KKnb4YdLj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be continuing the spooky month streams. I'll be returning to Hollow Knigh, DOOM 3, and Higurashi no Naku Koro Ni, but I have also be starting Little Nightmares. Also, I can feel the seals weakening! Will Ghost Cat return this week?
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/6Oct.png]]
+| Date   | Time             | What's streaming          |
+|--------+------------------+---------------------------|
+| 6 Oct  | 10 PM ET/7 PM PT | Maker Monday              |
+| 7 Oct  | 10 PM ET/7 PM PT | Little Nightmares         |
+| 8 Oct  | 10 PM ET/7 PM PT | Hollow Knight             |
+| 9 Oct  | 10 PM ET/7 PM PT | DOOM 3                    |
+| 11 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro Ni |
