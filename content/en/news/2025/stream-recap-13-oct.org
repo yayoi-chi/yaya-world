@@ -5,10 +5,10 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Ghost cat has taken over the channel! Things got pretty spooky. We tried to escape in Little Nightmares, Ran toward the danger in DOOM, and played tag in Higurashi. Overall it was a pretty fun week!
+#+SUMMARY: Ghost cat has taken over the channel! Things got pretty spooky. We tried to escape in Little Nightmares, ran toward the danger in DOOM, and played tag in Higurashi. Overall it was a pretty fun week!
 
 * Art Streams
-I started doing some live requests. While I enjoyed everyone's ideas, it quickly became a *lot* to keep track of. I have created a Google Form to help me keep track of your requests. If you want an original character of your favorite established character dressed up for Halloween, you can fill out [[https://forms.gle/Mumu8h5BFQSHeWNz7][this form]]
+I started doing some live requests. While I enjoyed everyone's ideas, it quickly became a /lot/ to keep track of. I have created a Google Form to help me keep track of your requests. If you want an original character of your favorite established character dressed up for Halloween, you can fill out [[https://forms.gle/Mumu8h5BFQSHeWNz7][this form]]
 * Game Streams
 This week's games were surprisingly spooky and tense, but thoroughly enjoyable! In fact, I was really surprised by Little Nightmares. We made significant progress in Hollow Knight, as I remembered enemy movesets and overcame my fears from last time. In DOOM, we navigated the terrifying Alpha Labs, which, despite my fears, was a lot of fun. Finally, we uncovered the Colonel Sanders statue for Rena and a bit of the mysteries in Hinamizawa.
 ** Little Nightmares
