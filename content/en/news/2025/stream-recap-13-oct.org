@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 13 Oct
+#+DATE: 2025-10-13T10:37:03-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Ghost cat has taken over the channel! Things got pretty spooky. We tried to escape in Little Nightmares, ran toward the danger in DOOM, and played tag in Higurashi. Overall it was a pretty fun week!
+
+* Art Streams
+I started doing some live requests. While I enjoyed everyone's ideas, it quickly became a /lot/ to keep track of. I have created a Google Form to help me keep track of your requests. If you want an original character of your favorite established character dressed up for Halloween, you can fill out [[https://forms.gle/Mumu8h5BFQSHeWNz7][this form]]
+* Game Streams
+This week's games were surprisingly spooky and tense, but thoroughly enjoyable! In fact, I was really surprised by Little Nightmares. We made significant progress in Hollow Knight, as I remembered enemy movesets and overcame my fears from last time. In DOOM, we navigated the terrifying Alpha Labs, which, despite my fears, was a lot of fun. Finally, we uncovered the Colonel Sanders statue for Rena and a bit of the mysteries in Hinamizawa.
+** Little Nightmares
+I was not prepared for just how tense and scary this could be. I thought it was just going to be a cute game with a few scary moments. Boi was I wrong! It's really kinda spooky, but, you know what, it's great! I love it. It's cute and spooky and I had a lot of fun trying to stay safe. There will be more of this, that's a promise!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HG1bL3ub4XE?si=1HCeacLeTLZEAP6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+We chased Hornet, we found Hornet, we fought Hornet. I am getting pretty good at remembering moves for the enemies. We also made quite a lot of progress. I think I'm remembering some things from my last playthrough and don't feel as scared or lost anymore. It was a good stream. Just be mindful of ghost cat!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ve7lDFoLidg?si=8ewsEfmjn4tyi_RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** DOOM 3
+I think we made it through all the Alpha Labs. It don't think I've been quite so scared since Prey. It was a lot of fun though. I think we'll be doing more of this!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4cEsjh8dqY?si=N0hdHm5kw2GPQF-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro Ni
+More silly club activities including a seemingly simple game of President with some pretty diabolitical punishments. The last one being the worst! There was also a game of zombie tag where the shrewd Mion pretended to be a zombie even if she wasn't. Amongst all this we got the statue out for Rena and found out a bit about something that happened around the dam construction site!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xestAkFBijs?si=ZUpQ7KGK3dVUpz0p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+We will be continuing all of our spooky games on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. What will befall us in Hollow Knight and DOOM, what will we uncover in Higurashi! Only one way to find out! Don't forget to check the schedule on my Twitch page for any changes throughout the week.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/12Oct.png]]
+| Date   | Time             | What's streaming          |
+|--------+------------------+---------------------------|
+| 13 Oct | 10 PM ET/7 PM PT | Maker Monday              |
+| 14 Oct | 10 PM ET/7 PM PT | Little Nightmares         |
+| 15 Oct | 10 PM ET/7 PM PT | Hollow Knight             |
+| 16 Oct | 10 PM ET/7 PM PT | DOOM 3                    |
+| 18 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro Ni |
