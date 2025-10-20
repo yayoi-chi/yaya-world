@@ -1,0 +1,51 @@
+#+TITLE: Stream Recap 20 Oct
+#+DATE: 2025-10-20T11:29:47-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Spooky Month keeps going! Any Ghost Cat incidents to report yet? I think she might look scary, but really be gentle. Maybe I shouldn't seal her again. She even helped draw some requests from the kittens. Of course we did some games too and I think we're making good progress, especially in DOOM 3. Am actually kinda enjoying it and even discussed Halo. We'll see though.
+
+* Art Streams
+Sorry kittens. I almost forgar to do a timelapse for my emotes 🥺 I know I technically finished them like a couple weeks ago, but I finally put it up so I wanted you to be able to see it. I'll put it here for you. Sorry again.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-Hlt5TCTzA?si=gOzx1pV8ksoZvbxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+As for this week, well we did some more requests. I special gift request came in for Jade so we drew a chibi version of them in a witch's dress. Next Twin decided he wanted to be drawn /as my favorite Wuthering Waves character/. If you've been around you know what that means. We just started it though so doesn't look much like Cartethyia yet. Soon though, soon!
+
+Oh! Don't forget, there is still time to get your requests in! Just fill out the [[https://forms.gle/qFd4AGzC2RKsK1EU6][Form]].
+* Game Streams
+I think we made some good progress this week. Apparently I've gone further than my friends in Little Nightmares and we're really getting into it in DOOM 3. I was honestly afraid to play that game, but I'm not too bad actually. Do you think playing Hollow Knight and Prey gave me FPS skills? I wonder.
+** Little Nightmares
+I think I made some good progress! I took care of the Janitor and got past the cooks. The guests were absolutely no fun, but I got past them too. I was offered sausage from a little gnome, but ate him instead. I really didn't want to hurt it, but I guess the character I play had a different idea. Not sure where I'm going to go now, but hopefully nothing will try to eat me there!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c0Xo9ptcNGk?si=dWqcLA98QjGMefsl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Got my dream nail a little early and somehow managed to miss CORN in the process. Fortunately I was able to buy the map for the Resting Grounds from his wife. I also picked up my crystal heart, but we had some tech issues and while I was able to get things working again, I lost my groove. We'll be back next time and hopefully back in the groove too!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fI4eKWvme_M?si=YAOeoJwbgQimdKxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** DOOM 3
+Thanks to my kittens we made a lot of good progress. Got all the way to the communications station and even detoured up to satellite control where we had a decision to make. Kittens said a made the right one, let's hope they're right!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IEkVGHgBhfA?si=UTvt0olx4EPEBgie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro Ni
+It was not all fun and games! We found out about the serial deaths at the Watanagashi festival for the last four years. We didn't think one would happen, but it seems it did and it was even more mysterious. We don't really think this is a curse, but can this really be a village conspiracy? Just what is going on here!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TvyDzMnjRc?si=1BjSKuEoY3xqDQlR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+We'll be continuing Spooky Month on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. There's only a couple of weeks left. Should I seal Ghost Cat again? I guess we can decide later...
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/20Oct.png]]
+| Date   | Time             | What's streaming          |
+|--------+------------------+---------------------------|
+| 20 Oct | 10 PM ET/7 PM PT | Maker Monday              |
+| 21 Oct | 10 PM ET/7 PT PT | Little Nightmares         |
+| 22 Oct | 10 PM ET/7 PM PT | Hollow Knight             |
+| 23 Oct | 10 PM ET/7 PM PT | DOOM 3                    |
+| 25 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro Ni |
