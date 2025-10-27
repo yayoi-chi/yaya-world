@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 20 Oct 2025 11:29:47 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 11:54:41 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 27 Oct</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-27-oct/</link>
+        <pubDate>Mon, 27 Oct 2025 11:54:41 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 27 Oct 2025 11:54:41 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-27-oct/</guid>
+        <description>We had a few surprises this week. The first was that we finished Little Nightmares! Apparently the telekentic lady was the last encounter. The second was that Hollow Knight was just starting to feel easier, until it didn&amp;#39;t. The last was just how long the first chapter of Higurashi no Naku Koro Ni is! Still, I think we had fun!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3322,42 +3354,6 @@ Art Stream
           
             
               <category>recap</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Am a Streamer Now</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</link>
-        <pubDate>Thu, 09 May 2024 18:44:33 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 09 May 2024 18:44:33 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/am-a-streamer-now/</guid>
-        <description>If you&amp;#39;ve been around my site for awhile than you probably know that I am an artist and a writer. Well, I haven&amp;#39;t really been doing much writing of late, other than school papers, but I&amp;#39;m still a writer, okay? Well, anyway, I have a new hat! A streamer hat!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>streaming</category>
-            
-          
-            
-              <category>art</category>
-            
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
             
           
         
