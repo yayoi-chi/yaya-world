@@ -8,7 +8,7 @@
 #+SUMMARY: We had a few surprises this week. The first was that we finished Little Nightmares! Apparently the telekentic lady was the last encounter. The second was that Hollow Knight was just starting to feel easier, until it didn't. The last was just how long the first chapter of Higurashi no Naku Koro Ni is! Still, I think we had fun!
 
 * Art Streams
-This week we finished Twinwhitetiger's request, which was to draw him as my favorite Wuthering Waves character. Our little protogen otter looks pretty good dressed up as Cartethyia, methinks. I also drew Yayai's witches hat. I still need to put shoes on and get those details ironed out. Hopefully I'll have time next time!
+This week we finished Twinwhitetiger's request, which was to draw him as my favorite Wuthering Waves character. Our little protogen otter looks pretty good dressed up as Cartethyia, methinks. I also drew Yayai's witch's hat. I still need to put shoes on and get those details ironed out. Hopefully I'll have time next time!
 * Game Streams
 We had a few surprises this week. The first was that we finished Little Nightmares! Apparently the telekentic lady was the last encounter. The second was that Hollow Knight was just starting to feel easier, until it didn't. The last was just how long the first chapter of Higurashi no Naku Koro Ni is! Still, I think we had fun!
 ** Little Nightmares
@@ -17,7 +17,7 @@ Didn't realize that the creepy lady we ran into last week was our last encounter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHOqnqrvQ-o?si=jfAJ1iUd8xqnqilE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Hollow Knight
-In my exploration of the City of Tears I went up to the Soul Sanctum and fought the Soul Master. Took a bit of work but I picked up Desolation Dive. I then tried to remember how to get to the ancient basin and actually found the right way, after nearly running into the wrong boss. Broken Vessel was hard though! We'll gettem next time!
+In my exploration of the City of Tears I went up to the Soul Sanctum and fought the Soul Master. Took a bit of work but I picked up Desolation Dive. I then tried to remember how to get to the ancient basin and actually found the right way, after nearly running into the wrong boss. Broken Vessel was hard though! We'll get 'em next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1qF_VNmMy4?si=RzMLcuck1FbvNPBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
