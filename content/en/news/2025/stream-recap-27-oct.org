@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 27 Oct
+#+DATE: 2025-10-27T11:54:41-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We had a few surprises this week. The first was that we finished Little Nightmares! Apparently the telekentic lady was the last encounter. The second was that Hollow Knight was just starting to feel easier, until it didn't. The last was just how long the first chapter of Higurashi no Naku Koro Ni is! Still, I think we had fun!
+
+* Art Streams
+This week we finished Twinwhitetiger's request, which was to draw him as my favorite Wuthering Waves character. Our little protogen otter looks pretty good dressed up as Cartethyia, methinks. I also drew Yayai's witches hat. I still need to put shoes on and get those details ironed out. Hopefully I'll have time next time!
+* Game Streams
+We had a few surprises this week. The first was that we finished Little Nightmares! Apparently the telekentic lady was the last encounter. The second was that Hollow Knight was just starting to feel easier, until it didn't. The last was just how long the first chapter of Higurashi no Naku Koro Ni is! Still, I think we had fun!
+** Little Nightmares
+Didn't realize that the creepy lady we ran into last week was our last encounter. Short game is short, but it was a good one. We headed over to Hollownest after watching the credits. I think I'm getting my groove back over there.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JHOqnqrvQ-o?si=jfAJ1iUd8xqnqilE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+In my exploration of the City of Tears I went up to the Soul Sanctum and fought the Soul Master. Took a bit of work but I picked up Desolation Dive. I then tried to remember how to get to the ancient basin and actually found the right way, after nearly running into the wrong boss. Broken Vessel was hard though! We'll gettem next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1qF_VNmMy4?si=RzMLcuck1FbvNPBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** DOOM 3
+I'm still not sure if we managed to save The Earth. I mean I guess we delayed an invasion for now. There seems to be a lot more going on here on Mars and there is another plan to invade The Earth. Let's hope we can stop it. Our only ally though...might not be much of an ally any more...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtsWkm3fLzA?si=iAJTc6OeCIclW0QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro Ni
+Everything is connected! Could our friends really be involved in some sort of murder and kidnapping conspiracy. The only other explanation is literally otherworldly. Then again, my "friends" did put sharp objects in my food, so...who knows what's going on!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9B7KWwb0dwk?si=BDXAngAOO3bSXGjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Special end of Spooky Month week this week on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! I'll be doing Hollow Knight back-to-back and we'll have a special finale on Halloween. Let's see how long I can stream!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/27Oct.png]]
+| Date   | Time             | What's streaming    |
+|--------+------------------+---------------------|
+| 27 Oct | 10 PM ET/7 PM PT | Maker Monday        |
+| 28 Oct | 10 PM ET/7 PM PT | Hollow Knight       |
+| 29 Oct | 10 PM ET/7 PM PT | Hollow Knight       |
+| 30 Oct | 10 PM ET/7 PM PT | DOOM 3              |
+| 31 Oct | 7 PM ET/4 PM PT  | Spooky Month Finale |
