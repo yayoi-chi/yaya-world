@@ -1,0 +1,45 @@
+#+TITLE: Stream Recap: 03 Nov
+#+DATE: 2025-11-03T10:25:20-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was the last week of Spooky Month, 2025. We had a lot of fun trying to finish our spooky games for the year. In the end, we only managed to finish Little Nightmares and Higurashi Ch.1, but the only other spooky games were DOOM 3 and Hollow Knight (the later of which isn't really spooky), so I think we did okie.
+
+* Art Streams
+I finished Yayai. I'm still trying to figure our how I want to do the videos, so I don't have them embedded here, maybe next week. Basically, part of me would like to have Yayai separated from the requests, but that would be twicky and I think she could fit in with them. Hopefully I'll decided soon 😅
+* Game Streams
+We had two Hollow Knight streams. I really only did that because we finished Little Nightmares a tad early. Hollow Knight isn't really spooky so it wasn't that I wanted to finish it or anything. We did finish Higurashi Ch.1 at least as well as Little Nightmares. That is a long game!
+** Hollow Knight
+*** Day 1
+I beat the Broken Vessel and now Forgotten Crossroads is infected! We got our Monarch Wings though. I then started a hunt for some charms. I went back to Mantis Village and fought and beat the Mantis Lords earning the respect of all the mantes. It's fun seeing them bow now. Sadly, I think there's only one more place to go...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDx4lT4UoPY?si=9VSj5eexMAuvK8eV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Day 2
+I survived Deepnest. I got my tram pass and I got the heck outta there! Ended up taking the tram all the way to Kingdom's Edge. I found a fun guy and I even made it to the Colosseum. I failed my first trial, but we'll try again soon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v74024SSx50?si=9in-VjZbXxodsK7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** DOOM 3
+Twists and turns and buttons and demons and well there was a lot. We also managed to get a teleporter working and boi that was a doozy. I think I'm getting good though.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wc8vPfRXVQU?si=3gsK06Omky3EMQxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Special: Spook Month Finale
+Higurashi is loooong! We did finally finish it. In other words, we went full circle. There was a lot of things I didn't remember and a few things I did. It was a wild 6.5 hours. We then topped of the evening with DOOM 3, but I'll be finishing that another time. We had to say good bye to Ghost Cat for now.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7q_Yj4JepE?si=zWr1luZV57h5EUNJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I'm mostly going back to my old schedule this week so stream on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be a bit earlier. I am starting a VN nite for Saturday though!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/3Nov.png]]
+| Date  | Time             | What's streaming |
+|-------+------------------+------------------|
+| 3 Nov | 5 PM ET/2 PM PT  | Maker Monday     |
+| 4 Nov | 3 PM ET/12 PM PT | Wuthering Waves  |
+| 5 Nov | 3 PM ET/12 PM PT | Genshin Impact   |
+| 6 Nov | 3 PM ET/12 PM PT | Dark Cloud       |
+| 8 Nov | 10 PM ET/7 PM PT | Danganronpa 2    |
