@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 10:25:20 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:01:45 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 10 Nov</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-10-nov/</link>
+        <pubDate>Mon, 10 Nov 2025 10:01:45 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 10 Nov 2025 10:01:45 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-10-nov/</guid>
+        <description>Back after the Ghost Cat take over! We had a fairly normal week. Mostly did my favorite gacha games, some art, and started a new visual novel. Overall it was a cozy week.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3314,41 +3346,6 @@ As I work on various art assets, like stream overlays, frames, cards, and my vTu
           
             
               <category>recap</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Working on P3!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</link>
-        <pubDate>Fri, 17 May 2024 19:14:27 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Fri, 17 May 2024 19:14:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</guid>
-        <description>&lt;p&gt;
-In my &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/&#34;&gt;Stream Recap&lt;/a&gt; for this week you won&amp;#39;t find a Persona 3 stream, but I &lt;em&gt;did&lt;/em&gt; have one. It was a surprise stream and you can catch it on my Twitch page. I&amp;#39;ll also be in next week&amp;#39;s recap, probably. Anyway, I also worked a bit on the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/&#34;&gt;Persona 3 Reload Walkthrough&lt;/a&gt; this week.&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-The Stream Recap!
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;You can see it my link! I have decided how I will handle news and stream schedules! There will be essentially &lt;strong&gt;two&lt;/strong&gt; tags &amp;#34;news&amp;#34; and &amp;#34;recap&amp;#34; but you don&amp;#39;t have to know that unless you&amp;#39;re looking specifically for streaming news versus regular news. You can also just look at the tag &amp;#34;stream&amp;#34; for everything to do with streams.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
             
           
         

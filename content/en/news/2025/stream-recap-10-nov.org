@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 10 Nov
+#+DATE: 2025-11-10T10:01:45-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Back after the Ghost Cat take over! We had a fairly normal week. Mostly did my favorite gacha games, some art, and started a new visual novel. Overall it was a cozy week.
+
+* Art Streams
+I am not being very good at editing my timelapses. I did decide that I will timelapse all the Halloween outfits together and in the order I originally drew them in, including the split sessions with Yayai. I just need to do it!
+
+As for this week, we started a new project which I hope will be the start of some post threads on Twitter/X. It was going along nicely for a while but then hit a wall drawing a hand holding a fork up. I've done hands holding things before, just not quite in this position so it never ended up looking right. I'll try again though. The only way to learn is to practice!
+* Game Streams
+Mostly gacha games this week. As in there were two of them, but that's more than others 😆 We started with Wuthering Waves and then a little Genshin Impact. Both were primarily focused on story. We also started a new visual novel this week and that was short but sweet. Of course, we didn't even finish the prologue in such a short time, but that just means there's more for future streams!
+** Wuthering Waves
+How can everyone forget Iuno!? What has happened here!? Well we're going to find out and, if necessary, I will defy fate itself to bring her back. I know I said FOR CARTETHYIA!!, but FOR IUNO too!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBDMCMq7OQE?si=vHhVJZAU3GPEGbc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Well, Kachina competed in the Pilgrimage and won. I mean there were a lot of twists and turns and so much happened after too. Unfortunately, we ended on a bit of a cliffhanger. Seems Kachina is missing, or her soul is. It's hard to keep things straight in Natlan. Hopefully she'll be okay though, but things in Natlan are not as good as it seems am afraid.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNJ1D5OeJfE?si=K--XFcBtkrJqjl72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+Floofy was sad because he thought he couldn't protect the one he loved, but it turns out we were able to rescue her and she talked some sense into him. So, now he's in our party and we're working our way through the temple together. Still have quite a few floors left, methinks, but we'll get there!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BuDjMIzSerc?si=XhAZ8ls25uVF9l0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+First day of school is already a trip? I mean a school trip, but also just a trip, like as in trippy. Our teacher is a stuffed animal that just pops up whenever she wants, all the students are...interesting, and we're on an island for some reason. Anyway, short stream, but we're just getting started!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh8XB45W-U8?si=-W49hfxCUyBzZXBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have pretty much another normal week of streams. Well that is except for one really exciting stream! We'll be doing PEAK again with B!!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/10Nov.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 10 Nov | 5 PM ET/2 PM PT  | Maker Monday     |
+| 11 Nov | 3 PM ET/12 PM PT | Genshin Impact   |
+| 12 Nov | 4 PM ET/1 PM PT  | Peak w/ B        |
+| 13 Nov | 3 PM ET/12 PM PT | Dark Cloud       |
+| 15 Nov | 10 PM ET/7 PM PT | Danganronpa 2    |
