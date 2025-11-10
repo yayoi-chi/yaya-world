@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 10 Nov
+#+TITLE: Stream Recap: 10 Nov
 #+DATE: 2025-11-10T10:01:45-08:00
 #+DRAFT: false
 #+DESCRIPTION:
