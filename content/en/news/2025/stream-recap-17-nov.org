@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 17 Nov
+#+DATE: 2025-11-17T10:28:27-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I just want to say that I appreciate every kitten showing up for VN Nite. I was always nervous about streaming visual novels, but you were all there and we had lots of fun chatting and commenting on the novel. It was awesome 🥳 Aside from that, we did our normal Maker Monday and Throwback Thursday stuff and even rescued Kachina in Genshin Impact!
+
+* Art Streams
+Sometimes just taking some time away from a piece can really help. We ended last time because I was frustrated about drawing hands in a new pose. I started this week on those hands, but I decided to switch to the other hand. Maybe it was just drawing a different hand to start or maybe it was the time we spent away, but I got it pretty quickly and we were able to move on, which is awesome!
+
+As for what I did over Spooky Month, well I finally edited and timelapsed all the recordings. I used a new video editor and I actually like it better for this kind of work. That doesn't have anything to do with the delay, just wanted to let chu all know. Anyway, after two weeks, I finally have a video to embed here 😆
+#+begin_export html
+<!-- TODO put video embed here once published -->
+#+end_export
+* Game Streams
+Thank you kittens for making VN Nite such a success 🥳 We didn't find out much in Danganronpa, but we did meet everyone. We also rescued Kachina in Genshin Impact, and finished the Sun and Moon temple in Dark Cloud. Sun and Moon, that seems to be a theme lately 😆 Anyway thanks again kittens!
+** Genshin Impact
+Okie so entering the Sacred Flame is not, as it turns out, exactly how this works. We had to find Kachina's ancient name which required us to fetch a few things for someone who is good at that while getting him to use a Spiritseeker Stone. With name in hand we then had to hop into the Night Kingdom, which had been overrun by the Abyss. Anyway, it was a beeg deal, but we saved Kachina! Also Mualani is now also a hero of Natlan, but like some sort of really big hero so yeah, that happened.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7TvhZM1obE?si=wWBWASZi1MxNiWf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+I wasn't really prepared to stream Hollow Knight, but decided to go back and try and get some charm notches and extra charms. Only I ran into Hornet again. We tried to fight her a few times, but I decided to return to my quest. I want a good build and I need more notches. We'll get her soon though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mV0VwCkQ1aU?si=hoknmJ1uTVo3g8oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+It got a little dicey and I totally didn't get distracted looking at chests and exploring back floors. It was all part of the plan, yeah! Anyway we did beat the king's curse and got on DA SHIIIP! Oh and bun bun reveal! Lots of fun.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XwSvaemcdYw?si=Kr6Ih_d2FohQuEhW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Still not sure what is going on with the island. They say its safe and not dangerous at all. Every one also seems to be perfectly okay with being here and treating it like a vacation, but I'm just not sure. We did get a present of sorts after I introduced myself to everyone. No one really wanted it, but now we have swimwear so maybe we can have a bit of fun. We'll see next week on Saturday VN Nite!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGKqcLC8J9U?si=XcPPvu_WkABCD_kO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will both me hosting another VN Nite. Originally I was only trying it out, but it seems to be a good thing and a lot of fun. Of course I'm not just streaming VN Nite. We'll have our usual Maker Monday stream plus Wuthering Waves and Hollow Knight. Throwback Thursday will also be happening but at a special time!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/17Nov.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 17 Nov | 5 PM ET/2 PM PT  | Maker Monday     |
+| 18 Nov | 3 PM ET/12 PM PT | Wuthering Waves  |
+| 19 Nov | 3 PM ET/12 PM PT | Hollow Knight    |
+| 20 Nov | 10 PM ET/7 PM PT | Dark Cloud       |
+| 22 Nob | 10 PM ET/7 PM PT | Danganronpa 2    |
