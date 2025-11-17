@@ -27,7 +27,7 @@ I wasn't really prepared to stream Hollow Knight, but decided to go back and try
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mV0VwCkQ1aU?si=hoknmJ1uTVo3g8oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Dark Cloud
-It got a little dicey and I totally didn't get distracted looking at chests and exploring back floors. It was all part of the plan, yeah! Anyway we did beat the king's curse and got on DA SHIIIP! Oh and bun bun reveal! Lots of fun.
+It got a little dicey and I totally didn't get distracted looking at chests and exploring back floors. It was all part of the plan, yeah! Anyway, we did beat the King's Curse and got on DA SHIIIP! Oh, and bun bun reveal! Lots of fun.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XwSvaemcdYw?si=Kr6Ih_d2FohQuEhW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
