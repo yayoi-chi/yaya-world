@@ -12,7 +12,7 @@ Sometimes just taking some time away from a piece can really help. We ended last
 
 As for what I did over Spooky Month, well I finally edited and timelapsed all the recordings. I used a new video editor and I actually like it better for this kind of work. That doesn't have anything to do with the delay, just wanted to let chu all know. Anyway, after two weeks, I finally have a video to embed here 😆
 #+begin_export html
-<!-- TODO put video embed here once published -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NqG5DP0E60?si=RTEiXz4uguG_Spy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
 Thank you kittens for making VN Nite such a success 🥳 We didn't find out much in Danganronpa, but we did meet everyone. We also rescued Kachina in Genshin Impact, and finished the Sun and Moon temple in Dark Cloud. Sun and Moon, that seems to be a theme lately 😆 Anyway thanks again kittens!
