@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 24 Nov
+#+DATE: 2025-11-24T10:07:33-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Danganronpa really took a turn. I knew it would be coming eventually, but wasn't quite expecting this. Fortunately, Wuthering Waves was pretty chill and we completed some goals in Hollow Knight, though I did get a little distracted. We also finished our adorable illustration!
+
+* Art Streams
+We finished out adorable illustration! I wonder what she will be eating. I haven't really had anything awesome to use her for, but I'm sure she will eat some really good food soon and you'll all hear about it...on [[https://x.com/yayoivt][Twitter]] 🤪 and maybe [[https://yayoi-chi.bsky.social][Bluesky]]. Am happy she turned out so good though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIUoigAjxik?si=gGsWf3buQwFHtJmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Danganronpa 2 has finally revealed it's twist. I knew it was comning, but I still wasn't quite prepared for it. Fortunately, Wuthering Waves was pretty chill, and Hollow Knight didn't give me too much trouble. We also got our final party member in Dark Cloud, so I think everything is going to be okay. Well, for me, not sure about any of the characters in Danganronpa yet 😅
+** Wuthering Waves
+I decided that it was time for a story break. Lots of stuff had happened and I thought it would be good to try some of the new mini-games. We tried Tacet Defense and another one and it was a lot of fun. Of course I didn't want to just do mini-games so we also did Zani's campanion story. Am glad her story wasn't super long!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lj18qwjdbaw?si=xAOKvmTTrVXgdf3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Even without a map to the waterway I managed to find my way to the entrance to Isma's Grove, but...I hadn't beat the Dung Defender yet, so there was no way to get in. Guess what though! I found my way over to the Dung Defender too and beat him in one try. What's more? I also found my way back to the grove and got the tear! I guess am not too bad at remembering where things are. Now if only I had beaten the Hive Knight in one try too...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mg5-42DAwnk?si=WnjxfKOSnIIub_mR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We got to the moon, and it was kinda twicky. There were moon bugs, and new witches that throw fireballs and even doggos! We managed to catch up with the leader of the moon people and, guess what, we have a full party now 🎉 Now we just need to keep collecting parts on the moon sea so we can build a sun giant to beat that genie!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmEW4SquIj8?si=YRHT3zPxDov40KPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Had a few tech issues at the beginning, but after we cleared those hurdles we had some fun! Suddenly our heart-throbbing school trip has transformed into a killing school trip and everything is just going crazy with beasts and new rules and all sorts of crazy things. We got through the prologue though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fE14kVQ7I-w?si=l97we2tN7yJBgUNF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+It's a short week on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]. Due to the Thanksgiving holiday in the States I will be skipping this week's Throwback Thursday. We'll get back to it next week, but enjoy our Maker Monday stream this week (and next 😉).
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/24Nov.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 24 Nov | 5 PM ET/2 PM PT  | Maker Monday     |
+| 25 Nov | 3 PM ET/12 PM PT | Wuthering Waves  |
+| 26 Nov | 3 PM ET/12 PM PT | Genshin Impact   |
+| 29 Nov | 10 PM ET/7 PM PT | Danganronpa 2    |
