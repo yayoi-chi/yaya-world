@@ -13,7 +13,7 @@ We finished out adorable illustration! I wonder what she will be eating. I haven
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIUoigAjxik?si=gGsWf3buQwFHtJmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-Danganronpa 2 has finally revealed it's twist. I knew it was comning, but I still wasn't quite prepared for it. Fortunately, Wuthering Waves was pretty chill and Hollow Knight didn't give me too much trouble. We also got out final party member in Dark Cloud so I think everything is going to be okay. Well, for me, not sure about any of the characters in Danganronpa yet 😅
+Danganronpa 2 has finally revealed it's twist. I knew it was comning, but I still wasn't quite prepared for it. Fortunately, Wuthering Waves was pretty chill, and Hollow Knight didn't give me too much trouble. We also got our final party member in Dark Cloud, so I think everything is going to be okay. Well, for me, not sure about any of the characters in Danganronpa yet 😅
 ** Wuthering Waves
 I decided that it was time for a story break. Lots of stuff had happened and I thought it would be good to try some of the new mini-games. We tried Tacet Defense and another one and it was a lot of fun. Of course I didn't want to just do mini-games so we also did Zani's campanion story. Am glad her story wasn't super long!
 #+begin_export html
@@ -25,7 +25,7 @@ Even without a map to the waterway I managed to find my way to the entrance to I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mg5-42DAwnk?si=WnjxfKOSnIIub_mR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Dark Cloud
-We got the moon and it was kinda twicky. There were moon bugs, and new witches that throw fireballs and even doggos! We managed to catch up with the leader of the moon people and, guess what, we have a full party now 🎉 Now we just need to keep collecting parts on the moon sea so we can build a sun giant to beat that genie!
+We got to the moon, and it was kinda twicky. There were moon bugs, and new witches that throw fireballs and even doggos! We managed to catch up with the leader of the moon people and, guess what, we have a full party now 🎉 Now we just need to keep collecting parts on the moon sea so we can build a sun giant to beat that genie!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HmEW4SquIj8?si=YRHT3zPxDov40KPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
