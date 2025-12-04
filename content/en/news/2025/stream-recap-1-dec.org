@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: We started a new project that I am working on in my own way and a new program. We also ended up watching Cartethyia "die" in Wuthering Waves and found out that easy doesn't mean cheap in Genshin Impact. Also, why does Monokuma want to watch students keel each other? It's weird, no?
+#+SUMMARY: We started a new project that I am working on in my own way and in a new program. We also ended up watching Cartethyia "die" in Wuthering Waves and found out that easy doesn't mean cheap in Genshin Impact. Also, why does Monokuma want to watch students keel each other? It's weird, no?
 
 * Art Streams
 Welcome to my Affinity arc 😆 Seriously though, we did start a new project and I decided I was going to work on it in Affinity from start to finish to see if I can replace my combination of Adobe programs. So far it is going well! I do have to relearn a few things and get used to a few new quirks, but it isn't terrible.
@@ -22,7 +22,7 @@ There is a new way to save the night kingdom, but it requires a huge sacrifice. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mff3VGC2tJs?si=F8HUgMr6hYcNsr1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Danganronpa 2
-Apparently getting home was good enough motivation for us to play Monokuma's game so he decided we need something else. Are our memories really gone and is Monomi really involved. Also, who or what is this traitor? I guess this is really a mystery. We got some things to find out!
+Apparently getting home wasn't good enough motivation for us to play Monokuma's game so he decided we need something else. Are our memories really gone and is Monomi really involved. Also, who or what is this traitor? I guess this is really a mystery. We got some things to find out!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obVTfo8nOP0?si=NW9h38G50jBiXNpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
