@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 1 Dec
+#+DATE: 2025-12-04T09:36:25-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We started a new project that I am working on in my own way and a new program. We also ended up watching Cartethyia "die" in Wuthering Waves and found out that easy doesn't mean cheap in Genshin Impact. Also, why does Monokuma want to watch students keel each other? It's weird, no?
+
+* Art Streams
+Welcome to my Affinity arc 😆 Seriously though, we did start a new project and I decided I was going to work on it in Affinity from start to finish to see if I can replace my combination of Adobe programs. So far it is going well! I do have to relearn a few things and get used to a few new quirks, but it isn't terrible.
+* Game Streams
+Just a few of these because of a holiday. We ended up watching Cartethyia "die" in Wuthering Waves and found out that easy doesn't mean cheap in Genshin Impact. Also, why does Monokuma want to watch students keel each other? It's weird, no?
+** Wuthering Waves
+We apparently did the best quest so far. Am not sure myself, but it was pretty kewl and we got to see a lot of awesome cuties. Problem is Cartethyia is apparently "dead", but maybe not. I dunno, it's confusing. I suppose we'll find out, next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9QvkgdfbdM?si=UeWlzW_1h4rYtj2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+There is a new way to save the night kingdom, but it requires a huge sacrifice. Can we really bet on the heroes? I suppose this can still be a back up plan. We should trust in the Pyro Archon, she knows how best to save her people, no? I'll do my part!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mff3VGC2tJs?si=F8HUgMr6hYcNsr1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Apparently getting home was good enough motivation for us to play Monokuma's game so he decided we need something else. Are our memories really gone and is Monomi really involved. Also, who or what is this traitor? I guess this is really a mystery. We got some things to find out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/obVTfo8nOP0?si=NW9h38G50jBiXNpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] were supposed to go back to a normal schedule, but than...well [[{{% ref 'news/2025/a-little-tumble.org' %}}][a had a tumble]]. Hopefully things will go as planned next week though and sorry for getting this out so late this time 🥺 I hope you understand.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/1Dec.png]]
+| Date  | Time             | What's streaming   |
+|-------+------------------+--------------------|
+| 1 Dec | +5 PM ET/2 PM PT+  | Maker Monday       |
+| 2 Dec | +3 PM ET/12 PM PT+ | Wuthering Waves    |
+| 3 Dec | 4 PM ET/1 PM PT  | Peak with @Bsparkx |
+| 4 Dec | 3 PM ET/12 PM PT | Dark Cloud         |
+| 6 Dec | 10 PM ET/7 PM PT | Danganronpa 2      |
