@@ -27,13 +27,13 @@ Apparently getting home wasn't good enough motivation for us to play Monokuma's 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obVTfo8nOP0?si=NW9h38G50jBiXNpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] were supposed to go back to a normal schedule, but than...well [[{{% ref 'news/2025/a-little-tumble.org' %}}][a had a tumble]]. Hopefully things will go as planned next week though and sorry for getting this out so late this time 🥺 I hope you understand.
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] were supposed to go back to a normal schedule, but than...well [[{{% ref "news/2025/a-little-tumble.org" %}}][I had a tumble]]. Hopefully things will go as planned next week though and sorry for getting this out so late this time 🥺 I hope you understand.
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2025/1Dec.png]]
 | Date  | Time             | What's streaming   |
 |-------+------------------+--------------------|
-| 1 Dec | +5 PM ET/2 PM PT+  | Maker Monday       |
-| 2 Dec | +3 PM ET/12 PM PT+ | Wuthering Waves    |
+| 1 Dec | +5 PM ET/2 PM PT+  | +Maker Monday+       |
+| 2 Dec | +3 PM ET/12 PM PT+ | +Wuthering Waves+    |
 | 3 Dec | 4 PM ET/1 PM PT  | Peak with @Bsparkx |
 | 4 Dec | 3 PM ET/12 PM PT | Dark Cloud         |
 | 6 Dec | 10 PM ET/7 PM PT | Danganronpa 2      |

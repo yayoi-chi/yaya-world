@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2025, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 10:07:33 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 09:37:27 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,56 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>A Little Tumble</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/a-little-tumble/</link>
+        <pubDate>Thu, 04 Dec 2025 09:37:27 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 04 Dec 2025 09:37:27 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/a-little-tumble/</guid>
+        <description>Maybe a lotta a tumble 😅 It was a tumble though that&amp;#39;s for sure! I smacked my head super hard and ended up with a concussion as well as some new bandages. Am doing okay now, but am still being careful.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 1 Dec</title>
+        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-1-dec/</link>
+        <pubDate>Thu, 04 Dec 2025 09:36:25 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Thu, 04 Dec 2025 09:36:25 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-1-dec/</guid>
+        <description>We started a new project that I am working on in my own way and in a new program. We also ended up watching Cartethyia &amp;#34;die&amp;#34; in Wuthering Waves and found out that easy doesn&amp;#39;t mean cheap in Genshin Impact. Also, why does Monokuma want to watch students keel each other? It&amp;#39;s weird, no?</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3285,67 +3335,6 @@ You may notice that this is coming out late and, if you&amp;#39;re really observ
           
             
               <category>recap</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: Week 4</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</link>
-        <pubDate>Thu, 06 Jun 2024 14:47:10 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Thu, 06 Jun 2024 14:47:10 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-4/</guid>
-        <description>Busy week is just about over! My first week streaming almost every day is almost over! I&amp;#39;m not sure I&amp;#39;m going to do another week like this, it was a lot, but I now I can do it!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>New Template</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/new-template/</link>
-        <pubDate>Fri, 31 May 2024 19:11:04 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Fri, 31 May 2024 19:11:04 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/new-template/</guid>
-        <description>&lt;p&gt;
-As I work on various art assets, like stream overlays, frames, cards, and my vTubing model, I have settled on a kind of brand for myself that revolves around a few colors. While I &lt;em&gt;love&lt;/em&gt; this site, its design, and the various color schemes available for it, I wonder if it will serve this kind of &amp;#34;brand&amp;#34; that I am building for myself on &lt;a href=&#34;https://www.twitch.tv/yayoi_chi&#34;&gt;Twitch&lt;/a&gt;. I&amp;#39;m thinking it would be best to make this site an extension of the brand.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
             
           
         

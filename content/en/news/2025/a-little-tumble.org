@@ -16,6 +16,9 @@ After ya-pa calmed me down, ya-ma helped me get dressed and also cleaned my head
 At around six in the morning I was released from the ER and taken home to rest. Ya-pa and ya-ma monitored me while I tried to sleep. I didn't get much sleep, but was able to wake up normally. I spent the first day trying not to look at screens at all, but I did send a few messages out on Twitter and Bluesky. I also let my Discord community know that I would not be streaming that day.
 
 Tuesday I was able to use my phone a little bit more and let my YouTube kittens know what was going on. I even managed to keep my collab with B on Wednesday, but had to cut it a bit short so I could rest. I am doing much better now. I had a bath yesterday and my bandages were changed. I don't have the giant one anymore and just a few band-aids. The major cut did need stitches which still have to be removed.
-
-Thank you, and remember I love all my kittens,
+#+begin_export html
+<div id="salutation">Thank you, and remember I love all my kittens,</div>
+<div id="signature">
 Yayoi 「やよい」
+</div></p>
+#+end_export
