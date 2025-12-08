@@ -12,7 +12,7 @@ Without going into too much detail that I already covered in a separate [[{{% re
 * Game Streams
 Because of my tumble I couldn't stream on Tuesday either. I wasn't even sure about streaming with Bsparkx on Wednesday at first, but I was able to manage a short, but fun stream with her. All the other streams were also a bit short, but we managed to head back to the moon in Dark Cloud and get a par-tay planned in Danganronpa 2!
 ** PEAK
-I had a lot of fun climbing the PEAK with my friend. She may have had to carry me to the top once after a fall, but she got me there and we I was revived. We both later died, but that's okay the PEAK isn't important, it's the nonsense we make along the way!
+I had a lot of fun climbing the PEAK with my friend. She may have had to carry me to the top once after a fall, but she got me there and I was revived. We both later died, but that's okay the PEAK isn't important, it's the nonsense we make along the way!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkqHiqEULA0?si=DNjp4_7IBCU4OzC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
