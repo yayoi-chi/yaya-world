@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 15 Dec
+#+DATE: 2025-12-15T10:11:35-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I went back to the farm! I mean I did some Hollow Knight, hopped through time in Dark Cloud, and began an investigation in Danganronpa 2, but I went back to the farm. I like my farm. Should visit more often.
+
+* Art Streams
+We're making some progress on the Christmas picture this year. Actually, I think we made quite a /lot/ of progress. With any luck we may actually finish today. That would give me plenty of time to get prints made and get it ready for my folks before Christmas!
+* Game Streams
+I wanted to get cozy on the farm, so I did. Of course, it wasn't all /that/ cozy with having to get so many bats in such a short time. I also visited Hollownest and finished up on the moon in Dark Cloud. Also, I have to say, Danganronpa this week was far from cozy!
+** Stardew Valley
+Just a cozy day on the farm. I did get a quest that made me get 50 bats in 5 days and may have wasted a day or two. I gottem all though. I also did a lot of fishing and made a bit of money. I even completed a few bundles. So yeah cozy, but also productive day on the farm!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dr3e89KF27s?si=6JevqI5F-3UviJvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+We set out to beat the Hive Knight and Hornet. Sadly both proved more difficult than I thought. I think I am getting used to dodging the spikes each spawn though Hornet's are a little more difficult. Sadly none of my charm combos seem to be doing much. No worries, I just need to get back into the groove. Been I bit too long methinks. I'll get there! Oh, by the way, all the bees in the hive stress me the beep out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXAB_q2C4og?si=ynjkLgJne2Ghuihf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We built the Sun Giant, but needed one last part, the Sun Sphere. We headed back to the Colloseum to get it. Our foe had 38 straight wins, but we were not his 39th! It is now time to try and beat the Dark Genie. Plot twist though! What we thought was the Dark Genie wasn't even the Dark Genie! Now we have to travel through time apparently.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2351qsUtio?si=6bkQUoWrXFMZfM89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+I shoulda known that the very thing we thought would make us feel safe wouldn't actually make us safe. Why did I think this was just going to be a fun party night? It wasn't, it really wasn't...🥺
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z02q7z6CFqo?si=OemnDtPcOGa3Eelz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have be hosting a special Maker Monday that will kick off with an Outfit Reveal. Some have asked and I have answered. Am a good princess, no? Also we have another PEAK collab with B!! Am excited!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/15Dec.png]]
+| Date   | Time             | What's streaming             |
+|--------+------------------+------------------------------|
+| 15 Dec | 5 PM ET/2 PM PT  | 2025 Chrismas Outfit Reveal! |
+| 16 Dec | 3 PM ET/12 PM PT | Viewer Choice!               |
+| 17 Dec | 3 PM ET/12 PM PT | PEAK with B!                 |
+| 18 Dec | 3 PM ET/12 PM PT | Dark Cloud                   |
+| 19 Dec | 10 PM ET/7 PM PT | Danganronpa 2                |
