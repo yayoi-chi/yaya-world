@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 22 Dec
+#+DATE: 2025-12-22T10:39:39-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We finished our Christmas picture this year and with plenty of time to spare! Also, I think kittens like to see me struggle, because they picked Hollow Knight. I beat Hornet again though! I had a fun collab with B and also kept going back in time in Dark Cloud. I had to move our VN Nite again, but at least it was still at nite!
+
+* Art Streams
+I finished the main illustration and even did a very simple background on stream. I debated (am still debating actually) doing one last stream where I put together the layout and get it ready for printing, so I haven't timelapsed it yet. You'll see that next week though!
+* Game Streams
+Started the week with my first viewer's choice. I guess kittens like watching their princess struggle, or maybe they just think Hollow Knight is a cute bug game. Either way we did managed to beat Hornet again. I also had a really fun collab in PEAK with B and went like 300 years in the past in Dark Cloud. VN Nite was moved to a different night, but we got our investigation done!
+** Hollow Knight
+The viewer's spoke and we played Hollow Knight. I decided that I was just going to whale on Hornet. It worked! Took a bit, and I needed to take a little detour, but I did it! We have our shade cloak and we're ready to take on the dreamers and acquire the void heart! Leggo!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jyRntGtwMIk?si=-JddH0HdIjJP6RjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** PEAK Collab with B
+Did I make a good meal Bsparkx? She said she wanted to take a nibble and then she nommed all my flesh. I hope I was delicious at least. We did make lots of bad decisions and maybe a few good ones. We'll take on this mountain!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-X9rE9ZJD8?si=n8byQccV7WfXASZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+I dunno how beeg the gallery is 😵‍💫 I seems pretty massive. We keep going back in time too. I'm like 300 years in the past! At least the gallery is starting to look less...uhm...run down. How much further back do we need to go though!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5d1AwZgc-Ro?si=ZFz7fGMdaPb6oA9z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We completed our investigation, but I am not sure exactly whodundiddoit yet! I have theories, but we'll have to see how the class trial goes. Hopefully some theory will work out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovg81FRswqE?si=pu60ygO-qfIv9EMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+There is no mistake! I will be streaming on both [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] on Christmas. It's not going to be a long stream or anything, but, if you're lonely come stop by! Leading up to that we'll get cozy in Stardew Valley and maybe make adorable chibis on our Maker Monday!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/22Dec.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 22 Dec | 5 PM ET/2 PM PT  | Maker Monday     |
+| 23 Dec | 3 PM ET/12 PM PT | Stardew Valley   |
+| 24 Dec | 3 PM ET/12 PM PT | Genshin Impact   |
+| 25 Dec | 3 PM ET/12 PM PT | Dark Cloud       |
+| 27 Dec | 10 PM ET/7 PM PT | Danganronpa 2    |
