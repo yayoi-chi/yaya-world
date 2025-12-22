@@ -17,7 +17,7 @@ The viewer's spoke and we played Hollow Knight. I decided that I was just going 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jyRntGtwMIk?si=-JddH0HdIjJP6RjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** PEAK Collab with B
-Did I make a good meal Bsparkx ? She said she wanted to take a nibble and then she nommed all my flesh. I hope I was delicious at least. We did make lots of bad decisions and maybe a few good ones. We'll take on this mountain!
+Did I make a good meal Bsparkx? She said she wanted to take a nibble and then she nommed all my flesh. I hope I was delicious at least. We did make lots of bad decisions and maybe a few good ones. We'll take on this mountain!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-X9rE9ZJD8?si=n8byQccV7WfXASZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
