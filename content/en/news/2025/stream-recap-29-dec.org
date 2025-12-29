@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 29 Dec
+#+DATE: 2025-12-29T09:59:24-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It's that time again! The end of the year. I can't believe 2025 is almost over. This week we headed back to Kitten Cover Farm found some new talents in Genshin Impact, fought the Dark Genie in Dark Cloud (and lost), and started our class trial in Danganronpa. It was a pretty fun week!
+
+* Art Streams
+After finishing my Christmas picture a little early this year I was left with a bit of a hole since I didn't have any projects lined up. I decided to try my hand at a new chibi style which I have a lot of plans for now. We just got her started, but soon we will see just how helpful she will be!
+
+Also, I put the timelapse for the Christmas picture I mentioned here since it wasn't reeady last week. Come to think of it that was timed pretty well.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwPTvuIW7I4?si=X95wJe5BWkCHeMo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+We had a lot of fun! I can't say much progress was made. Maybe Kitten Cove looks a little nicer and we did make it to the final floor of the time gallery. We also got through a part of a Class Trial, though we didn't finish it. So maybe a bit more progress than I thought!
+** Stardew Valley
+Wow it's still fall at the Kitten Cove Farm. It's funny cuz it feels like fall here! Anyway I didn't really focus on anything in particular, just the usual farm maintenance and fishing, little bit of mining. It was just a cozy day on the farm, which I think was fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtU1WDFEgUo?si=N0VMTDJ-pKuBC2j-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Discovered a new permanent (at least we think its permanent) event where I can get some new talents for certain characters and one of them happened to be Klee. Naturally, I had to do that. I also did Fischl's, because, why not? Was even going to do Venti, but I ran out of exp materials so we went back to main story quests. I was hoping to get more materials, and I did, but only enough to bring Venti to 65 and he needs to be 70. Maybe next time.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfBD1PmCokk?si=nEE40p3B7cZzPuxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+We learned the truth by traveling the entire time gallery. Almost got stuck on a floor cuz of bad RNG on my worse character, but I bombed that floor and all was good! Wish I could say the same thing for the Dark Genie. I brought all the revival powder and chimkin I could carry and we still died on phase 2. Maybe it's time to work on some characters!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hGTFU9w-OvU?si=ZznXdiaIJgDkA8iv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+So, key take away for this almost three hour stream. Class trails are long and complicated endeavors, but also very intense. Fortunately they give us a little intermission so we didn't have to worry about staying up too late. I still have no idea whodundidit at all! I thought I had it, but then the evidence just didn't align. Let's see what we gather in the second part!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9jhfMqW5rs?si=I0-T_9pAvKgf-hZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting a couple of special events along with our usual streams. The first event will be a Party Animal practice with B and the second will be an open Party Animal Party to help ring in the New Year. Yes I know its on the second, the first just didn't work out, okay ( >< )
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2025/29Dec.png]]
+| Date   | Time             | What's streaming          |
+|--------+------------------+---------------------------|
+| 29 Dec | 5 PM ET/2 PM PT  | Maker Monday              |
+| 30 Dec | 3 PM ET/12 PM PT | Party Animal Practice w/B |
+| 31 Dec | 3 PM ET/12 PM PT | Wuthering Waves           |
+| 1 Jan  | 3 PM ET/12 PM PT | Dark Cloud                |
+| 2 Jan  | 10 PM ET/7 PM PT | Open Party Animal Party   |
