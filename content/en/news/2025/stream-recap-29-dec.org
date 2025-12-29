@@ -5,12 +5,12 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: It's that time again! The end of the year. I can't believe 2025 is almost over. This week we headed back to Kitten Cover Farm found some new talents in Genshin Impact, fought the Dark Genie in Dark Cloud (and lost), and started our class trial in Danganronpa. It was a pretty fun week!
+#+SUMMARY: It's that time again! The end of the year. I can't believe 2025 is almost over. This week we headed back to Kitten Cove Farm, found some new talents in Genshin Impact, fought the Dark Genie in Dark Cloud (and lost), and started our class trial in Danganronpa. It was a pretty fun week!
 
 * Art Streams
 After finishing my Christmas picture a little early this year I was left with a bit of a hole since I didn't have any projects lined up. I decided to try my hand at a new chibi style which I have a lot of plans for now. We just got her started, but soon we will see just how helpful she will be!
 
-Also, I put the timelapse for the Christmas picture I mentioned here since it wasn't reeady last week. Come to think of it that was timed pretty well.
+Also, I put the timelapse for the Christmas picture I mentioned here since it wasn't ready last week. Come to think of it that was timed pretty well.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwPTvuIW7I4?si=X95wJe5BWkCHeMo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
