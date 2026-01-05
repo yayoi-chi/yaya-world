@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 5 Jan
+#+DATE: 2026-01-05T10:13:55-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I kinda made this a bit of a Party Animals week. I mean I didn't like draw Party Animals-related art (stuck to my chibi) and I made sure we finished Dark Cloud and visited Cartethyia, but there were two Party Animals streams. One was an pawesome community nite stream with both B and I's community. it was pawesome!
+
+* Art Streams
+Kept working on our chibi. I had mostly finished her base so we moved on to a first outfit and finished some shadding. I'll be doing more shadding off stream to make making other outfits easier. We didn't finish that outfit, partly because I was working on other shadding too. Hopefully this week!
+* Game Streams
+Party Animals parties! I started this week with B practicing and learning about Party Animals. That was a lot of fun! I also finished probably one of my favorite story parts in Wuthering Waves and completed Dark Cloud! The most fun though was our community nite where I let viewers from B's channel and my own join in the fun. I was nervous, but I think it was an overall good stream!
+** Party Animals (Practice)
+Had fun exploring Party Animals with B.  We tried out a few fun game modes together and I learned all about how to host games and invite people. Hopefully it'll be good practice for our community nite. Party Animals is adorable!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hxe73Okxcao?si=vAg2DUcxHxsqkVd7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Wuthering Waves
+Cartethyia and Galbrena apparently had a plan. It was a cwazy, risky plan, but it was a plan. Apparently it also worked, somehow! Though we were led to believe that Cartethyia was dead and we also thought everyone else died, but turns out that was just in our mind, or something. Anyway, this has to be my favorite chapter so far, but it's over now and it's on to the next soon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NGpi6j7714?si=MtyvoKdFviPR-fy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud
+I leveled a couple weapons and then I tried again and then I failed, but I ran into a new strategy. Just kinda tried something and it seemed to have worked. Now the Dark Genie never actually let us kick him, but I did bonk him good and I think he'll be behaving now! Dark Cloud 2 next time?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaGXPQhGpcE?si=FWH-auTG2a2Cklza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Party Animals (Community Nite)
+We had a very successful community nite. I played a variety of games with my kittens,  B,  and her community. It was a lot of fun and I hope to do more community nites in the future. Hopefully we'll get some more involvement from YouTube as well!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52meOgthZa8?si=TkCPiec3SV5cLmY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Last week was kind of a Party Animals week, so what if we kinda do something similar on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. We'll do a gacha week, sorta. I'll be keeping my Maker Monday and Throwback Thursday (now onto Dark Cloud 2) streams and bringing back VN Nite so really, it's just two streams, but they'll both be gacha games!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/5Jan.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 5 Jan  | 5 PM ET/2 PM PT  | Maker Monday     |
+| 6 Jan  | 3 PM ET/12 PM PT | Blue Archive     |
+| 7 Jan  | 3 PM ET/12 PM PT | Genshin Impact   |
+| 8 Jan  | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 10 Jan | 10 PM ET/7 PM PT | Danganronpa 2    |
