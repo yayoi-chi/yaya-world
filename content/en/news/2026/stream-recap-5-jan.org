@@ -27,12 +27,12 @@ I leveled a couple weapons and then I tried again and then I failed, but I ran i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaGXPQhGpcE?si=FWH-auTG2a2Cklza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Party Animals (Community Nite)
-We had a very successful community nite. I played a variety of games with my kittens,  B,  and her community. It was a lot of fun and I hope to do more community nites in the future. Hopefully we'll get some more involvement right here on YouTube as well!
+We had a very successful community nite. I played a variety of games with my kittens,  B,  and her community. It was a lot of fun and I hope to do more community nites in the future. Hopefully we'll get some more involvement from YouTube as well!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52meOgthZa8?si=TkCPiec3SV5cLmY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-Last week was kind of a Party Animals week, so what if we kinda do something similar on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. We'll do a gacha week, sorta. I'll be keeping my Maker Monday and Throwback Thursday (now onto Dark Cloud 2) stream and bringing back VN Nite so really it's just two streams, but they'll both be gacha games!
+Last week was kind of a Party Animals week, so what if we kinda do something similar on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] this week. We'll do a gacha week, sorta. I'll be keeping my Maker Monday and Throwback Thursday (now onto Dark Cloud 2) streams and bringing back VN Nite so really, it's just two streams, but they'll both be gacha games!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/5Jan.png]]
 | Date   | Time             | What's streaming |
