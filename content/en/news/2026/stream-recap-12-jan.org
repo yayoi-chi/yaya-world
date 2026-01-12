@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 12 Jan
+#+DATE: 2026-01-12T10:10:01-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We had a sort of gacha week last week, and it was fun! We got back to our poor, neglected students in Blue Archive and continued our ADVENTURE in Natlan in Genshin Impact. I totally am not also drawing an outfit that is a purple version of Nahida, no, no, no!
+
+* Art Streams
+We finished the school uniform for my chibi and, totally not keeping on theme for the week, totally did *not* start an outfit that is a purple version of Nahida's outfit. You're just seeing things, it's still me!
+* Game Streams
+We had a sort of gacha week last week, and it was fun! We got back to our poor, neglected students in Blue Archive and continued our ADVENTURE in Natlan in Genshin Impact. Sadly, I couldn't have a whole week with gacha games. We needed to get back to our class trial in Danganronpa and I just had to start Dark Cloud 2. Hope the kittens didn't mind!
+** Blue Archive
+We missed many events! It was sad. I can't beleaf I neglected my students so much. Fortunately, we still had main story to do, and we checked in on the Make-Up Work Club. We found out an interesting secret purpose for the club, but it really didn't change much. We're still going to do our best to make sure everyone passes!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hVVFzVLggKQ?si=6z2MkMiJdtj2P2wC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+The disaster in Natlan turned into in all out war. War is never pretty and I don't think Paimon was really prepared to see it. In fact, I wasn't really prepared either. We won the final battle, but the enemy is still out there. How will we be able to stop them? What price will be paid?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9aZ6IV8i38M?si=G-GUBh7G8RvGuvCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+Some parts of Dark Chronicles/Dark Cloud 2 are easier than the first game. We already have an evolved weapon and we got it before clearing the first dungeon. Somethings are a bit harder though. Have to watch health a bit more and guard and dodge more. We'll get into a rhythm though. We finished the first dungeon and started the second! Lots of fun!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sg5m35aoddo?si=WCs4oSXERGj9WM9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We did it! We got passed the first trial. I didn't know they'd be so long. Hopefully they will always have an intermission. I am just happy we figured out who the killer really was and how the crime was actually committed. Got a little hairy for a second there!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpr_Ar0i9Pg?si=lkrU202UJ06ZVfZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have a cozy stream on the farm this week. I was going to say we're going to get cozy all week, but, is Hollow Knight cozy? I think it can be, as long as you stay out of Deepnest, what do you think?
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/12Jan.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 12 Jan | 4 PM ET/1 PM PT  | Maker Monday     |
+| 13 Jan | 3 PM ET/12 PM PT | Hollow Knight    |
+| 14 Jan | 3 PM ET/12 PM PT | Stardew Valley   |
+| 15 Jan | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 17 Jan | 10 PM ET/7 PM PT | Danganronpa 2    |
