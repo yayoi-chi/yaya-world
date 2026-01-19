@@ -11,7 +11,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: We finished a couple more chibi outfits and am really proud of them. I wasn't sure about the knew Hollow Knight one at first, but it's growing on me. Speaking of, we went back to Hollownest to try and get the dreamers. I managed to get one, but the other one is being difficult. Well we'll get it, just like we took care of all those infested areas in Stardew Valley. Hopefully it won't be be like how twicky the Rainbow Butterfly Woods are turning out to be though. On the bright side, we did solve our first case in Danganronpa 2!
+#+SUMMARY: We finished a couple more chibi outfits and am really proud of them. I wasn't sure about the new Hollow Knight one at first, but it's growing on me. Speaking of, we went back to Hollownest to try and get the dreamers. I managed to get one, but the other one is being difficult. Well we'll get it, just like we took care of all those infested areas in Stardew Valley. Hopefully it won't be be like how twicky the Rainbow Butterfly Woods are turning out to be though. On the bright side, we did solve our first case in Danganronpa 2!
 
 * Art Streams
 We finished a couple more chibi outfits and am really proud of them. I wasn't sure about the knew Hollow Knight one at first, but it's growing on me. Once again though, I wasn't quite able to get a timelapse completed on time for this post. I did finally move all the recordings so I can edit them, but you'll have to wait until next week to see if I have them up on YouTube!
@@ -38,7 +38,7 @@ We heard the verdict and the murder was punished. Of course, after hearing why h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SAtMNpnOGgY?si=wBbmEmmRLAnJx-y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams, yep just some streams 🤪 Oh one of them is really special as we're heading back to PEAK with B. The others though, well I've been experimenting with some more variety week-to-week. How am I doing?
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams, yep just some streams 🤪 Oh, one of them is really special as we're heading back to PEAK with B. The others though, well I've been experimenting with some more variety week-to-week. How am I doing?
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/19Jan.png]]
 | Date   | Time             | What's streaming |
