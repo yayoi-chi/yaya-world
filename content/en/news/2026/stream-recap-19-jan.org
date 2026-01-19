@@ -1,0 +1,50 @@
+#+TITLE: Stream Recap: 19 Jan
+#+DATE: 2026-01-19T10:12:45-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We finished a couple more chibi outfits and am really proud of them. I wasn't sure about the knew Hollow Knight one at first, but it's growing on me. Speaking of, we went back to Hollownest to try and get the dreamers. I managed to get one, but the other one is being difficult. Well we'll get it, just like we took care of all those infested areas in Stardew Valley. Hopefully it won't be be like how twicky the Rainbow Butterfly Woods are turning out to be though. On the bright side, we did solve our first case in Danganronpa 2!
+
+* Art Streams
+We finished a couple more chibi outfits and am really proud of them. I wasn't sure about the knew Hollow Knight one at first, but it's growing on me. Once again though, I wasn't quite able to get a timelapse completed on time for this post. I did finally move all the recordings so I can edit them, but you'll have to wait until next week to see if I have them up on YouTube!
+* Game Streams
+We went back to Hollownest to try and get the dreamers. I managed to get one, but the other one is being difficult. Well we'll get it, just like we took care of all those infested areas in Stardew Valley. Hopefully it won't be be like how twicky the Rainbow Butterfly Woods are turning out to be though. On the bright side, we did solve our first case in Danganronpa 2!
+** Hollow Knight
+I had forgotten that there is a particularly difficult fight with 6 (or maybe 5) tough enemies before the dreamer in City of Tears. Am hoping that is the only trial for getting it. After so direction and discussion we decided to head over and finish of Deepnest for a charm and I got that dreamer too, cuz Deepnest itself is that one's trial. Went back to City of Tears with a new strat and a new charm. Just need to doing it now!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQY-WBP5cE8?si=G0GQDjjuk101Rtm7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Stardew Valley
+Just another cozy few days on the farm. There were a few less cozy moment when we ended up in infested areas in the mines. Please don't keel me! Am really not tasty! We did also get a bigger house and the seasons have changed from autumn to winter. Also, yes, there was a lot of fishing. Fishing feeds me in the mines and makes me a lot of money!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hr5MfrkGaYc?si=SjBfyiXu1ba6hB7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We traversed the Rainbow Butterfly Woods and found the missing Firbits. Holly is still missing, but with all the Firbits found we can now start rebuilding the world. Still going to look for Holly, of course. Maybe the Rainbow Butterfly Woods hold secrets to helping us restore Jurak!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6IsRHRL170Q?si=DHKC-Z39mvEDPb1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We heard the verdict and the murder was punished. Of course, after hearing why he did it and that his target wasn't the victim it made it a little hard to see him get punished especially the way he did. We're officially down two students now. We all promised to do our best. We don't know at what, be we promised. Hopefully we can somehow find away off this island before someone else dies...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SAtMNpnOGgY?si=wBbmEmmRLAnJx-y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have some streams, yep just some streams 🤪 Oh one of them is really special as we're heading back to PEAK with B. The others though, well I've been experimenting with some more variety week-to-week. How am I doing?
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/19Jan.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 19 Jan | 4 PM ET/1 PM PT  | Maker Monday     |
+| 20 Jan | 3 PM ET/12 PM PT | Genshin Impact   |
+| 21 Jan | 3 PM ET/12 PM PT | PEAK with B      |
+| 22 Jan | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 24 Jan | 10 PM ET/7 PM PT | Danganronpa 2    |
