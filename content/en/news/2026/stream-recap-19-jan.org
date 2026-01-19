@@ -2,12 +2,6 @@
 #+DATE: 2026-01-19T10:12:45-08:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
-#+KEYWORDS[]:
-#+SLUG:
-#+SUMMARY:
-#+DRAFT: false
-#+DESCRIPTION:
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
