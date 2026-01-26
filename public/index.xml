@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 10:12:45 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 09:58:57 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 26 Jan</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-26-jan/</link>
+        <pubDate>Mon, 26 Jan 2026 09:58:57 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 26 Jan 2026 09:58:57 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-26-jan/</guid>
+        <description>Another great week has come and gone. We started the week with a new 4-panel comic. We ended the week with some new overlays (thankies B). In between all that we had a tonne of fun especially with our collab with B! More fun this week too!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3274,39 +3306,6 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
           
             
               <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Schedule Changes</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/schedule-changes/</link>
-        <pubDate>Sat, 03 Aug 2024 12:17:00 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sat, 03 Aug 2024 12:17:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/schedule-changes/</guid>
-        <description>&lt;p&gt;
-You may notice that this is coming out late and, if you&amp;#39;re really observant it was created &lt;em&gt;before&lt;/em&gt; the stream recap for this week. I had originally been trying to get the recaps out on Thursday, but this meant some weirdness in what was covered in the recaps and what was scheduled because a Thursday release meant I would work on them on Wednesday, in the middle of the week, and my schedule was (and still is) written for Monday through Sunday. I moved the release to Friday, but that still doesn&amp;#39;t really work, so I&amp;#39;m making another change.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>stream</category>
             
           
             

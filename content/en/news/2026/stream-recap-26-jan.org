@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 26 Jan
+#+DATE: 2026-01-26T09:58:57-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Another great week has come and gone. We started the week with a new 4-panel comic. We ended the week with some new overlays (thankies B). In between all that we had a tonne of fun especially with our collab with B! More fun this week too!
+
+* Art Streams
+After finishing enough outfits for Smol Yaya to get some new thumbnails going, I decided to start working on comics again. Only this time I don't want them to be giant projects which may, or may not, ever be released. Little, silly 4-panel comics it is then. I started the first panel of one featuring Yayai. I hope I can keep practicing and get even better and making comics for and about the kittens!
+
+Oh, and I remember to timelapse our ADVENTURE at shrinking Yayoi and turning her into Smol Yaya. It's a bit long, but hopefully still good.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LnwrxBBnwI?si=8gQYnDMzm-UjdAh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+This week's gaming sessions kicked off with a really super fun collab with B. We played PEAK, and that's nothing new, but for some reason our PEAK shenanigans were extra silly and fun this week. I also started the week with some Genshin Impact, and we returned to the Rainbow Butterfly Woods in Dark Cloud 2. Oh, and I debuted some new overlays for stream. It was a really good week! 
+** Genshin Impact
+The last battle is over and its time to rebuild and reflect. While waiting to get my ancient name we took care of some projects and even got everyone to tell stories about us (even if we weren't allowed to listen in). We also started a feast to celebrate our victories thus far and toast the next and final battle. Natlan isn't safe yet, but it's starting to get there!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRkiPf9qA8Y?si=hVlqjLo_OZLtvOVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** PEAK
+We appear to still be stuck in the tropics. I took this opportunity to lead, but led us straight to a dead end.  B might have also made a lot of bad decisions, but so did I. We'll make it past this eventually!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yHNJDj5wnLM?si=HuTnYsaYo30DIXXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We bound through the Rainbow Butterfly Woods and reached the Rainbow Falls. I had a feeling we would have to work on Sindan a bit before we could continue, but I guess we have to do a LOT of work. We also need materials. Hopefully we'll find a way to get a sundew soon and then we can lure in the Rainbow Butterfly itself!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9EK2u1SWkw?si=z39SPdrr4P4oKQ5d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Thanks to Ibuki over-reacting, we thought there was already another murder. Fortunately, it was actually just some friendly sparring. We explored most of the island, but Chiaki wanted to tell us about something she discovered. I'm not sure exactly what, but the ancient ruins here to kind of look a bit like our school, no? Let's see what Chiaki has to say on our next VN Nite!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DHGRRGUFvQ?si=UOYU26KJA-6hKRl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Honestly, I don't know if [[https://www.twitch.tv/yayoi_chi][Twitch]] or the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be able to top last week's fun. We're going to try though! We have some unfinished business in both Hollow Knight and Genshin. Let's hope we can make more progress before we get to our usual Dark Cloud and Danganronpa shenanigans.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/26Jan.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 26 Jan | 4 PM ET/1 PM PT  | Maker Monday     |
+| 27 Jan | 3 PM ET/12 PM PT | Hollow Knight    |
+| 28 Jan | 3 PM ET/12 PM PT | Genshin Impact   |
+| 29 Jan | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 31 Jan | 10 PM ET/7 PM PT | Danganronpa 2    |
