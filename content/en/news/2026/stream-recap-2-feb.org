@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 2 Feb
+#+DATE: 2026-02-02T09:58:57-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We had another good week learning about Natlan and helping them to overcome the Abyss, taking care of dreamers in Hollow Knight, and even finding out Holly's secret in Dark Cloud 2. We even drew a LOT of popcorn and found what what was so odd about the ancient ruins. Let's hope for another good week!
+
+* Art Streams
+Most of this stream was probably drawing popcorn. I could have drawn one kernel and shaded it and then just copied and pasted it all over, but thought if I just drew the one kernel and copied it then did all the shadding after that, which is more work, I could vary the shadding more realisitically. In the end though, it probably didn't matter 😅 We learned though!
+* Game Streams
+We had another good week learning about Natlan and helping them to overcome the Abyss, taking care of dreamers in Hollow Knight, and even finding out Holly's secret in Dark Cloud 2. We also found out that the Rainbow Butterfly wasn't just a monster, and even resented what was happening to the world and, especially, the Firbits. We then ended up with more mysteries than we could handle in Danganronpa 2. Just what is this arcade machine about anyway?
+** Hollow Knight
+We did super well. We officially have all the dreamers, but I need a lot of essence in order to get the void heart. I can't get radiance without that, so we went on a new ADVENTURE to acquire essence from dream bosses and ghosts! I am actually pretty surprised how easy some of these fights are if chu have the right charms equipped!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n3twu4j28_g?si=Pnuy0xt94fUXgpmb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We did it! We found who was responsible for the damaged Ley Lines in Natlan and we beat him up. We beat him up good! It was so epic. I love how they do the stories in these games. My only wish is that we were such stronk people outside of stories and cutscenes, but I guess it wouldn't be as fun. On to Nod-Krai next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbfpjjM4JWs?si=lYLi-sgy7wyoOlJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+Sindain will need a little more work, but we got it to 70% pretty quickly. I think we need to figure out how to access the other part of the woods to get more geostones and learn what we need to do. We'll get there though. At least we figured out what happened to Holly and now the Firbits are traveling with us. What's this though? A sick girl! How can we help her?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBmnJQoBJUk?si=XWQ5eU9o7ur5c-vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We found out that the ancient ruins might not be quite so ancient and have secrets that even Monokuma and Monomi don't know! Sadly, we didn't learn much beyond that. Monokuma did introduce a new game, and it supposedly holds the next motive. Will anyone take the bait though? Who will be the next victim? Can we get off the island before there is one? Well, that's a lot of questions, no?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xdyBQXJfEc?si=qLtzCb2YAxCwUM91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting my first ever sponsored stream! I had debated for awhile if I should accept sponsorships, but, recent events prompted me that I should. I promise that I will *never* promote a game I don't think I'd like though! Other than the sponsored stream, it's a normal week with uwuwa tagging in for cutie impact!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/2Feb.png]]
+| Date  | Time             | What's streaming         |
+|-------+------------------+--------------------------|
+| 2 Feb | 4 PM ET/1 PM PT  | Maker Monday             |
+| 3 Feb | 3 PM ET/12 PM PT | Star Trek: Fleet Command |
+| 4 Feb | 3 PM ET/12 PM PT | Wuthering Waves          |
+| 5 Feb | 3 PM ET/12 PM PT | Dark Cloud 2             |
+| 7 Feb | 10 PM ET/7 PM PT | Danganronpa 2            |
