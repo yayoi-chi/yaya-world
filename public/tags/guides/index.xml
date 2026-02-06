@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Guides on Yaya&#39;s World</title>
-    <link>https://onigirionegai.info/~yayoi/tags/guides/</link>
+    <link>http://localhost:1313/~yayoi/tags/guides/</link>
     <description>Recent content in Guides on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 10 Jan 2024 15:29:47 -0800</lastBuildDate>
     
-        <atom:link href="https://onigirionegai.info/~yayoi/tags/guides/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/~yayoi/tags/guides/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Persona 4 Golden is Over... Maybe?</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/p4g-is-over-maybe/</link>
         <pubDate>Wed, 10 Jan 2024 15:29:47 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 10 Jan 2024 15:29:47 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/p4g-is-over-maybe/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/p4g-is-over-maybe/</guid>
         <description>&lt;p&gt;
 It seems I have completed the last main dungeon for Persona 4 Golden. I&amp;#39;m planning on bringing my walkthrough up to that point today or tomorrow. Now, there is still the matter of, what I believe is, the Golden content. This is the part about finding Marie that, if memory serves (as I don&amp;#39;t think she was even in the original) was added for the Golden re-release. So I still have content to work through, but its almost there. Also, I would like to point out that I have a reference generated for a new personal project and I plan on starting that tonight or tomorrow.&lt;/p&gt;</description>
         
@@ -63,13 +63,13 @@ It seems I have completed the last main dungeon for Persona 4 Golden. I&amp;#39;
     
       <item>
         <title>First Article of 2024</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
+        <link>http://localhost:1313/~yayoi/news/2024/first/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 03 Jan 2024 15:33:51 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/first/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2024/first/</guid>
         <description>&lt;p&gt;
-Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt;. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information. Things like when Marie will be available and other commentary will be moved to other sections, like &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/slink/&#34;&gt;Social Links&lt;/a&gt; or &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/quests/&#34;&gt;Quests&lt;/a&gt;. As for other news, I have finished a game! Look forward to a new review and many more in 2024!&lt;/p&gt;</description>
+Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt;. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information. Things like when Marie will be available and other commentary will be moved to other sections, like &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/slink/&#34;&gt;Social Links&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/quests/&#34;&gt;Quests&lt;/a&gt;. As for other news, I have finished a game! Look forward to a new review and many more in 2024!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -108,13 +108,13 @@ Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this fir
     
       <item>
         <title>Last Article of 2023 🎊</title>
-        <link>https://onigirionegai.info/~yayoi/news/2023/last/</link>
+        <link>http://localhost:1313/~yayoi/news/2023/last/</link>
         <pubDate>Thu, 28 Dec 2023 20:42:36 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 28 Dec 2023 20:42:36 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2023/last/</guid>
+        <guid>http://localhost:1313/~yayoi/news/2023/last/</guid>
         <description>&lt;p&gt;
-This is the first time I&amp;#39;m late since starting my weekly updates. It has been a crazy day! Fortunately, I&amp;#39;m not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt; and not enough time actually updating the website 😅&lt;/p&gt;
+This is the first time I&amp;#39;m late since starting my weekly updates. It has been a crazy day! Fortunately, I&amp;#39;m not too late, but I had a lot of work to do and a lot of other plans. Also I may have spent too long trying to get notes off my Steam Deck so I could update the &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt; and not enough time actually updating the website 😅&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Looking Back
@@ -151,11 +151,11 @@ Looking Back
     
       <item>
         <title>Guides</title>
-        <link>https://onigirionegai.info/~yayoi/guides/</link>
+        <link>http://localhost:1313/~yayoi/guides/</link>
         <pubDate>Tue, 06 Dec 2022 14:46:35 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Tue, 06 Dec 2022 14:46:35 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/</guid>
         <description>I write some rpg and game guides and walkthroughs!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -175,11 +175,11 @@ Looking Back
     
       <item>
         <title>Leveling</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/lvling/</link>
         <pubDate>Sun, 09 Oct 2022 20:41:39 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:41:39 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/lvling/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/lvling/</guid>
         <description>&lt;p&gt;
 Welcome to my leveling guides to Fiesta Online. This is just a parsed down version of my main &lt;a href=&#34;../&#34;&gt;guide&lt;/a&gt; index. It is mostly here for constancy, but, hey, maybe you want just this list, lol. Also I warning about this guide! This represents the laziest and possibly easiest way to level. By no means is this the most fun or even fastest way. To be honest there are plenty of quests especially for early levels and those are usually the fastest. I also don&amp;#39;t mention KQs which often give a lot of experience and other rewards, but can only be done at certain times. Anyway, if you wanna level easily follow this guide, otherwise, why not just quest? Check out the &lt;a href=&#34;http://fiesta-wiki.com&#34;&gt;Fiesta Wiki&lt;/a&gt; for more information!&lt;/p&gt;</description>
         
@@ -208,11 +208,11 @@ Welcome to my leveling guides to Fiesta Online. This is just a parsed down versi
     
       <item>
         <title>Fiesta Guides</title>
-        <link>https://onigirionegai.info/~yayoi/guides/fiesta/</link>
+        <link>http://localhost:1313/~yayoi/guides/fiesta/</link>
         <pubDate>Sun, 09 Oct 2022 20:34:13 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 09 Oct 2022 20:34:13 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/guides/fiesta/</guid>
+        <guid>http://localhost:1313/~yayoi/guides/fiesta/</guid>
         <description>Welcome to my guides to Fiesta Online.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
