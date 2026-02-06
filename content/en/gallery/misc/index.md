@@ -7,10 +7,8 @@ mode: one-by-one
 tags:
 - fun
 - friends
-series:
--
 categories:
--
+- peektures
 images: # when mode is one-by-one, images front matter works
   - image: Cleric+Mage.png
     caption: Helping my Friend's Mage
