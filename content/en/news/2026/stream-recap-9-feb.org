@@ -1,0 +1,50 @@
+#+TITLE: Stream Recap 9 Feb
+#+DATE: 2026-02-09T10:13:03-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: First sponsored stream went pretty good! I was worried about it, but we had some fun I think. We also completed a panel in our comic and even started another. Wuthering Waves didn't work out, but we got to do some Hollow Knight instead. Oh! There was also a collab in Terraria! That was a lot of fun.
+
+* Art Streams
+Still working on a four panel comic. We started the second panel though. I am hoping that I'll get a lot of good practice with drawing laying out these panels and that I'll get at least a little quicker. The first panel took two streams and the second will take at least that many and I'd like to be able to at least do a panel each stream. Mayhap it'll just take some more practice!
+* Game Streams
+First sponsored stream went pretty good! I was worried about it, but we had some fun I think. Wuthering Waves didn't work out, but we got to do some Hollow Knight instead. Which was a good opportunity to get more dream essence. I did *not* try to throw a winged creature off a cliff in Dark Cloud 2 though, remember that! Oh! There was also a collab in Terraria! That was a lot of fun.
+** Star Trek Fleet Command
+We boldly went a lot of places. I don't think we really explored that much of the galaxy. I think it was like three or four systems. We got to where we can build a second ship and maxed out the starter ship so that's good. It was kind of fun. Reminded me a bit of grinding missions and characters in Blue Archive actually. Might check in again next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UScdRQ9Q3FI?si=bS2tMXTGzVF3DgAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+Things didn't go as planned. I did get to see Cartethyia again, but the servers went down just after I logged in. Not to worry, there's always Hollow Knight. We continued our quest for more dream essence by fighting all the warriors and acquiring it from whispering roots. I got a bit stuck on one of the dream bosses, but maybe I still have others left. We'll just have to find out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0LFr0lvOZY?si=1bajkBZeAmVFeKYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+Starlight Canyon seems nice, but watch out for Elephants! Also remember that throwing things that can fly off of cliffs it doesn't really work well! Once all the monsters are gone though the canyon is really nice and cozy. We love the music! We have a lot more of it to explore too!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWa1GZSaNhY?si=t9G4aHUCZ3pJGQr3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Terraria
+Your fairy cat princess tried to play Terraria for the time with her friends, but she didn't do so well. We were playing on a hard difficulty and I did gather some good shtuff. I also dug many holes so not terrible, methinks. Pretty good maybe! Lots of room to learn and grow!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT1KLr4n2YA?si=8GRucA8gau5PsiyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+It was time to finally play the mysterious arcade machine. Am not sure what happened though. Somehow we got a game over only for following the game's lead and it skipped the first and third days. It was strange. Not shure what it has to do with a motive. Maybe we'll find out next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DYZXfaRJWvo?si=tVrOMSdebBWQrC0_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting an interesting week. Not only are we streaming Wuthering Waves twice to make up for last week, but we are also going to be streaming twice on Thursday! The first stream will be a normal Throwback Thursday stream, the second is another special collab in Terraria with B and Sero!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/9Feb.png]]
+| Date   | Time             | What's streaming              |
+|--------+------------------+-------------------------------|
+| 9 Feb  | 4 PM ET/1 PM PT  | Maker Monday                  |
+| 10 Feb | 4 PM ET/1 PM PT  | Wuthering Waves               |
+| 11 Feb | 4 PM ET/1 PM PT  | Wuthering Waves               |
+| 12 Feb | 3 PM ET/12 PM PT | Dark Cloud 2                  |
+|        | 10 PM ET/7 PM PT | Terraria Collab w/ B and Sero |
+| 14 Feb | 10 PM ET/7 PM PT | Blue Archive                  |
