@@ -7,10 +7,8 @@ mode: one-by-one
 tags:
 - fun
 - me
-series:
--
 categories:
--
+- peektures
 images: # when mode is one-by-one, images front matter works
   - image: KotatsuKurisumasu.png
     caption: My Fiesta character was loosely based off this one, here she's enjoying a warm cup of tea and a Christmas cake and warming herself under a kotatsu table

@@ -5,7 +5,7 @@
 #+TAGS[]: stream news recap
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week's recap, were a total of three game streams including a suprise stream testing Persona 3 Reload!
+#+SUMMARY: Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week's recap, were a total of three game streams including a surprise stream testing Persona 3 Reload!
 
 * Art Stream
 I started designing my vTuber this week. I did /two/ art streams, but one of them won't to published on YouTube until next week because I did it on a Wednesday. If you want to see the start of the journey though it is available on YouTube and the second part is up on my Twitch channel, though it is *not* edited. If you don't want to watch the full 2 hours of live video you can catch the second part condensed next week.
@@ -45,7 +45,7 @@ Hey we had another The Sims 4 game! To be honest, I almost forgot about it 😅 
 #+end_export
 * Next Week
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Schedule for Week 5/27 - 6/2
-[[/~yayoi/images/scheudles/2024/Yayoi_Chi27May.png]]
+[[/~yayoi/images/schedules/2024/Yayoi_Chi27May.png]]
 
 | Day of the Week | What's Streaming                             | At What Time |
 |-----------------+----------------------------------------------+--------------|

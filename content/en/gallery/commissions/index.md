@@ -10,7 +10,7 @@ tags:
 series:
 - commissions
 categories:
--
+- peektures
 images: # when mode is one-by-one, images front matter works
   - image: JadeDesignSheet.png
     caption: This is a design sheet for a vTuber model I'm designing for a friend!

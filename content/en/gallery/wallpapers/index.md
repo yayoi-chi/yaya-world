@@ -9,10 +9,8 @@ tags:
 - computers
 - desktop
 - wallpaper
-series:
--
 categories:
--
+- peektures
 images: # when mode is one-by-one, images front matter works
   - image: snowflakes-and-fir-trees.jpg
     caption: "A good wintery picture!"
