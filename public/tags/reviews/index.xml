@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Reviews on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/reviews/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/reviews/</link>
     <description>Recent content in Reviews on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 11:51:20 -0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>2024 Annual Recap</title>
-        <link>http://localhost:1313/~yayoi/news/2024/recap/</link>
+        <link>https://onigirionegai.info/~yayoi/news/2024/recap/</link>
         <pubDate>Sun, 29 Dec 2024 11:51:20 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Sun, 29 Dec 2024 11:51:20 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/news/2024/recap/</guid>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/recap/</guid>
         <description>As the year comes to a close, Yayoi Shizumi, your fairy cat princess, looks takes a chance to look back and see where she has grown, opportunities she&amp;#39;s had, misteps, and more! What will she learn to help her in 2025!?</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -74,13 +74,13 @@
     
       <item>
         <title>First Article of 2024</title>
-        <link>http://localhost:1313/~yayoi/news/2024/first/</link>
+        <link>https://onigirionegai.info/~yayoi/news/2024/first/</link>
         <pubDate>Wed, 03 Jan 2024 15:33:51 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 03 Jan 2024 15:33:51 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/news/2024/first/</guid>
+        <guid>https://onigirionegai.info/~yayoi/news/2024/first/</guid>
         <description>&lt;p&gt;
-Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt;. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information. Things like when Marie will be available and other commentary will be moved to other sections, like &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/slink/&#34;&gt;Social Links&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/~yayoi/guides/p4g/quests/&#34;&gt;Quests&lt;/a&gt;. As for other news, I have finished a game! Look forward to a new review and many more in 2024!&lt;/p&gt;</description>
+Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this first week of 2024 I have made more progress on the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/walkthrough/&#34;&gt;Persona 4 Golden walkthrough&lt;/a&gt;. I think I am finally nearing the end of the game! Once the walkthrough is up to the last dungeon and boss it won&amp;#39;t quite be done, I will be cutting some things out and streamlining it (maybe it&amp;#39;ll fit on one page again) so it only helps you get through the game and doesn&amp;#39;t have other information. Things like when Marie will be available and other commentary will be moved to other sections, like &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/slink/&#34;&gt;Social Links&lt;/a&gt; or &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p4g/quests/&#34;&gt;Quests&lt;/a&gt;. As for other news, I have finished a game! Look forward to a new review and many more in 2024!&lt;/p&gt;</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
@@ -119,11 +119,11 @@ Welcome to 2024! Let&amp;#39;s kick off the old and ring in the new! In this fir
     
       <item>
         <title>Reviews</title>
-        <link>http://localhost:1313/~yayoi/reviews/</link>
+        <link>https://onigirionegai.info/~yayoi/reviews/</link>
         <pubDate>Mon, 24 Jul 2023 16:50:46 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Mon, 24 Jul 2023 16:50:46 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/reviews/</guid>
+        <guid>https://onigirionegai.info/~yayoi/reviews/</guid>
         <description>A place for me to talk about games I play and not just write guides</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
