@@ -8,7 +8,7 @@
 #+SUMMARY: First sponsored stream went pretty good! I was worried about it, but we had some fun I think. We also completed a panel in our comic and even started another. Wuthering Waves didn't work out, but we got to do some Hollow Knight instead. Oh! There was also a collab in Terraria! That was a lot of fun.
 
 * Art Streams
-Still working on a four panel comic. We started the second panel though. I am hoping that I'll get a lot of good practice with drawing laying out these panels and that I'll get at least a little quicker. The first panel took two streams and the second will take at least that many and I'd like to be able to at least do a panel each stream. Mayhap it'll just take some more practice!
+Still working on a four panel comic. We started the second panel though. I am hoping that I'll get a lot of good practice with drawing and laying out these panels and that I'll get at least a little quicker. The first panel took two streams, and the second will take at least that many and I'd like to be able to at least do a panel each stream. Mayhap it'll just take some more practice!
 * Game Streams
 First sponsored stream went pretty good! I was worried about it, but we had some fun I think. Wuthering Waves didn't work out, but we got to do some Hollow Knight instead. Which was a good opportunity to get more dream essence. I did *not* try to throw a winged creature off a cliff in Dark Cloud 2 though, remember that! Oh! There was also a collab in Terraria! That was a lot of fun.
 ** Star Trek Fleet Command
@@ -22,7 +22,7 @@ Things didn't go as planned. I did get to see Cartethyia again, but the servers 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0LFr0lvOZY?si=1bajkBZeAmVFeKYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Dark Cloud 2
-Starlight Canyon seems nice, but watch out for Elephants! Also remember that throwing things that can fly off of cliffs it doesn't really work well! Once all the monsters are gone though the canyon is really nice and cozy. We love the music! We have a lot more of it to explore too!
+Starlight Canyon seems nice but watch out for Elephants! Also remember that throwing things that can fly off of cliffs doesn't really work well! Once all the monsters are gone though the canyon is really nice and cozy. We love the music! We have a lot more of it to explore too!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HWa1GZSaNhY?si=t9G4aHUCZ3pJGQr3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export

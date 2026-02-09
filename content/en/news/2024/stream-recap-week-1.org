@@ -5,7 +5,7 @@
 #+TAGS[]: stream news recap
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: It's my first week has a streamer! We started with an art stream laying out my schedule template and then moved on to some Hollow Knight! I also played a little Sims 4 with my new self-Sim. I hope I make a good fairy cat princess for all my kittens!
+#+SUMMARY: It's my first week as a streamer! We started with an art stream laying out my schedule template and then moved on to some Hollow Knight! I also played a little Sims 4 with my new self-Sim. I hope I make a good fairy cat princess for all my kittens!
 
 * Art Stream
 If you want to see my first art stream, you can catch it in [[{{% ref "news/2024/am-a-streamer-now.org" %}}][last week's]] news article! This week though, I started simple again by designing a template to use for schedule images and then put it to the test by creating this week's schedule! I think I'm getting used to making art on stream. Not very many people watch the stream so maybe that has something to do with it, but I'm not sure. I guess the only way to know is to see how I am with more viewers 😅 I still had fun though. You'll be able to catch it on YouTube.
