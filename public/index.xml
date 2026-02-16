@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 09 Feb 2026 10:13:03 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 10:19:43 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 16 Feb</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-16-feb/</link>
+        <pubDate>Mon, 16 Feb 2026 10:19:43 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 16 Feb 2026 10:19:43 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-16-feb/</guid>
+        <description>Not quite a full gacha week, but I did have some Wuthering Waves to make up because of scheduling to play it during maintenance last week so we had two Wuthering Waves streams. I also swapped Danganronpa out for Blue Archive so that is a lot of gachas! Didn&amp;#39;t do anything gacha-themed for Maker Monday or Throwback Thursday though. I do have ideas for another week, however!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3261,38 +3293,6 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         <atom:modified>Sun, 25 Aug 2024 13:16:40 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-25-aug/</guid>
         <description>Another two art streams in one week, but only one stream per day. The week was definitely not as hectic as the last week. We went back to Hollow Knight and Xenosaga, but started the next the Final Fantasy game!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 18 Aug</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-18-aug/</link>
-        <pubDate>Sun, 18 Aug 2024 13:43:12 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 18 Aug 2024 13:43:12 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-18-aug/</guid>
-        <description>Did a new thing by splitting Saturday with a game stream in the afternoon and an art stream at night. Was a little hectic and probably not worth it so I don&amp;#39;t think I&amp;#39;ll do something like that again unless I have a special event. Also I beat Final Fantasy IV!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
