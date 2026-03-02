@@ -5,14 +5,14 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: This week was a nice week. We worked on our comice. We had a lot of fun in Genshin before maintenance hit and we beat an awoken dream boss in Hollow Knight. We even had some fun at beaches in both Dark Cloud 2 and Danganronpa 2. Well, maybe Danganronpa wasn't so fun 😅
+#+SUMMARY: This week was a nice week. We worked on our comic. We had a lot of fun in Genshin before maintenance hit and we beat an awoken dream boss in Hollow Knight. We even had some fun at beaches in both Dark Cloud 2 and Danganronpa 2. Well, maybe Danganronpa wasn't so fun 😅
 
 * Art Streams
 We just about finished panel three of our kyute 4-panel comic. I was just about to put in the dialogue bubbles and we would have moved on to the last panel. That was the plan, but, I have lost that comic! The file is [[{{% ref "news/2026/data-loss.org" %}}][no longer accessible]]. I'm still debating if I should try to recover it, remake it, or just give it up. For now, we'll just move on!
 * Game Streams
 I think we managed to still have fun with out short Genshin stream. We played right up until maintenance. I also beat a boss, but got a bit lost in Hollow Knight. We are very close to awakening the dream nail! Dark Cloud 2 and Dangaronpa 2 both saw us at a beach, but I think we had more fun at the beach in Dark Cloud unless investigating a murder is fun 😜
 ** Genshin Impact
-We only got a couple of hours today. When I checked yesterday I thought we'd get three at least, but I was wrong. Fortunately, we managed to do a lot of transition story and get to a new area before we were kicked off. Had some fun and got to show off my team a little bit. Still not quite at Nod Krai, methinks, but next time for shure!
+We only got a couple of hours. When I checked the day before, I thought we'd get three at least, but I was wrong. Fortunately, we managed to do a lot of transition story and get to a new area before we were kicked off. Had some fun and got to show off my team a little bit. Still not quite at Nod Krai, methinks, but next time for sure!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ec_SVYxC4Os?si=s7f0pDDNqy6TmzLz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
