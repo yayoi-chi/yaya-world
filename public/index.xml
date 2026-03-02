@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 10:06:59 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:23:00 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,56 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Data Loss</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/data-loss/</link>
+        <pubDate>Mon, 02 Mar 2026 10:23:00 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 02 Mar 2026 10:23:00 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/data-loss/</guid>
+        <description>Experiencing data loss, or any loss, is rough. You wonder if you could have done better or done anything to prevent it. It happens though and we can&amp;#39;t do anything, but move forward.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 02 Mar</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-02-mar/</link>
+        <pubDate>Mon, 02 Mar 2026 10:10:26 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 02 Mar 2026 10:10:26 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-02-mar/</guid>
+        <description>This week was a nice week. We worked on our comic. We had a lot of fun in Genshin before maintenance hit and we beat an awoken dream boss in Hollow Knight. We even had some fun at beaches in both Dark Cloud 2 and Danganronpa 2. Well, maybe Danganronpa wasn&amp;#39;t so fun 😅</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3229,70 +3279,6 @@ Last week I &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/announci
         <atom:modified>Sun, 15 Sep 2024 16:02:00 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-15-sep/</guid>
         <description>Mostly a normal week this week. Did a fun Maker Monday stream with elemental-themed icons and played a lot of fun games. You will not see Final Fantasy here…I had to cancel that stream.</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 8 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-sep/</link>
-        <pubDate>Sun, 08 Sep 2024 11:55:04 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 08 Sep 2024 11:55:04 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-8-sep/</guid>
-        <description>Tried another day with two streams. Worked out a bit better! Well, probably because I had a holiday, but still. Really fun week that even included finishing Pokemon Sword!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 1 Sep</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-sep/</link>
-        <pubDate>Sun, 01 Sep 2024 16:29:21 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 01 Sep 2024 16:29:21 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-1-sep/</guid>
-        <description>Shorter week because of a carpet install. Everything is looking great though and I&amp;#39;m loving my new room. I managed an art stream before the install and a few game streams after! Still a pretty nice week.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         

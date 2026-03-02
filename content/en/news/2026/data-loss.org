@@ -1,0 +1,22 @@
+#+TITLE: Data Loss
+#+DATE: 2026-03-02T10:23:00-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Experiencing data loss, or any loss, is rough. You wonder if you could have done better or done anything to prevent it. It happens though and we can't do anything, but move forward.
+
+On Friday 27 Mar 2026 PST I had just finished the first draft of my schedule graphic. Proud of my accomplishment I dragged the little icon representing the flash drive which holds my schedule graphics as well as all my work in progress (WIPs) to the trash on the Mac. I just love this action for ejecting a drive, by the way. I could always ctrl+click and select eject, but I always drag the drive to the trash. As the light on the flash drive stopped blinking, I went to unplug it and heard a weird noise. Kind of a small click and then a grinding sound. I looked down at the drive. The adapter (USB-A to UBS-C) was removed from the Mac but remained firmly attached to the *circuit board* of the drive. The case of the drive, however, was in my hand.
+
+Now laid entirely bare, thoughts ran through my mind. Had I backed everything up? Will drive read? How much would I lose? I then did what I think almost everyone would do in this panicked state. I tried to put the drive back together. It no longer quite fit together, but I thought it might be good enough. I plugged the drive into the Mac and waited for the little icon to come back to the desktop. I waited and waited. Nothing.
+
+The light was on, but no one appeared home, as the saying goes. I tried opening Disk Utility, something a friend taught me to do saying sometimes a drive's filesystem is damaged and won't mount. The drive didn't show up. I unplugged the drive and reality hit. Everything on that drive was probably gone!
+
+I texted my friend and, while I waited for a reply, I tried to see if I had backups for anything in the drive. Another reality quickly hit. I had not been diligent at keeping back ups. Several of the files were backed up, but their backups were out-of-date, some by a month or more. Other files weren't backed up at all.
+
+My friend requested pictures of the drive's circuit board, so I carefully pulled the mostly already off case back off and took pictures. He said something was damaged on the drive and that's probably why it wasn't seen as a drive. What's worse is, he said that he couldn't fix that. I was devastated! Knowing the state of my backups I knew things would be lost.
+
+I spent Saturday trying to find the most recent backups of everything. My backups were far from organized. I managed pull things together, but realized that a few projects were very out-of-date or were never backed up. I lost Yayai's design. I lost Yayoi 2.0's outfits. I lost the 4-panel comic I had worked on with the kittens. The remainder of Saturday, up until stream, was spent updating and getting Yayoi 2.0 ready for her outfits again. I did start one, but it'll take awhile to recover everything.
+
+Rather than focus on the loss, I have decided to rebuild. However, I think there is a lesson to be learned here. Saying you are backing things up isn't the same as actually doing it. For you and for my future self, my advice is, make sure you know where things are backed up and set a time every day to sync and check your backups. Don't lose your precious projects, save files, or anything else important!

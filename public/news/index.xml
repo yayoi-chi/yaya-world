@@ -14,11 +14,61 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 10:06:59 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:23:00 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/news/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Data Loss</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/data-loss/</link>
+        <pubDate>Mon, 02 Mar 2026 10:23:00 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 02 Mar 2026 10:23:00 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/data-loss/</guid>
+        <description>Experiencing data loss, or any loss, is rough. You wonder if you could have done better or done anything to prevent it. It happens though and we can&amp;#39;t do anything, but move forward.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 02 Mar</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-02-mar/</link>
+        <pubDate>Mon, 02 Mar 2026 10:10:26 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 02 Mar 2026 10:10:26 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-02-mar/</guid>
+        <description>This week was a nice week. We worked on our comic. We had a lot of fun in Genshin before maintenance hit and we beat an awoken dream boss in Hollow Knight. We even had some fun at beaches in both Dark Cloud 2 and Danganronpa 2. Well, maybe Danganronpa wasn&amp;#39;t so fun 😅</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Stream Recap: 23 Feb</title>
@@ -3109,73 +3159,6 @@ As I work on various art assets, like stream overlays, frames, cards, and my vTu
         <atom:modified>Thu, 23 May 2024 15:33:27 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-2/</guid>
         <description>Quite a lot happened in my second week of streaming. I started the week with two art streams! Also a few things that happened since last week&amp;#39;s recap, were a total of three game streams including a surprise stream testing Persona 3 Reload!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Working on P3!</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</link>
-        <pubDate>Fri, 17 May 2024 19:14:27 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Fri, 17 May 2024 19:14:27 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/working-on-p3/</guid>
-        <description>&lt;p&gt;
-In my &lt;a href=&#34;https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/&#34;&gt;Stream Recap&lt;/a&gt; for this week you won&amp;#39;t find a Persona 3 stream, but I &lt;em&gt;did&lt;/em&gt; have one. It was a surprise stream and you can catch it on my Twitch page. I&amp;#39;ll also be in next week&amp;#39;s recap, probably. Anyway, I also worked a bit on the &lt;a href=&#34;https://onigirionegai.info/~yayoi/guides/p3reload/walkthrough/&#34;&gt;Persona 3 Reload Walkthrough&lt;/a&gt; this week.&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-The Stream Recap!
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;You can see it my link! I have decided how I will handle news and stream schedules! There will be essentially &lt;strong&gt;two&lt;/strong&gt; tags &amp;#34;news&amp;#34; and &amp;#34;recap&amp;#34; but you don&amp;#39;t have to know that unless you&amp;#39;re looking specifically for streaming news versus regular news. You can also just look at the tag &amp;#34;stream&amp;#34; for everything to do with streams.&lt;/p&gt;</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>site</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: Week 1</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</link>
-        <pubDate>Wed, 15 May 2024 14:49:00 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Wed, 15 May 2024 14:49:00 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-week-1/</guid>
-        <description>It&amp;#39;s my first week as a streamer! We started with an art stream laying out my schedule template and then moved on to some Hollow Knight! I also played a little Sims 4 with my new self-Sim. I hope I make a good fairy cat princess for all my kittens!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
