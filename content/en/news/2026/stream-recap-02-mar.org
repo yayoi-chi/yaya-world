@@ -1,0 +1,45 @@
+#+TITLE: Stream Recap 02 Mar
+#+DATE: 2026-03-02T10:10:26-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This week was a nice week. We worked on our comice. We had a lot of fun in Genshin before maintenance hit and we beat an awoken dream boss in Hollow Knight. We even had some fun at beaches in both Dark Cloud 2 and Danganronpa 2. Well, maybe Danganronpa wasn't so fun 😅
+
+* Art Streams
+We just about finished panel three of our kyute 4-panel comic. I was just about to put in the dialogue bubbles and we would have moved on to the last panel. That was the plan, but, I have lost that comic! The file is [[{{% ref "news/2026/data-loss.org" %}}][no longer accessible]]. I'm still debating if I should try to recover it, remake it, or just give it up. For now, we'll just move on!
+* Game Streams
+I think we managed to still have fun with out short Genshin stream. We played right up until maintenance. I also beat a boss, but got a bit lost in Hollow Knight. We are very close to awakening the dream nail! Dark Cloud 2 and Dangaronpa 2 both saw us at a beach, but I think we had more fun at the beach in Dark Cloud unless investigating a murder is fun 😜
+** Genshin Impact
+We only got a couple of hours today. When I checked yesterday I thought we'd get three at least, but I was wrong. Fortunately, we managed to do a lot of transition story and get to a new area before we were kicked off. Had some fun and got to show off my team a little bit. Still not quite at Nod Krai, methinks, but next time for shure!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ec_SVYxC4Os?si=s7f0pDDNqy6TmzLz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+In our quest to get more dream essence, we beat another dream boss. It was twicky and required me to really focus, but we did it! I tried another one, but he kicks my tail! So I went to look for essence trees or other ways of getting essence in areas I don't have unlocked. I got a little stuck though, maybe I'll find my way next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYJ_OPaC0hE?si=k-k76H8XDMtCdDLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We found an interesting ancient mural that looks vaguely familiar! We also found our little sea dragon friend who seems to have picked up some interesting headwear. We needed to restore parts of Lunar Labs in order to find a way to get it off, which turned out to just be, catch fish, feed it an electric worm, and than feed that fish to the dragon. Kind think we coulda figured that out without the lab, but...we did need the worm so...I guess it worked out.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQzU6eeCE58?si=MOqgi4YCpaA9NHVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We did it! We managed to get the true ending for Twilight Syndrome Murder Case! Of course it is hard to celebrate knowing we have another victim. This game is somehow related to that case, but also is based on our lives before this all started. It's all a bit confusing, but we just need to work it out and learn what we can.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwkbE7Rembw?si=EBun2K7wj7uB6fO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have be hosting a collab and **two** art streams this week! We're also going to try to get more dream essence in Hollow Knight, solve our mystery in Danganronpa 2, and rebuild a lab in Dark Cloud 2. Should be a good week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/2Mar.png]]
+| Date  | Time             | What's streaming |
+|-------+------------------+------------------|
+| 2 Mar | 4 PM ET/1 PM PT  | Art              |
+| 3 Mar | 4 PM ET/1 PM PT  | Art              |
+| 4 Mar | 3 PM ET/12 PM PT | Hollow Knight    |
+|       | 10 PM ET/7 PM PT | Terraria Collab  |
+| 5 Mar | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 7 Mar | 10 PM ET/7 PM PT | Danganronpa 2    |
