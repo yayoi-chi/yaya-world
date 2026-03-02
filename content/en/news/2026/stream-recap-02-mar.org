@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 02 Mar
+#+TITLE: Stream Recap: 02 Mar
 #+DATE: 2026-03-02T10:10:26-08:00
 #+DRAFT: false
 #+DESCRIPTION:
