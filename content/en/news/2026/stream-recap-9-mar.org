@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 9 Mar
+#+DATE: 2026-03-09T10:03:16-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Tried something a little new this week. There were basically the same amount of game streams as normal, but that was only because I did two in one day! We also did two art stream this week. I really liked getting to work on projects and chat with kittens!
+
+* Art Streams
+Not one, but *two* streams this week! We started the week trying to finish Yayai's base design and realizing she was still too short. After making some adjustments we moved on to some of the details and shading only to realize she was still a little too short. Must remember her height next time. We did make some good progress though and she should be the right size once we get back to her next week (though she'll probably need more small adjustments 😅)!
+* Game Streams
+We actually started the game stream portion of this week with not one but /two/ streams in the same day. I guess that was a theme this week 😆. I started with Hollow Knight and actually made it to the White Palace. Next up was a fun collab with [[https://oshi.to/sero][Sero]] and [[https://oshi.to/bsparkx][B]] in Terraria. I finished the week with our usual Throwback Thursday and VN Nite streams.
+** Hollow Knight
+We found the White Defender. I remember liking Dung Defender and White Defender was actually a really fun fight. Still not easy, but fun. We managed to beat him a lot quicker than I thought too! So we headed off to White Palace...which isn't quite as fun, but we'll learn, and we'll practice, and we'll beat it!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZ70H8X5uCk?si=J-CA-bpXRrEdrlm7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Terraria Collab
+We found the edge of the map! That was interesting. We may have fell down a couple of times. One time I almost died but survived with just a bit of health. It was wild. We didn't meet the worm, but we survived another blood moon. Next time we'll find a boss though, or that's what I heard anyway!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztVbB9fU_vI?si=prWTlZlgq8DY9QGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+Turns out we didn't need to fully restore the labs before we fought the boss. We will need to restore them before we can move the story along though. Guess that was a decision. I was going to do that anyway. It's nice that we got all of our objectives and everything!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cp_WhH1jskk?si=zhMoa1FgBDZvweiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Turns out all signs are pointing to a certain smol classmate. Even though I am not overly fond of this classmate, I have a hard time believing she's the killer. It all seems to add up a little to well. She was in the game though, the photos show she was. She also met with the victim just before the murder. Her footprints are the ones leaving the beach house too. This all seems too easy though. What will the class trial reveal?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Livw_dmyglM?si=YsXINUGdwplJxFmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I am increasing the amount of art streams hosted on [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]]! We'll be going from two last week to three next. This means that the only game streams this week well be our Throwback Thursday and VN Nite streams! I hope you all enjoy watching the art though.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/9Mar.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 9 Mar  | 4 PM ET/1 PM PT  | Art              |
+| 10 Mar | 4 PM ET/1 PM PT  | Art              |
+| 11 Mar | 4 PM ET/1 PM PT  | Art              |
+| 12 Mar | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 14 Mar | 10 PM ET/7 PM PT | Danganronpa 2    |
