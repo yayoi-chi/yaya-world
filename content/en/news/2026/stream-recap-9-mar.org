@@ -27,7 +27,7 @@ Turns out we didn't need to fully restore the labs before we fought the boss. We
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cp_WhH1jskk?si=zhMoa1FgBDZvweiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Danganronpa 2
-I turns out all signs are pointing to a certain smol classmate. Even though I am not overly fond of this classmate, I have a hard time believing she's the killer. It all seems to add up a little to well. She was in the game though, the photos show she was. She also met wit the victim just before the murder. Her footprints are the ones leaving the beach house too. This all seems to easy though. What will the class trial reveal?
+Turns out all signs are pointing to a certain smol classmate. Even though I am not overly fond of this classmate, I have a hard time believing she's the killer. It all seems to add up a little to well. She was in the game though, the photos show she was. She also met with the victim just before the murder. Her footprints are the ones leaving the beach house too. This all seems too easy though. What will the class trial reveal?
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Livw_dmyglM?si=YsXINUGdwplJxFmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
