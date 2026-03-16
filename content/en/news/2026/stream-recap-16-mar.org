@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 16 Mar
+#+DATE: 2026-03-16T10:04:50-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was a different kind of week. I mostly focused on my art. I was pleasantly surprised by how many kittens came and enjoyed our little art n' chat. There were still a couple of game streams though. I still like those too!
+
+* Art Streams
+The majority of this week was art! I took the time to finish re-designing Yayai and even managed to improve not only her but her schoolgirl outfit. She now has adorable, mismatched socks! Yayai is a little bit of a rebel, but she's just testing boundaries. In her "heart" she really is a goodie, I know it!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9meQM52JH8?si=oAk9IdCJ_mgoxmBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+We also had our comic to redo. I did manage to get the first planel done in one stream. Of course I made that panel a /lot/ easier, I think. It was just a microwave with a bag of popcorn in it and Yayai's hand. It was my first time drawing an appliance, but I had a reference so still kinda easy. We started the second panel, so we'll compare that to the original cuz it's basically the same!
+* Game Streams
+Yes! There were *three* art streams this week, but that left room for two game streams. I decided to just keep our regular appointments so we did some Dark Cloud 2 and started the class trial in Danganronpa 2. This section does look a little weird with just two streams though, eh? Wonder what a recap without the game section would be like...
+** Dark Cloud 2
+We may have taken care of Dr. Jamming already, but we needed to restore the main Lunar Lab building in order to find the solution. I figured, might as well fully restore the labs while we were there. Managed to get the powerful Nova Cannons for my ridepod as a reward too! Now we are off to Mt. Gondor...I mean Gundor to help the rebels fight against Griffon in the future so we can travel even further into the past. Kinda crazy!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xA4vCFAdWDE?si=Sv8uXJyuvt9Pzn3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We completed the investigation and got all set for pre-trial. Now we are right in the middle of another class trial. Hiyoko came up pretty quickly and now I am not sure she is the killer. Seems we have to look for someone else. Who could have done it though. Hiyoko seemed to have a good motive. Could it be the Ultimate Yakuza, or someone totally unexpected!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TXc2YY4yB9w?si=siXxHTlf-hZnwVZr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have an extra game stream compared to last week. In otherwords we're doing three /game/ streams and two art streams. Let's see how that comic comes after this week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/16Mar.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 16 Mar | 4 PM ET/1 PM PT  | Art              |
+| 17 Mar | 4 PM ET/1 PM PT  | Art              |
+| 18 Mar | 3 PM ET/12 PM PT | Genshin Impact   |
+| 19 Mar | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 21 Mar | 10 PM ET/7 PM PT | Danganronpa 2    |
