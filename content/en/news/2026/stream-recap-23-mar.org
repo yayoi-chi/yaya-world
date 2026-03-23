@@ -14,7 +14,7 @@ This week we focused on the comic. I got us to about where we were when I lost i
 * Game Streams
 I originally scheduled two art streams so that we could have a Genshin stream this week. Which we did and we finished the transition story between Natlan and Nod-Krai. I also wanted to make sure we had time to keep both our Throwback Thursday and VN Nite streams. Sadly, life got in the way a little bit and we missed the VN Nite stream 🥺 There's always next week though!
 ** Genshin Impact
-Well, the siblings meet again. It wasn't exactly a happy reunion, but it was still nice to know he's out there. Too bad we still don't know what he's trying to do exactly. After that we met Ineffa and are now trying to figure out what's going on with her. She apparently has a message for us. Will this lead us into Nod-Krai for answers? Kinda seems so, but we'll find out for shure next time!
+Well, the siblings met again. It wasn't exactly a happy reunion, but it was still nice to know he's out there. Too bad we still don't know what he's trying to do exactly. After that we met Ineffa and are now trying to figure out what's going on with her. She apparently has a message for us. Will this lead us into Nod-Krai for answers? Kinda seems so, but we'll find out for shure next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-2xG5Zc_kbc?si=oMI8IhHOGI83zMI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
