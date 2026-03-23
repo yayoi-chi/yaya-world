@@ -1,0 +1,37 @@
+#+TITLE: Stream Recap: 23 Mar
+#+DATE: 2026-03-23T10:12:26-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I thought we'd have a good, not too light, not too heavy week of streaming, but, life got in the way a little bit. I did still manage two art streams and two game streams, so not bad. We missed out on VN Nite though 🥺
+
+* Art Streams
+It was a two art stream week! I'm going to keep two to three art streams for the next little while at least. Schedule /might/ change in the summer, but that depends on school shtoof. I really like our art n' chats.
+
+This week we focused on the comic. I got us to about where we were when I lost it. So we'll be doing some new things soon. Hopefully we will even finish it soon. I have two panels done and the third started so only two left!
+* Game Streams
+I originally scheduled two art streams so that we could have a Genshin stream this week. Which we did and we finished the transition story between Natlan and Nod-Krai. I also wanted to make sure we had time to keep both our Throwback Thursday and VN Nite streams. Sadly, life got in the way a little bit and we missed the VN Nite stream 🥺 There's always next week though!
+** Genshin Impact
+Well, the siblings met again. It wasn't exactly a happy reunion, but it was still nice to know he's out there. Too bad we still don't know what he's trying to do exactly. After that we met Ineffa and are now trying to figure out what's going on with her. She apparently has a message for us. Will this lead us into Nod-Krai for answers? Kinda seems so, but we'll find out for shure next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-2xG5Zc_kbc?si=oMI8IhHOGI83zMI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We kept climbing all the way to the peak. We found a machine that was making embers and a person from the future to build us a time bomb and blow it up. Unfortunately, Monica fell with Gaspard on his air ship after he showed up. Now we have to go into the mountain to save her!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zkMMNXc1I4?si=kk3f3b3J5FJ8h-pB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will definitely still have a VN Nite this week! I cannot skip it twice in a row. They will also both be hosting a collab stream before VN Nite. We're going back to Terraria with [[https://oshi.to/bsparkx][Bsparkx]] and [[https://oshi.to/sero][Sero]]! Oh, and one more thing, we're hopefully going to actually make it to Nod-Krai this week!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/23Mar.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 23 Mar | 4 PM ET/1 PM PT  | Art              |
+| 24 Mar | 4 PM ET/1 PM PT  | Art              |
+| 25 Mar | 3 PM ET/12 PM PT | Genshin Impact   |
+| 26 Mar | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 28 Mar | 3 PM ET/12 PM PT | Terraria Collab  |
+|        | 10 PM ET/7 PM PT | Danganronpa 2    |
