@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 30 Mar
+#+DATE: 2026-03-30T10:14:08-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was a pretty good week. Not as busy as the last week. Plus I had more time with my kittens and an awesome Collab with B and Sero. We even managed a couple art streams doing some chibi requests. It was great!
+
+* Art Streams
+This week we took a break from the comic to do a couple of chibi requests. I am totally not building a chibi army! That said, the "Make me a Chibi" redeem is back in stock so you can always have me draw chu as a chibi. Of course, you can also do five gifted subs at any time to get on the list. I like making chibis now that I can actually do it. So, yeah, let's make even more!
+* Game Streams
+Two art streams yet still four gaming streams!? How did this happen? Well, it helps to have two streams on one day. That day started with a Terraria collab with [[https://oshi.to/bsparkx][Bsparkx]] and [[https://oshi.to/sero][Sero]] and then we capped it off with a VN Nite in Danganronpa 2. I also managed to get a bit closer to Nod-Krai only to somehow get diverted to Inazuma in Genshin Impact and we got Monica back in Dark Cloud 2. A full gaming week!
+** Genshin Impact
+We helped Ineffa get most of her memories back and even got her a new core. Don't ask what she did to the old one. She seems all better now, but everything came back at once and she's still having trouble recalling some specific memories. She did remember Aino though! We also apparently had to head to Inazuma before we could go in to Nod-Krai. Still stuck there. I will achieve my goal before PS4 support ends though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6N0ldpJNQq4?si=A-sTziSYEECHBVjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We descended into the mouth of the volcano and, wouldn't chu know it, we were met with a river of lava! Fortunately, someone in the future had just what we needed to make that lava do what we wanted. After that we go some lore from Gaspard and we got Monica back! That wasn't all though, with her in toe, we would not only reunite with our mother but also meet Emperor Griffon. A lot happened!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4kjooMXsWk?si=QyAjh3Y7IDkhKhQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Terraria
+We set out to fight a worm and ended up fighting a baunch of slimes and spawning the king of slimes. We had to take care of that first, but, hey, we got new slime mounts. They were pretty useful against the worm which we did finally manage to beat, I think that took two nights, but not sure. It was definitely a long fight though! We got it and headed for the underworld before we had to split for the day. Hopefully more fun next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqZHa7iSC_g?si=W8nyJ5ce-m6XCg0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We made some more progress. Not going to lie, I kind of forgot a few key details in the case. Hopefully that shan't happen again. I think we are zeroing in on the killer and, I'm pretty sure it is neither Chiaki nor Hiyoko. We still have a little bit left to go before we can point her out for sure though. Next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3uVkj5F7vo?si=oNVi12SmTczy-xLq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+This is a very special week! It is the start of my birthday month on Wednesday! [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be hosting a couple streams before than, but then we'll kick off the month with a *model reveal*. What new look do I have in-store for chu? You'll just have to tune in and find out 😜
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/30Mar.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 30 Mar | 4 PM ET/1 PM PT  | Art              |
+| 31 Mar | 3 PM ET/12 PM PT | Genshin Impact   |
+| 1 Apr  | 4 PM ET/1 PM PT  | Model Reveal!    |
+| 2 Apr  | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 3 Apr  | 4 PM ET/1 PM PT  | TBD              |
