@@ -1,0 +1,46 @@
+#+TITLE: Stream Recap: 6 Apr
+#+DATE: 2026-04-06T09:59:35-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was a really good week with a lot of art and a special stream for my second favorite holiday. I even debuted a new model (tried making everyone thing it was my 2.0 model, but it was a chibi). We even got to Nod-Krai and 100%'s Sindain! What will we get up to next week?
+
+* Art Streams
+We had a few last minute details to put on our little Chibi version of Twin. We did it though! I like what we came up with and I think Twin liked it too. I love doing these little chibis. The redeem is still active too, so come and get yours! Or, would you like to be a guest in a comic? You can gift five subs and you'll get the option to guest star.
+
+The second thing we needed to do was [[https://www.twitch.tv/jadeeyeddemoness][Jade]]'s boop emote. I struck a deal with them that I would make a boop emote for them if they spread my boop emote around. They held up their end so I created a new boop for them. It got added to their channel the very day I finished to, which was cool to see!
+* Special Stream
+My favorite holiday is the one I literally turned into a full [[https://www.youtube.com/playlist?list=PLkFe_D6-Ml9-rYwXk0utbmQis1e5_slnA][month]]. My second favorite though is April Fool's. I don't know much of it's history but I like a day where we don't take anything too seriously and we learn to scruntize everything. I played into that this year by; a) Doing announcements where some were fake and some were real. b) Making it appear like Yayoi 2.0 was coming, but debuting my chibi model instead. c) Making it seem like my Mac went back to the 90's. I think it was a lot of fun. At the end we finished up Jade's boop, like I mentioned above. Need more events that are longer than an hour!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxi_y_0KFsc?si=XNWzAWJ3cbLD5ALJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Art and special streams weren't everything though. We had a mission to accomplish! Over two streams we made it to Nod-Krai! To be honest, I am happy we didn't skip anything but was beginning to stress over it a little. Now I just need to find a way to keep playing after this next week. Oh, we also 100%'d Sindain and acquired two gems in Dark Cloud 2!
+** Genshin Impact
+*** First Stream
+We finally know why those two stories in Inazuma were so important. They had a lot of important context for the interlude that I needed which seems like it's going to play right into Nod-Krai story. This was a pretty long stream, but we're still not quite to Nod-Krai. Mostly went to Sumeru and Inazuma, but chu know what that means? I got to see Nahida again!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oS8BLd8dTXQ?si=5yQYCkCJ3JrjmAb6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Second Stream
+A lot happened! We went to the Windblume festival and ended up finding out about a trial. Turns out Albedo was the one on trial and, well, let's just say things weren't exactly as they appeared. Still Albedo is fine and we managed to help Mondstat. We even set sail and landed on Nod-Krai! We made it everynyan!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WaaRBzi66xs?si=a6h3nLS7ivwha6LP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We finally were able to 100% complete Sindain. I had a feeling objectives we needed were locked in the area we couldn't get to. We also got two of the gems we needed. I was complaining about blue seals in the other new areas, but...I think having a red seal and not being able to cheat with the ridepod might be a LOT harder!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XxWNVMPMB8?si=IfzcwmFaDGx1MjuG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have a bit of a short week this week. Turns out adulting will be getting in the way a little and I won't be able to stream on my birthday or the day after. Well, the 9th is /possible/, but don't hold your breath, instead subscribe on YouTube to get notified if I go live!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/6Apr.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 6 Apr  | 4 PM ET/1 PM PT  | Art              |
+| 7 Apr  | 4 PE ET/1 PM PT  | Hollow Knight    |
+| 10 Apr | 4 PM ET/1 PM PT  | Art              |
+| 11 Apr | 10 PM ET/7 PM PT | Danganronpa 2    |
