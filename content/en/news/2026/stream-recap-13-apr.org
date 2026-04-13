@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 13 Apr
+#+DATE: 2026-04-13T10:13:54-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: So, I couldn't spend my birthday with my kittens, but we did one better! I celebrated the entire week of my birthday with them. We had lots of fun with two art streams. We headed back to the White Palace where I actually made some progress. We got back Paznos. We even completed another chapter in Danganronpa 2. I had lots of fun and I hope the kittens did too!
+
+* Art Streams
+Panel three of the comic turned out a bit more complicated. I still hope that I can continue to hone my process and maybe make these a little faster. Still we finished the panel and only have one panel left! Can't wait to show this off!
+* Game Streams
+Started this week's gaming streams with Hollow Knight. I made some good progress in the White Palace! We continued with Dark Cloud 2. I was very happy to find out there was only one red seal. You know these wouldn't be a problem if they didn't give us such big enemies. The final stream of my birthday week was a VN Nite. We finally finished this class trial and the chapter!
+** Hollow Knight
+After a looong break trying to get to Nod-Krai in Genshin, we returned to Hollownest and the White Palace. Yes this place is hard. There aren't any enemies per se, but plenty of things that try to keel chu. Still, it didn't take me long to get back into things and I impressed myself with some of my platforming. We made it to the elevator and passed some "enemies" and even found a new bench. Not sure how much more we have left. I just know we are going to avoid the Path of Pain 😝
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pR5_6DXVUIw?si=ktTMbTyuexzItP56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We got past that red seal and managed to get the water gem. That gave us three gems of four. A quick trip back to Mount Gundor and some more preparation, helped us get the final gem. We were able to bring the fortress to the present and shoot down Griffon's palace. Only now we have to figure out how to restore it, maybe then we can end the conflict without keeling Griffon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-d_NxGIoSY?si=X0DY7O3zu-eVEqjL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+So...there were some crazy things this time around. The killer was killing for someone, but that person really didn't order the killing. Still the killer tried to get us to vote incorrectly in hopes to save the person, but it didn't work. In the end Monokuma knew that the person wasn't just a tool and killed of their own volition. So yeah, we're safe for now.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-1T5u2DM4U?si=guk3eyRg8Wlakbit" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will be returning to a somewhat normal week. I decided to only do one art stream this week though so we could get both Genshin and Hollow Knight in again. I have a new mission in Genshin and, honestly, am happy I found a way to continue it without PS4 support!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/13Apr.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 13 Apr | 4 PM ET/1 PM PT  | Art              |
+| 14 Apr | 3 PM ET/12 PM PT | Genshin Impact   |
+| 15 Apr | 3 PM ET/12 PM PT | Hollow Knight    |
+| 16 Apr | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 18 Apr | 10 PM ET/7 PM PT | Danganronpa 2    |
