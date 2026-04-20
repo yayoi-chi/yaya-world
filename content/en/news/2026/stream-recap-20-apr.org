@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 20 Apr
+#+DATE: 2026-04-20T10:28:14-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: PS4 support may have ended for Genshin, but our journey continued this week! We also finished our comic, and completed the White Palace in Hollow Knight. I was actually pretty surprised. I didn't know I would finish it that stream. I even started a new chapter in Danganronpa 2, which is...something.
+
+* Art Streams
+This was the stream where I finished the comic. I didn't finish editing the timelapse though so I think I'll post the finished comic here as well as in my gallery! I'll make a note to throw up the timelapse next week. It actually turned into something I am very proud of!
+#+ATTR_HTML: :alt Sharing is Caring
+#+ATTR_HTML: :title Doesn't it Feel Good to Share
+[[/~yayoi/gallery/creations/Doesn%27tItFeelGoodToShare.png]]
+
+* Game Streams
+Lots of goals accomplished this week. I shocked myself by finishing White Palace in Hollow Knight. We managed to get ourselves a free C1 Aino. We even started the third chapter of Danganronpa 2. I think Dark Cloud 2 is kicking my behind, but we're almost there!
+** Genshin Impact
+It honestly didn't take us long to meet up with Aino. I had a feeling she would be there shortly after we arrived in Natlan. If I didn't have such long streams I probably could have gotten her while I was still playing on the PS4. Either way we did end up with a free C1, so that's awesome. Of course I wasn't going to just end stream there! So we did some of the Nod-Krai story and even met our sibling again! Am still not 100% sure it was him though...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPmfqPY9ULA?si=U4N0QmX50oeN4wb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Hollow Knight
+I honestly didn't think I'd do it in this stream, but I guess the previous couple of streams gave me a lot of good practice. No, I am not talking about completing the Path of Pain. I did complete White Palance though. That gave me half of the knight's heart. I think I am a third of the way to being able to battle Radience. I wonder if my exploits in White Palace will help with that fight.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TaZ1sZgvWlc?si=UkvooK5vhGYnZ3Gm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+This final place is pretty beeg. I took a branch path just to see if I could and it led us to a memory and a flower. Of course this painted Griffon in a different light, but we still don't know if we can redeem him. I suppose we'll have to answer that question next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNz3YtRcEv0?si=44FRD7tn85B648pH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Well, we did get a new island to explore. It seems to be going kind of like the last one. This time Mikan discovered something in the hospital instead of Chiaki in some weird ruins. Due to some scuff though, I had to end before we found out what. Next week though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Xge6GbCtDY?si=_Plfr3-_ns3GcvOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will play host to another collab stream in Terraria this week. I also am going back to two art streams so we can revisit some of my OBS assets including my BRB screen. Aside from that we'll have our usual Dark Cloud 2 and Danganronpa 2 streams and some more Genshin Impact archon quest fun in Nod-Krai!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/20Apr.png]]
+| Date   | Time             | What's streaming |
+|--------+------------------+------------------|
+| 20 Apr | 4 PM ET/1 PM PT  | Art              |
+| 21 Apr | 4 PM ET/1 PM PT  | Art              |
+| 22 Apr | 3 PM ET/12 PM PT | Genshin Impact   |
+| 23 Apr | 3 PM ET/12 PM PT | Dark Cloud 2     |
+| 25 Apr | 3 PM ET/12 PM PT | Terraria Collab  |
+|        | 10 PM ET/7 PM PT | Danganronpa 2    |
