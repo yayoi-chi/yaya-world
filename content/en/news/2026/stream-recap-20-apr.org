@@ -11,7 +11,7 @@
 This was the stream where I finished the comic. I didn't finish editing the timelapse though so I think I'll post the finished comic here as well as in my gallery! I'll make a note to throw up the timelapse next week. It actually turned into something I am very proud of!
 #+ATTR_HTML: :alt Sharing is Caring
 #+ATTR_HTML: :title Doesn't it Feel Good to Share
-[[/~yayoi/images/Doesn'tItFeelGoodToShare.png]]
+[[/~yayoi/gallery/creations/Doesn%27tItFeelGoodToShare.png]]
 
 * Game Streams
 Lots of goals accomplished this week. I shocked myself by finishing White Palace in Hollow Knight. We managed to get ourselves a free C1 Aino. We even started the third chapter of Danganronpa 2. I think Dark Cloud 2 is kicking my behind, but we're almost there!
