@@ -50,6 +50,8 @@ images: # when mode is one-by-one, images front matter works
     caption: What's my favorite thing to do? Play VNs! What's my second favorite? Doing homework 😆
   - image: ADayOutWithaFriend.png
     caption: What's my third favorite thing to do? Hang out with Frazzle!
+  - image: Doesn'tItFeelGoodToShare.png
+    caption: My first 4-koma! I really like how it turned out.
 ---
 
 I draw too! That's right I don't just play games, but I also like to draw. I will even stream my art, you can check out my past art streams on [YouTube](https://www.youtube.com/playlist?list=PLkFe_D6-Ml98xWkSINAfE8FWSVrdK2iIg). I try to do at least one art stream a week, so please check it out, and check out my finished works below!
