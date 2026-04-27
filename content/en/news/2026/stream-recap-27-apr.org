@@ -5,12 +5,12 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Was an average, but still fun, week. Went back to two art streams and actually finished a project in a single stream. I was on track to finish a second, but I had some issues with the YouTube stream so I ended a little early. Game streams were good though. We did more Nod-Krai Archon quests in Genshin Impact and made some more progress in the moon flower palace in Dark Cloud 2. I also found out that there really wasn't much to discover on the third island in Danganronpa 2.
+#+SUMMARY: Was an average, but still fun, week. Went back to two art streams and actually finished a project in a single stream. I was on track to finish a second, but I had some issues with the YouTube stream so I ended a little early. Game streams were good though. We did more Nod-Krai Archon quests in Genshin Impact and made some more progress in the Moon Flower Palace in Dark Cloud 2. I also found out that there really wasn't much to discover on the third island in Danganronpa 2.
 
 * Art Streams
-Decided to revamp some of my overlays and scenes. I wanted Yayai to be more prevalent as my mascot so I redid my BRB screen featuring her all excited for met to return. I liked it so much that I tweaked the text a bit and use it for a starting and ending screen too. That only took one stream! In the second stream we started a tech issues screen. Ironically I had some tech issues before stream, but those worked out. What was more jarring was the policy issues on YouTube. That caused me to end stream a little early, but I now know what to do if something like that occurs again. 
+Decided to revamp some of my overlays and scenes. I wanted Yayai to be more prevalent as my mascot so I redid my BRB screen featuring her all excited for me to return. I liked it so much that I tweaked the text a bit and use it for a starting and ending screen too. That only took one stream! In the second stream we started a tech issues screen. Ironically I had some tech issues before stream, but those worked out. What was more jarring was the policy issues on YouTube. That caused me to end stream a little early, but I now know what to do if something like that occurs again. 
 * Game Streams
-Game streams went without any problems this week. We did more Nod-Krai shtuff in Genshin Impact, explored some more of the moon flower palace in Dark Cloud 2, and even managed to make some progress in Danganronpa 2. Mostly just a standard week!
+Game streams went without any problems this week. We did more Nod-Krai shtuff in Genshin Impact, explored some more of the Moon Flower Palace in Dark Cloud 2, and even managed to make some progress in Danganronpa 2. Mostly just a standard week!
 ** Genshin Impact
 We finished one act of Nod-Krai. Apparently there's like 7 acts though, which is longer than Natlan. I dunno if each act is the same size though. Still we're one step closer to getting caught up. Not sure I'll make it before 7.0 releases, but we'll keep trying. The Nod-Krai archon quests are interesting! Also Jahoda is cute and Columbina is purty, that is all!
 #+begin_export html
@@ -27,7 +27,7 @@ We fought so many bosses this time. Many of them were repeats, but uhm...didn't 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBTaBrkXFbA?si=Qf4xmHAiWBDFbC-3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Danganronpa 2
-Well we had a very long and busy day. Turns out, when I agreed to help out Hiyoko and Ibuki it didn't take away my free time so I had two free times plus those to events. So it was a busy day. Fun, but busy!
+Well we had a very long and busy day. Turns out, when I agreed to help out Hiyoko and Ibuki it didn't take away my free time so I had two free times plus those two events. So it was a busy day. Fun, but busy!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Og17ZkNSew4?si=fHRqxHD49CbxlnzT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
