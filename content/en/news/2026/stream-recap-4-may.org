@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 4 May
+#+DATE: 2026-05-04T10:22:11-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We did a gacha week. Well we mostly did a gacha week. I kept my Maker Monday art stream and my Throwback Thursday Dark Cloud 2 stream. All other streams, including VN Nite, were gacha games. I would have done a gacha for Throwback Thursday too only none are that old. Still it was a nice week where we got to explore new stories in Wuthering Waves and new events in Genshin Impact and Blue Archive.
+
+* Art Streams
+I totally forgar to work on a timelapse for the last art project 😭 I'll try to get one up next week. We did finish it though. It is not fun seeing Yayai so worried, but I love the way the tech issues screen came out. I was, however, hoping that we wouldn't actually need to use it. Well...[[{{% ref "#headline-4" %}}][we did]]...
+* Game Streams
+It was oops all gacha games 😝 No, really. Most of the games we played this week were gacha games. The only exception, in fact, was Dark Cloud 2. We're almost done with that one. After a /slightly/ extended stream we got to about the point where we will confront the final boss. We also uncovered more story in Wuthering Waves and did some new events in Blue Archive and Genshin Impact. I think it was a successful gacha take over!
+** Wuthering Waves
+We made it to Startorch Academy. If we were hoping for a normal school life, well, that's not going to happen apparently. We did meet a lot of interesting people including someone calling herself Lynae and a professor named Mornye. We also had to stop a catastophre and keep our new friend from getting expelled. So yeah, not exactly a normal day. Well, let's see how the rest of my school life will be here!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfPcW6hRQcc?si=jGE-Xkw4ri_IM9zF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Archon quest, what archon quests, we have an expo to set up! I decided, on the recommendation of a Twitch chatter, to do the current event instead of the archon quests. I'm not disappointed! Even though we had some tech problems, we still managed to get past them and even got Jahoda! All in all it wasn't bad.
+*** Part 1
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwNiE5AZ2sk?si=havSMqfn1CeU2mZm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Part 2
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rCX6PHRFfds?si=baPiAsfmP0KACKOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+We are there! Well almost. We finally got through the entire palace and we did our best to rebuild the garden. It started taking a LOT less time as soon as I realized I didn't have to keep running back to the foyer to look at the pictures. Still, some of these angles did make it difficult to figure out how many of each part I needed and where to place them. The kittens helped though. Next time we face Griffon!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DWr0ZcGlZc?si=4Ao-dGFpUjBd6VRK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Blue Archive
+It's been a while since we visited our students. It was nice to see them again. We talked to quite a few of them and had some fun times. I even managed to get Midori, so I have both twins now. We also followed the Ninjitsu Research Club on interesting new mission. Too bad that dress just didn't fit...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqT4ZivgseQ?si=VWoxgC5VI55rXwzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have mostly normal streams this week. I will be trying out Neverness to Everness and will do *two* art streams. Aside from that, pretty normal, but hopefully still cozy, week.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/4May.png]]
+| Date  | Time             | What's streaming      |
+|-------+------------------+-----------------------|
+| 4 May | 4 PM ET/1 PM PT  | Art                   |
+| 5 May | 3 PM ET/12 PM PT | Neverness to Everness |
+| 6 May | 4 PM ET/1 PM PT  | Art                   |
+| 7 May | 3 PM ET/12 PM PT | Dark Cloud 2          |
+| 9 May | 10 PM ET/7 PM PT | Danganronpa 2         |
