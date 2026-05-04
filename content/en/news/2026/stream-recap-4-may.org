@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: We did a gacha week. Well we mostly did a gacha week. I kept my Maker Monday art stream and my Throwback Thursday Dark Cloud 2 streams. All other streams, including VN Nite, were gacha games. I would have done a gacha for Throwback Thursday too only none are that old. Still it was a nice week where we got to explore new stories in Wuthering Waves and new events in Genshin Impact and Blue Archive.
+#+SUMMARY: We did a gacha week. Well we mostly did a gacha week. I kept my Maker Monday art stream and my Throwback Thursday Dark Cloud 2 stream. All other streams, including VN Nite, were gacha games. I would have done a gacha for Throwback Thursday too only none are that old. Still it was a nice week where we got to explore new stories in Wuthering Waves and new events in Genshin Impact and Blue Archive.
 
 * Art Streams
 I totally forgar to work on a timelapse for the last art project 😭 I'll try to get one up next week. We did finish it though. It is not fun seeing Yayai so worried, but I love the way the tech issues screen came out. I was, however, hoping that we wouldn't actually need to use it. Well...[[< % ref "#genshin-impact" % >][we did]]...
@@ -37,7 +37,7 @@ It's been a while since we visited our students. It was nice to see them again. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bqT4ZivgseQ?si=VWoxgC5VI55rXwzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have mostly normal streams this week. I will be trying out Neverness to Everness and do *two* art streams. Aside from that, pretty normal, but hopefully still cozy, week.
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have mostly normal streams this week. I will be trying out Neverness to Everness and will do *two* art streams. Aside from that, pretty normal, but hopefully still cozy, week.
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/4May.png]]
 | Date  | Time             | What's streaming      |
