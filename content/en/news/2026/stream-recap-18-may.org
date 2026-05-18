@@ -5,17 +5,17 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: I think we had a pretty fun and interesting week this week. There was some of the usual things, like Maker Monday and Throwback Thursday. We even did VN Nite. We also did a few new things. I did my first ever science stream and we even started a new game!
+#+SUMMARY: I think we had a pretty fun and interesting week this week. There were some of the usual things, like Maker Monday and Throwback Thursday. We even did VN Nite. We also did a few new things. I did my first ever science stream and we even started a new game!
 
 * Art Stream
 I sware there will be a timelapse for my tech issue screen eventually. I got a bit busy outside of stream this week. In our art stream this week though we are doing a panel with two new characters. I haven't finished them yet, but I hope you all will adore Madoka and Ichigo when you seem them. I also hope my next timelapose doesn't take as long.
 * Science Stream
-SCIENCE! We talked about ASD. We defined it and looked at its history. I tried to present things in an interesting fashion and even brought up some games and game characters I think might be good examples even though we can't actually diagnos a fictional character. I liked doing this almost as much as my art streams. Only thing holding me back from doing this a lot is the amount of research and work that goes into them.
+SCIENCE! We talked about ASD. We defined it and looked at its history. I tried to present things in an interesting fashion and even brought up some games and game characters I think might be good examples even though we can't actually diagnose a fictional character. I liked doing this almost as much as my art streams. Only thing holding me back from doing this a lot is the amount of research and work that goes into them.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bhJ7azLI2Y?si=ma34W1ZnSxBcaDuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-One less game stream due to the art stream. We did, however, get a new game thanks to [[https://keymailer.co/creators/][Keymailer]]. We also managed to beat the Dark Element ind Dark Cloud 2 and watch the ending scene and credits together. Not sure what will come next, though I do know what I'll do next week. I feel like not much really happened in Danganronpa 2 though 😅
+One less game stream due to the science stream. We did, however, get a new game thanks to [[https://keymailer.co/creators/][Keymailer]]. We also managed to beat the Dark Element in Dark Cloud 2 and watch the ending scene and credits together. Not sure what will come next, though I do know what I'll do next week. I feel like not much really happened in Danganronpa 2 though 😅
 ** Ariana and the Elder Codex
 Was pleasantly surprised about how nice this game was. Ariana is pretty shtinkin' kyute and the game is a lot of fun! We managed to get through the earth codex and I was KO'd there for the first time, but that was a really twicky fight. We beat him though and I got soome new magic and managed to get the water codex to 100%. I think I'll stream more of this!
 #+begin_export html
