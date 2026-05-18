@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap 18 May
+#+DATE: 2026-05-18T10:14:05-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I think we had a pretty fun and interesting week this week. There was some of the usual things, like Maker Monday and Throwback Thursday. We even did VN Nite. We also did a few new things. I did my first ever science stream and we even started a new game!
+
+* Art Stream
+I sware there will be a timelapse for my tech issue screen eventually. I got a bit busy outside of stream this week. In our art stream this week though we are doing a panel with two new characters. I haven't finished them yet, but I hope you all will adore Madoka and Ichigo when you seem them. I also hope my next timelapose doesn't take as long.
+* Science Stream
+SCIENCE! We talked about ASD. We defined it and looked at its history. I tried to present things in an interesting fashion and even brought up some games and game characters I think might be good examples even though we can't actually diagnos a fictional character. I liked doing this almost as much as my art streams. Only thing holding me back from doing this a lot is the amount of research and work that goes into them.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bhJ7azLI2Y?si=ma34W1ZnSxBcaDuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+One less game stream due to the art stream. We did, however, get a new game thanks to [[https://keymailer.co/creators/][Keymailer]]. We also managed to beat the Dark Element ind Dark Cloud 2 and watch the ending scene and credits together. Not sure what will come next, though I do know what I'll do next week. I feel like not much really happened in Danganronpa 2 though 😅
+** Ariana and the Elder Codex
+Was pleasantly surprised about how nice this game was. Ariana is pretty shtinkin' kyute and the game is a lot of fun! We managed to get through the earth codex and I was KO'd there for the first time, but that was a really twicky fight. We beat him though and I got soome new magic and managed to get the water codex to 100%. I think I'll stream more of this!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/plSBMnjFIqU?si=XgjFKUAF161qNJ8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dark Cloud 2
+Turns out the Dark Element may have been created by a part of Sirus after all, but the evil one named Griffon was just a myth. There were some small set backs, but we did get the end credits to roll. Even with Monica KO'd during the last fight. It turns out we had a pretty stronk pew pew for Max and that just meant ignoring the clock a bit and just shooting the Dark Element a lot. We did it! Next Throwback Thursday will be special!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7DBdKrAr6Ak?si=tJ6_gcSea_YnlM3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We decided to quarantine. Those who were effected by the despair disease, Mikan, Fuyuhiko and myself separated from the rest. Mikan made sense as the one taking care of the others. I touched everyone so I guess that makes some sense too, but Fuyuhiko seems to have volunteered just to stay away from Hiyoko. Either way we found a way to communicate. So far not much has happened except Nagito getting worse. Will their be a class trial if one of them dies of disease? I guess we shouldn't think about that. We just need to take care of them and cure this thing!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5oPPi8l9jEI?si=vgXZ39AM3xEDVTZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will host another special event! I'm revealing an upgraded version of my model! I'm super excited. Though this will be a bit of an odd week as I am off Wednesday for school stuff, but will be streaming Friday to make up for it. Hope you look forward to the new me!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/18May.png]]
+| Date   | Time             | What's streaming           |
+|--------+------------------+----------------------------|
+| 18 May | 4 PM ET/1 PM PT  | New Model Reveal + Art     |
+| 19 May | 3 PM ET/12 PM PT | Genshin Impact             |
+| 21 May | 3 PM ET/12 PM PT | Super Mario Bros. 3        |
+| 22 May | 4 PM ET/1 PM PT  | Ariana and the Edler Codex |
+| 23 May | 10 PM ET/7 PM PT | Danganronpa 2              |
