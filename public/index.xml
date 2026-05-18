@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 11 May 2026 10:38:22 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:14:05 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 18 May</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-18-may/</link>
+        <pubDate>Mon, 18 May 2026 10:14:05 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 18 May 2026 10:14:05 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-18-may/</guid>
+        <description>I think we had a pretty fun and interesting week this week. There were some of the usual things, like Maker Monday and Throwback Thursday. We even did VN Nite. We also did a few new things. I did my first ever science stream and we even started a new game!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3256,38 +3288,6 @@ I want to do more than just stream games, and for that I need to show off my art
         <atom:modified>Sun, 10 Nov 2024 12:27:35 -0800</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-10-nov/</guid>
         <description>Well I tried to be responsible by starting my comic project and scheduling an extra homework day. I did try that. I just can&amp;#39;t stay away from my kittens…</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 3 Nov</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-3-nov/</link>
-        <pubDate>Sun, 03 Nov 2024 15:41:06 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 03 Nov 2024 15:41:06 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-3-nov/</guid>
-        <description>After banishing Ghost Cat for the year, I have returned to a more normal lineup of wonderful games. Well, so far I really just did some announcements and played Final Fantasy V, but it was a nice change of pace. I hope everyone enjoyed Spooky Month!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         

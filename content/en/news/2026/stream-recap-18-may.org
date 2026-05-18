@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 18 May
+#+TITLE: Stream Recap: 18 May
 #+DATE: 2026-05-18T10:14:05-07:00
 #+DRAFT: false
 #+DESCRIPTION:
