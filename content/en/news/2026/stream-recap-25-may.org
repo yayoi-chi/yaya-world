@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 25 May
+#+DATE: 2026-05-25T10:06:07-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We debuted a new model! I really like how she turned. I also managed to get some Genshin in despite maintenance and issues. We even played more Ariana and the Elder Codex. It was a certainly a very good week, well...mostly.
+
+* Art Streams
+This was a special stream! I did work a little bit on my comic. However, before I got that going, I took some time to show off a brand-new model. It's the next version of my model with some better rigging, toggles, and some new redeems. It was a good debut. And that part was fine, but we ran into some issues with YouTube flagging the stream and later removing it. I tweeted about it, but I'll write a little more [[{{% ref "news/2026/youtube-and-copyright.org" %}}][right here]].
+
+Because the video was removed I don't have an embed yet. I do have a highlight you can check out on [[https://www.twitch.tv/videos/2775390609][Twitch]] though. I also finally have an embed for the timelapse of my tech issue screen streams that I'll have below.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JCRehQLM_Q?si=VfYJR-IFqnCiuRUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+The issues I had with YouTube weren't the only issues this week. I had some pretty bad internet problems just after. I'm just glad it didn't really soil the whole week. We still managed to make some progress in Genshin Impact and was even able to squeeze in some Wuthering Waves. I also was challenged to a race in Super Mario Bros. 3 (to be done at an undetermined date). I returned to Ariana and the Elder Codex as well. I think I really found a good game thanks to [[https://www.keymailer.co/][Keymailer]]!
+** Genshin Impact
+We got to talk to Columbina some more! It was a pretty good scene. She is so purty. Sadly we didn't get much further as we had maintenance and yet another Inazuma detour. We did make progress though and at least I can keep playing!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rx2NNU13Tqg?si=as2a-gARpuyoPXu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Super Mario Bros. 3
+Not really a speedrun, but wanted to see if I was still pretty fast. Sadly it seems I have doubled my time! Well, hopefully all will work out. I am very rusty with the last few worlds. So I think I need to practice them more. Let's see how that goes over the next couple weeks!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALyNnBgcL_M?si=N8gm62LPb7SVvozs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Ariana and the Elder Codex
+On to the next codex! Am trying them in order of difficulty. Next one was the wind codex. Even though it was about the same difficulty as the earth codex according to the game, it seemed more difficult. Well, I know the boss was. Talk about a bullet heck. Well we got past it, so on to the fire codex!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/La4ZvOxXYpk?si=kQNTci6Spq3pZdoK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Dangaronpa 2
+Well, not sure how despair disease is a motive, but, well things happened. We got woken up by Mikan who snuck into our cottage to try and wake us up only to fall asleep and then we ended up at the hospital before the morning announcement. We even noticed the communication camera was on. That's when things took a turn and we ended up with a body announcement. Well time for another investigation!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSqLc-d0QBU?si=tyWHRwjgxE6dK3uJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and will now be your go to for all my streams! The [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will, at this time, still also have my game streams, but extra stream types will no longer be live streamed on YouTube in order to protect the archives. However, I am now also working hard to sync some of my archives on [[https://odysee.com/@yayoivt:8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae][Odysee]] just in case. Anyway, I think I have another good week planned for us!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/25May.png]]
+| Date   | Time             | What's streaming      |
+|--------+------------------+-----------------------|
+| 25 May | 4 PM ET/1 PM PT  | Art                   |
+| 26 May | 3 PM ET/12 PM PT | Genshin Impact        |
+| 27 May | 3 PM ET/12 PM PT | Neverness to Everness |
+| 28 May | 3 PM ET/12 PM PT | Super Mario Bros. 3   |
+| 30 May | 10 PM ET/7 PM PT | Danganronpa 2         |
