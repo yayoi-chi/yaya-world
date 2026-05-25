@@ -1,0 +1,39 @@
+#+TITLE: Youtube and Copyright
+#+DATE: 2026-05-25T10:21:55-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I go over what happened to my livestream on Monday 18 May and what my plan is going forward. This is not something I want to do, but I must protect my archives.
+
+As of now, a week after the incident I will be describing, about 10% of my archived YouTube content has been synced to [[https://odysee.com/@yayoivt:8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae][Odysee]]. This was never my plan. I am not into crypto and I don't know anything about the block chain. I do know that this platform allows me to easily sync content to it from YouTube and the transition has been fairly smooth, if not long. I am, however, getting a bit ahead of myself.
+
+* What happened
+On 18 Monday 2026 I planned a debut stream to release the second version of my model. All was going well and everyone was loving my new wiggly ears and the attention I gave to my new face and mouth movements. I even got to show off my new toggles and outfits that go with them. I was nice.
+
+That took about an hour, so I transitioned to working on my comic. That's when disaster struck, and not the kind that I ever wanted to deal with. You see, I use music to fill the silence during my art streams (it was even playing during the debut). Now I am aware of copyright laws and was very careful to find a service that would allow me to use at least a portion of their music for my livestreams. I joined their creator's program so I could gain all the right permissions. I've been using this music for over 2 years with no problem. This live stream, however, the content was flagged.
+
+I received multiple warnings, but I knew this had to be an error as I knew I was using the right tracks and that I had permission to use this music in livestreams. As I was wrapping up, however, YouTube stopped and removed my livestream. There is a highlight of the debut on [[https://www.twitch.tv/videos/2775390609][Twitch]], but I figured I could appeal this and let them know this is an error. That didn't work as I thought it would
+
+* YouTube's Appeal Process
+
+"If you think this is an error, please fill this out." Not exactly their wording, but close to it. My manager filled out the form and told YouTube that we were using music we had permission to use. Thinking that YouTube would than need to contact Chillhop to verify this we waited. About 24 hours later though, we received an e-mail:
+
+We have reviewed your appeal for the following: [link to my livestream]
+
+We reviewed your content carefully, and have confirmed that it violates our 3rd party content policy. We know this is probably disappointing news, but it is our job to make sure that YouTube is a safe place for all.
+
+I have my own views on what the really mean by this, but this was not the result we were expecting. Not only does this not communicate why they feel that we violated their policy despite having permission to use the content in our livestreams, it also doesn't communicate that they even contacted Chillhop to verify our permission. This is /not/ disappointing, this is terrible. As of now the video still reminds off except for the highlight I linked previously.
+
+* YouTube has earned themselves a strike!
+
+I am now putting YouTube on notice! You have received a strike for not fairly and adequately upholding your own policies. If you think I have issued this strike in error, please feel free to explain yourselves via e-mail or DM. I will happily review your case.
+
+* Plans for the future
+
+YouTube has one strike. I will give them three to be fair. If they receive three strikes I will be pulling all my archived content from their platform and cease all YouTube activity. YouTube needs to do better. Though I am small I am in a position to still do this. So I will take a stand against unfair practices and elect to remove myself from a platform that I feel no longer cares for their creators. The very people that made them what they are.
+
+I encourage everyone who is able to also start giving YouTube strikes and remove yourself from their platform (after three strikes). Let's show YouTube that they must treat their content creators like the humans they are. The humans that built this platform for them!
+
+Also, this is for YouTube, either remove your appeal system or require a valid rebuttal when an appeal is rejected. You make us tell you why we think you got it wrong, I think it is only fair that we require you to refute those claims. Make sure that reasoning is also communicated to us! If you can't do this, then update your terms to say all your decisions are final (let's face it they basically are already) and remove the appeal system.
