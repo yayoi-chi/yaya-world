@@ -8,7 +8,7 @@
 #+SUMMARY: We debuted a new model! I really like how she turned. I also managed to get some Genshin in despite maintenance and issues. We even played more Ariana and the Elder Codex. It was a certainly a very good week, well...mostly.
 
 * Art Streams
-This was a special stream! I did work a little bit on my comic. However, before I got that going I took some time to show off a brand new model. It's the next version of my model with some better rigging, toggles, and some new redeems. It was a good debut. And that part was fine, but we ran into some issues with YouTube flagging the stream and later removing it. I tweeted about it, but I'll right a little more [[<% ref 'news/youtube-and-copyright.org %>][right here]].
+This was a special stream! I did work a little bit on my comic. However, before I got that going, I took some time to show off a brand-new model. It's the next version of my model with some better rigging, toggles, and some new redeems. It was a good debut. And that part was fine, but we ran into some issues with YouTube flagging the stream and later removing it. I tweeted about it, but I'll write a little more [[<% ref 'news/youtube-and-copyright.org %>][right here]].
 
 Because the video was removed I don't have an embed yet. I do have a highlight you can check out on [[https://www.twitch.tv/videos/2775390609][Twitch]] though. I also finally have an embed for the timelapse of my tech issue screen streams that I'll have below.
 #+begin_export html
@@ -37,7 +37,7 @@ Well, not sure how despair disease is a motive, but, well things happened. We go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rSqLc-d0QBU?si=tyWHRwjgxE6dK3uJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-[[https://www.twitch.tv/yayoi_chi][Twitch]] and will now be your go to for all my streams! The [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will, at this time, still also have my game streams, but extra stream types will no longer be live streamed on Twitch in order to protect the archives. However, I am now also working hard to sync some of my archives on [[https://odysee.com/@yayoivt:8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae][Odysee]] just in case. Anyway, I think I have another good week planned for us!
+[[https://www.twitch.tv/yayoi_chi][Twitch]] and will now be your go to for all my streams! The [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will, at this time, still also have my game streams, but extra stream types will no longer be live streamed on YouTube in order to protect the archives. However, I am now also working hard to sync some of my archives on [[https://odysee.com/@yayoivt:8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae][Odysee]] just in case. Anyway, I think I have another good week planned for us!
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/25May.png]]
 | Date   | Time             | What's streaming      |
