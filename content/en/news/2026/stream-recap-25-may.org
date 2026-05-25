@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 25 May
+#+TITLE: Stream Recap: 25 May
 #+DATE: 2026-05-25T10:06:07-07:00
 #+DRAFT: false
 #+DESCRIPTION:
@@ -8,7 +8,7 @@
 #+SUMMARY: We debuted a new model! I really like how she turned. I also managed to get some Genshin in despite maintenance and issues. We even played more Ariana and the Elder Codex. It was a certainly a very good week, well...mostly.
 
 * Art Streams
-This was a special stream! I did work a little bit on my comic. However, before I got that going, I took some time to show off a brand-new model. It's the next version of my model with some better rigging, toggles, and some new redeems. It was a good debut. And that part was fine, but we ran into some issues with YouTube flagging the stream and later removing it. I tweeted about it, but I'll write a little more [[<% ref 'news/youtube-and-copyright.org %>][right here]].
+This was a special stream! I did work a little bit on my comic. However, before I got that going, I took some time to show off a brand-new model. It's the next version of my model with some better rigging, toggles, and some new redeems. It was a good debut. And that part was fine, but we ran into some issues with YouTube flagging the stream and later removing it. I tweeted about it, but I'll write a little more [[{{% ref "news/2026/youtube-and-copyright.org" %}}][right here]].
 
 Because the video was removed I don't have an embed yet. I do have a highlight you can check out on [[https://www.twitch.tv/videos/2775390609][Twitch]] though. I also finally have an embed for the timelapse of my tech issue screen streams that I'll have below.
 #+begin_export html
