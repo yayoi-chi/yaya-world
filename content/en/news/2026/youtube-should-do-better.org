@@ -1,0 +1,51 @@
+#+TITLE: YouTube Should Do Better
+#+DATE: 2026-05-30T14:31:37-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]:
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Quite frankly, though I am not a YouTube Partner yet, this was handled by YouTube Partner Support and they should be trained to treat everyone they contact as a partner. This is not how a partner is treated.
+
+Good news everyone! I have uploaded almost a third of my videos, shorts, and livestreams to my [[https://odysee.com/@yayoivt:8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae][Odysee Channel]]! Over the next several site updates I'll be switching out my YouTube Embeds with embedded videos from Odysee instead. This was never really a plan, but, [[{{% ref "news/2026/youtube-and-copyright.org" %}}][recent events]] have taught me that I need another place for my archives. I can't really host several hundre gigabites of video here and there weren't very many other options available, so Odysee it is! If Odysee were to go down for some reason am not really sure what I'd do, but, at least for now, there are still the YouTube archives.
+
+The TL;DR of what happened was that a rescent livestream was taken down by YouTube for what they believe was a vialation of their 3rd Party Content Guidelines. I appealed stating that I had permission to use the content, but they automatically rejected my appeal. I had taken to Twitter to reach out and have been in contact with a moderatately helpful YouTube Partner Support agent who goes by Wendy. I'll go over the conversation and the next steps for a potential resolution now that you should be caught up.
+
+* Why I feel YouTube needs to do better
+It is still my opinion that YouTube is failing content creators, especially those of us that are still trying to get started making authentic, human content. I mentioned to Wendy that our discourse should have happened as part of the appeal process and I still believe this. Here's how I think it should have gone:
+
+1. My channel manager or myself submits an appeal stating that we had permission to use the content
+2. A copyright expert reviews the appeal
+    a. If it looks like there was an error in the system, the appeal is supported
+    b. If it does not appear to be a system error, YouTube verifies the claim with the claiment
+3. The claim is lifted if applicable and the appeal is supported.
+
+I don't have full confirmation that this was not done, but it seems like what actually happened was that they received my appeal and just automatically rejected it. This is a response I got from Wendy that seems to support this.
+#+attr_html: :align center :width 100% :title E-Mail from Wendy :alt please note that the content owner must include your channel in their allowlist
+[[/~yayoi/images/wendy2.png]]
+
+The second highlight shows that they believe that my video /may/ have been flagged because my channel was not in the claiments allowslist, but this was not stated specifically, so it seems like they didn't even verify that. I'll know for sure if they even bothered to contact the claiment in a few days.
+
+However, the worst part isn't even that second highlight, it's the first. In there Wendy says "you did not stop streaming despite receiving a warning". This places the blame solely on myself and this is not how a partner should be treated.
+
+* We are not YouTube partners!
+
+Once again, to be clear, I am not officially part of the YouTube Partner Program. I, therefore, am technically not a YouTube Partner. However, this was a YTPP support agent and, at the very least, I feel I should have been treated as a potential partner. Also, since making my initial tweet, I've seen how YouTube treats their actual partners, and it isn't that different from how I was treated. That is, not as a partner.
+
+Partners would look out for one another. Partners would help each other. Partners would share the load. YouTube is owned by Google. Google has the second largest market cap in the world. They certainly have resources they could use to support small creators. It is my opinion that they choose not to allocate those resources to us. This is why they blame us if something goes wrong and why they refuse to support us. This situation could have and /should/ have been handled by YouTube/Google. Their system may have identified and actual breach of copyright, but they failed to identify that it had and failed to verify my claim that I had permission. Instead they expect me do all the work.
+#+attr_html: :align center :width 100% :title E-Mail from Wendy :alt Since your appeal was rejected, you're welcome to simply wait for your Community Guidelines warning to expire 90 days after completing the policy training. However, you may also reach out to the content owner and ask that they release the claim on your live stream so the warning can be removed earlier than that.
+[[/~yayoi/images/wendy3.png]]
+
+I was expected to either take the training or contact the claiment for them to release the claim. This is simply not a Yayoi problem, this is a YouTube problem. Again, Google has the second largest market gap on the planet, and I'm a part-time vTuber just trying to do her best to entertain. They have plenty of resources to have acted on my behalf in this situation, and this could have and /should/ have been done as part of the appeal process. If we are really partners, this isn't unreasonable as YouTube simply has more resources.
+
+* If you value feedback, don't dismiss it
+#+attr_html: :align center :width 100% :title E-Mail from Wendy :alt While I appreciate your feedback about the appeal
+process, an appeal option will remain available to you when this happens.
+[[/~yayoi/images/wendy1.png]]
+Finally, this language is very dismissive. You you really value and appreciate feedback, to something with it. Saying "While I appreciate your feedback about the appeal process, an appeal option will remain available to you when this happens." After I tell you how I feel it is broken and should be fixed or removed. Is simply dismissive. You could have said: "While I appreciate your feedback about the appeal
+process, there isn't anything I and do." or simply "I appreciate your feedback about the appeal process." Neither of these are great, but at least they don't completely dismiss my concerns.
+
+* Next steps
+YouTube, I have looked into it, I believe you still failed me and are failing your community. While I know this may be concerning to you, your strike still stands and will not be removed. I will be continuing to sync my content to my Odysee channel. If YouTube does not make things right and at least try to treat us as partners or potential partners than I will remove all content from the platform and simply continue on Twitch and Odysee. I will also no longer be promoting my livestreams on YouTube and the YouTube channel will no longer appear linked in future recaps or tweets. This starts today!
+
+I will keep the Kittens updated on Discord and Twitter if YouTube receives more strikes and if we eventually decide to cease our relationship with them. For now, all gaming livestreams will still be multicast and all archives will still be available on YouTube. I do, however, encourage all Kittens to follow me on Twitter, Twitch, and/or Odysee!

@@ -27,7 +27,7 @@ I'm still stuck inside the Gnosis they call the Cathedral Ship. I decided to try
 ** Persona 3 Reload
 There was no stream on Friday due to a meeting, so we'll just skip straight to Saturday School, seems like a fitting punishment, no? In all seriousness, we did beat the bosses for this month and started working on stuff for the next. We even managed to max out a social link! What will the last shadow mean for us? Stay tuned!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l3fD1L2oyTY?si=tGlA8vWPpKrP3K3X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2Fpersona-3-reload-yep-school-on-a%3A4?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 * Next Week
  Next week the streams will mostly be on [[https://www.twitch.tv/yayoi_chi][Twitch]], as usual, but there is one stream that will *not* be on there! Check my [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] for Saturday's stream! This will be a test to see how YouTube live streaming works. If it goes well, YouTube /may/ have more exclusive streams!
