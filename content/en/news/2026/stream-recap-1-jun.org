@@ -32,7 +32,7 @@ Most of our investigations previously had just one or two venues to look at, but
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qTxxR8onKcc?si=PDmphV5WyKrr_7-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-I think I have another good week planned for the Kittens. We going to have two art streams and finished the little witches' event in Genshin Impact! Also, more racing practice and Danganronpa. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]. I am still in process of syncing old content, but the goal is to have archives up within 72 hours.
+I think I have another good week planned for the Kittens. We are going to have two art streams and finished the little witches' event in Genshin Impact! Also, more racing practice and Danganronpa. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]. I am still in process of syncing old content, but the goal is to have archives up within 72 hours.
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/1Jun.png]]
 | Date  | Time             | What's streaming    |
