@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 1 Jun
+#+DATE: 2026-06-01T10:28:34-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I got a special request for a chibi! This was an interesting one too. Other than that we participated in the totally adorable little witches' event in Genshin Impact and helped Lacrimosa with her little image problem in NTE. Can you say cuteness overload? Well Danganronpa wasn't exactly cute, but can't win them all!
+
+* Art Streams
+I got a special chibi request thanks to my redeems on Twitch. I got to draw Twinwhitetiger as a moogle. We made the moogle special in the way only Twin could. It has stripes, pastel stripes, and pink wings and a pink pom pom. I can say there aren't many moogles like this. Due to some space constraints from syncing my YouTube content to Odysee, I wasn't able to work on a timelapse of this, but I'll get that done as soon as I can!
+* Game Streams
+We participated in the totally adorable little witches' event in Genshin Impact. Prune acts all mature while Yaoyao, Qiqi, Sayu, and Klee embrace their inner child. That wasn't the only cute thing though, we also helped Lacrimosa with her image problem. It was cuteness overload for the first half of the week for sure. We got a break from that with some Super Mario Bros. 3 racing practice and Danganronpa 2, though Danganronpa did have /some/ cute moments!
+** Genshin Impact
+We still had some story quests and even a little side quest to take care of, but I think we are ready to move forward in the Nod-Krai story. That, however, will have to wait until next time. You see, my main goal was to get Prune, but while I was looking for her trial I noticed an event. Prune and the Little Witches had a mystery to solve and an imaginary friend to help! It was so adorable, I just had to play it. We'll finish it up and get back to archon quests next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwKTVJ1j3g?si=vlqv8PkG1-R6aGyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Neverness to Everness
+Lacrimosa is adorable! We helped her beat her bad reputation at least for a day or so. Hopefully weird rumors about her will officially stop soon. After that we moved on to some main story stuff and, well, Taygedo had a really cute and silly date. I don't think it all worked out exactly how he hoped, but, well, it wasn't terrible...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPABmZ2bPvc?si=dhWf9MIc81rfGqlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Super Mario Bros. 3
+I may not be a speedrunner, but I used to be pretty fast at this game. Turns out, my other runs of it relayed much to heavily on modern things like save states and rewind. I did make it to world four, but did not complete the game. Can we finish it before the race?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m7zIt4ooCaA?si=X6m0p6QBFOF2Jmf2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Most of our investigations previously had just one or two venues to look at, but this one is different. We were pretty much all over the island. I think we are nearing its close, but I only have one very vague and probably not possible idea on a suspect. Well other than Nagito, Nagito is always a suspect. Maybe more will come to light during the trial, or while we wrap up this investigation. Only on way to find out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTxxR8onKcc?si=PDmphV5WyKrr_7-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I think I have another good week planned for the Kittens. We are going to have two art streams and finished the little witches' event in Genshin Impact! Also, more racing practice and Danganronpa. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]. I am still in process of syncing old content, but the goal is to have archives up within 72 hours.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/1Jun.png]]
+| Date  | Time             | What's streaming    |
+|-------+------------------+---------------------|
+| 1 Jun | 4 PM ET/1 PM PT  | Art                 |
+| 2 Jun | 4 PM ET/1 PM PT  | Art                 |
+| 3 Jun | 3 PM ET/12 PM PT | Genshin Impact      |
+| 4 Jun | 3 PM ET/12 PM PT | Super Mario Bros. 3 |
+| 6 Jun | 10 PM ET/7 PM PT | Danganronpa 2       |
