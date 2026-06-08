@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Exploration on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/exploration/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/exploration/</link>
     <description>Recent content in Exploration on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 23 Aug 2023 16:31:53 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/exploration/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/exploration/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>No Man&#39;s Sky (First Impressions)</title>
-        <link>http://localhost:1313/~yayoi/reviews/no-mans-sky/</link>
+        <link>https://onigirionegai.info/~yayoi/reviews/no-mans-sky/</link>
         <pubDate>Wed, 23 Aug 2023 16:31:53 -0700</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Wed, 23 Aug 2023 16:31:53 -0700</atom:modified>
-        <guid>http://localhost:1313/~yayoi/reviews/no-mans-sky/</guid>
+        <guid>https://onigirionegai.info/~yayoi/reviews/no-mans-sky/</guid>
         <description>First No Man&amp;#39;s Sky actually has a story! I know this came as a bit of a surprise to me too. Basically you are a Traveller and you wake up on a planet with no memory of how you got there, just your exosuit and your starship. You will go through and explore the world, build a base, and try to learn what happened to you. It is this last part that provides us with a surprisingly deep story that I was really not prepared for, but am pleasantly surprised is there!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

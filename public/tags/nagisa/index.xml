@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Nagisa on Yaya&#39;s World</title>
-    <link>http://localhost:1313/~yayoi/tags/nagisa/</link>
+    <link>https://onigirionegai.info/~yayoi/tags/nagisa/</link>
     <description>Recent content in Nagisa on Yaya&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 30 Nov 2023 12:50:00 -0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/tags/nagisa/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/tags/nagisa/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>RE[BASE] Nagisa: Debut!</title>
-        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</link>
         <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:50:00 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep1/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep1/</guid>
         <description>Nagisa is a little nervous about her online debut. Hopefully everything goes well.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
@@ -58,11 +58,11 @@
     
       <item>
         <title>RE[BASE] Nagisa: More Than a Voice</title>
-        <link>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep2/</link>
+        <link>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep2/</link>
         <pubDate>Thu, 30 Nov 2023 12:50:00 -0800</pubDate>
         <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
         <atom:modified>Thu, 30 Nov 2023 12:50:00 -0800</atom:modified>
-        <guid>http://localhost:1313/~yayoi/adventures/fiction/rebase/nagisa_ep2/</guid>
+        <guid>https://onigirionegai.info/~yayoi/adventures/fiction/rebase/nagisa_ep2/</guid>
         <description>Nagisa is a little nervous about her online debut. Hopefully everything goes well.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>ADVENTURES on やよいのWORLD</title>
-    <link>http://localhost:1313/~yayoi/jp/adventures/</link>
+    <link>https://onigirionegai.info/~yayoi/jp/adventures/</link>
     <description>Recent content in ADVENTURES on やよいのWORLD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
@@ -16,7 +16,7 @@
     <copyright>©2026, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 21:49:45 -0700</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/~yayoi/jp/adventures/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://onigirionegai.info/~yayoi/jp/adventures/index.xml" rel="self" type="application/rss+xml" />
     
 
       
