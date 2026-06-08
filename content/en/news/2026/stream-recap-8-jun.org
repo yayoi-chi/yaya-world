@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 8 Jun
+#+DATE: 2026-06-08T10:24:45-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Adorable comics, adorable quests, and a wonderfully complex mystery. It was a very interesting week! It left me wondering who's the killer in Danganronpa and who will be the fastest in Super Mario Bros. 3. All questions that were left for the future. Although, the Super Mario Bros. 3 race winner will be determined this coming week!
+
+* Art Streams
+I've recorded many parts for this comic. Beginning to wonder if maybe I should make the timelapse a multi-parter too. We only have two panels and the second, while nearly finished, isn't finished yet. We'll see. Maybe the first two panels can be a part and the last two a second. That could work, no?
+* Game Streams
+Wow, what a week! Only three game streams, but it seemed like more, in a good way. I just loved the event quest and challenges in Genshin Impact. Such an adorable story too. We did some racing practice and am actually starting to get the hang of things, methinks. We even made it to the next class trial! Let's hope next week is just as good!
+** Genshin Impact
+We need more adorable quests like this event with Prune. It was soo touching and adorable and just lovely. We finished it and moved on to Nod-Krai. That at least had Columbina, Jahoda, and Aino, but was definitely not touching and not nearly as adorable as the event story. Still we made good progress until I got caught in a loooong scene. Seems we'll have to start that part over. We got this though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m823wtOxYnY?si=FIT_Z5xIn7EEcjs1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Super Mario Bros. 3
+We almost did it, kittens! We got all the way to World 6. Had some trouble in World 3 castle, but I reset and it all worked out okay. Need more practice in later worlds. I decided to pause the timer at the end of stream and see if we can get more for World 6 and beyond with the time hopefully saved, but we'll see.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnmjb4G08jw?si=E3_K8kfqTeaXi3Am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+This investigation was quite a lot. I wasn't really sure how things would fit together. Fortunately, there was just a lot of misdirection that was used. Its actually very clever. I wonder who the killer is though. I still don't have many ideas and the case is wide open now!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMW9CUVYC58?si=8dLrRM_YCIUIO6mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Am soo excited for the next week. More comic progress on to Twitch and Odysee, and more racing practice just before the actual Super Mario 3 race event. However, what am really excited for is pulling Lacrimosa! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] as soon as I managed to sync all the older archives.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/8Jun.png]]
+| Date   | Time             | What's streaming      | Where its streaming |
+|--------+------------------+-----------------------+---------------------|
+| 8 Jun  | 4 PM ET/1 PM PT  | Art                   | Twitch and Odysee   |
+| 9 Jun  | 4 PM ET/1 PM PT  | Art                   | Twitch and Odysee   |
+| 10 Jun | 3 PM ET/12 PM PT | Neverness to Everness | Twitch and YouTube  |
+| 11 Jun | 3 PM ET/12 PM PT | Super Mario Bros. 3   | Twitch and YouTube  |
+| 13 Jun | 10 PM ET/7 PM PT | Special Event         | Twitch and YouTube  |

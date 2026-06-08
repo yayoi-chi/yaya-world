@@ -14,27 +14,27 @@ It was oops all gacha games 😝 No, really. Most of the games we played this we
 ** Wuthering Waves
 We made it to Startorch Academy. If we were hoping for a normal school life, well, that's not going to happen apparently. We did meet a lot of interesting people including someone calling herself Lynae and a professor named Mornye. We also had to stop a catastophre and keep our new friend from getting expelled. So yeah, not exactly a normal day. Well, let's see how the rest of my school life will be here!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfPcW6hRQcc?si=jGE-Xkw4ri_IM9zF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90wuthering-waves%E3%80%91it%27s-been-awhile%2C%3A6?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
 Archon quest, what archon quests, we have an expo to set up! I decided, on the recommendation of a Twitch chatter, to do the current event instead of the archon quests. I'm not disappointed! Even though we had some tech problems, we still managed to get past them and even got Jahoda! All in all it wasn't bad.
 *** Part 1
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwNiE5AZ2sk?si=havSMqfn1CeU2mZm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90genshin-impact%E3%80%91nefer-and-jahoda-2%3Ab?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 *** Part 2
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rCX6PHRFfds?si=baPiAsfmP0KACKOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90genshin-impact%E3%80%91nefer-and-jahoda%3Ac?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 ** Dark Cloud 2
 We are there! Well almost. We finally got through the entire palace and we did our best to rebuild the garden. It started taking a LOT less time as soon as I realized I didn't have to keep running back to the foyer to look at the pictures. Still, some of these angles did make it difficult to figure out how many of each part I needed and where to place them. The kittens helped though. Next time we face Griffon!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3DWr0ZcGlZc?si=4Ao-dGFpUjBd6VRK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90dark-cloud-2%E3%80%91are-we-there-yet!%3Af?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 ** Blue Archive
 It's been a while since we visited our students. It was nice to see them again. We talked to quite a few of them and had some fun times. I even managed to get Midori, so I have both twins now. We also followed the Ninjitsu Research Club on interesting new mission. Too bad that dress just didn't fit...
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bqT4ZivgseQ?si=VWoxgC5VI55rXwzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90blue-archive%E3%80%91ya-sensei-tries-not-to%3Ab?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will have mostly normal streams this week. I will be trying out Neverness to Everness and will do *two* art streams. Aside from that, pretty normal, but hopefully still cozy, week.

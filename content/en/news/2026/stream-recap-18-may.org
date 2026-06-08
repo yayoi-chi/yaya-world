@@ -12,24 +12,24 @@ I sware there will be a timelapse for my tech issue screen eventually. I got a b
 * Science Stream
 SCIENCE! We talked about ASD. We defined it and looked at its history. I tried to present things in an interesting fashion and even brought up some games and game characters I think might be good examples even though we can't actually diagnose a fictional character. I liked doing this almost as much as my art streams. Only thing holding me back from doing this a lot is the amount of research and work that goes into them.
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4bhJ7azLI2Y?si=ma34W1ZnSxBcaDuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90science%E3%80%91what-is-asd%2C-and-why-are%3A2?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 * Game Streams
 One less game stream due to the science stream. We did, however, get a new game thanks to [[https://keymailer.co/creators/][Keymailer]]. We also managed to beat the Dark Element in Dark Cloud 2 and watch the ending scene and credits together. Not sure what will come next, though I do know what I'll do next week. I feel like not much really happened in Danganronpa 2 though 😅
 ** Ariana and the Elder Codex
 Was pleasantly surprised about how nice this game was. Ariana is pretty shtinkin' kyute and the game is a lot of fun! We managed to get through the earth codex and I was KO'd there for the first time, but that was a really twicky fight. We beat him though and I got soome new magic and managed to get the water codex to 100%. I think I'll stream more of this!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plSBMnjFIqU?si=XgjFKUAF161qNJ8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90ariana-and-the-elder-codex%E3%80%91exciting%3Aa?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 ** Dark Cloud 2
 Turns out the Dark Element may have been created by a part of Sirus after all, but the evil one named Griffon was just a myth. There were some small set backs, but we did get the end credits to roll. Even with Monica KO'd during the last fight. It turns out we had a pretty stronk pew pew for Max and that just meant ignoring the clock a bit and just shooting the Dark Element a lot. We did it! Next Throwback Thursday will be special!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7DBdKrAr6Ak?si=tJ6_gcSea_YnlM3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90dark-cloud-2%E3%80%91let%27s-get-this-dark%3Ae?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 ** Danganronpa 2
 We decided to quarantine. Those who were effected by the despair disease, Mikan, Fuyuhiko and myself separated from the rest. Mikan made sense as the one taking care of the others. I touched everyone so I guess that makes some sense too, but Fuyuhiko seems to have volunteered just to stay away from Hiyoko. Either way we found a way to communicate. So far not much has happened except Nagito getting worse. Will their be a class trial if one of them dies of disease? I guess we shouldn't think about that. We just need to take care of them and cure this thing!
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5oPPi8l9jEI?si=vgXZ39AM3xEDVTZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90danganronpa-2%E3%80%91there%27s-a-despair%3Af?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
 * Next Week
 [[https://www.twitch.tv/yayoi_chi][Twitch]] and the [[https://www.youtube.com/@yayoi-chi][YouTube Channel]] will host another special event! I'm revealing an upgraded version of my model! I'm super excited. Though this will be a bit of an odd week as I am off Wednesday for school stuff, but will be streaming Friday to make up for it. Hope you look forward to the new me!
