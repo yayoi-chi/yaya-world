@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 15 Jun
+#+TITLE: Stream Recap: 15 Jun
 #+DATE: 2026-06-15T10:04:29-07:00
 #+DRAFT: false
 #+DESCRIPTION:
