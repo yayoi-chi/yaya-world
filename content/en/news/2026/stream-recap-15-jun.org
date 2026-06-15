@@ -1,0 +1,42 @@
+#+TITLE: Stream Recap 15 Jun
+#+DATE: 2026-06-15T10:04:29-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I got Lacrimosa!! For me, that was probably the most nervewrecking and exciting part of the week. I spent just about everything I had saved, but I got her. We also had one final Super Mario Bros. 3 practice run before our big race. I didn't win, but we all had fun. Also we're on the last panel of our comic!
+
+* Art Streams
+I've come up with a new workflow for handling the timelapses for large projects. I never thought a four panel comic would be "large" but it's a bit more complex than simple illustrations. In fact, it's basically four illustrations at once. So I will be modifying how I do the timelapses so I don't get overwhelmed. You probably won't see any difference in the end, but hopefully I'll get them out faster!
+
+That said, we have made it to the final panel of this comic. It's be fun making this with the kittens and I think it's pretty durn cute. The last panel is the biggest though. Let's see how we do!
+* Game Streams
+I got Lacrimosa!! For me, that was probably the most nervewrecking and exciting part of the week. I spent just about everything I had saved, but I got her. We also had one final Super Mario Bros. 3 practice run before our big race. I didn't win, but we all had fun.
+** Neverness to Everness
+We were called to appraise a very expensive anomaly. The thing was going to sell for over 1 billion fons, but it was nabbed. We're still tracking down who did it. Before all that though I ended up using all my powers of persuasion (and almost all the solid dice I could get my paws on) to convince Lacrimosa to come home with me! Now she's a good part of my team. I luv her!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGtu6nvvl_c?si=dA7GRFDdAeC3FGKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Super Mario Bros. 3
+This week there were actually two Super Mario Bros. 3 streams this week. I had one more practice, but than it was time to race! Details below!
+*** Last Race Practice
+We made some progress. As I thought though, my time doesn't carry over from session-to-session. Makes sense since a submitted run has to be in one sitting, but would be nice for practice runs. Anyway, I had some trouble with the world 3 boss. She frustrates me so much. I think I have a strat for her, but not sure I'll pull it off in the race. We'll see though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-Fvq8cjAEE?si=RXOr8-VWUKX3504P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Race Event
+It was time to do our race! Two people entered, one left. But I did very well and both competitors had a lot of fun. I even did better than I ever had in practice all without rewinds or skips! What will I do next?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cEccjKu-0_E?si=fOKgarMv7TaPqTFC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Sadly, your princess will be a bit busy with offline stuff this week. I still have four streams scheduled, only one less than usual, but there will be quite a few less hours. I hope we all still have a lot of fun, plus new game from Keymailer! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] as soon as I get caught up on syncing!
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/15Jun.png]]
+| Date   | Time             | What's streaming                    | Where its streaming |
+|--------+------------------+-------------------------------------+---------------------|
+| 15 Jun | 4 PM ET/1 PM PT  | Art                                 | Twitch and Odysee   |
+| 16 Jun | 3 PM ET/12 PM PT  | None Shall Intrude                  | Twitch and YouTube  |
+| 17 Jun | 10 PM ET/7 PM PT | Danganronpa 2                       | Twitch and YouTube  |
+| 19 Jun | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni Chapter 2 | Twitch and YouTube  |
