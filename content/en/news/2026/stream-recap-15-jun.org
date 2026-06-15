@@ -10,7 +10,7 @@
 * Art Streams
 I've come up with a new workflow for handling the timelapses for large projects. I never thought a four panel comic would be "large" but it's a bit more complex than simple illustrations. In fact, it's basically four illustrations at once. So I will be modifying how I do the timelapses so I don't get overwhelmed. You probably won't see any difference in the end, but hopefully I'll get them out faster!
 
-That said, we have made it to the final panel of this comic. It's be fun making this with the kittens and I think it's pretty durn cute. The last panel is the biggest though. Let's see how we do!
+That said, we have made it to the final panel of this comic. It's been fun making this with the kittens and I think it's pretty durn cute. The last panel is the biggest though. Let's see how we do!
 * Game Streams
 I got Lacrimosa!! For me, that was probably the most nervewrecking and exciting part of the week. I spent just about everything I had saved, but I got her. We also had one final Super Mario Bros. 3 practice run before our big race. I didn't win, but we all had fun.
 ** Neverness to Everness
@@ -19,7 +19,7 @@ We were called to appraise a very expensive anomaly. The thing was going to sell
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGtu6nvvl_c?si=dA7GRFDdAeC3FGKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Super Mario Bros. 3
-This week there were actually two Super Mario Bros. 3 streams this week. I had one more practice, but than it was time to race! Details below!
+This week there were actually two Super Mario Bros. 3 streams. I had one more practice, but than it was time to race! Details below!
 *** Last Race Practice
 We made some progress. As I thought though, my time doesn't carry over from session-to-session. Makes sense since a submitted run has to be in one sitting, but would be nice for practice runs. Anyway, I had some trouble with the world 3 boss. She frustrates me so much. I think I have a strat for her, but not sure I'll pull it off in the race. We'll see though!
 #+begin_export html
