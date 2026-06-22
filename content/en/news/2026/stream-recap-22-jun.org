@@ -1,0 +1,39 @@
+#+TITLE: Stream Recap: 22 Jun
+#+DATE: 2026-06-22T10:14:26-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I tried a new thing, it wasn't really my kind of thing, but I tried it. It wasn't too terrible either. I am not referring to the double VN Nite, by the way, that was pawsome! I may not have gotten many views for Higurashi, but it was a lot of fun! Oh, and yes there was some more comic stuff!
+
+* Art Streams
+We worked a little bit more on the "little" 4-panel comic. The more I think about this, the more I wonder how comic artists manage to get these out once a week (I don't even want to think about daily comics). Either way, I do like how the panels are turning out and hope I'll be able to post it soon!
+* Game Streams
+We tried a new game. It wasn't a bad game, kinda fun actually, but it just wasn't my cup-of-tea as it were. We also managed /two/ VN Nites! I didn't get a lot of views on Higurashi, but it's fun and I like it so I'll continue it until probably about August.
+** None Shall Intrude
+As a fairy cat princess I abhorred violence, but if we must, we must. I played as a dwagon just trying to survive in a cruel world, or take over the region, something like that. The game mechanics were interesting and I know I wouldn't have bought a game like this so am grateful to the devs and #keymailer for making this pawsible. Probably just a one-off ADVENTURE, but who knows.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IDyywb4jUyg?si=N5AVQ7PKdb7hWxFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We came to a few conclusions about how and where the murders took place. We did not, however, figure out who. The only two people we can rule out for sure are the MC and Mikan. Probably have to rule out Monokuma too, sadly. I think we're getting close though! Let's see if we can find out whodundiddoit!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GWOj4YvyFM?si=4UT4y6vhqwFU0NZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi No Naku Koro Ni
+It was finally time to return to Hinamizawa! It's a new chapter and a new start. Wouldn't chu know it!? We can't escape club activities even on the weekends. We almost weren't serious enuff to win too, but we finally figured it out and won one round, but this is like no other activity before. We're in a tourney and we still have the finals left!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQgyI-gisj0?si=u_8AMX91OCdm30pX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Back to a full week for now, but we're keeping our two VN Nites. I want to get through the class trial in Danganronpa, but still want to stream Higurashi, so we're doing both! Also, Final Fantasy VI is our new Throwback Thursday game! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/22Jun.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 22 Jun | 4 PM ET/1 PM PT  | Art                       | Twitch and Odysee   |
+| 23 Jun | 10 PM ET/7 PM PT | Dandanronpa 2             | Twitch and YouTube  |
+| 24 Jun | 3 PM ET/12 PM PT | Genshin Impact            | Twitch and YouTube  |
+| 25 Jun | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 27 Jun | 10 PM ET/7 PM PT | Higurashi no Naku Koro Ni | Twitch and YouTube  |
