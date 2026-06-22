@@ -12,7 +12,7 @@ We worked a little bit more on the "little" 4-panel comic. The more I think abou
 * Game Streams
 We tried a new game. It wasn't a bad game, kinda fun actually, but it just wasn't my cup-of-tea as it were. We also managed /two/ VN Nites! I didn't get a lot of views on Higurashi, but it's fun and I like it so I'll continue it until probably about August.
 ** None Shall Intrude
-As a fairy cat princess I abhorred violence, but if we must, we must. I played as a dwagon just trying to survive in a cruel world, or take over the region, something like that. The came mechanics were interesting and I know I wouldn't have bought a game like this so am grateful to the devs and #keymailer for making this pawsible. Probably just a one-off ADVENTURE, but who knows.
+As a fairy cat princess I abhorred violence, but if we must, we must. I played as a dwagon just trying to survive in a cruel world, or take over the region, something like that. The game mechanics were interesting and I know I wouldn't have bought a game like this so am grateful to the devs and #keymailer for making this pawsible. Probably just a one-off ADVENTURE, but who knows.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDyywb4jUyg?si=N5AVQ7PKdb7hWxFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -22,7 +22,7 @@ We came to a few conclusions about how and where the murders took place. We did 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7GWOj4YvyFM?si=4UT4y6vhqwFU0NZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Higurashi No Naku Koro Ni
-It was finally time to return to Hinamizawa! It's a new chapter and a new start. I wouldn't chu know it, we can't escape club activities even on the weekends. We almost weren't serious enuff to win too, but we finally figured it out and won one round, but this is like no other activity before. We're in a tourney and we still have the finals left!
+It was finally time to return to Hinamizawa! It's a new chapter and a new start. Wouldn't chu know it!? We can't escape club activities even on the weekends. We almost weren't serious enuff to win too, but we finally figured it out and won one round, but this is like no other activity before. We're in a tourney and we still have the finals left!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQgyI-gisj0?si=u_8AMX91OCdm30pX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
