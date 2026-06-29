@@ -8,11 +8,11 @@
 #+SUMMARY: After a short week, it was good to be back for another full and fun week with the kittens. We did some work on my comic. We had another double dose of VN Nite. We even managed to start a new Throwback Thursday game. Sadly, next week will be short again, but we'll always strive to have fun!
 
 * Art Streams
-Almost done with this comic strip. Didn't quite get as far as I wanted, but we're making good progress now. This last panel is very complex and I can forgar that I hadn't been drawing anyone's hands. I took care of that, but we still have some shading and some last touches to put on before we can call it done!
+Almost done with this comic strip. Didn't quite get as far as I wanted, but we're making good progress now. This last panel is very complex and I kinda forgar that I hadn't been drawing anyone's hands. I took care of that, but we still have some shading and some last touches to put on before we can call it done!
 * Game Streams
 A full week, but with two VN Nites still! Didn't quite finish the class trial in Danganronpa, but we're getting there. We've at least identified the killer, now we just need to put it all together. We also found out that, since it is all club members in the gaming finals, we'll be doing it some other time! Oh, and Final Fantasy VI is our new Throwback Thursday game!
 ** Danganronpa 2
-We have finally identified our keeler. I am kinda shocked, but the evidence lines up and she did herself little favors by lying to us. In reality this is the kind of thing only she could pull off. Still we have a little ways to go before our closing arguments. We'll wrap this up next time!
+We have finally identified our keeler. I am kinda shocked, but the evidence lines up and she didn't do herself any favors by lying to us. In reality, this is the kind of thing only she could pull off. Still, we have a little way to go before our closing arguments. We'll wrap this up next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PtW0xNOq6Hk?si=q9OLyr51t2IICrjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
