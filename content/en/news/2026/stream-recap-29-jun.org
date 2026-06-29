@@ -1,0 +1,42 @@
+#+TITLE: Stream Recap 29 Jun
+#+DATE: 2026-06-29T10:10:48-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: After a short week, it was good to be back for another full and fun week with the kittens. We did some work on my comic. We had another double dose of VN Nite. We even managed to start a new Throwback Thursday game. Sadly, next week will be short again, but we'll always strive to have fun!
+
+* Art Streams
+Almost done with this comic strip. Didn't quite get as far as I wanted, but we're making good progress now. This last panel is very complex and I can forgar that I hadn't been drawing anyone's hands. I took care of that, but we still have some shading and some last touches to put on before we can call it done!
+* Game Streams
+A full week, but with two VN Nites still! Didn't quite finish the class trial in Danganronpa, but we're getting there. We've at least identified the killer, now we just need to put it all together. We also found out that, since it is all club members in the gaming finals, we'll be doing it some other time! Oh, and Final Fantasy VI is our new Throwback Thursday game!
+** Danganronpa 2
+We have finally identified our keeler. I am kinda shocked, but the evidence lines up and she did herself little favors by lying to us. In reality this is the kind of thing only she could pull off. Still we have a little ways to go before our closing arguments. We'll wrap this up next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtW0xNOq6Hk?si=q9OLyr51t2IICrjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We're still all split up. We did pick up a new member of our party, but seems things are still a little dire for some teams. Actually, all the teams. I didn't make quite as much progress because of tech gremlins, but we'll get through it next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yvzseEtvQNk?si=FgfARoW7oXcP6G14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+In a world devoid of magic, only one can reunite the people, or something like that. We just got the game started today. We’ve already met (and renamed) so many of the characters and are just barely scratching the surface of the first part of the game. I also opted for pixel remaster, it’s nice so far! We’ll be doing more in future Throwback Thursdays!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99QqbJxgPFU?si=CYrTxcCotrFwsgb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+After a brief pause to debut a knew outfit exclusive for nighttime streams, we went back to Hinamizawa! We found out that the tournament would not in fact have a final round, at least not yet. Mion had to rush off to her part-time job. We did hear about that festival though. I wonder if this chapter moves faster than the first. Also we finished chapter 1 of chapter 2!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BeaZKRZwkQM?si=3sy9yvJc45rkmAK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Pay attention to those dates! We have a short week and it's a little unusual so make sure you know what days I stream. Also, SCIENCE!! That is all! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/29Jun.png]]
+| Date   | Time             | What's streaming      | Where its streaming |
+|--------+------------------+-----------------------+---------------------|
+| 29 Jun | 4 PM ET/1 PM PT  | Art                   | Twitch and Odysee   |
+| 1 Jul  | 4 PM ET/1 PM PT  | Science Communication | Twitch and YouTube  |
+| 2 Jul  | 3 PM ET/12 PM PT | Final Fantasy VI      | Twitch and YouTube  |
