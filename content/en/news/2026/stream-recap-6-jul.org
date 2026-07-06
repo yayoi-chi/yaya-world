@@ -22,7 +22,7 @@ We didn't make it to the opera yet, but we did suplex a train! I mean, we had to
 * Next Week
 Am back! We'll be doing a good and full week of streaming including another two VN Nite week. I will also be, hopefully, finishing my comic and returning to Final Fantasy VI and Genshin Impact. I hope you enjoy this week. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
-[[/~yayoi/images/schedules/2026/9Jul.png]]
+[[/~yayoi/images/schedules/2026/6Jul.png]]
 | Date   | Time             | What's streaming          | Where its streaming |
 |--------+------------------+---------------------------+---------------------|
 | 6 Jul  | 4 PM ET/1 PM PT  | Art                       | Twitch and Odysee   |
