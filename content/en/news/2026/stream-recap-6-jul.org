@@ -1,0 +1,32 @@
+#+TITLE: Stream Recap: 6 Jul
+#+DATE: 2026-07-06T09:59:37-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: The week was short, but I think the week was fun! Oddly, this is the first time I've only done one game stream since I started streaming, I think. Guess you'll have to go to the archives to check that 😉. It wasn't the only stream though, there were three total including a SCIENCE stream!
+
+* Art Streams
+Almost there. Almost there! Though I am not happy with any of the character's hands, we are almost finished with this comic strip. I. think I /might/ revisit hands next week and, with any luck, I'll have a timelapse ready for you then!
+* Science Stream
+Mutism is a complex disorder, with many potential factors in it's development and in one's prognosis. It is also a disorder that personally affects me. To follow along with this VOD, please check out the references!
+#+begin_export html
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2F%E3%80%90Science%E3%80%91Mutism--What-happens-when-speech-development-goes-wrong-%3Aa?r=2uU51oMz2Dg8sr4XCKb8qqJSowN778vk" allowfullscreen></iframe>
+#+end_export
+* Game Stream
+We didn't make it to the opera yet, but we did suplex a train! I mean, we had to. This is the only game that I know of that let's us do it. I apparently am making good progress and finished the first two parts of the first three-way split. Hopefully we'll see the opera next week!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTn6hr0VZ30?si=MfkDuVhemV621ScF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Am back! We'll be doing a good and full week of streaming including another two VN Nite week. I will also be, hopefully, finishing my comic and returning to Final Fantasy VI and Genshin Impact. I hope you enjoy this week. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/6Jul.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 6 Jul  | 4 PM ET/1 PM PT  | Art                       | Twitch and Odysee   |
+| 7 Jul  | 10 PM ET/6 PM PT | Dandanronpa 2             | Twitch and YouTube  |
+| 8 Jul  | 3 PM ET/12 PM PT | Genshin Impact            | Twitch and YouTube  |
+| 9 Jul  | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 11 Jul | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
