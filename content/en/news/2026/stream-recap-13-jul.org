@@ -20,12 +20,12 @@ Well, we found out that Mikan really was the keeler. Why she did that? Well that
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4K4IQMY_S24?si=EnBxYnjqkgByvzi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-After our successful team missions, it was time to learn more about our enemy. We left that to Nefer. She was able to use her special technique to look into his best. Only it was not just his past that we saw. Nefer certainly didn't have an easy life, and I can't say agree with her decisions, but she's not a terrible person, methinks.
+After our successful team missions, it was time to learn more about our enemy. We left that to Nefer. She was able to use her special technique to look into his past. Only it was not /just/ his past that we saw. Nefer certainly didn't have an easy life, and I can't say agree with her decisions, but she's not a terrible person, methinks.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MeOSku_GBh4?si=b-EY6zeRsE7Vm0nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Final Fantasy VI
-We did the three-way fight. Kefka kept trying to kick my butt, but i got him in the end. One of our party went super esper or something and now we're heading to the opera house to meet with someone with like the only airship so we can get more espers to help her. It's a lot, but, we made it to the opera part. We'll be doing that next time!
+We did the three-way fight. Kefka kept trying to kick my butt, but I got him in the end. One of our party went super esper or something and now we're heading to the opera house to meet with someone with like the only airship so we can get more espers to help her. It's a lot, but, we made it to the opera part. We'll be doing that next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4AfPb7wirZs?si=zUohodFSe9Rw0ESr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
