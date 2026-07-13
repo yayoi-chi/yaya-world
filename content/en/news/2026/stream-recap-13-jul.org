@@ -1,0 +1,47 @@
+#+TITLE: Stream Recap: 13 Jul
+#+DATE: 2026-07-13T09:59:37-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: We had another pawsome week. We got some great gaming sessions in. We finished the class trial and have found Mikan guilty. We continued our stories in Genshin Impact and almost made it to the opera in Final Fantasy VI. Of all this though, we finally finished the comic strip! It wasn't the best work, but I think it turned out cute.
+
+* Art Streams
+I finally finished the comic! Doing what is basically four iluustrations in one, some with three characters, made for a long challenge, but we did it. It mayhap wasn't my best work, but it is still cute and I like it. You can see the finished product on Twitter or BlueSky. If you want to see the timelapse....it's actually below! No need to wait 😝
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HnUkQHXqdjc?si=QBvQMOzl4V-ozcnr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+For gaming this week, we did quite a bit. We finished our class trial in Danganronpa 2 and continued our stoires in Higurashi and Genshin Impact. We also almost made it to the opera in Final Fantasy VI. There will be more gaming next week, and, even a new game!
+** Danganronpa 2
+Well, we found out that Mikan really was the keeler. Why she did that? Well that's still a little unclear. It could be because she remembered something, or because she had Despair Disease, or maybe a combination. One thing is certain. She was not the Mikan we thought she was!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4K4IQMY_S24?si=EnBxYnjqkgByvzi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+After our successful team missions, it was time to learn more about our enemy. We left that to Nefer. She was able to use her special technique to look into his best. Only it was not just his past that we saw. Nefer certainly didn't have an easy life, and I can't say agree with her decisions, but she's not a terrible person, methinks.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MeOSku_GBh4?si=b-EY6zeRsE7Vm0nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We did the three-way fight. Kefka kept trying to kick my butt, but i got him in the end. One of our party went super esper or something and now we're heading to the opera house to meet with someone with like the only airship so we can get more espers to help her. It's a lot, but, we made it to the opera part. We'll be doing that next time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4AfPb7wirZs?si=zUohodFSe9Rw0ESr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+It was time for some good, old fashion, word association for after school club activities. A simple game and, I thought, a simple punishment game to go with it. I was kind of wrong on both accounts. Well, seems Keiichi had to dress up in an embarrassing outfit down to the underwear. I guess that just happens. Poor guy.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7afwmtS50kE?si=tZmLU20tOdgY_V6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Look! Look! New game! See, I told you we would be doing a new game this week. It's called TUNIC, and a lot of people are telling me it's a good game. I was supposed to play it for losing the Super Mario Bros. 3 race, well now I am. We also have the usual assortment, including Higurashi. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/13Jul.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 13 Jul | 4 PM ET/1 PM PT  | Art                       | Twitch exclusive    |
+| 14 Jul | 3 PM ET/12 PM PT | TUNIC                     | Twitch and YouTube  |
+| 15 Jul | 3 PM ET/12 PM PT | Genshin Impact            | Twitch and YouTube  |
+| 16 Jul | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 18 Jul | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
