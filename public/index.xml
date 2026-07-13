@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 09:59:37 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:59:37 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 13 Jul</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-13-jul/</link>
+        <pubDate>Mon, 13 Jul 2026 09:59:37 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 13 Jul 2026 09:59:37 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-13-jul/</guid>
+        <description>We had another pawsome week. We got some great gaming sessions in. We finished the class trial and have found Mikan guilty. We continued our stories in Genshin Impact and almost made it to the opera in Final Fantasy VI. Of all this though, we finally finished the comic strip! It wasn&amp;#39;t the best work, but I think it turned out cute.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3208,38 +3240,6 @@ I want to do more than just stream games, and for that I need to show off my art
         <atom:modified>Sun, 05 Jan 2025 10:59:20 -0800</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-5-jan/</guid>
         <description>I revealed a new outfit! That&amp;#39;s pretty much the most exciting thing about this week. I mean sure, it was the first week of 2025, but that&amp;#39;s not all that exciting, no? I mean we did play Xenosaga and we did beat Exdeath and finish Final Fantasy V, but that wasn&amp;#39;t that exciting either, right? A new outfit though…</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 29 Dec</title>
-        <link>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</link>
-        <pubDate>Sun, 29 Dec 2024 11:56:32 -0800</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 29 Dec 2024 11:56:32 -0800</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2024/stream-recap-29-dec/</guid>
-        <description>We did some art and we did a bit of gaming. The week was sort because of the holidays. Also a lot of personal thing happened and, well, Portal 2 somehow turned into Genshin here! Still managed to have fun though!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
