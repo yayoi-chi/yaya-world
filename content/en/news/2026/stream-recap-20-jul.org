@@ -1,0 +1,44 @@
+#+TITLE: Stream Recap: 20 Jul
+#+DATE: 2026-07-20T09:53:38-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: First ever TUNIC Tuesday was fun and interesting. Also was time to revive my "Power Up!" redeem. A couple art streams will be devoted to that, methinks. We also had our usual set including more story fun in Higurashi! A good week, no?
+
+* Art Streams
+Time to get back to designing outfits. This is actually the first outfit that I will be designing and, at least partially, rigging on stream. I want to show off my process and even though this is a new outfit I didn't think it warranted a full debut so no need to keep it secret. Hopefully the kittens like this little peak behind the curtain!
+* Game Streams
+First ever TUNIC Tuesday was fun and interesting and just enough to keep me wanting more. There will be another TUNIC Tuesday. We also got more story progress in Genshin Impact and Higurashi. Nod-Krai is a looong arc though. Oh, and we finished the opera in FFVI!
+** TUNIC
+Fun new game! It's more than just a Zelda-a-like with a fox. Many an interesting choice and a fun and colorful world. I love the overworld music. Not sure I made much progress, but, we did make some and that was pretty cool. Hopefully I'll learn more about the story soon too!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2_6xJpEp9c?si=TC9g_uYrMJqnoqnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Well, we trapped him, but it didn't hold. Fortunately, we came up with a plan. We also didn't hear the plan ahead of time, so I just knew it was going to work. Guess what, I was right! So now he's done, but it used a lot of Columbina's energy. I hope she'll be okie...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omdRKrZCMbM?si=6rByLHaiDSOZYJL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We made it to the opera! We hatched a great plan to get our airship that totally didn't involve manipulating, lying, or deceiving, no no no. Well, whatever, it worked and we made our way to the empire. Mayhap I tried to jump straight into a later part of the game, but, we made it where we needed to go in the end!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otN5227vDRY?si=I7MN19i6O-R2ipWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+It was time for another contest! This time a curry-making contest. What has Keiichi learned from club activities so far? Well, enough to know how to make up for his weaknesses and play to his strengths. Still had one major lesson to learn. Never give up! Also, who is Shion?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfaD-Oir-yo?si=ijI-AJqft6RYLT1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+We're doing another TUNIC Tuesday. I've also moved VN Nite to Wednesday and scheduled a somewhat shorter Genshin stream on Friday. So, bit of a different week, but all the favorites are there. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/20Jul.png]]
+| Date   | Time              | What's streaming          | Where its streaming |
+|--------+-------------------+---------------------------+---------------------|
+| 20 Jul | 4 PM ET/1 PM PT   | Art                       | Twitch exclusive    |
+| 21 Jul | 3 PM ET/12 PM PT  | TUNIC                     | Twitch and YouTube  |
+| 22 Jul | 10 PM ET/ 7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
+| 23 Jul | 3 PM ET/12 PM PT  | Final Fantasy VI          | Twitch and YouTube  |
+| 24 Jul | 4 PM ET/1 PM PT   | Genshin Impact            | Twitch and YouTube  |
