@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: It was an interesting week! While I did mind of my usual things, when I did them was a little different. We moved our VN Nite to the middle of the week, and put Genshin Impact at the end. We learned more about Columbina, such a nice story. I luv her. I also continued working on my new Power Up! outfit. We started rigging, and will hopefully finish it this next week.
+#+SUMMARY: It was an interesting week! While I did most of my usual things, /when/ I did them was a little different. We moved our VN Nite to the middle of the week and put Genshin Impact at the end. We learned more about Columbina, such a nice story. I luv her. I also continued working on my new Power Up! outfit. We started rigging and will hopefully finish it this next week.
 
 * Art Streams
 I finished my Power Up! outfit design and started rigging. This was the first time that I had OBS streaming/recording while also having Live2D and VTube Studio open at the same time. Live2D did struggle a bit so we have some finishing touches to finish for next time!
