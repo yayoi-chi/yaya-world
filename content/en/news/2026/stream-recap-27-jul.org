@@ -1,0 +1,45 @@
+#+TITLE: Stream Recap: 27 Jul
+#+DATE: 2026-07-27T10:26:42-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It was an interesting week! While I did mind of my usual things, when I did them was a little different. We moved our VN Nite to the middle of the week, and put Genshin Impact at the end. We learned more about Columbina, such a nice story. I luv her. I also continued working on my new Power Up! outfit. We started rigging, and will hopefully finish it this next week.
+
+* Art Streams
+I finished my Power Up! outfit design and started rigging. This was the first time that I had OBS streaming/recording while also having Live2D and VTube Studio open at the same time. Live2D did struggle a bit so we have some finishing touches to finish for next time!
+* Game Streams
+Pretty normal set of games, just in a different order. We finished the banquet scene in Final Fantasy VI and we learned more about Columbina. We also saved her from disappearing and that was a good story. I also took on a pretty tough boss in TUNIC...and won!
+** TUNIC
+I like how this game reveals things. Apparently though, I ended up in an area like super early. We did it though. We got a cool thing that helps with a lot. I also activated the second bell tower and learned some new things. We still have a bit to do, but I do like this game a lot!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDOT7d5oZJA?si=iN0UfrSaKH_7jiw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+Well, ended up without lunch, but still got a perfect score by serving onigiri instead of curry. Though, apparently the teacher did notice and didn't quite agree with my strategy. Curry and onigiri are totally different things. Well, Shion came to deliver a bento for us, so not all a wash!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bnlojJNQ3Oc?si=rfcD6JCAzMYICuId" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We've been tricked! After a banquet with the emperor we agreed to help the emperor make peace with the espers. Only it seemed, we were being set up as pawns. Now the world is in more peril! What can be done?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_n417SIr3nI?si=CULfhI_ulEGnEwHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+The end of the journey isn't important, it's the knowledge you gain along the way! We went in to try and find Columbina's original name with the thought that, that would be her true name. We came out realizing that Columbina is Columbina. Fortunately, she seems to agree!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8fk4zfzN4-c?si=AFqHUNgRlMLl18Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Trying something a little new this week! I want to do more VN Nites, so I thought of schedule one in the middle of the week. I also wanted to play a new game so we will be doing a double stream this week. Am also keeping TUNIC Tuesday, its just that good of a game! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/27Jul.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 27 Jul | 4 PM ET/1 PM PT  | Art                       | Twitch exclusive    |
+| 28 Jul | 3 PM ET/12 PM PT | TUNIC                     | Twitch and YouTube  |
+| 29 Jul | 5 PM ET/2 PM PT  | ATOMCRAFT                 | Twitch and YouTube  |
+|        | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
+| 30 Jul | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 1 Aug  | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
