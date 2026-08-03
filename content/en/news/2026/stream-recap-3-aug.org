@@ -5,12 +5,12 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: I tried something pretty new at it worked out pretty well. Turns out it isn't too hard to do two streams on one day if one of those is a VN Nite! I mean, I've done two streams before when I did collabs, but that's a little different. Anyway, we had two VN Nites and finished my Power Up! redeem. We even managed both TUNIC Tuesday and Throwback Thursday!
+#+SUMMARY: I tried something pretty new and it worked out pretty well. Turns out it isn't too hard to do two streams on one day if one of those is a VN Nite! I mean, I've done two streams before when I did collabs, but that's a little different. Anyway, we had two VN Nites and finished my Power Up! redeem. We even managed both TUNIC Tuesday and Throwback Thursday!
 
 * Art Streams
 Finished my full magical girl outfit. Live2D doesn't like being with /both/ OBS and VTube Studio, so it was a little slow and things weren't quite aligned in terms of some of the animations. I'll have to fix that soon, but I debuted the new outfit and brought back the "Power Up!" redeem. I also started a new chibi for Twin!
 * Game Streams
-All-in-all a good week with not four, but five game streams. I had a short Atomcraft stream on Wednesday, but made up for it with a second stream that day, a VN Nite. So we managed two Higurashi sessions! Also made good progress in both TUNIC and Final Fantasy VI!
+All-in-all a good week with not four, but five game streams. I had a short Atomcraft stream on Wednesday, but made up for it with a second stream that day, a VN Nite. So, we managed two Higurashi sessions! Also made good progress in both TUNIC and Final Fantasy VI!
 ** TUNIC
 We learned how to focus! I mean that was something we didn't really know. Uhm, well our little fox I mean. With that we were able to get through a new temple and do some fun things and face the thing I saw in the booklet. I actually beat it too, which was nice. I like how the bosses in the game work.
 #+begin_export html
