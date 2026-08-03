@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 3 Aug
+#+DATE: 2026-08-03T10:19:35-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I tried something pretty new at it worked out pretty well. Turns out it isn't too hard to do two streams on one day if one of those is a VN Nite! I mean, I've done two streams before when I did collabs, but that's a little different. Anyway, we had two VN Nites and finished my Power Up! redeem. We even managed both TUNIC Tuesday and Throwback Thursday!
+
+* Art Streams
+Finished my full magical girl outfit. Live2D doesn't like being with /both/ OBS and VTube Studio, so it was a little slow and things weren't quite aligned in terms of some of the animations. I'll have to fix that soon, but I debuted the new outfit and brought back the "Power Up!" redeem. I also started a new chibi for Twin!
+* Game Streams
+All-in-all a good week with not four, but five game streams. I had a short Atomcraft stream on Wednesday, but made up for it with a second stream that day, a VN Nite. So we managed two Higurashi sessions! Also made good progress in both TUNIC and Final Fantasy VI!
+** TUNIC
+We learned how to focus! I mean that was something we didn't really know. Uhm, well our little fox I mean. With that we were able to get through a new temple and do some fun things and face the thing I saw in the booklet. I actually beat it too, which was nice. I like how the bosses in the game work.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTwa5eSqpzI?si=NvGjiNuA6nWFTES5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Atomcraft
+New game was fun! We got stranded on a new world and have to fix our ship. We get to kind of figure all that out on our own. It leads to some fun exploration. Not everything is straightforward though...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2npaoJ4pJXU?si=bPBUTxCKJ3OEFnDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+Keiichi managed to get himself into a real pickle. Fortunately Mi--I mean Shion was there to help him out of it. Hey! He got a fun conversation and some free food out of the deal too. What's this? We learned about the dam project and more details than in the first chapter! I wonder if we're getting into the real story now!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8jHXzCwtrg?si=WWiqfBYvh30-C6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We quite easily got our new moogle friend seven dances. That's all the dances he can get at the moment so we headed off to the floating continant. I quite quickly got my behind packaged and handed to me. Nothing a bit of grinding can't fix though!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KetTTdMto3w?si=OY3h6gqusWdDV4ct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+After learning about Hinamizawa and how much they help each other, we couldn't just let Shion get harassed, right? Well, our first attempt didn't really help, but, we did learn something. We have the strongest club around. With that knowledge, no one can stop us from protecting Shion!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_bZa_tLhGU?si=ApytqAVVTVLC6XFl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I think we did well here last week, but now it is the last week before my vacation. I've planned some favorites for this week. We'll have TUNIC, Genshin, Final Fantasy VI, and Higurashi! I hope this will be a really fun week. No recaps after this one for a couple weeks, but I'll try to keep everynyan posted during my vacation. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/3Aug.png]]
+| Date  | Time             | What's streaming          | Where its streaming |
+|-------+------------------+---------------------------+---------------------|
+| 3 Aug | 4 PM ET/1 PM PT  | Art                       | Twitch exclusive!   |
+| 4 Aug | 3 PM ET/12 PM PT | TUNIC                     | Twitch and YouTube  |
+| 5 Aug | 4 PM ET/1 PM PT  | Genshin Impact            | Twitch and YouTube  |
+| 6 Aug | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 8 Aug | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
