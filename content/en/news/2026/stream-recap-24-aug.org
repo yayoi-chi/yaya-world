@@ -1,0 +1,50 @@
+#+TITLE: Stream Recap 24 Aug
+#+DATE: 2026-08-24T10:34:58-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: I know this is actually mostly from the week before I left, but I said before I wouldn't be able to provide a recap. Fortunately, there were only a couple of extra streams. So it all fits!
+
+* Art Streams
+I finished my magical girl outfit and set it up as a new model in VTube Studio. I also worked on some new ideas for emotes. I didn't really start them, but I went over some ideas with the kittens. Also, I scheduled an art stream for the day after I got back, but, well, I ended up chatting about [[{{ % ref 'news/2026/fairy-cat-vacation' % }}][my vacation]]!
+* Game Streams
+These are mostly from the week before I left. In that week, we beat the librairan in TUNIC, watched something tragic in Genshin Impact, and made more progress in Higurashi and Final Fantasy VI. After my little vacation report stream, I collaborated with [[https://oshi.to/dumovt][Dumo]] in PEAK.
+** TUNIC
+We did it! We beat that librarian! Actually I thought it would take me a little longer, but I focused on my pew pews and it actually did it. Only used sword to regain MP, but yeah it was a good strategy. Speaking of which, we made it to the next boss. Now I have another strategy to try. Sadly, that will have to wait...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwu0DYJ89MQ?si=c2SqycM74AjPkEqu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We gave Columbina I good last Moon-prayer Night. I'm sure all the fun and games are things she will never forget. Also we will never forget Columbina and hope she will come to visit us from the-- Wait, something happened. She didn't make it home to the moon? Can we save her again?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-rrfXA6K3g?si=929S8IJdrMSkCmLK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+Kefka really is quite mad! He'll doing anything for power, even destroy the whole world. Not sure what value there is in that, but well, he's mad. The emperor questioned it and became barbecue. Now we have to see if we can put the world back together!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbzVkunpzWQ?si=P60ZcnQxNlzoTrGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+We keep learning things about Shion. One thing to note is that she is not as innocent and dainty as she appears! She can be a bit of a trickster, not unlike her sister. Yes, her sister. Mion and Shion are not the same! Well they are the same, but not the same person. Probably.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bSwLYkwNPq8?si=EV1j9xoFrkj4fkUD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** PEAK
+Our great aviator took a flight as a passenger that he should have taken as a pilot. We ended up on an island with only each other and a few things to survive. We did our best and got through the shore, but we have much work to do before we can reach the PEAK! How far can we go next time?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86JRA2wezWc?si=FZcIo-BOw2GE3SLJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Am an art streamer! So next week will have more art. I cannot give up my VNs or TUNIC, so I'm still playing games, but more art!! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/24Aug.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 24 Aug | 4 PM ET/1 PM PT  | Art                       | Twitch exclusive!   |
+|        | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
+| 25 Aug | 3 PM ET/12 PM PT | TUNIC                     | Twitch and YouTube  |
+| 26 Aug | 3 PM ET/12 PM PT | Art                       | Twitch and YouTube  |
+| 27 Aug | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 29 Aug | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and youtube  |
