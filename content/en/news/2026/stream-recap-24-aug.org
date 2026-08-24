@@ -8,7 +8,7 @@
 #+SUMMARY: I know this is actually mostly from the week before I left, but I said before I wouldn't be able to provide a recap. Fortunately, there were only a couple of extra streams. So it all fits!
 
 * Art Streams
-I finished my magical girl outfit and set it up as a new model in VTube Studio. I also worked on some new ideas for emotes. I didn't really start them, but I went over some ideas with the kittens. Also, I scheduled an art stream for the day after I got back, but, well, I ended up chatting about [[{{ % ref 'news/2026/fairy-cat-vacation' % }}][my vacation]]!
+I finished my magical girl outfit and set it up as a new model in VTube Studio. I also worked on some new ideas for emotes. I didn't really start them, but I went over some ideas with the kittens. Also, I scheduled an art stream for the day after I got back, but, well, I ended up chatting about [[{{% ref "news/2026/fairy-cat-vacation" %}}][my vacation]]!
 * Game Streams
 These are mostly from the week before I left. In that week, we beat the librairan in TUNIC, watched something tragic in Genshin Impact, and made more progress in Higurashi and Final Fantasy VI. After my little vacation report stream, I collaborated with [[https://oshi.to/dumovt][Dumo]] in PEAK.
 ** TUNIC
