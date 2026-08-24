@@ -1,4 +1,4 @@
-#+TITLE: Stream Recap 24 Aug
+#+TITLE: Stream Recap: 24 Aug
 #+DATE: 2026-08-24T10:34:58-07:00
 #+DRAFT: false
 #+DESCRIPTION:
