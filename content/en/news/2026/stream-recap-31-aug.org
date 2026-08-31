@@ -1,0 +1,45 @@
+#+TITLE: Stream Recap: 31 Aug
+#+DATE: 2026-08-31T10:12:06-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Two VN Nites and two art streams. The kittens seem to enjoy the art streams while I enjoy any opportunity to chat with them! I think VNs make this a lot easier than some games. I also really do enjoy making art with my kittens. So, yeah, good week all together.
+
+* Art Streams
+I have been working on other editing projects so I haven't done timelapses. I am now creating quite the back log. I wonder if my little SD card for recordings is going to hold up! I hope so. I think I am almost done with the other editing projects, but I am marching on with emotes and wallpapers. I finished two new emotes and started a wallapaper that the Pokémon Company kind seemed to want me to make. I also plan other wallpapers and maybe even some merch. We'll see! Timelapses soon™.
+* Game Streams
+More art, but fewers games. Nevertheless we still had a good time with the games we did stream. It was two Higurashi sessions where we start getting in to the curse as well as some fun progress in TUNIC. Am I really just a fox spirit now? We also worked to get our party back in Final Fantasy VI!
+** Higurashi no Naku Koro ni
+More fun with Shion and Mion! The watanagashi festival is coming up tomorrow. There's talk of police presence and maybe someone going missing and/or dying. Not really sure yet what that's all about, but I think Shion might help us to understand.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56qnI-h7kjM?si=d22cxYFluDwM3BIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** TUNIC
+Scavenger boss be too much! Fortunately a kind kitten told me how to cheese that fight. I say, a win is a win. Maybe one day I'll learn how to do that one properly. Considering I beat all the other bosses without any cheese, I'll take this one for now. Of course we kind of ended up "dead" and now we have to figure out what's going on. First though, there's a looong fight ahead for us in the Cathedral!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OnAfKjqm7yA?si=Iggef9NtS1q0GuOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We're not alone at the end of the world! It seems our friends are all here, they're just very scattered and doing there own thing. Not to worry though, seems at least some of them are more than willing to come with us. Also, mayhap we will find a new friend soon? Let's find out!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKqgvk4hKF4?si=gMOitBKzeyP9-K4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Higurashi no Naku Koro ni
+The Watanagashi Festival is just one day away. We didn't find out about all the strange stories in Hinamizawa until after that point in the last timeline, but I guess we get a good run down of it a little early thanks to meeting Shion in this timeline. I wonder if this one will be different at all from the last, other than meeting Shion that is.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVYAlOrcDd4?si=Qq65Nf0mJ7K-dVoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+I like the week we had last week so much that I think we'll duplicate it a bit this week. I am trying something new though. Let's see how an art nite treats us! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/31Aug.png]]
+| Date   | Time             | What's streaming          | Where its streaming |
+|--------+------------------+---------------------------+---------------------|
+| 31 Aug | 4 PM ET/1 PM PT  | Art                       | Twitch exclusive    |
+|        | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
+| 1 Sep  | 3 PM ET/12 PM PT | TUNIC                     | Twitch and YouTube  |
+| 2 Sep  | 9 PM ET/6 PM PT  | Art                       | Twitch exclusive    |
+| 3 Sep  | 3 PM ET/12 PM PT | Final Fantasy VI          | Twitch and YouTube  |
+| 5 Sep  | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni | Twitch and YouTube  |
