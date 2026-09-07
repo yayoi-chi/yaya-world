@@ -15,14 +15,14 @@ In the vain of the timelapse I have below, I will be working on a new outfit. Th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J2C45Zel1e8?si=TijftoY-etSJlvaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-Two VN Nites again! We started the week with Higurashi and ended the week with Higurashi. We larned some intense things about Hinamizawa too. This will be the last Higurashi streams until Spooky Month, but don't worry that's less than a month away. I also had lots of fun on TUNIC Tuesday and Throwback Thursday!
+Two VN Nites again! We started the week with Higurashi and ended the week with Higurashi. We learned some intense things about Hinamizawa too. This will be the last Higurashi streams until Spooky Month, but don't worry that's less than a month away. I also had lots of fun on TUNIC Tuesday and Throwback Thursday!
 ** Higurashi no Naku Koro ni
 It seems this chapter didn't show the gang having club activities at the festival, instead we became influencers! We helped promote all the different stalls thanks to some skills Keiichi picked up. Sadly, all our play made it hard to get a good spot to watch Rika's festival dance and we got separated too! Now we're somewhere we probably shouldn't be!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qDZZTo5mzk?si=GP-G8mtqW-OrCPkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** TUNIC
-We beat that gauntlet and got a cool thing. Was it a little overhyped? Maybe, but it is still cool. Dodge replaces with quick dash that let's be go over gaps. It is very handy and helps me dodge attacks even better. Zip Zip Zip!! So much fun!!!
+We beat that gauntlet and got a cool thing. Was it a little overhyped? Maybe, but it is still cool. Dodge is replaced with a quick dash that let's be go over gaps. It is very handy and helps me dodge attacks even better. Zip Zip Zip!! So much fun!!!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/up4tnb87Tto?si=MXPIFx8xLXTkSYKt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
