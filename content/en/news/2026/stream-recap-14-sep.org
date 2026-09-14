@@ -8,14 +8,14 @@
 #+SUMMARY: It's September already! I had to focus on getting Ghost Cat upgraded and ready for her spooky take over, but still had time for two VN Nites. We are also nearing the end of both TUNIC and Final Fantasy VI. I feel like I am still far from the end of Nod-Krai in Genshin Impact though.
 
 * Art Streams
-I can't beleaf it is September already! It seems like I was just debuting my new beach outfit and my comfy pajamas. Now I am in my fall uniform and my cozy pajamas. This also means that spooky month is almost here! So, it was time to upgrade Ghost Cat. Ghost Cat is a ghostly version of myself that likes to pop around sometime during spooky month. I streamed recreating her outfit with my 2.0 base. Of course, I also changed a few things on that base so, well, she's a little more complicated than just an outfit. You'll probably see her very soon though so you'll understand what I mean ( ^ . ~ )
+I can't beleaf it is September already! It seems like I was just debuting my new beach outfit and my comfy pajamas. Now I am in my fall uniform and my cozy pajamas. This also means that spooky month is almost here! So, it was time to upgrade Ghost Cat. Ghost Cat is a ghostly version of myself that likes to pop up sometime during spooky month. I streamed recreating her outfit with my 2.0 base. Of course, I also changed a few things on that base so, well, she's a little more complicated than just an outfit. You'll probably see her very soon though, so you'll understand what I mean ( ^ . ~ )
 
 I also have a new timelapse out. I've been trying to catch up with these since [[{{ % 'news/fairy-cat-vactation % }}][vacation]] and I am almost caught up now. This one was our next version of Twinwhitetiger's chibi form. I love the new outfit and hairstyle!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E7u4lEydYIg?si=qHVB8S6tim2b4tdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-Two VN Nites again! We continuing Danganronpa 2 instead though. Higurashi will probably be back during spooky month. We also returned to Genshin Impact and made some choices in TUNIC. We even approached the the final dungeon of Final Fantasy VI. I am /not/ prepared for the end there. We'll get there though!
+Two VN Nites again! We're continuing Danganronpa 2 instead though. Higurashi will probably be back during spooky month. We also returned to Genshin Impact and made some choices in TUNIC. We even approached the the final dungeon of Final Fantasy VI. I am /not/ prepared for the end there. We'll get there though!
 ** Danganronpa 2
 It hath been a few minutes (months), but we are back to the island. Nekomaru is still a robot, but it means he is a lot harder to keel now. Doesn't rule him out as a murderer though. If he is keeled it still counts as a murder too. Though I don't see how one of the classmates could do that. Anyway, the fourth island is open now, and apparently Monokuma left us ship parts and clues!
 #+begin_export html
@@ -37,7 +37,7 @@ We got our friends back! Turns out neither was really all that hard. We just had
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaAwGxOO_tA?si=6MWZFWSih-iI_7Ji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Danganronpa 2
-We explored the new island, but I think Monokuma is tired of us taking so long to keel each other. So, he's provided a quick motivation. So, we might just get into the next case quicker. Not that is what I want. I suppose we could also find escape. Just, what the beep do these grapes mean!?
+We explored the new island, but I think Monokuma is tired of us taking so long to keel each other. So, he's provided a quick motivation. So, we might just get into the next case quicker. Not that, that is what I want. I suppose we could also find escape. Just, what the beep do these grapes mean!?
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQb67lSuKjA?si=D990aMUNituU3w4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
