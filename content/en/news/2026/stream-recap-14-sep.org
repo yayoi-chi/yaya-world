@@ -10,7 +10,7 @@
 * Art Streams
 I can't beleaf it is September already! It seems like I was just debuting my new beach outfit and my comfy pajamas. Now I am in my fall uniform and my cozy pajamas. This also means that spooky month is almost here! So, it was time to upgrade Ghost Cat. Ghost Cat is a ghostly version of myself that likes to pop up sometime during spooky month. I streamed recreating her outfit with my 2.0 base. Of course, I also changed a few things on that base so, well, she's a little more complicated than just an outfit. You'll probably see her very soon though, so you'll understand what I mean ( ^ . ~ )
 
-I also have a new timelapse out. I've been trying to catch up with these since [[{{ % 'news/fairy-cat-vactation % }}][vacation]] and I am almost caught up now. This one was our next version of Twinwhitetiger's chibi form. I love the new outfit and hairstyle!
+I also have a new timelapse out. I've been trying to catch up with these since [[{{% ref "news/2026/fairy-cat-vacation" %}}][vacation]] and I am almost caught up now. This one was our next version of Twinwhitetiger's chibi form. I love the new outfit and hairstyle!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E7u4lEydYIg?si=qHVB8S6tim2b4tdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
