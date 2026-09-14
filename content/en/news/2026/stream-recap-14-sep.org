@@ -1,0 +1,56 @@
+#+TITLE: Stream Recap: 14 Sep
+#+DATE: 2026-09-14T09:31:24-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It's September already! I had to focus on getting Ghost Cat upgraded and ready for her spooky take over, but still had time for two VN Nites. We are also nearing the end of both TUNIC and Final Fantasy VI. I feel like I am still far from the end of Nod-Krai in Genshin Impact though.
+
+* Art Streams
+I can't beleaf it is September already! It seems like I was just debuting my new beach outfit and my comfy pajamas. Now I am in my fall uniform and my cozy pajamas. This also means that spooky month is almost here! So, it was time to upgrade Ghost Cat. Ghost Cat is a ghostly version of myself that likes to pop around sometime during spooky month. I streamed recreating her outfit with my 2.0 base. Of course, I also changed a few things on that base so, well, she's a little more complicated than just an outfit. You'll probably see her very soon though so you'll understand what I mean ( ^ . ~ )
+
+I also have a new timelapse out. I've been trying to catch up with these since [[{{ % 'news/fairy-cat-vactation % }}][vacation]] and I am almost caught up now. This one was our next version of Twinwhitetiger's chibi form. I love the new outfit and hairstyle!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7u4lEydYIg?si=qHVB8S6tim2b4tdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Two VN Nites again! We continuing Danganronpa 2 instead though. Higurashi will probably be back during spooky month. We also returned to Genshin Impact and made some choices in TUNIC. We even approached the the final dungeon of Final Fantasy VI. I am /not/ prepared for the end there. We'll get there though!
+** Danganronpa 2
+It hath been a few minutes (months), but we are back to the island. Nekomaru is still a robot, but it means he is a lot harder to keel now. Doesn't rule him out as a murderer though. If he is keeled it still counts as a murder too. Though I don't see how one of the classmates could do that. Anyway, the fourth island is open now, and apparently Monokuma left us ship parts and clues!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qE0fxuRCQ94?si=_aljUz3YtsyBKGlL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** TUNIC
+I think I'm going to share my knowledge. It might be a little longer, but I'm collecting fairies. Real ones. I mean I have to save my kind, no? So I'll do that and maybe we'll complete the manual and see about ending the game. Either way seems we have more TUNIC Tuesdays to look forward too ✨
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VW71VNSpRSM?si=ISLQJfLj7CgULDL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Still not sure exactly where Columbina is. We even also have another question. When she is. Lumine was also capture, but maybe this isn't too bad. We might be able to learn more about the plans against us!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bg3FC14VzNQ?si=n1c80gpzj8-BCJ_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We got our friends back! Turns out neither was really all that hard. We just had to be a little more careful. Once we had our full party it was time to head off to the end game. Sadly, I was not as prepared as I thought. Time to work on our characters more!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaAwGxOO_tA?si=6MWZFWSih-iI_7Ji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+We explored the new island, but I think Monokuma is tired of us taking so long to keel each other. So, he's provided a quick motivation. So, we might just get into the next case quicker. Not that is what I want. I suppose we could also find escape. Just, what the beep do these grapes mean!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQb67lSuKjA?si=D990aMUNituU3w4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Someone scheduled something for me on Monday right in the middle of our usual art stream. We'll work around that though! I've moved it to Friday. That means six days in a row of fairy cat broadcasts! Let's see how I do. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/14Sep.png]]
+| Date   | Time             | What's streaming | Where its streaming |
+|--------+------------------+------------------+---------------------|
+| 14 Sep | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
+| 15 Sep | 3 PM ET/12 PM PT | TUNIC            | Twitch and YouTube  |
+| 16 Sep | 3 PM ET/12 PM PT | Genshin Impact   | Twitch and YouTube  |
+| 17 Sep | 3 PM ET/12 PM PT | Final Fantasy VI | Twitch and YouTube  |
+| 18 Sep | 4 PM ET/1 PM PT  | Art              | Twitch exclusive!   |
+| 19 Sep | 4 PM ET/1 PM PT  | Art              | Twitch exclusive!   |
+|        | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
