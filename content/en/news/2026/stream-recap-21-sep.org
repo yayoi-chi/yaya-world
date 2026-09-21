@@ -5,12 +5,12 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: It was my first six-day stream week since before I made affiliate. I have to say, it made for a fun, but busy week. Now the extra stream day was just an art day so we ended up with the same amount of game streams as normal. It was the usual fare, a bit of Genshin Impact, a bit of Final Fantasy, some TUNIC, and a LOT of Danganronpa!
+#+SUMMARY: It was my first six-day stream week since before I made affiliate. I have to say, it made for a fun, but busy week. Now, the extra stream day was just an art day so we ended up with the same amount of game streams as normal. It was the usual fare, a bit of Genshin Impact, a bit of Final Fantasy, some TUNIC, and a LOT of Danganronpa!
 
 * Art Streams
-Now I was inspired to make a sort of Final Fantasy-themed wallpaper. I think I'm really getting used to my art processes again because this one only took the two streams. I think it helps that I also stream a little longer than I used to. I did not do a background for this one on stream though. I couldn't decide on it. I'll try something off stream.
+Now, I was inspired to make a sort of Final Fantasy-themed wallpaper. I think I'm really getting used to my art processes again because this one only took the two streams. I think it helps that I also stream a little longer than I used to. I did not do a background for this one on stream though. I couldn't decide on it. I'll try something off stream.
 
-What I did decide on was that I needed more emotes. Of course I decided on that last month, but I finally have the process of making those ready for you. I think I am almost caught up. I just have the Ghost Cat timelapse left and then the current wallpaper I mentioned earlier. Who knows, maybe Ghost Cat will give me a break from art so I can get even more caught up!
+What I did decide on was that I needed more emotes. Of course, I decided on that last month, but I finally have the process of making those ready for you. I think I am almost caught up. I just have the Ghost Cat timelapse left and then the current wallpaper I mentioned earlier. Who knows, maybe Ghost Cat will give me a break from art so I can get even more caught up!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ujE9nbCooDk?si=O8wZHFIItUBmp2P9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -32,7 +32,7 @@ Finding all the fairies might be good practice, because we're going to need to d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVPMun0RaQo?si=fxHMd_kTalBm2kPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Final Fantasy VI
-The grind is real! Not much happened in the story in this stream. It was a four hour grind for levels. I can't beleaf how high these bosses are. We I got everyone to over 40, but learned that the boss one party needs to face is 76. We did get that one, but it was a struggle and a quarter. Hopefully the other parties will be just as well equipped, or even better, so their fights will be easier!
+The grind is real! Not much happened in the story in this stream. It was a four hour grind for levels. I can't beleaf how high these bosses are. We got everyone to over 40, but learned that the boss one party needs to face is 76. We did get that one, but it was a struggle and a quarter. Hopefully the other parties will be just as well equipped, or even better, so their fights will be easier!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OW6EFFwFMkc?si=isjYFqmrJmvfV5Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -42,7 +42,7 @@ Things starting getting really heavy after some free time. We did manage to get 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kOCEasTf38o?si=pfZTXYrMemvj8O-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-A more normal week this week. Still doing TUNIC, Genshin, Final Fantasy, and Danganronpa, but only the five streaming days. I will also only be keeping on art stream. My affiliate anniversary is soon. Time to plan! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+A more normal week this week. Still doing TUNIC, Genshin, Final Fantasy, and Danganronpa, but only the five streaming days. I will also only be keeping one art stream. My affiliate anniversary is soon. Time to plan! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/21Sep.png]]
 | Date   | Time             | What's streaming | Where its streaming |
@@ -51,5 +51,5 @@ A more normal week this week. Still doing TUNIC, Genshin, Final Fantasy, and Dan
 |        | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
 | 22 Sep | 3 PM ET/12 PM PT | TUNIC            | Twitch and YouTube  |
 | 23 Sep | 3 PM ET/12 PM PT | Genshin Impact   | Twitch and YouTube  |
-| 24 Sep | 3 PM Et/12 PM PT | Final Fantasy VI | Twitch and YouTube  |
+| 24 Sep | 3 PM ET/12 PM PT | Final Fantasy VI | Twitch and YouTube  |
 | 26 Sep | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
