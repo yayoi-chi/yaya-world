@@ -1,0 +1,55 @@
+#+TITLE: Stream Recap: 21 Sep
+#+DATE: 2026-09-21T09:20:04-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: It was my first six-day stream week since before I made affiliate. I have to say, it made for a fun, but busy week. Now, the extra stream day was just an art day so we ended up with the same amount of game streams as normal. It was the usual fare, a bit of Genshin Impact, a bit of Final Fantasy, some TUNIC, and a LOT of Danganronpa!
+
+* Art Streams
+Now, I was inspired to make a sort of Final Fantasy-themed wallpaper. I think I'm really getting used to my art processes again because this one only took the two streams. I think it helps that I also stream a little longer than I used to. I did not do a background for this one on stream though. I couldn't decide on it. I'll try something off stream.
+
+What I did decide on was that I needed more emotes. Of course, I decided on that last month, but I finally have the process of making those ready for you. I think I am almost caught up. I just have the Ghost Cat timelapse left and then the current wallpaper I mentioned earlier. Who knows, maybe Ghost Cat will give me a break from art so I can get even more caught up!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujE9nbCooDk?si=O8wZHFIItUBmp2P9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Usual fare of games this week. We completed the "free time" segments in chapter 4 of Danganronpa 2, decided how we want TUNIC to end, got to the ending segments in Final Fantasy VI, and even went to the moon in Genshin Impact! I think that made for a pretty exciting week!
+** Danganronpa 2
+So apparently the strawberry house is just one side of the funhouse. There's a lift that goes between the two sides and we found out that these two sides are not only very close, but they're also connected by the tower in the middle. It also seems the phone in the lounges of each side can be used to communicate. So things might just get interesting. Also, no announcements, but we still have free time. How will this change things?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgwiWROZuMs?si=W8fYKyU3A-U7ae6L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Wowies! Lumine came back and a plan was discovered. It was a pretty complex plan and I am glad Sandrone was on it. We managed to defeat Dottore, but at a heavy cost. We did get Columbina back now and the real moon is in the sky as it should be. There's still more to do in Nod-krai, but we're close to the next chapter!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHaCDWyV6cA?si=QHjpxkIM8z3FK4D-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** TUNIC
+Finding all the fairies might be good practice, because we're going to need to do the entire 'golden path' to get the last page in our manual. We need all of the pages to 'share our knowledge'! So yeah, let's keep trying. I did try the other option, but not convinced it's any easier. They're like different types is all. One is beeg brain and one is beeg arms!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QVPMun0RaQo?si=fxHMd_kTalBm2kPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+The grind is real! Not much happened in the story in this stream. It was a four hour grind for levels. I can't beleaf how high these bosses are. We got everyone to over 40, but learned that the boss one party needs to face is 76. We did get that one, but it was a struggle and a quarter. Hopefully the other parties will be just as well equipped, or even better, so their fights will be easier!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OW6EFFwFMkc?si=isjYFqmrJmvfV5Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Things starting getting really heavy after some free time. We did manage to get our relationship up a little with Sonia, Mechamaru, and Akane. After that, hunger was getting to be too much. I could definitely feel the sluggishness as we tried to make it from room-to-room. Fortunately, that came to end, unfortunately it was because the worst happened!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOCEasTf38o?si=pfZTXYrMemvj8O-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+A more normal week this week. Still doing TUNIC, Genshin, Final Fantasy, and Danganronpa, but only the five streaming days. I will also only be keeping one art stream. My affiliate anniversary is soon. Time to plan! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/21Sep.png]]
+| Date   | Time             | What's streaming | Where its streaming |
+|--------+------------------+------------------+---------------------|
+| 21 Sep | 4 PM ET/1 PM PT  | Art              | Twitch exclusive!   |
+|        | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
+| 22 Sep | 3 PM ET/12 PM PT | TUNIC            | Twitch and YouTube  |
+| 23 Sep | 3 PM ET/12 PM PT | Genshin Impact   | Twitch and YouTube  |
+| 24 Sep | 3 PM ET/12 PM PT | Final Fantasy VI | Twitch and YouTube  |
+| 26 Sep | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
