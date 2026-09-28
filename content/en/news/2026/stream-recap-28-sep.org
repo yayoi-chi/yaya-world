@@ -1,0 +1,52 @@
+#+TITLE: Stream Recap: 28 Sep
+#+DATE: 2026-09-28T09:22:42-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: This was a pretty good week for streaming. Though there was only one art stream, we still had two VN Nites where we made it through the chapter four investigation in Danganronpa. We also finished TUNIC, got to the final boss in Final Fantasy VI, and returned to Sumeru in Genshin Impact!
+
+* Art Streams
+Not as many art streams this week. I did work on another wallpaper though. I really like my second one. It turned out pretty good, especially as a showcase for my wings. I am hoping this one at least turns out better than the first. I mean the first wallpaper wasn't terrible and I like how I drew eevee, but I think there were areas, like my arm and my smile, where I could have done better. I guess you can judge that. Here's the timelapse for the first wallpaper!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5n54QS2h_ew?si=xP-Y_Em0ECB6B6t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Still had two VN Nites though. Both were Danganronpa and we actually spend through the investigation and even started the class trial. I am actually starting to get the hang of this. Plus, having gone through the investigation so close to the trial I think I remembered a few things more clearly. Let's hope I'll be able to keep that going as we finish it! Oh! There were other games too with help from the kittens, we plotted the golden path and finished TUNIC. We returned to Sumeru in Genshin Impact, but failed to beat the second to last boss in Final Fantasy VI.
+** Danganronpa 2
+We found out why the other boys didn't make it over to the Grape House. They couldn't! The elevator is busted and the doors are blocked. They are stuck in the Strawberry House. That means that we also can't fully investigate everything. Will we be able to find a way to discover the secrets of the Final Dead Room?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lH4D3x9G_50?si=pRaVmP1Me492NMRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** TUNIC
+This was a bit of a different stream. There was this big puzzle that we needed to finish the game. Well, you see, we have to complete the manual. So we needed this puzzle to get the front cover of the book. The first half of the stream was going through all the clues to piece it together. Than we had to go and actually follow the path. TL:DR, I beat TUNIC's "Share your knowledge" path!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lSRVpuhsix0?si=ic7im4FODAHVsT6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Thing might have calmed down in Nod-Krai, but it seems the crisis just found a new target. Sumeru might be in a lot of trouble now. I know Nahida is. She passed out searching for information and now we're trying out best to find her help.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otIKe-gHYhI?si=X9LsETybAFZt1rVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Final Fantasy VI
+We had the warring triad to take care of. One of the fights was long, the other not so much. Neither were terrible though. I kind of might have not really understood how to beat the final stage of the next to last boss, but I think I have something now. More farming ahead, I think. Probably.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqHLipf37XE?si=13yDryhLvwRni456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Danganronpa 2
+Nagito "gained the ability to move freely between the houses" and somehow appeared just in time to give us some clues he found in Strawberry House. He also confirmed that we are not apparently an Ultimate at all. I am just not sure we can believe him. Well, doesn't matter, we have a class trial to get through!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJYPIlm9nsU?si=uOYWVvePqz3D5iUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Well, I made a schedule for this week. I'm just not 100% sure all of these will be streamed. Spooky Month is coming and I can already sense ghost cat's seal breaking. I know Monday is safe, and Tuesday probably is too. After that, we'll just have to see! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/28Sep.png]]
+| Date   | Time             | What's streaming      | Where its streaming |
+|--------+------------------+-----------------------+---------------------|
+| 28 Sep | 10 PM ET/7 PM PT | 100% Orange Juice     | Twitch and YouTube  |
+| 29 Sep | 4 PM ET/1 PM PT  | Science Communication | Twitch exclusive!   |
+| 30 Sep | 3 PM ET/12 PM PT | Genshin Impact        | Twitch and YouTube  |
+| 1 Oct  | 3 PM ET/12 PM PT | Final Fantasy VI      | Twitch and YouTube  |
+| 2 Oct  | 4 PM ET/1 PM PT  | Art                   | Twitch and YouTube  |
