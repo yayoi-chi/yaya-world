@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 09:20:04 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:22:42 -0700</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 28 Sep</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-28-sep/</link>
+        <pubDate>Mon, 28 Sep 2026 09:22:42 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 28 Sep 2026 09:22:42 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-28-sep/</guid>
+        <description>This was a pretty good week for streaming. Though, there was only one art stream, we still had two VN Nites where we made it through the chapter four investigation in Danganronpa. We also finished TUNIC, got to the final boss in Final Fantasy VI, and returned to Sumeru in Genshin Impact!</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3194,38 +3226,6 @@ I want to do more than just stream games, and for that I need to show off my art
         <atom:modified>Sat, 15 Mar 2025 11:28:57 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-16-mar/</guid>
         <description>Well, the scary uncertainty of last week is all over and done with and we even managed a fairly normal stream week even without a schedule. We had an art stream and even went back to Xenosaga and Kirby! Not bad for not knowing if and when I could stream, no?</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 9 Mar</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</link>
-        <pubDate>Sun, 09 Mar 2025 16:49:47 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 09 Mar 2025 16:49:47 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-9-mar/</guid>
-        <description>A very short week this week. Lots of things happened outside of my life as a streamer. It was all kind of overwhelming. I did manage a good art stream and we finished Persona 3 Reload. That was all though. Also, there&amp;#39;s more bad news, but I&amp;#39;ll leave it out of this summary!</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
