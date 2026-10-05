@@ -1,0 +1,47 @@
+#+TITLE: Stream Recap: 5 Oct
+#+DATE: 2026-10-05T09:19:12-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Well, I was right to be a little weary. Ghost Cat hath returned and she went and changed the schedule on us. We actually didn't even get an art stream. Good news though, it didn't effect the science stream. Also, you can help to banish her!
+
+* Science Stream
+This week we explored the concept of a coherent self and how one forms their identity from multiple potential social identities. We also explore what can happen when identities conflict. I address extreme examples of distress caused by both identity fragmentation and identity mismatch.
+#+begin_export html
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2FIdentity-Fragmentation-and-Mismatch%3A8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Kitten night was so much fun! I really enjoyed celebrating two years as a Twitch affiliate with my kittens. I also managed to get some progress in Genshin before Ghost Cat returned and moved everything to nighttime and had us play Corpse Party and Fatal Frame II: Remake. Spooky Month is here! I am working to seal her so we can go back to normal, but you can help this year! Subs, gift subs, donations, and bits will strengthen me and help me power up and banish her sooner!
+** 100% Orange Juice
+This was a really fun Kitten Nite (community game night). 100% Orange Juice is good to play with friends. It can take a little getting used to the rules, but once you do it's a lot of fun. I am so glad I was able to share it with my kittens. I am also glad we were able to celebrated my 2-years as an affiliate on Twitch!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pfyBq446VtM?si=UPoKvp3TDCagmcnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+Dottore is now inside Irismul, I think, probably. Well we needed a plan to save Nahida, but it seems she's already back to us. She told us that our plan to save her and Irismul probably wouldn't work very well, but she's the God of Wisdom, naturally, she had a new and better plan. We managed to shut thing down and have come back to the city, but will we win?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I9OBS0gqP0I?si=4rylRZ6_WshaRHMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party
+After two years, I finally returned to Heavenly Host Elementary School to try and get our friends back to their own time and school. We had already mostly solved the mystery. All the was left was to appease the White Sachiko and chant our way back home. I did, somehow, still collect a few wrong endings though. We made it in the end. Only the mystery continues...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqofqntQPns?si=JGDC15Ey6BzR418P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II
+Twin sisters discover a village where twins are revered, but also are important for a taboo kind of ritual. The village is filled with restless spirits. Fortunately one of the girls find a special camera that can help. This was a different kind of spooky, but very much on theme!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zpyQb68Z7Ys?si=8-XdDBOo_UcpBTih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Ghost Cat's schedule is in full swing this week. We are only playing three games. She wants to try and complete these. Also don't forget to stop by [[https://www.twitch.tv/yayoi_chi][Twitch]] to catch these live where you can sub, donate, or spend bits to help us banish her sooner. You can alsocheck out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] to see some of my previous streams.
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/5Oct.png]]
+| Date   | Time             | What's streaming              | Where its streaming |
+|--------+------------------+-------------------------------+---------------------|
+| 5 Oct  | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni     | Twitch and YouTube  |
+| 6 Oct  | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows | Twitch and YouTube  |
+| 7 Oct  | 10 PM ET/7 PM PT | Fatal Frame II: Remake        | Twitch and YouTube  |
+| 8 Oct  | 10 PM ET/7 PM PT | Fatal Frame II: Remake        | Twitch and YouTube  |
+| 10 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows | Twitch and YouTube  |
