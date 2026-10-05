@@ -8,7 +8,7 @@
 #+SUMMARY: Well, I was right to be a little weary. Ghost Cat hath returned and she went and changed the schedule on us. We actually didn't even get an art stream. Good news though, it didn't effect the science stream. Also, you can help to banish her!
 
 * Science Stream
-This week we explored the concept of a coherent self and how one forms their identity from multiple potential social identities. We also explore what can happen when identities conflict. I address extreme examples of distress caused by both identity fragmentation and identity mismatch.
+This week we explored the concept of a coherent self and how one forms their identity from multiple potential social identities. We also explored what can happen when identities conflict. I address extreme examples of distress caused by both identity fragmentation and identity mismatch.
 #+begin_export html
 <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40yayoivt%3A8%2FIdentity-Fragmentation-and-Mismatch%3A8?r=fFewSdBCc59wLzVqnURiuU1YteYZbNae" allowfullscreen></iframe>
 #+end_export
@@ -20,7 +20,7 @@ This was a really fun Kitten Nite (community game night). 100% Orange Juice is g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pfyBq446VtM?si=UPoKvp3TDCagmcnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-Dottore is now inside Irismul, I think, probably. Well we needed a plan to save Nahida, but it seems she's already back to us. She told us that our plan to save her and Irismul probably wouldn't work very well, but she's the God of Wisdom, naturally, she had a new and better plan. We managed to shut thing down and have come back to the city, but will we win?
+Dottore is now inside Irismul, I think, probably. Well we needed a plan to save Nahida, but it seems she's already back to us. She told us that our plan to save her and Irismul probably wouldn't work very well, but she's the God of Wisdom, naturally, she had a new and better plan. We managed to shut the thing down and have come back to the city, but will we win?
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9OBS0gqP0I?si=4rylRZ6_WshaRHMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -30,12 +30,12 @@ After two years, I finally returned to Heavenly Host Elementary School to try an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqofqntQPns?si=JGDC15Ey6BzR418P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Fatal Frame II
-Twin sisters discover a village where twins are revered, but also are important for a taboo kind of ritual. The village is filled with restless spirits. Fortunately one of the girls find a special camera that can help. This was a different kind of spooky, but very much on theme!
+Twin sisters discover a village where twins are revered but also are important for a taboo ritual. The village is filled with restless spirits. Fortunately, one of the girls find a special camera that can help. This was a different kind of spooky, but very much on theme!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpyQb68Z7Ys?si=8-XdDBOo_UcpBTih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-Ghost Cat's schedule is in full swing this week. We are only playing three games. She wants to try and complete these. Also don't forget to stop by [[https://www.twitch.tv/yayoi_chi][Twitch]] to catch these live where you can sub, donate, or spend bits to help us banish her sooner. You can alsocheck out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] to see some of my previous streams.
+Ghost Cat's schedule is in full swing this week. We are only playing three games. She wants to try and complete these. Also don't forget to stop by [[https://www.twitch.tv/yayoi_chi][Twitch]] to catch these live where you can sub, donate, or spend bits to help us banish her sooner. You can also check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] to see some of my previous streams.
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/5Oct.png]]
 | Date   | Time             | What's streaming              | Where its streaming |
