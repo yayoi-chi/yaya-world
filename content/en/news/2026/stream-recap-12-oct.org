@@ -1,0 +1,54 @@
+#+TITLE: Stream Recap: 12 Oct
+#+DATE: 2026-10-12T09:20:16-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: No art streams during Spooky Month this year, at least not until the end, potentially. We still have lots of game streams though. All spooky! We are learning more about the villages in Fatal Frame II and Higurashi as well as repeating past events in Corpse Party: Book of Shadows. Can fate be changed?
+
+* Art Timelapse
+No art streams during spooky month, at least not until the end, maybe. I do still have timelapses to catch up on though, so they'll go here! This one is also on theme, because it was from when we upgraded Ghost Cat to 2.0. Ghost Cat is a special version of my model that I use for spooky month. It fits, no?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkbVU8kZ4Ww?si=QUPas1M8IOTC1cFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+We had a /lot/ of game streams this week. All spooky! We're still learning about the curse in Higurashi and more about what haunts the village in Fatal Frame II. We're also reliving past events and trying to rewrite fate in Corpse Party: Book of Shadows. I don't know if we can, but we can at least try!
+** Higurashi no Naku Koro ni
+After hearing far too many stories in a place we shouldn't even be in, we parted ways with Shion and the others so we can try and meet with Mion and our other friends. Rika ended up finding us. I think things are starting to progress for Keiichi, but mayhap that isn't such a good thing...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31aVAVt2cYY?si=X3KQld3c_lxjmRa6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party: Book of Shadows
+*** Night 1
+So, it would seem things are happening over again. Though there are signs that they have happened before. Now we see things more from Naomi's perspective. Is it possible that she can change Seiko's fate? Also, is Sachiko really helping?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgfBQPTagjk?si=XNUbtqNSid2wozzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Night 2
+Well, it seems fate can't be changed. Of course, that is just what Sachiko is saying. Sachiko kind of isn't always known for telling the truth. There was a note in the next chapter that said we could change fate. Of course there was another note that said we couldn't. I don't know what is what, but now that we're Mayu, maybe we'll find out for sure. Though things do seem to be happening basically the way that had before...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAkOxScT4Sw?si=9Q4Xu_Y36jtzdfB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II: Crimson Butterfly REMAKE
+*** Night 1
+We reunited with our sister in time to get separated again. And we didn't just get separated once either. It was twice. The first time wasn't very long though. Seems we both just needed to take our respective paths into one area. The last one though, well won't see her again until next stream...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZpH-GjVcDrk?si=5oc5aZk-NCTHUtHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Night 2
+Well, we managed to get the storehouse key, but Mayu done did run off again. Now we're trying to catch up to her again. One question, how come she doesn't seem to ever have to worry about all these locked doors!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OV--nSW3SKk?si=y_zTnztSzmrMALtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Changing things up just a tad. Really just re-ordering the streams. I have a feeling we're getting close to the end of Fatal Frame II, so I put the second stream of it at the end of the week just in case we finish so it'll be easier to switch out. Other than that Spooky Month continues! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/12Oct.png]]
+| Date   | Time             | What's streaming                         |
+|--------+------------------+------------------------------------------|
+| 12 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni                |
+| 13 Oct | 10 PM ET/7 PM PT | Fatal Frame II: Crimson Butterfly REMAKE |
+| 14 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows            |
+| 15 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows            |
+| 17 Oct | 10 PM ET/7 PM PT | Fatal Frame II: Crimson Butterfly REMAKE |
