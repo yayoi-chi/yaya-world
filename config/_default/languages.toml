@@ -1,11 +1,11 @@
 [en]
   title = "Yaya's World"
-  languageName = "English"
+  label = "English"
   weight = 2
   contentdir = "content/en"
 
 [jp]
   title = "やよいのWORLD"
-  languageName = "日本語"
+  label = "日本語"
   weight = 1
   contentdir = "content/jp"
