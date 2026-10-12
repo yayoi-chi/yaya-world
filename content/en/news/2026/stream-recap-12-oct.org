@@ -5,7 +5,7 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Not art streams during Spooky Month this year, at least not until the end, potentially. We still have lots of game streams though. All spooky! We are learning more about the villages in Fatal Frame II and Higurashi as well as repeating past events in Corpse Party: Book of Shadows. Can fate be changed?
+#+SUMMARY: No art streams during Spooky Month this year, at least not until the end, potentially. We still have lots of game streams though. All spooky! We are learning more about the villages in Fatal Frame II and Higurashi as well as repeating past events in Corpse Party: Book of Shadows. Can fate be changed?
 
 * Art Timelapse
 No art streams during spooky month, at least not until the end, maybe. I do still have timelapses to catch up on though, so they'll go here! This one is also on theme, because it was from when we upgraded Ghost Cat to 2.0. Ghost Cat is a special version of my model that I use for spooky month. It fits, no?
@@ -13,7 +13,7 @@ No art streams during spooky month, at least not until the end, maybe. I do stil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkbVU8kZ4Ww?si=QUPas1M8IOTC1cFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-
+<!-- missing summary! -->
 ** Higurashi no Naku Koro ni
 After hearing far too many stories in a place we shouldn't even be in, we parted ways with Shion and the others so we can try and meet with Mion and our other friends. Rika ended up finding us. I think things are starting to progress for Keiichi, but mayhap that isn't such a good thing...
 #+begin_export html
@@ -32,7 +32,7 @@ Well, it seems fate can't be changed. Of course, that is just what Sachiko is sa
 #+end_export
 ** Fatal Frame II: Crimson Butterfly REMAKE
 *** Night 1
-We reunited with our sister in time to get separated again. And we didn't just separated once either. It was twice. The first time wasn't very long though. Seems we both just needed to take our respective paths into one area. The last one though, well won't see her again until next stream...
+We reunited with our sister in time to get separated again. And we didn't just get separated once either. It was twice. The first time wasn't very long though. Seems we both just needed to take our respective paths into one area. The last one though, well won't see her again until next stream...
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZpH-GjVcDrk?si=5oc5aZk-NCTHUtHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
