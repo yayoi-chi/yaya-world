@@ -13,7 +13,7 @@ No art streams during spooky month, at least not until the end, maybe. I do stil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkbVU8kZ4Ww?si=QUPas1M8IOTC1cFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Game Streams
-<!-- missing summary! -->
+We had a /lot/ of game streams this week. All spooky! We're still learning about the curse in Higurashi and more about what haunts the village in Fatal Frame II. We're also reliving past events and trying to rewrite fate in Corpse Party: Book of Shadows. I don't know if we can, but we can at least try!
 ** Higurashi no Naku Koro ni
 After hearing far too many stories in a place we shouldn't even be in, we parted ways with Shion and the others so we can try and meet with Mion and our other friends. Rika ended up finding us. I think things are starting to progress for Keiichi, but mayhap that isn't such a good thing...
 #+begin_export html
