@@ -1,7 +1,7 @@
 [en]
   title = "Yaya's World"
   label = "English"
-  weight = 2
+  weight = 3
   contentdir = "content/en"
 
 [jp]
@@ -9,3 +9,9 @@
   label = "日本語"
   weight = 1
   contentdir = "content/jp"
+
+[tl]
+  title = "World ni Yaya"
+  label = "Tagalog (Filipino)"
+  weight = 2
+  contentdir = "content/tl"

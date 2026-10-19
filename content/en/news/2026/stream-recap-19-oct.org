@@ -1,0 +1,56 @@
+#+TITLE: Stream Recap: 19 Oct
+#+DATE: 2026-10-19T09:16:03-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Another pawsome week! We're nearing the end of Spooky Month, and I am getting close to sealing Ghost Cat again! While we're working on that we also played Fatal Frame II and nearly finished it. We're close to Yui-sensei's first encounter with Heavenly Host Elementary in Corpse Party: Book of Shadows. We also are just now realizing the gravity of our actions during Watanagashi!
+
+* Art Timelapse
+I decided that I needed to dress up as a white mage. Not because Spooky Month was coming, or even because it was my favorite class to play in Final Fantasy XIV. Nope. I dressed up as a white mage just because we were playing Final Fantasy VI (a game that doesn't even have that class). Anyway, this is another in my wallpaper series. I hope you enjoy this timelapse.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSWsW0vg5Mo?si=KNe15wZhHw3ob0me" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+We played the same three games this week, but we're making a lot of progress! We're actually nearing the end of Fatal Frame II REMAKE. The last, or second to last, boss was so hard and it was getting late, so we decided to put that off until before Kittens' Choice. We also learned something interesting about Yui-sensei in Corpse Party. Was she really almost pulled into Heavenly Host before anyone else?
+** Higurashi no Naku Koro ni
+We might just be the next victims. We did something we shouldn't have. We're sorry. We're sorry. We're sorry. We're sorry. We're sorry. We're sorry.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfDePeDoslk?si=3P1Ut_1GCs40umV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II REMAKE
+Lost and found! The Camera Obscura is an important thing for us to have in this village and we dropped it. Fortunately, we did find it. We also followed Mayu almost to the depths of hell. We're nearing the end here kittens!
+*** Nite 1
+We lost the Camera Obscura! It was the only thing that could keep us safe from the spirits and we lost it. We also found the white spirit again. Yae, I think her name is. Or is Yae just Mayu? Honestly it is hard to tell sometimes. Well, we did get Mayu back so that's something, no?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwoDBlBKbe4?si=AUspRsGvn_lycQX1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Nite 2
+We are nearing the end. We are on the final chapter. We have once again been separated from Mayu, but this time we know where they're taking her and we have already unlocked all the doors. Can we rescue her though?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZnwuz0-nDY?si=-4PAunodXpOeV6WV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party: Book of Shadows
+Interesting how this game also has a character named Mayu. She's a different girl though. Yes, it did, in fact get worse for her too. Can we not change fate? We also learned that Yui-sensei may have had an encounter with Heavenly Host Elementary before any of her students!
+*** Nite 1
+So, I asked if it could get worse for Mayu. Sachiko just had to answer. I won't spoil it though. We did save Nana and tried to change our fate and, though we didn't know it, hers a well. Thing is...I think Sachiko might be right...We...can't...change...fate...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O6P_NRYD678?si=eUb1J-pVXbxTPNyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Nite 2
+This chapter is a little different. I didn't remember exactly how different it was until near the end of stream, but I'll say, it is really cool to see Yui-sensei when she was younger. What happens to her, is less cool, but I suppose there is still some hope.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GIMarcOoBg?si=frJXfh5p33MdlTCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+New game this week! It's called The Many Deaths of Lily Kosen. We also have a Kittens' Choice. We'll see what we play, but it will be /after/ we finish Fatal Frame II! More Corpse Party too. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/19Oct.png]]
+| Date   | Time             | What's streaming              |
+|--------+------------------+-------------------------------|
+| 19 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni     |
+| 20 Oct | 10 PM ET/7 PM PT | The Many Deaths of Lily Kosen |
+| 21 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows |
+| 22 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows |
+| 24 Oct | 10 PM ET/7 PM PT | Kittens' Choice               |

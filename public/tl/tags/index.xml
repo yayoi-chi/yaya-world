@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on World ni Yaya</title>
+    <link>https://onigirionegai.info/~yayoi/tl/tags/</link>
+    <description>Recent content in Tags on World ni Yaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tl</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 19 Oct 2026 09:16:16 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>News</title>
+        <link>https://onigirionegai.info/~yayoi/tl/tags/news/</link>
+        <pubDate>Mon, 19 Oct 2026 09:16:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tl/tags/news/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Recap</title>
+        <link>https://onigirionegai.info/~yayoi/tl/tags/recap/</link>
+        <pubDate>Mon, 19 Oct 2026 09:16:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tl/tags/recap/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Stream</title>
+        <link>https://onigirionegai.info/~yayoi/tl/tags/stream/</link>
+        <pubDate>Mon, 19 Oct 2026 09:16:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        
+        <guid>https://onigirionegai.info/~yayoi/tl/tags/stream/</guid>
+        <description></description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+    
+  </channel>
+</rss>

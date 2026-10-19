@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Stream on World ni Yaya</title>
+    <link>https://onigirionegai.info/~yayoi/tl/tags/stream/</link>
+    <description>Recent content in Stream on World ni Yaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tl</language>
+    <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
+    <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 19 Oct 2026 09:16:16 -0700</lastBuildDate>
+    
+        <atom:link href="https://onigirionegai.info/~yayoi/tl/tags/stream/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Stream Recap: 19 Oct</title>
+        <link>https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-19-oct/</link>
+        <pubDate>Mon, 19 Oct 2026 09:16:16 -0700</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 19 Oct 2026 09:16:16 -0700</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-19-oct/</guid>
+        <description>Magandang rin linggo! Malapit nang matapos ang buwan. Malapit ako sa magtaboy ng Ghost Cat. Nag-play tayo ng Fatal Frame II. Malapit na tayo tapusin siya. Nag-play rin tayo ng Corpse Party: Book of Shadows at Higurashi no Naku Koro ni sa itong linngo. Walang art stream, pero magkaroon ang art timelapse.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
+            
+          
+        
+        
+        
+      </item>
+    
+  </channel>
+</rss>
