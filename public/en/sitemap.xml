@@ -59,6 +59,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://onigirionegai.info/~yayoi/introduction/"
                 />
@@ -67,11 +72,16 @@
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
                 href="https://onigirionegai.info/~yayoi/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,22 +90,72 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/news/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/tags/news/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/tags/recap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/tags/recap/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/tags/stream/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/tags/stream/"
+                />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-12-oct/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-19-oct/</loc>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-19-oct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/news/2026/stream-recap-19-oct/"
+                />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
+    <lastmod>2026-10-19T09:16:03-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -103,9 +163,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://onigirionegai.info/~yayoi/tags/"
                 />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2026/philam-ako/</loc>
+    <lastmod>2026-10-18T19:17:57-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/news/2026/philam-ako/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/news/2026/philam-ako/"
+                />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-12-oct/</loc>
+    <lastmod>2026-10-12T09:20:16-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-5-oct/</loc>
     <lastmod>2026-10-05T09:19:12-07:00</lastmod>
@@ -779,6 +860,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://onigirionegai.info/~yayoi/categories/"
                 />
@@ -801,6 +887,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://onigirionegai.info/~yayoi/jp/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/series/"
                 />
     <xhtml:link
                 rel="alternate"
