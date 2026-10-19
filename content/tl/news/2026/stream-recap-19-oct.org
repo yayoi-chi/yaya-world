@@ -1,0 +1,56 @@
+#+TITLE: Stream Recap: 19 Oct
+#+DATE: 2026-10-19T09:16:16-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Magandang rin linggo! Malapit nang matapos ang buwan. Malapit ako sa magtaboy ng Ghost Cat. Nag-play tayo ng Fatal Frame II. Malapit na tayo tapusin siya. Nag-play rin tayo ng Corpse Party: Book of Shadows at Higurashi no Naku Koro ni sa itong linngo. Walang art stream, pero magkaroon ang art timelapse.
+
+* Art Timelapse
+Magusto ako ng klase White Mage sa Final Fantasy XIV. Gutso Mag-cosplay sa klase White Mage ko. Kaya, nagguhit ako ng aking avatar sa pag-cosplayng White Mage pero 'di dahil magusto ako and klase rito. Kasi nag-pa-play tayo ng Final Fantasy VI. Bahagi ang kono pagguhit sa aking wallpaper serye.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSWsW0vg5Mo?si=KNe15wZhHw3ob0me" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Game Streams
+Nag-play tayo tatlong video games sa itong linggo. Sa Ingles ang mga paglalarawan sa ibaba. Kasi pagtamad ako ;p Jokes nalang. Sa YouTube ang paglalarawan rito. Sa Ingles lamang ang aking YouTube Channel sa ngayon.
+** Higurashi no Naku Koro ni
+We might just be the next victims. We did something we shouldn't have. We're sorry. We're sorry. We're sorry. We're sorry. We're sorry. We're sorry.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfDePeDoslk?si=3P1Ut_1GCs40umV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II REMAKE
+Dalawang gabi para sa Fatal Frame II REMAKE! Malapit na tayo tapusin siya! Si Mayu Yae ba or si Mayu Mayu?
+*** Nite 1
+We lost the Camera Obscura! It was the only thing that could keep us safe from the spirits and we lost it. We also found the white spirit again. Yae, I think her name is. Or is Yae just Mayu? Honestly it is hard to tell sometimes. Well, we did get Mayu back so that's something, no?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwoDBlBKbe4?si=AUspRsGvn_lycQX1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Nite 2
+We are nearing the end. We are on the final chapter. We have once again been separated from Mayu, but this time we know where they're taking her and we have already unlocked all the doors. Can we rescue her though?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZnwuz0-nDY?si=-4PAunodXpOeV6WV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party: Book of Shadows
+Dalawang gabi rin para sa Corpse Party: Book of Shadows. Mayroon din itong karakter na nanggalang Mayu, ngunit ibang babae siya. Mayroon din ang karakter na nangalangang Yui-sensei at Yui-sensei nakakaharap Heavenly Host Elementary mauna sa mga estudyante niya ( o . o )!
+*** Nite 1
+So, I asked if it could get worse for Mayu. Sachiko just had to answer. I won't spoil it though. We did save Nana and tried to change our fate and, though we didn't know it, hers a well. Thing is...I think Sachiko might be right...We...can't...change...fate...
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O6P_NRYD678?si=eUb1J-pVXbxTPNyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Nite 2
+This chapter is a little different. I didn't remember exactly how different it was until near the end of stream, but I'll say, it is really cool to see Yui-sensei when she was younger. What happens to her, is less cool, but I suppose there is still some hope.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GIMarcOoBg?si=frJXfh5p33MdlTCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Mag-pa-play ang bagon video game sa sasunod na linggo. Tinatawag The Many Deaths of Lily Kosen na ito. Mag-pa-play rin Higurashi at Corpse Party. Magpapasiya kayo anong mag-pa-play kayo sa Sabado. Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/19Oct.png]]
+| Araw   | Oras             | Ano                           |
+|--------+------------------+-------------------------------|
+| 19 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni     |
+| 20 Oct | 10 PM ET/7 PM PT | The Many Deaths of Lily Kosen |
+| 21 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows |
+| 22 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows |
+| 24 Oct | 10 PM ET/7 PM PT | Kittens' Choice               |
