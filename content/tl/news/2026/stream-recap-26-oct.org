@@ -1,0 +1,49 @@
+#+TITLE: Stream Recap: 26 Oct
+#+DATE: 2026-10-25T12:09:15-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Walang art stream sa itong linggo. Cincong mga video game stream na lang. Nag-play tayo Higurashi no Naku Koro ni, The Many Deaths of Lily Kosin (bagong video game!), Corpse Party: Book of Shadows, at Fatal Frame II. Mayroon tayo and bonus stream! Tapos na ang Fatal Frame! Kaya, nag-play rin tayo Resident Evil 2! Malumbay na ang katapusan ng Fatal Frame II.
+
+* Game Streams
+Walang art stream sa itong linggo. Cincong mga video game stream na lang. Nag-play tayo Higurashi no Naku Koro ni, The Many Deaths of Lily Kosin (bagong video game!), Corpse Party: Book of Shadows, at Fatal Frame II. Mayroon tayo and bonus stream! Tapos na ang Fatal Frame! Kaya, nag-play rin tayo Resident Evil 2! Malumbay na ang katapusan ng Fatal Frame II 😭 Sa Ingles ang mga paglalarawan sa ibaba.
+** Higurashi no Naku Koro ni
+There was once a group of four cats. One cat convinced two of the other cats to entered the forbidden ritual storehouse. You see the cats always wanted to see what was inside, but their owner (Rika-chamma) was mean I didn't let them in. They took a peek though and now the cats are scared. Don't worry cats, just keep meowing. Rika-chama isn't mad, she'll protect you!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsZKgsbvkjU?si=W3npfGfffz04Qa1y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** The Many Deaths of Lily Kosen
+It's a camping trip, eh? Apparently the main character has something she wants to do there other than just camping. Things are also a little strange. Was that really just a twig we stepped on? Why isn't anyone else here on a weekend? Well it's probably nothing. Let's get on with the plan!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Rrrp7Zphjg?si=-KNO0AiAHvWN-6Sz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party: Book of Shadows
+Nag-play tayo Corpse Party sa dalawang gabi. Yui ang pinagmumultuhan ng aswang sa unang gabi, pero marahil isang ang iyang panaginip. Habang, nag-imbestiga ang Naho ng Heavenly Host Elementary School sa panganlawang gabi.
+*** Nite 1
+Maybe it was all just a dream. I mean a ghost that can nearly break your arm just by twisting it? That can't possibly happen, right? and, like that old lady I couldn't have seen her, right? I mean they said she died. Yeah it must all just been a dream.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trzU8DWG1YU?si=hD2CTiHeTnXrgkGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+*** Nite 2
+Well, Naho will be Naho I suppose. She'll do /anything/ for her sensei, even put her best friend at risk. Of course, he shouldn't have gone in without her. Still did she even try to look for Sayaka after she convinced her to go with her?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnWZaEPe6cs?si=8oQs4fJSa5hj0JFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Fatal Frame II/Resident Evil 2
+It turns out, we weren't able to escape the ritual. It all seemed to happen just as it was supposed to. Now Mio is alone, maybe? As far what is happening in Raccoon City, I have no shtinkin clue!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wgpey2V41eA?si=D3Y6ypHj34qDZF1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Malapit nang matapos ang nating Spooky Month! Tapusin naman tayo lahat ng mga spooky games sa susunod na linggo. Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/26Oct.png]]
+| Araw   | Oras             | Ano                           |
+|--------+------------------+-------------------------------|
+| 26 Oct | 10 PM ET/7 PM PT | Higurashi no Naku Koro ni     |
+| 27 Oct | 10 PM ET/7 PM PT | The Many Deaths of Lily Kosen |
+| 28 Oct | 10 PM ET/7 PM PT | Resident Evil 2               |
+| 29 Oct | 10 PM ET/7 PM PT | Corpse Party: Book of Shadows |
+| 31 Oct | 9 PM ET/6 PM PT  | 2026 Spooky Month Finale      |
