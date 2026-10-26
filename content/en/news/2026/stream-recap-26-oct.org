@@ -5,12 +5,12 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY: Not art stream this week! Instead we had 5, well kind of 6 game streams! We started the week with Higurashi no Naku Koro ni, continued with Corpse Party: Book of Shadows, and finished off by beating the final boss in Fatal Frame II before moving on to Resident Evil 2!
+#+SUMMARY: No art stream this week! Instead we had 5, well kind of 6 game streams! We started the week with Higurashi no Naku Koro ni, continued with Corpse Party: Book of Shadows, and finished off by beating the final boss in Fatal Frame II before moving on to Resident Evil 2!
 
 * Game Streams
-Not art stream this week! Instead we had 5, well kind of 6 game streams! We started the week with Higurashi no Naku Koro ni, continued with Corpse Party: Book of Shadows, and finished off by beating the final boss in Fatal Frame II before moving on to Resident Evil 2!
+No art stream this week! Instead we had 5, well kind of 6 game streams! We started the week with Higurashi no Naku Koro ni, continued with Corpse Party: Book of Shadows, and finished off by beating the final boss in Fatal Frame II before moving on to Resident Evil 2!
 ** Higurashi no Naku Koro ni
-There was once a group of four cats. One cat convinced two of the other cats to entered the forbidden ritual storehouse. You see the cats always wanted to see what was inside, but their owner (Rika-chamma) was mean I didn't let them in. They took a peek though and now the cats are scared. Don't worry cats, just keep meowing. Rika-chama isn't mad, she'll protect you!
+There was once a group of four cats. One cat convinced two of the other cats to entered the forbidden ritual storehouse. You see the cats always wanted to see what was inside, but their owner (Rika-chamma) was mean I didn't let them in. They took a peek though and now the cats are scared. Don't worry cats, just keep meowing. Rika-chamma isn't mad, she'll protect you!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xsZKgsbvkjU?si=W3npfGfffz04Qa1y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -22,7 +22,7 @@ It's a camping trip, eh? Apparently the main character has something she wants t
 ** Corpse Party: Book of Shadows
 We still had two of these this week. On the first night, Yui had a ghostly encounter that almost claimed her life, but that might have been a dream. On the second night, we learned more about how Naho ended up in Heavenly Host, and it wasn't good!
 *** Nite 1
-Maybe it was all just a dream. I mean a ghost that can nearly break your arm just by twisting it? That can't possibly happen, right? and, like that old lady I couldn't have seen her, right? I mean they said she died. Yeah it must all just been a dream.
+Maybe it was all just a dream. I mean a ghost that can nearly break your arm just by twisting it? That can't possibly happen, right? And, like that old lady I couldn't have seen her, right? I mean they said she died. Yeah it must all just been a dream.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trzU8DWG1YU?si=hD2CTiHeTnXrgkGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export

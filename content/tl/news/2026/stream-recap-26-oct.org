@@ -10,7 +10,7 @@
 * Game Streams
 Walang art stream sa itong linggo. Cincong mga video game stream na lang. Nag-play tayo Higurashi no Naku Koro ni, The Many Deaths of Lily Kosin (bagong video game!), Corpse Party: Book of Shadows, at Fatal Frame II. Mayroon tayo and bonus stream! Tapos na ang Fatal Frame! Kaya, nag-play rin tayo Resident Evil 2! Malumbay na ang katapusan ng Fatal Frame II 😭 Sa Ingles ang mga paglalarawan sa ibaba.
 ** Higurashi no Naku Koro ni
-There was once a group of four cats. One cat convinced two of the other cats to entered the forbidden ritual storehouse. You see the cats always wanted to see what was inside, but their owner (Rika-chamma) was mean I didn't let them in. They took a peek though and now the cats are scared. Don't worry cats, just keep meowing. Rika-chama isn't mad, she'll protect you!
+There was once a group of four cats. One cat convinced two of the other cats to entered the forbidden ritual storehouse. You see the cats always wanted to see what was inside, but their owner (Rika-chamma) was mean I didn't let them in. They took a peek though and now the cats are scared. Don't worry cats, just keep meowing. Rika-chamma isn't mad, she'll protect you!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xsZKgsbvkjU?si=W3npfGfffz04Qa1y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
@@ -22,7 +22,7 @@ It's a camping trip, eh? Apparently the main character has something she wants t
 ** Corpse Party: Book of Shadows
 Nag-play tayo Corpse Party sa dalawang gabi. Yui ang pinagmumultuhan ng aswang sa unang gabi, pero marahil isang ang iyang panaginip. Habang, nag-imbestiga ang Naho ng Heavenly Host Elementary School sa panganlawang gabi.
 *** Nite 1
-Maybe it was all just a dream. I mean a ghost that can nearly break your arm just by twisting it? That can't possibly happen, right? and, like that old lady I couldn't have seen her, right? I mean they said she died. Yeah it must all just been a dream.
+Maybe it was all just a dream. I mean a ghost that can nearly break your arm just by twisting it? That can't possibly happen, right? And, like that old lady I couldn't have seen her, right? I mean they said she died. Yeah it must all just been a dream.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trzU8DWG1YU?si=hD2CTiHeTnXrgkGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
