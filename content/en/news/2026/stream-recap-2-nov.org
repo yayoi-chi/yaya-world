@@ -30,9 +30,9 @@ Morishige doesn't recognize the girl that had become the masterpiece in the coll
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYWTylQxa2E?si=2iQhHGlFcpvUSsao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * 2026 Spooky Month Finale
-
+And ending for the ages, at least until 2027. This started with 100% Orange Juice with kittens and ended with another fight with Chitose in Fatal Frame II. Chitose was the little girl spirit, Ituski's sister, who kept hiding and took me forever. This time I just threw whatever I could at her and we won, after we didn't XD Fun times!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LGmSw8PSZc?si=zUscdjYhQb3vZ8ob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 (summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
