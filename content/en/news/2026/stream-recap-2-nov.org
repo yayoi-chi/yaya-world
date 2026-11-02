@@ -5,10 +5,10 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: I think we had a pretty good last week of Spooky Month. I had some Higurashi time and even played The Many Deaths of Lily Kosen. Resident Evil happened too. My highlight though was our 6 hours Spooky Month Finale which started with some 100% Orange Juice with the kittens and ending with a side story in Fatal Frame II!
 
 * Game Streams
-
+I think we had a pretty good last week of Spooky Month. I had some Higurashi time and even played The Many Deaths of Lily Kosen. Resident Evil happened too. My highlight though was our 6 hours Spooky Month Finale which started with some 100% Orange Juice with the kittens and ending with a side story in Fatal Frame II! It's time to put the spooky games to rest for another year.
 ** Higurashi no Naku Koro ni
 The cat couldn't help himself, he just had to keep worrying. Maybe this was a good thing though. Maybe, by worrying he was able to uncover something. What if, however, he won't like what he sees. Should he have just kept meowing and left everything to Rika?
 #+begin_export html
@@ -35,7 +35,7 @@ And ending for the ages, at least until 2027. This started with 100% Orange Juic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7LGmSw8PSZc?si=zUscdjYhQb3vZ8ob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+Shorter week, but a good one. Getting back to some art and hopefully finishing Final Fantasy VI. Also, let's see what we missed in Genshin Impact! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/2Nov.png]]
 | Date  | Time             | What's streaming | Where its streaming |

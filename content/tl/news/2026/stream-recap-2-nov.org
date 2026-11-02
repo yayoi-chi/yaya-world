@@ -1,8 +1,44 @@
-#+TITLE: Stream Recap 2 Nov
-#+DATE: 2026-10-31T16:16:37-07:00
+#+TITLE: Stream Recap: 2 Nov
+#+DATE: 2026-10-31T16:16:29-07:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: Lumipas na ang huling linggo natin para sa Spooky Month. Nag-play tayo Higurashi no Naku Koro ni at The Many Deaths of Lily Kosen at Corpse Party: Book of Shadows para sa itong linggo. Nag-play rin tayo Resident Evil 2, pero 'di ko nagustuhan.'di mag-pa-play tayo Resident Evil 2 muli, malamang. Nag-play tayo 100% Orange Juice nagkasama para sa ating Spooky Month Finale at Nag-play rin tayo Fatal Frame II, pero 'di nagkasama. 
+
+* Game Streams
+Lumipas na ang huling linggo natin para sa Spooky Month. Nag-play tayo Higurashi no Naku Koro ni at The Many Deaths of Lily Kosen at Corpse Party: Book of Shadows para sa itong linggo. Nag-play rin tayo Resident Evil 2, pero 'di ko nagustuhan.'di mag-pa-play tayo Resident Evil 2 muli, malamang. Nag-play tayo 100% Orange Juice nagkasama para sa ating Spooky Month Finale at Nag-play rin tayo Fatal Frame II, pero 'di nagkasama. Itong huling linggo na Spooky Month ang pinakamabuting na linggo!
+** Higurashi no Naku Koro ni
+The cat couldn't help himself, he just had to keep worrying. Maybe this was a good thing though. Maybe, by worrying he was able to uncover something. What if, however, he won't like what he sees. Should he have just kept meowing and left everything to Rika?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3M9zu4cFa54?si=wf2EKulZP1L0Hvwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** The Many Deaths of Lily Kosen
+Well, seems we found out what we wanted to talk about. It had to do with the ritual in the prologue. Did a demon really come and possess our friend!? I mean we stabbed her, so that had to have happened, right!? Wait, who is this that has joined our camp?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2pFjvKNQrP0?si=V6xCXiu17w_AiNTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Resident Evil 2
+We made it out of the station, but were a bit locked out still. Turns out we need a key card to leave the parking garage, so we had to head back in and see if we could find out how to get at one. Not find one, finding it was easy, finding away to get it, that's what's hard. Also, BEEG zombie!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BY_zgJDxMCg?si=l74mEd9yo8vr7Zcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Corpse Party: Book of Shadows
+Morishige doesn't recognize the girl that had become the masterpiece in the collection. She said not to look. That she didn't want to be seen that way. Only he can't stop looking. It is all that keeps him grounded, or so he believes. Is this corpse party the perfect place for him!?
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYWTylQxa2E?si=2iQhHGlFcpvUSsao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* 2026 Spooky Month Finale
+And ending for the ages, at least until 2027. This started with 100% Orange Juice with kittens and ended with another fight with Chitose in Fatal Frame II. Chitose was the little girl spirit, Ituski's sister, who kept hiding and took me forever. This time I just threw whatever I could at her and we won, after we didn't XD Fun times!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LGmSw8PSZc?si=zUscdjYhQb3vZ8ob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Tapos na ang Spooky Month. Babalik tayo sa ating karaniwang iskedyul ngayong linggo. Kaya mag-sta-stream ako ang aking art! Magkakaroon tayo dalawa na art stream at dalawa na game stream! Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+| Araw  | Oras             | Ano              | Saan                |
+|-------+------------------+------------------+---------------------|
+| 2 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo!  |
+| 3 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo!  |
+| 5 Nov | 3 PM ET/12 PM PT | Final Fantasy VI | Twitch at YouTube   |
+| 7 Nov | 3 PM ET/12 PM PT | Genshin Impact   | Twitch at YouTube   |
