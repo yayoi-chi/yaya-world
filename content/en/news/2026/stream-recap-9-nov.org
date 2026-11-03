@@ -1,8 +1,32 @@
-#+TITLE: Stream Recap 9 Nov
+#+TITLE: Stream Recap: 9 Nov
 #+DATE: 2026-11-02T10:00:24-08:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+* Art Streams
+We had a lot of fun for &#34;All Meows&#39; Day&#34;. We mostly just worked on somehow creating a talking taco chibi. It was an interesting challenge, but it was also a really fun challenge. I also did the whole chibi in this one stream, which is pawsome!
+* Game Streams
+
+** Game Title 1
+
+#+begin_export html
+
+#+end_export
+** Game Title 2
+
+#+begin_export html
+
+#+end_export
+** Copy and paste the five lines above for more titles
+DON'T forget to delete these two lines!!
+* Next Week
+(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/9Nov.png]]
+| Date | Time | What's streaming | Where its streaming |
+|------+------+------------------+---------------------|
+|      |      |                  |                     |
