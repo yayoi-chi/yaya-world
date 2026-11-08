@@ -13,22 +13,22 @@ We had a lot of fun for "All Meows' Day". We mostly just worked on somehow creat
 It was finally time to return to the wallpaper I started before Spooky Month. We finished all of my shapes and started working on Yayai. This is a fun compilation with myself and her. Not the best framing considering our different heights, but...should still be cute. We shall see. Next week we may just finish, or come close.
 * Game Streams
 
-** Game Title 1
-
+** Final Fantasy VI
+We fought Kefka and we won. Heartless angel is one heck of an attack, but he didn't use it to often and our cures are stronk! Also reraise and arise are good spells! I also had time to play a game I haven't played in a very long time!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3VOlTh70Ns?si=qxi7Rk90R4vyjXC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
-** Game Title 2
-
+** Genshin Impact
+We saved Sumeru, but also destroyed the old world tree. It seems Nahida had planned for this though and, with a little help from Nicole, is going to be just find with a new tree of knowledge. With all that taking care of, it was time to head to Snezhneya!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OndohLpDbmY?si=IttyZgaVEjNnofHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
-** Copy and paste the five lines above for more titles
-DON'T forget to delete these two lines!!
 * Next Week
 (summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/9Nov.png]]
-| Date | Time | What's streaming | Where its streaming |
-|------+------+------------------+---------------------|
-|      |      |                  |                     |
+| Date   | Time             | What's streaming | Where its streaming |
+|--------+------------------+------------------+---------------------|
+| 9 Nov  | 3 PM ET/12 PM PT | Art              | Twitch exclusive    |
+| 10 Nov | 3 PM ET/12 PM PT | Art              | Twitch exclusive    |
+| 14 Nov | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
