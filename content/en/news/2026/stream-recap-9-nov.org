@@ -5,26 +5,24 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: Shorter weeks are here! I will be streaming more around the 3-4 streams per week mark rather than five. This week we had four streams. We had two art streams and two gaming streams. I hope the kittens get used to the new schedule.
 
 * Art Streams
-We had a lot of fun for "All Meows' Day". We mostly just worked on somehow creating a talking taco chibi. It was an interesting challenge, but it was also a really fun challenge. I also did the whole chibi in this one stream, which is pawsome!
-
-It was finally time to return to the wallpaper I started before Spooky Month. We finished all of my shapes and started working on Yayai. This is a fun compilation with myself and her. Not the best framing considering our different heights, but...should still be cute. We shall see. Next week we may just finish, or come close.
+For our first stream, which fell on All Saint's Day (a.k.a. "All Meows' Day"), we spent the entire stream drawing a talking taco chibi. It was a fun and interesting challenge. We also went back to the wallpaper I started before Spooky Month. We might just get close to finishing this next week. I just need to finish Yayai's body first!
 * Game Streams
-
+We beat Final Fantasy VI!! We fought with Kefka and we won. We also managed to save Sumeru, but Irismul was destroyed. Nahida is okay though! We also hath finally made it to Shezhnaya!
 ** Final Fantasy VI
 We fought Kefka and we won. Heartless angel is one heck of an attack, but he didn't use it to often and our cures are stronk! Also reraise and arise are good spells! I also had time to play a game I haven't played in a very long time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3VOlTh70Ns?si=qxi7Rk90R4vyjXC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
-We saved Sumeru, but also destroyed the old world tree. It seems Nahida had planned for this though and, with a little help from Nicole, is going to be just find with a new tree of knowledge. With all that taking care of, it was time to head to Snezhneya!
+We saved Sumeru, but also destroyed the old world tree. It seems Nahida had planned for this though and, with a little help from Nicole, is going to be just find with a new tree of knowledge. With all that taking care of, it was time to head to Snezhnaya!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OndohLpDbmY?si=IttyZgaVEjNnofHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
+Next week there will only be three streams. Two of them will be art streams and the last will be a VN Nite! That's right, we got a VN Nite next week!! I will probably do three streams per week for a bit, I hope that's okay. Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/9Nov.png]]
 | Date   | Time             | What's streaming | Where its streaming |
