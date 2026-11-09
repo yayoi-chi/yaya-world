@@ -27,6 +27,6 @@ Tatlo na lang ang stream natin sa susunod na linggo. Dalawa na art stream at una
 [[/~yayoi/images/schedules/2026/9Nov.png]]
 | Araw   | Oras             | Ano              | Saan                |
 |--------+------------------+------------------+---------------------|
-| 9 Nov  | 3 PM ET/12 PM PT | Art              | Twitch exclusive    |
-| 10 Nov | 3 PM ET/12 PM PT | Art              | Twitch exclusive    |
+| 9 Nov  | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo   |
+| 10 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo   |
 | 14 Nov | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
