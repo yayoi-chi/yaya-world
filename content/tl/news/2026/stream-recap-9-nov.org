@@ -1,0 +1,32 @@
+#+TITLE: Stream Recap: 9 Nov
+#+DATE: 2026-11-02T10:00:33-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Maikling ang linggo na ito. Apat na stream na lang, pero mas mahaba pa rin ang linggong ito kaysa sa karaniwan. 'di mag-i-stream ako limang araw kada linggo para sa susunod na ilang linggo. Gayunpaman, nag-play ako ng dalwang video game at nag-stream ako ng dalwang art streams. Mag-i-stream ako ng mas maraming art streams. Artista ako!
+
+* Art Streams
+Artista ako! Mag-i-stream ako ng mas maraming art streams! Nag-stream ako dalwang ng art stream para sa itong linggo. Nag-draw ako ng pagsalitang taco para sa buong na unang stream. Masaya at kawili-wiling na ito. Ipinagpatuloy ko ang ating wallpaper para sa pangalwang stream. Baka malapit na natin itong matapos sa susunod na linggo!
+* Game Streams
+Tapas na ang Final Fantasy VI!! Naglabanan tayo ng Kefka at nanalo tayo! Nag-save rin tayo Sumeru sa Genshin Impact, pero sinunog ang Irminsul. Gayunpaman okay si Nahida! At sa wakas nakarating na rin tayo sa Snezhnaya.
+** Final Fantasy VI
+We fought Kefka and we won. Heartless angel is one heck of an attack, but he didn't use it to often and our cures are stronk! Also reraise and arise are good spells! I also had time to play a game I haven't played in a very long time!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3VOlTh70Ns?si=qxi7Rk90R4vyjXC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+** Genshin Impact
+We saved Sumeru, but also destroyed the old world tree. It seems Nahida had planned for this though and, with a little help from Nicole, is going to be just find with a new tree of knowledge. With all that taking care of, it was time to head to Snezhneya!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OndohLpDbmY?si=IttyZgaVEjNnofHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Tatlo na lang ang stream natin sa susunod na linggo. Dalawa na art stream at una na game stream, pero magkakaroon tayo ng VN Nite! Okay ba? Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/9Nov.png]]
+| Araw   | Oras             | Ano              | Saan                |
+|--------+------------------+------------------+---------------------|
+| 9 Nov  | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo   |
+| 10 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo   |
+| 14 Nov | 10 PM ET/7 PM PT | Danganronpa 2    | Twitch and YouTube  |
