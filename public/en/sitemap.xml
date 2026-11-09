@@ -72,7 +72,7 @@
     <lastmod>2023-08-31T15:20:40-07:00</lastmod>
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -90,7 +90,7 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
@@ -103,7 +103,7 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/news/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
@@ -116,7 +116,7 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/recap/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
@@ -129,7 +129,7 @@
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/stream/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
@@ -141,21 +141,21 @@
                 href="https://onigirionegai.info/~yayoi/tags/stream/"
                 />
   </url><url>
-    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-2-nov/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-9-nov/</loc>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
-                href="https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-2-nov/"
+                href="https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-9-nov/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://onigirionegai.info/~yayoi/news/2026/stream-recap-2-nov/"
+                href="https://onigirionegai.info/~yayoi/news/2026/stream-recap-9-nov/"
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/tags/</loc>
-    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <lastmod>2026-11-02T10:00:24-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -170,6 +170,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://onigirionegai.info/~yayoi/tags/"
+                />
+  </url><url>
+    <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-2-nov/</loc>
+    <lastmod>2026-10-31T16:16:29-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://onigirionegai.info/~yayoi/tl/news/2026/stream-recap-2-nov/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://onigirionegai.info/~yayoi/news/2026/stream-recap-2-nov/"
                 />
   </url><url>
     <loc>https://onigirionegai.info/~yayoi/news/2026/stream-recap-26-oct/</loc>
