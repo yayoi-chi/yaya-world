@@ -12,14 +12,16 @@ We kept working on the wallpaper! I finished Yayai's basic shapes and even manag
 
 Yayai hath come together! I was hoping to finish this by today, but I underestimated how much work Yayai would be. She's finished though and I just need to finish myself and come up with a background. We should get this done very soon! Long project is long though.
 * Game Stream
-
+We finished figuring out the secret of the funhouse. That actually made discovering the murder weapon much easier. It wasn't the pillar or the hammer! We also have mapped out a bit of how it happened, but we still don't know who. Hopefully we will learn more next time!
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijoYQGUf2RM?si=DDvsFPuXtPG9PUey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 (summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/16Nov.png]]
-| Date | Time | What's streaming | Where its streaming |
-|------+------+------------------+---------------------|
-|      |      |                  |                     |
+| Date   | Time             | What's streaming | Where its streaming |
+|--------+------------------+------------------+---------------------|
+| 16 Nov | 3 PM ET/12 PM PT | Art              | Twitch exclusive!   |
+| 17 Nov | 3 PM ET/12 PM PT | Art              | Twitch exclusive!   |
+| 21 Nov | 3 PM ET/12 PM PT | Genshin Impact   | Twitch and YouTube  |
