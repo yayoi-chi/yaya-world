@@ -1,0 +1,25 @@
+#+TITLE: Stream Recap: 16 Nov
+#+DATE: 2026-11-09T09:38:28-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Medyo matagal ang paggawa ng wallpaper na ito kaysa sa inaasahan ko noong una. Sasabihin kong hindi ito kasing simple ng mga naunang wallpaper. Alam rin na natin ngayon and secret sa itong Funhouse. Kaya, madali naming natutunan ang murder weapon sa Danganronpa 2.
+
+* Art Streams
+Medyo matagal ang paggawa ng wallpaper na ito kaysa sa inaasahan ko noong una. Sasabihin kong hindi ito kasing simple ng mga naunang wallpaper. Dalawang karakter na may buong katawan sa isang pose na hindi ko madalas gawin. Pero nagkakasundo na ito. Natapos ko na ang Yayai. Tatapusin ko na ba ito sa susunod na linggo. Masisimulan na ba natin ang ating kimono?
+* Game Stream
+Alam na natin ngayon and secret sa itong Funhouse. Kaya, madali naming natutunan ang murder weapon. Hindi ito ang martilyo o ang haligi. Alam natin kung paano nangyari iyon, pero hindi natin alam kung sino ang may gawa nito. Siguro matututunan natin iyon sa susunod.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijoYQGUf2RM?si=DDvsFPuXtPG9PUey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Mas maraming tayo rin ng art streams sa itong linggo. Kaya mas maraming pagkakataon para sa masisimulan na natin and ating kimono. Babalik din tayo sa Snezhneya sa Genshin Impact. Magsisilita ako maikli raw ang itong mga recap. Maaaring babalik ako sa apat na stream kada linggo. 'di ko alam. Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/16Nov.png]]
+| Araw   | Oras             | Ano              | Saan                |
+|--------+------------------+------------------+---------------------|
+| 16 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo!  |
+| 17 Nov | 3 PM ET/12 PM PT | Art              | Twitch eksklusibo!  |
+| 21 Nov | 3 PM ET/12 PM PT | Genshin Impact   | Twitch at YouTube   |
