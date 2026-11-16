@@ -14,7 +14,7 @@
     <managingEditor>yayoi_chi@icloud.com (Shizumi Yayoi)</managingEditor>
     <webMaster>yayoi_chi@icloud.com (Shizumi Yayoi)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 10:00:24 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:38:20 -0800</lastBuildDate>
     
         <atom:link href="https://onigirionegai.info/~yayoi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -731,6 +731,38 @@ I want to do more than just stream games, and for that I need to show off my art
           
             
               <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stream Recap: 16 Nov</title>
+        <link>https://onigirionegai.info/~yayoi/news/2026/stream-recap-16-nov/</link>
+        <pubDate>Mon, 09 Nov 2026 09:38:20 -0800</pubDate>
+        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
+        <atom:modified>Mon, 09 Nov 2026 09:38:20 -0800</atom:modified>
+        <guid>https://onigirionegai.info/~yayoi/news/2026/stream-recap-16-nov/</guid>
+        <description>Our wallpaper took a little longer to make than I initially expected. I will say that it is not as simple as the previous wallpapers. We also now know the secret to the Funhouse in Danganronpa 2. So, we easily learned the murder weapon too.</description>
+        
+        <dc:creator>Shizumi Yayoi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>stream</category>
+            
+          
+            
+              <category>recap</category>
+            
+          
+            
+              <category>news</category>
             
           
         
@@ -3180,38 +3212,6 @@ I want to do more than just stream games, and for that I need to show off my art
         <atom:modified>Sun, 11 May 2025 14:52:13 -0700</atom:modified>
         <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-11-may/</guid>
         <description>Another shorter week, but a lot happened. We found the next treasure in Persona 5 Royal (though our route isn&amp;#39;t secure yet). We got through Labyrinthos in Xenosaga Episode II. We even managed not only a few main story quests in Wuthering Waves, but also a couple event quests! Busy busy week!</description>
-        
-        <dc:creator>Shizumi Yayoi</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>stream</category>
-            
-          
-            
-              <category>recap</category>
-            
-          
-            
-              <category>news</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Stream Recap: 4 May</title>
-        <link>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</link>
-        <pubDate>Sun, 04 May 2025 07:37:01 -0700</pubDate>
-        <author>yayoi_chi@icloud.com (Shizumi Yayoi)</author>
-        <atom:modified>Sun, 04 May 2025 07:37:01 -0700</atom:modified>
-        <guid>https://onigirionegai.info/~yayoi/news/2025/stream-recap-4-may/</guid>
-        <description>A pretty normal week. Hope every kitten is getting used to the new routine. We had a great art stream working on new panels for page six of my comic. We also found a new target in Persona 5 Royal and made it to Laborythos in Xenosaga Episode II. My favorite though was probably our Genshin stream where I got to trail Nahida.</description>
         
         <dc:creator>Shizumi Yayoi</dc:creator>
         
