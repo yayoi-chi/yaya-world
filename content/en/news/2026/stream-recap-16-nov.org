@@ -5,19 +5,17 @@
 #+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
-#+SUMMARY:
+#+SUMMARY: Our wallpaper took a little longer to make than I initially expected. I will say that it is not as simple as the previous wallpapers. We also now know the secret to the Funhouse ind Danganronpa 2. So, we easily learned the murder weapon too.
 
 * Art Streams
-We kept working on the wallpaper! I finished Yayai's basic shapes and even managed to put together outfits for both of us. We're very close to finishing!
-
-Yayai hath come together! I was hoping to finish this by today, but I underestimated how much work Yayai would be. She's finished though and I just need to finish myself and come up with a background. We should get this done very soon! Long project is long though.
+I think this wallpaper project is taking quite a bit longer than I expected originally. I will say it's not as simple as the previous wallpapers. Two full-body characters in a pose that I don't often do. It is coming together though. I hath finished Yayai. I just need to finish myself now. Will I finish this next week so I can start on my kimono?
 * Game Stream
 We finished figuring out the secret of the funhouse. That actually made discovering the murder weapon much easier. It wasn't the pillar or the hammer! We also have mapped out a bit of how it happened, but we still don't know who. Hopefully we will learn more next time!
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijoYQGUf2RM?si=DDvsFPuXtPG9PUey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+Just another chill week. Going to do more art streams still so we have more chances of getting the kimono started. I will also be returning to Snezhneya in Genshin. I will say these recaps seem kind of short when I'm only streaming three times a week. I am also kind of missing my kittens. Maybe I'll try a stream week again soon! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/16Nov.png]]
 | Date   | Time             | What's streaming | Where its streaming |
