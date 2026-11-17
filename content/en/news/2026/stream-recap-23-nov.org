@@ -1,8 +1,23 @@
-#+TITLE: Stream Recap 23 Nov
+#+TITLE: Stream Recap: 23 Nov
 #+DATE: 2026-11-16T10:34:08-08:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+* Art Streams
+We did it! We finished this wallpaper. It's not perfect, but I think is still very cute. I am really happy how Yayai turned out. I don't know why, but I always seem to make her so shtinkin cute. I wish I was able to do that with myself more often too though...
+* Game Streams
+
+#+begin_export html
+
+#+end_export
+* Next Week
+(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/23Nov.png]]
+| Date | Time | What's streaming | Where its streaming |
+|------+------+------------------+---------------------|
+|      |      |                  |                     |
