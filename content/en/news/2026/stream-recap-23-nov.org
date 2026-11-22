@@ -12,14 +12,17 @@ We did it! We finished this wallpaper. It's not perfect, but I think is still ve
 
 New day, new art project. Honestly I wish I could do one art project a day, but I think those would be some pretty long streams sometimes. Still we moved on to our kimono. I may have spent a little too long on all the details for my feet and sandals cuz the feet are too cute. I got most of the robes done too though. That makes it okay, no?
 * Game Streams
-
+Paimon hath seen a doctor and seems she just needs some rest. We also met with Sandrone again, who was not too pleased that we took her message to heart and didn't want to bother her. Well, she seems as friendly as ever, so I think that's okay. Also, Odette is suuper purty, but Vodyenista is sooo kyuuute~
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qBnI8RS_nz0?si=JNXtn4MYmM2Y4prU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
 (summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/23Nov.png]]
-| Date | Time | What's streaming | Where its streaming |
-|------+------+------------------+---------------------|
-|      |      |                  |                     |
+| Date   | Time             | What's streaming             | Where its streaming |
+|--------+------------------+------------------------------+---------------------|
+| 23 Nov | 3 PM ET/12 PM PT | Art                          | Twitch exclusive!   |
+| 24 Nov | 3 PM ET/12 PM PT | Tales of...(Kittens' Choice) | Twitch and YouTube  |
+| 28 Nov | 3 PM ET/12 PM PT | Genshin Impact               | Twitch and YouTube  |
+|        | 10 PM ET/7 PM PT | Danganronpa 2                | Twitch and YouTube  |
