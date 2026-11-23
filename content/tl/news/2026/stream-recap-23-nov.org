@@ -1,0 +1,26 @@
+#+TITLE: Stream Recap: 23 Nov
+#+DATE: 2026-11-16T10:34:18-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: stream recap news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY: Nagawa natin! Tapos na ang nating wallpaper. 'di perpekto siya, pero cute naman. Nag-start tayo ang bagnong projekt, ang aking New Years' kimono niya. Nag-play rin tayo Genshin Impact. Nakilala tayo ang Odette at Vodyenista. Magandang maganda na Odette, pero cute na cute na Vodyenista!!
+
+* Art Streams
+Nagawa natin! Tapos na ang nating wallpaper. 'di perpekto siya, pero cute naman. Natutuwa talaga ako sa kinalabasan ni Yayai. Lagi ko naman siyang pinaka-cute. Masaya ako Nag-start tayo ng bagnong projekt, ang aking New Years' kimono niya. Siguro nga masyado akong natagal sa pagtitig sa mga paa niya, pero cute na cute nila. Tapus nang tayo ng mga roba. Kaya okay nalang, 'di?
+* Game Streams
+Nagpatingin na si Paimon sa isang doktor. Kailangan lang niya ng pahinga. Nakausap din namin si Sandrone. Mukhang "friendly" pa rin siya gaya ng dati. Pati, Magandang maganda na Odette, pero cute na cute na Vodyenista!!
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qBnI8RS_nz0?si=JNXtn4MYmM2Y4prU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+* Next Week
+Gusto ko sanang mag-es-stream apat na araw sa itong linngo, pero may Thanksgiving din tayo ngayong linggo. Mayroon pa rin apat na stream tayo. Kasi, mag-es-stream ako dalwang na stream sa sabado! Mag-pu-play ako ang isang "Tales of.." na game rin! Manood nang live sa [[https://www.twitch.tv/yayoi_chi][Twitch]] at magsiyasat kayo ang aking arkibos sa [[https://odysee.com/@yayoivt:8][Odysee]].
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/23Nov.png]]
+| Date   | Time             | What's streaming             | Where its streaming |
+|--------+------------------+------------------------------+---------------------|
+| 23 Nov | 3 PM ET/12 PM PT | Art                          | Twitch eksklusibo!  |
+| 24 Nov | 3 PM ET/12 PM PT | Tales of...(Kittens' Choice) | Twitch at YouTube   |
+| 28 Nov | 3 PM ET/12 PM PT | Genshin Impact               | Twitch at YouTube   |
+|        | 10 PM ET/7 PM PT | Danganronpa 2                | Twitch at YouTube   |
