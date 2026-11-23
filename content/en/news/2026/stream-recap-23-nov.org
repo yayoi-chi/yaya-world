@@ -15,7 +15,7 @@ Paimon hath seen a doctor and seems she just needs some rest. We also met with S
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qBnI8RS_nz0?si=JNXtn4MYmM2Y4prU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 * Next Week
-I was going to stream four days this week, but we have Thanksgiving this week. We will still have four streams though. I'll be streaming two streams on Saturday! I'll be playing a "Tales of.." game too! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
+I was going to stream four days this week, but we have Thanksgiving. We will still have four streams though, because I'll be streaming two streams on Saturday! I'll be playing a "Tales of.." game too! Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]]
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/23Nov.png]]
 | Date   | Time             | What's streaming             | Where its streaming |
