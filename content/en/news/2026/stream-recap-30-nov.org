@@ -1,8 +1,36 @@
-#+TITLE: Stream Recap 30 Nov
+#+TITLE: Stream Recap: 30 Nov
 #+DATE: 2026-11-23T10:25:48-08:00
 #+DRAFT: false
 #+DESCRIPTION:
-#+TAGS[]:
+#+TAGS[]: stream recap news
 #+KEYWORDS[]:
 #+SLUG:
 #+SUMMARY:
+
+* Art Streams
+We finished the kimono! I am seriously thinking the kimono is my second favorite outfit now. I'll see for sure wants I see it move. I don't think anything will dethrone my Power Up! though! Anyway, that was so quick. Maybe I'll have time for my Christmas dress too!
+* Game Streams
+
+** Tales of Phantasia
+
+#+begin_export html
+
+#+end_export
+** Genshin Impact
+
+#+begin_export html
+
+#+end_export
+** Danganronpa 2
+
+#+begin_export html
+
+#+end_export
+* Next Week
+(summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
+#+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
+[[/~yayoi/images/schedules/2026/30Nov.png]]
+| Date | Time | What's streaming | Where its streaming |
+|------+------+------------------+---------------------|
+|      |      |                  |                     |
+
