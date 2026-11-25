@@ -12,9 +12,9 @@ We finished the kimono! I am seriously thinking the kimono is my second favorite
 * Game Streams
 
 ** Tales of Phantasia
-
+So, we went out for a hunt and when we came back everything was torched. We then ended up in prison, met a girl, escaped and somehow ended up 100 years back in time. Sounds like pretty typical day for a JRPG protag, no?
 #+begin_export html
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m8P_M39DNMU?si=hnZmbEIZLIn5DKjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 ** Genshin Impact
 
