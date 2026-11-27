@@ -30,7 +30,10 @@ So, we went out for a hunt and when we came back everything was torched. We then
 (summary here). Watch all live streams on [[https://www.twitch.tv/yayoi_chi][Twitch]] and check out the archives on [[https://odysee.com/@yayoivt:8][Odysee]] within 72 hours
 #+attr_html: :align center :width 100% :title Next week's Schedule :alt Next week's schedule (see the table below)!
 [[/~yayoi/images/schedules/2026/30Nov.png]]
-| Date | Time | What's streaming | Where its streaming |
-|------+------+------------------+---------------------|
-|      |      |                  |                     |
+| Date   | Time             | What's streaming   | Where its streaming |
+|--------+------------------+--------------------+---------------------|
+| 30 Nov | 3 PM ET/12 PM PT | Art                | Twitch exclusive!   |
+| 1 Dec  | 3 PM ET/12 PM PT | Art                | Twitch exclusive!   |
+| 3 Dec  | 3 PM ET/12 PM PT | Tales of Phantasia | Twitch and YouTube  |
+| 5 Dec  | 3 PM ET/12 PM PT | Genshin Impact     | Twitch and YouTube  |
 
